@@ -1,0 +1,27 @@
+\usepackage{newunicodechar}
+\usepackage{xeCJK}
+\setCJKmainfont{Noto Serif CJK SC}
+\newunicodechar{→}{{\CJKfontspec{Noto Serif CJK SC}→}}
+\newunicodechar{✓}{{\CJKfontspec{Noto Serif CJK SC}✓}}
+
+% Buddhist text styling
+\usepackage{titlesec}
+\titleformat{\section}{\Large\bfseries\centering}{}{0em}{}
+\titleformat{\subsection}{\large\bfseries\centering}{}{0em}{}
+
+% Verse indentation
+\usepackage{verse}
+
+% Widow and orphan control
+\widowpenalty=10000
+\clubpenalty=10000
+\brokenpenalty=10000
+
+% Keep headings with following text (prevent heading at bottom of page with no content)
+\titlespacing*{\section}{0pt}{2\baselineskip}{0.5\baselineskip}
+\titlespacing*{\subsection}{0pt}{1.5\baselineskip}{0.5\baselineskip}
+
+% Discourage page breaks within tables
+\usepackage{longtable}
+\setlength{\LTpre}{0.5\baselineskip}
+\setlength{\LTpost}{0.5\baselineskip}

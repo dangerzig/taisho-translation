@@ -1,0 +1,13 @@
+t_number,title_en,genre,tier,juan,chinese_chars,translation_time,chars_per_hour,difficulty,notes
+T0265,Saddharma-puṇḍarīka Excerpt,Mahayana sutra,1,1,1464,1:10,75286,1,Very short; baseline timing; straightforward narrative
+T0002,Seven Buddhas Sutra,Agama,1,1,4717,2:57,95944,2,Formulaic Agama with repetitive past-buddha narratives
+T1628,Nyāyadvāra,Logic treatise,1,1,6488,3:33,109644,4,Highly technical Indian logic; dense terminology
+T1505,Commentary on the Four Āgamas Digest,Abhidharma,1,2,19417,4:59,233779,3,Scholastic commentary; doctrinal categories
+T0152,Collection of the Six Perfections,Jataka/narrative,2,8,66821,8:59,446236,2,Narrative jatakas; straightforward storytelling
+T0222,Brilliance Praise Prajñāpāramitā,Prajnaparamita,2,10,99584,7:39,780855,2,Highly repetitive sutra formulae; fast throughput
+T0887,Supreme Yoga Great Teaching King Sūtra,Esoteric/tantric,2,6,25417,5:40,269126,3,Tantric ritual; dhāraṇī and mantra passages
+T1507,Treatise on Discrimination of Merits,Abhidharma commentary,2,5,32041,4:24,436886,2,Commentary on Agama material; moderate difficulty
+T1566,Prajñāpradīpa,Madhyamaka,2,15,110962,17:19,384453,5,Dense Madhyamaka philosophy; formal debates; highest difficulty
+T0099,Saṃyuktāgama,Agama,3,50,469479,15:09*,1859236*,2,Highly repetitive formulaic sūtras; *parallel execution
+T1421,Five-Part Vinaya,Vinaya,3,30,269804,15:09*,1068542*,3,Monastic code with origin stories; *parallel execution
+T1602,Compendium of Sacred Teachings,Yogacara,3,20,137675,15:09*,545297*,4,Dense Yogācāra philosophy; *parallel execution

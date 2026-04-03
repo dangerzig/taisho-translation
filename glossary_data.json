@@ -1,0 +1,7187 @@
+[
+  {
+    "english": "Ajātaśatru",
+    "chinese": "阿闍世",
+    "sanskrit": "Ajātaśatru",
+    "category": "person",
+    "sources": [
+      "T0006",
+      "T0022",
+      "T0265"
+    ]
+  },
+  {
+    "english": "Ambapālī",
+    "chinese": "菴婆女",
+    "sanskrit": "Āmrapālī",
+    "category": "person",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Amoghadarśin",
+    "chinese": "不空見",
+    "sanskrit": "Amoghadarśin",
+    "category": "person",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "Anāthapiṇḍada",
+    "chinese": "給孤獨",
+    "sanskrit": "Anāthapiṇḍada",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0006",
+      "T0021",
+      "T0027",
+      "T0028",
+      "T0029",
+      "T0036",
+      "T0037",
+      "T0042",
+      "T0043",
+      "T0048",
+      "T0053",
+      "T0056",
+      "T0059",
+      "T0062",
+      "T0065",
+      "T0071",
+      "T0072",
+      "T0073",
+      "T0074",
+      "T0077",
+      "T0099",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Anīkṣipta",
+    "chinese": "阿泥翅",
+    "sanskrit": "Anīkṣipta",
+    "category": "person",
+    "sources": [
+      "T0152"
+    ]
+  },
+  {
+    "english": "Aruṇa",
+    "chinese": "阿樓那",
+    "sanskrit": "Aruṇa",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0004"
+    ]
+  },
+  {
+    "english": "Asaṅga",
+    "chinese": "無著",
+    "sanskrit": "Asaṅga",
+    "category": "person",
+    "sources": [
+      "T1602"
+    ]
+  },
+  {
+    "english": "Avalokiteśvara",
+    "chinese": "觀自在",
+    "sanskrit": "Avalokiteśvara",
+    "category": "person",
+    "sources": [
+      "T0222",
+      "T0887"
+    ]
+  },
+  {
+    "english": "Bandhumatī",
+    "chinese": "般頭摩底",
+    "sanskrit": "Bandhumatī",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004"
+    ]
+  },
+  {
+    "english": "Bandhumā",
+    "chinese": "般頭摩",
+    "sanskrit": "Bandhumat",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004"
+    ]
+  },
+  {
+    "english": "Bhadrapāla",
+    "chinese": "跋陀和",
+    "sanskrit": "Bhadrapāla",
+    "category": "person",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "Bhāviveka",
+    "chinese": "清辯",
+    "sanskrit": "Bhāviveka",
+    "category": "person",
+    "sources": [
+      "T1566"
+    ]
+  },
+  {
+    "english": "Bimbisāra",
+    "chinese": "頻婆娑羅",
+    "sanskrit": "Bimbisāra",
+    "category": "person",
+    "sources": [
+      "T0009",
+      "T0041",
+      "T0054",
+      "T0055"
+    ]
+  },
+  {
+    "english": "Brahmā",
+    "chinese": "梵天",
+    "sanskrit": "Brahmā",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0014",
+      "T0015",
+      "T0019",
+      "T0020",
+      "T0021",
+      "T0030",
+      "T0034",
+      "T0035",
+      "T0044",
+      "T0053",
+      "T0056",
+      "T0058",
+      "T0060",
+      "T0066",
+      "T0067",
+      "T0069",
+      "T0071",
+      "T0075",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0265",
+      "T0887",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "Buddha",
+    "chinese": "佛",
+    "sanskrit": "Buddha",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0012",
+      "T0014",
+      "T0015",
+      "T0016",
+      "T0017",
+      "T0018",
+      "T0019",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0027",
+      "T0028",
+      "T0029",
+      "T0030",
+      "T0031",
+      "T0032",
+      "T0033",
+      "T0034",
+      "T0035",
+      "T0036",
+      "T0037",
+      "T0038",
+      "T0039",
+      "T0040",
+      "T0041",
+      "T0042",
+      "T0043",
+      "T0044",
+      "T0046",
+      "T0047",
+      "T0048",
+      "T0049",
+      "T0050",
+      "T0051",
+      "T0052",
+      "T0053",
+      "T0054",
+      "T0056",
+      "T0057",
+      "T0058",
+      "T0059",
+      "T0060",
+      "T0061",
+      "T0062",
+      "T0063",
+      "T0064",
+      "T0065",
+      "T0066",
+      "T0067",
+      "T0068",
+      "T0069",
+      "T0070",
+      "T0071",
+      "T0072",
+      "T0073",
+      "T0074",
+      "T0075",
+      "T0076",
+      "T0077",
+      "T0078",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "Buddhajiva",
+    "chinese": "佛陀什",
+    "sanskrit": "Buddhajīva",
+    "category": "person",
+    "sources": [
+      "T1421"
+    ]
+  },
+  {
+    "english": "Dharmarakṣa",
+    "chinese": "竺法護",
+    "sanskrit": "Dharmarakṣa",
+    "category": "person",
+    "sources": [
+      "T0050",
+      "T0061",
+      "T0077",
+      "T0222"
+    ]
+  },
+  {
+    "english": "Dhṛtarāṣṭra",
+    "chinese": "持國天王",
+    "sanskrit": "Dhṛtarāṣṭra",
+    "category": "person",
+    "sources": [
+      "T0009",
+      "T0019"
+    ]
+  },
+  {
+    "english": "Fātian",
+    "chinese": "法天",
+    "sanskrit": "",
+    "category": "person",
+    "sources": [
+      "T0002"
+    ]
+  },
+  {
+    "english": "Gautama",
+    "chinese": "瞿曇",
+    "sanskrit": "Gautama",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0004",
+      "T0006",
+      "T0011",
+      "T0021",
+      "T0044",
+      "T0051",
+      "T0053",
+      "T0054",
+      "T0061",
+      "T0069",
+      "T0070",
+      "T0075",
+      "T0076",
+      "T0099",
+      "T1421",
+      "T1566"
+    ]
+  },
+  {
+    "english": "Guṇabhadra",
+    "chinese": "求那跋陀羅",
+    "sanskrit": "Guṇabhadra",
+    "category": "person",
+    "sources": [
+      "T0099"
+    ]
+  },
+  {
+    "english": "Kanakamuni",
+    "chinese": "拘那含牟尼",
+    "sanskrit": "Kanakamuni",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T1421"
+    ]
+  },
+  {
+    "english": "Kang Senghui",
+    "chinese": "康僧會",
+    "sanskrit": "",
+    "category": "person",
+    "sources": [
+      "T0152"
+    ]
+  },
+  {
+    "english": "Kauśika",
+    "chinese": "憍尸迦",
+    "sanskrit": "Kauśika",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0008",
+      "T0066",
+      "T0074"
+    ]
+  },
+  {
+    "english": "Kauṇḍinya",
+    "chinese": "憍陳如",
+    "sanskrit": "Kauṇḍinya",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T0099",
+      "T0152",
+      "T0222"
+    ]
+  },
+  {
+    "english": "King Bimbisāra",
+    "chinese": "頻婆娑羅王",
+    "sanskrit": "Bimbisāra",
+    "category": "person",
+    "sources": [
+      "T0009",
+      "T0041",
+      "T0054",
+      "T0055"
+    ]
+  },
+  {
+    "english": "Krakucchanda",
+    "chinese": "拘留孫",
+    "sanskrit": "Krakucchanda",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T0021",
+      "T0066",
+      "T0067",
+      "T1421"
+    ]
+  },
+  {
+    "english": "Kumārajīva",
+    "chinese": "鳩摩羅什",
+    "sanskrit": "Kumārajīva",
+    "category": "person",
+    "sources": [
+      "T0035",
+      "T1566"
+    ]
+  },
+  {
+    "english": "Kāśyapa",
+    "chinese": "迦葉",
+    "sanskrit": "Kāśyapa",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0020",
+      "T0021",
+      "T0041",
+      "T0152",
+      "T1507",
+      "T1566"
+    ]
+  },
+  {
+    "english": "Kāśyapa Buddha",
+    "chinese": "迦葉佛",
+    "sanskrit": "Kāśyapa",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0004",
+      "T0021",
+      "T0152",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Kṛkī",
+    "chinese": "汲毘",
+    "sanskrit": "Kṛkī",
+    "category": "person",
+    "sources": [
+      "T0002"
+    ]
+  },
+  {
+    "english": "Mahādṛḍha",
+    "chinese": "大堅固",
+    "sanskrit": "Mahādṛḍha",
+    "category": "person",
+    "sources": [
+      "T0008"
+    ]
+  },
+  {
+    "english": "Mahāmaudgalyāyana",
+    "chinese": "大目犍連",
+    "sanskrit": "Mahāmaudgalyāyana",
+    "category": "person",
+    "sources": [
+      "T0004",
+      "T0033",
+      "T0034",
+      "T0047",
+      "T0049",
+      "T0050",
+      "T0062",
+      "T0064",
+      "T0066",
+      "T0067",
+      "T0099",
+      "T0222"
+    ]
+  },
+  {
+    "english": "Mahāmāyā",
+    "chinese": "摩耶夫人",
+    "sanskrit": "Mahāmāyā",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0004"
+    ]
+  },
+  {
+    "english": "Mahāsubhūti",
+    "chinese": "大須菩提",
+    "sanskrit": "Mahāsubhūti",
+    "category": "person",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "Mahāvairocana",
+    "chinese": "大毘盧遮那",
+    "sanskrit": "Mahāvairocana",
+    "category": "person",
+    "sources": [
+      "T0887"
+    ]
+  },
+  {
+    "english": "Maitreya",
+    "chinese": "彌勒",
+    "sanskrit": "Maitreya",
+    "category": "person",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0044",
+      "T0078",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T1507",
+      "T1566"
+    ]
+  },
+  {
+    "english": "Maudgalyāyana",
+    "chinese": "目犍連",
+    "sanskrit": "Maudgalyāyana",
+    "category": "person",
+    "sources": [
+      "T0034",
+      "T0035",
+      "T0047",
+      "T0049",
+      "T0050",
+      "T0062",
+      "T0064",
+      "T0066",
+      "T0067",
+      "T0099",
+      "T0152",
+      "T1421",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Mañjuśrī",
+    "chinese": "文殊師利",
+    "sanskrit": "Mañjuśrī",
+    "category": "person",
+    "sources": [
+      "T0152",
+      "T0222",
+      "T0265",
+      "T1566"
+    ]
+  },
+  {
+    "english": "Māra",
+    "chinese": "魔",
+    "sanskrit": "Māra",
+    "category": "person",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0011",
+      "T0015",
+      "T0020",
+      "T0035",
+      "T0044",
+      "T0053",
+      "T0058",
+      "T0060",
+      "T0061",
+      "T0062",
+      "T0066",
+      "T0067",
+      "T0069",
+      "T0075",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0887",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "Māra Pāpīyas",
+    "chinese": "魔波旬",
+    "sanskrit": "Māra Pāpīyas",
+    "category": "person",
+    "sources": [
+      "T0006",
+      "T0044",
+      "T0066",
+      "T0067",
+      "T1421"
+    ]
+  },
+  {
+    "english": "Māravimardaka",
+    "chinese": "摧魔",
+    "sanskrit": "Māravimardaka",
+    "category": "person",
+    "sources": [
+      "T0887"
+    ]
+  },
+  {
+    "english": "Nandika",
+    "chinese": "難提迦",
+    "sanskrit": "Nandika",
+    "category": "person",
+    "sources": [
+      "T0006",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Nigrodha",
+    "chinese": "尼拘陀",
+    "sanskrit": "Nigrodha",
+    "category": "person",
+    "sources": [
+      "T0011"
+    ]
+  },
+  {
+    "english": "Nāgārjuna",
+    "chinese": "龍樹",
+    "sanskrit": "Nāgārjuna",
+    "category": "person",
+    "sources": [
+      "T1566"
+    ]
+  },
+  {
+    "english": "Nārada",
+    "chinese": "那羅陀",
+    "sanskrit": "Nārada",
+    "category": "person",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "Piṇḍola-bhāradvāja",
+    "chinese": "賓頭盧跋羅墮闍",
+    "sanskrit": "Piṇḍola Bhāradvāja",
+    "category": "person",
+    "sources": [
+      "T1566"
+    ]
+  },
+  {
+    "english": "Prabhākaramitra",
+    "chinese": "波羅頗蜜多羅",
+    "sanskrit": "Prabhākaramitra",
+    "category": "person",
+    "sources": [
+      "T1566"
+    ]
+  },
+  {
+    "english": "Prabhāvatī",
+    "chinese": "光明",
+    "sanskrit": "Prabhāvatī",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0004"
+    ]
+  },
+  {
+    "english": "Prasenajit",
+    "chinese": "波斯匿王",
+    "sanskrit": "Prasenajit",
+    "category": "person",
+    "sources": [
+      "T1421",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Ratnākara",
+    "chinese": "寶積",
+    "sanskrit": "Ratnākara",
+    "category": "person",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "Reṇu",
+    "chinese": "大典尊",
+    "sanskrit": "Reṇu",
+    "category": "person",
+    "sources": [
+      "T0008"
+    ]
+  },
+  {
+    "english": "Rāhula",
+    "chinese": "羅睺羅",
+    "sanskrit": "Rāhula",
+    "category": "person",
+    "sources": [
+      "T0004",
+      "T0099",
+      "T0152",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Samantabhadra",
+    "chinese": "普賢",
+    "sanskrit": "Samantabhadra",
+    "category": "person",
+    "sources": [
+      "T0265",
+      "T0887"
+    ]
+  },
+  {
+    "english": "Sarvadatta",
+    "chinese": "薩婆達",
+    "sanskrit": "Sarvadatta",
+    "category": "person",
+    "sources": [
+      "T0152"
+    ]
+  },
+  {
+    "english": "Saṃghabhūti",
+    "chinese": "僧伽跋澄",
+    "sanskrit": "Saṃghabhūti",
+    "category": "person",
+    "sources": [
+      "T1505"
+    ]
+  },
+  {
+    "english": "Subhūti",
+    "chinese": "須菩提",
+    "sanskrit": "Subhūti",
+    "category": "person",
+    "sources": [
+      "T0222",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Sudinna",
+    "chinese": "須提那",
+    "sanskrit": "Sudinna",
+    "category": "person",
+    "sources": [
+      "T0152",
+      "T1421"
+    ]
+  },
+  {
+    "english": "Sudāna",
+    "chinese": "須達拏",
+    "sanskrit": "Sudāna",
+    "category": "person",
+    "sources": [
+      "T0152"
+    ]
+  },
+  {
+    "english": "Supratīta",
+    "chinese": "善淨",
+    "sanskrit": "Supratīta",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0004"
+    ]
+  },
+  {
+    "english": "Sūryaprabha",
+    "chinese": "日光",
+    "sanskrit": "Sūryaprabha",
+    "category": "person",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "Uttarā",
+    "chinese": "優多羅",
+    "sanskrit": "Uttarā",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0004"
+    ]
+  },
+  {
+    "english": "Vaiśravaṇa",
+    "chinese": "毘沙門",
+    "sanskrit": "Vaiśravaṇa",
+    "category": "person",
+    "sources": [
+      "T0003",
+      "T0009",
+      "T0015"
+    ]
+  },
+  {
+    "english": "Vajramuṣṭi",
+    "chinese": "金剛拳",
+    "sanskrit": "Vajramuṣṭi",
+    "category": "person",
+    "sources": [
+      "T0887"
+    ]
+  },
+  {
+    "english": "Vajrapāṇi",
+    "chinese": "金剛手",
+    "sanskrit": "Vajrapāṇi",
+    "category": "person",
+    "sources": [
+      "T0019",
+      "T0887"
+    ]
+  },
+  {
+    "english": "Vajrasattva",
+    "chinese": "金剛薩埵",
+    "sanskrit": "Vajrasattva",
+    "category": "person",
+    "sources": [
+      "T0887"
+    ]
+  },
+  {
+    "english": "Varuṇadatta",
+    "chinese": "水天授",
+    "sanskrit": "Varuṇadatta",
+    "category": "person",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "Varṣakāra",
+    "chinese": "禹舍",
+    "sanskrit": "Varṣakāra",
+    "category": "person",
+    "sources": [
+      "T0005",
+      "T0006"
+    ]
+  },
+  {
+    "english": "Vasubhadra",
+    "chinese": "婆素跋陀",
+    "sanskrit": "Vasubhadra",
+    "category": "person",
+    "sources": [
+      "T1505"
+    ]
+  },
+  {
+    "english": "Vipaśyin",
+    "chinese": "毘婆尸",
+    "sanskrit": "Vipaśyin",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T1421",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Virūpākṣa",
+    "chinese": "廣目天王",
+    "sanskrit": "Virūpākṣa",
+    "category": "person",
+    "sources": [
+      "T0009",
+      "T0019"
+    ]
+  },
+  {
+    "english": "Virūḍhaka",
+    "chinese": "增長天王",
+    "sanskrit": "Virūḍhaka",
+    "category": "person",
+    "sources": [
+      "T0009",
+      "T0019",
+      "T0152"
+    ]
+  },
+  {
+    "english": "Viśvabhū",
+    "chinese": "毘舍浮",
+    "sanskrit": "Viśvabhū",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T1421"
+    ]
+  },
+  {
+    "english": "Viśākhā",
+    "chinese": "毘舍佉",
+    "sanskrit": "Viśākhā",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0004"
+    ]
+  },
+  {
+    "english": "Xuanzang",
+    "chinese": "玄奘",
+    "sanskrit": "",
+    "category": "person",
+    "sources": [
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "Ākāśagarbha",
+    "chinese": "虛空藏",
+    "sanskrit": "Ākāśagarbha",
+    "category": "person",
+    "sources": [
+      "T0887"
+    ]
+  },
+  {
+    "english": "Ākāśasaṃbhava",
+    "chinese": "虛空生",
+    "sanskrit": "Ākāśasaṃbhava",
+    "category": "person",
+    "sources": [
+      "T0887"
+    ]
+  },
+  {
+    "english": "Ānanda",
+    "chinese": "阿難",
+    "sanskrit": "Ānanda",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0009",
+      "T0014",
+      "T0033",
+      "T0034",
+      "T0035",
+      "T0039",
+      "T0040",
+      "T0044",
+      "T0052",
+      "T0058",
+      "T0060",
+      "T0061",
+      "T0062",
+      "T0071",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1421",
+      "T1505",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Śakra",
+    "chinese": "帝釋",
+    "sanskrit": "Śakra",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0015",
+      "T0017",
+      "T0019",
+      "T0020",
+      "T0028",
+      "T0034",
+      "T0035",
+      "T0039",
+      "T0040",
+      "T0044",
+      "T0060",
+      "T0066",
+      "T0067",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Śakra Devānām-Indra",
+    "chinese": "帝釋天",
+    "sanskrit": "Śakra Devānām Indra",
+    "category": "person",
+    "sources": [
+      "T0005"
+    ]
+  },
+  {
+    "english": "Śikhin",
+    "chinese": "尸棄",
+    "sanskrit": "Śikhin",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T1421"
+    ]
+  },
+  {
+    "english": "Śuddhodana",
+    "chinese": "淨飯王",
+    "sanskrit": "Śuddhodana",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0004",
+      "T0076",
+      "T0152",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Śākyamuni",
+    "chinese": "釋迦牟尼",
+    "sanskrit": "Śākyamuni",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0004",
+      "T0005",
+      "T0015",
+      "T0018",
+      "T0061",
+      "T0152",
+      "T0222",
+      "T0265"
+    ]
+  },
+  {
+    "english": "Śākyamuni Buddha",
+    "chinese": "釋迦牟尼佛",
+    "sanskrit": "Śākyamuni Buddha",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0004",
+      "T0005",
+      "T0018",
+      "T0222",
+      "T0265"
+    ]
+  },
+  {
+    "english": "Śāriputra",
+    "chinese": "舍利弗",
+    "sanskrit": "Śāriputra",
+    "category": "person",
+    "sources": [
+      "T0002",
+      "T0004",
+      "T0012",
+      "T0018",
+      "T0032",
+      "T0049",
+      "T0061",
+      "T0062",
+      "T0063",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T1421",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Aruṇavatī",
+    "chinese": "阿樓那跋提",
+    "sanskrit": "Aruṇavatī",
+    "category": "place",
+    "sources": [
+      "T0002",
+      "T0004"
+    ]
+  },
+  {
+    "english": "Avanti",
+    "chinese": "阿盤提",
+    "sanskrit": "Avanti",
+    "category": "place",
+    "sources": [
+      "T0008",
+      "T0099"
+    ]
+  },
+  {
+    "english": "Aṅga",
+    "chinese": "鴦伽",
+    "sanskrit": "Aṅga",
+    "category": "place",
+    "sources": [
+      "T0009"
+    ]
+  },
+  {
+    "english": "Bamboo Grove",
+    "chinese": "竹林精舍",
+    "sanskrit": "Veṇuvana",
+    "category": "place",
+    "sources": [
+      "T0011",
+      "T0050",
+      "T0063",
+      "T0077",
+      "T0099"
+    ]
+  },
+  {
+    "english": "Campā",
+    "chinese": "瞻波",
+    "sanskrit": "Campā",
+    "category": "place",
+    "sources": [
+      "T0005",
+      "T0008",
+      "T0034",
+      "T0064"
+    ]
+  },
+  {
+    "english": "Ganges",
+    "chinese": "恒河",
+    "sanskrit": "Gaṅgā",
+    "category": "place",
+    "sources": [
+      "T0061",
+      "T0068",
+      "T0076",
+      "T0099",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1421",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Gṛdhrakūṭa",
+    "chinese": "耆闍崛山",
+    "sanskrit": "Gṛdhrakūṭa",
+    "category": "place",
+    "sources": [
+      "T0008",
+      "T0017",
+      "T0049",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265"
+    ]
+  },
+  {
+    "english": "Hiraṇyavatī",
+    "chinese": "希連禪河",
+    "sanskrit": "Hiraṇyavatī",
+    "category": "place",
+    "sources": [
+      "T0005",
+      "T0006"
+    ]
+  },
+  {
+    "english": "Jambudvīpa",
+    "chinese": "閻浮提",
+    "sanskrit": "Jambudvīpa",
+    "category": "place",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0039",
+      "T0040",
+      "T0044",
+      "T0073",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1505",
+      "T1566"
+    ]
+  },
+  {
+    "english": "Jeta's Grove",
+    "chinese": "祇樹",
+    "sanskrit": "Jetavana",
+    "category": "place",
+    "sources": [
+      "T0062",
+      "T0065",
+      "T0071",
+      "T0072",
+      "T0073",
+      "T0074",
+      "T0077",
+      "T0099"
+    ]
+  },
+  {
+    "english": "Jetavana",
+    "chinese": "祇園",
+    "sanskrit": "Jetavana",
+    "category": "place",
+    "sources": [
+      "T0002",
+      "T0015",
+      "T0028",
+      "T0040",
+      "T0042",
+      "T0048",
+      "T0059",
+      "T0068",
+      "T1421",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Kalandaka Bamboo Grove",
+    "chinese": "迦蘭陀竹園",
+    "sanskrit": "Kalandakanivāpa Veṇuvana",
+    "category": "place",
+    "sources": [
+      "T0011",
+      "T0063",
+      "T0077"
+    ]
+  },
+  {
+    "english": "Kamboja",
+    "chinese": "劍浮沙",
+    "sanskrit": "Kamboja",
+    "category": "place",
+    "sources": [
+      "T0009"
+    ]
+  },
+  {
+    "english": "Kapilavastu",
+    "chinese": "迦毘羅衛",
+    "sanskrit": "Kapilavastu",
+    "category": "place",
+    "sources": [
+      "T0002",
+      "T0004",
+      "T0054",
+      "T0060",
+      "T0077",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Kosala",
+    "chinese": "拘薩羅",
+    "sanskrit": "Kosala",
+    "category": "place",
+    "sources": [
+      "T0009",
+      "T0099"
+    ]
+  },
+  {
+    "english": "Koṭigāma",
+    "chinese": "拘利村",
+    "sanskrit": "Koṭigāma",
+    "category": "place",
+    "sources": [
+      "T0005",
+      "T0006"
+    ]
+  },
+  {
+    "english": "Kuru",
+    "chinese": "拘樓",
+    "sanskrit": "Kuru",
+    "category": "place",
+    "sources": [
+      "T0009",
+      "T0021",
+      "T0031",
+      "T0052",
+      "T0057",
+      "T0068",
+      "T0069",
+      "T0099"
+    ]
+  },
+  {
+    "english": "Kuśinagara",
+    "chinese": "拘尸那",
+    "sanskrit": "Kuśinagara",
+    "category": "place",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0099"
+    ]
+  },
+  {
+    "english": "Kāśī",
+    "chinese": "迦尸",
+    "sanskrit": "Kāśī",
+    "category": "place",
+    "sources": [
+      "T0009"
+    ]
+  },
+  {
+    "english": "Magadha",
+    "chinese": "摩揭陀",
+    "sanskrit": "Magadha",
+    "category": "place",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0015",
+      "T0022",
+      "T0041",
+      "T0047",
+      "T0055",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Mallā",
+    "chinese": "末羅",
+    "sanskrit": "Mallā",
+    "category": "place",
+    "sources": [
+      "T0009"
+    ]
+  },
+  {
+    "english": "Mithilā",
+    "chinese": "彌稀羅",
+    "sanskrit": "Mithilā",
+    "category": "place",
+    "sources": [
+      "T0008",
+      "T0009",
+      "T0076"
+    ]
+  },
+  {
+    "english": "Mount Gṛdhrakūṭa",
+    "chinese": "靈鷲山",
+    "sanskrit": "Gṛdhrakūṭa",
+    "category": "place",
+    "sources": [
+      "T0006",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265"
+    ]
+  },
+  {
+    "english": "Mount Sumeru",
+    "chinese": "須彌山",
+    "sanskrit": "Sumeru",
+    "category": "place",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0020",
+      "T0040",
+      "T0062",
+      "T0066",
+      "T0887",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Nādikā",
+    "chinese": "那提迦",
+    "sanskrit": "Nādikā",
+    "category": "place",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0009"
+    ]
+  },
+  {
+    "english": "Pañcāla",
+    "chinese": "般闍羅",
+    "sanskrit": "Pañcāla",
+    "category": "place",
+    "sources": [
+      "T0009"
+    ]
+  },
+  {
+    "english": "Pāṭaligāma",
+    "chinese": "巴吒釐村",
+    "sanskrit": "Pāṭaligāma",
+    "category": "place",
+    "sources": [
+      "T0005"
+    ]
+  },
+  {
+    "english": "Pāṭaliputra",
+    "chinese": "華氏城",
+    "sanskrit": "Pāṭaliputra",
+    "category": "place",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0099"
+    ]
+  },
+  {
+    "english": "Pāṭalī",
+    "chinese": "波吒釐",
+    "sanskrit": "Pāṭalī",
+    "category": "place",
+    "sources": [
+      "T0004"
+    ]
+  },
+  {
+    "english": "Rājagṛha",
+    "chinese": "王舍城",
+    "sanskrit": "Rājagṛha",
+    "category": "place",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0011",
+      "T0015",
+      "T0016",
+      "T0017",
+      "T0019",
+      "T0022",
+      "T0041",
+      "T0049",
+      "T0050",
+      "T0054",
+      "T0055",
+      "T0063",
+      "T0070",
+      "T0077",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265"
+    ]
+  },
+  {
+    "english": "Sahā",
+    "chinese": "娑婆",
+    "sanskrit": "Sahā",
+    "category": "place",
+    "sources": [
+      "T0009",
+      "T0015",
+      "T0019",
+      "T0222"
+    ]
+  },
+  {
+    "english": "Sahā world",
+    "chinese": "娑婆世界",
+    "sanskrit": "Sahā",
+    "category": "place",
+    "sources": [
+      "T0009",
+      "T0222"
+    ]
+  },
+  {
+    "english": "Sārandada Shrine",
+    "chinese": "沙然陀",
+    "sanskrit": "Sārandada",
+    "category": "place",
+    "sources": [
+      "T0006"
+    ]
+  },
+  {
+    "english": "Uttarakuru",
+    "chinese": "北俱盧洲",
+    "sanskrit": "Uttarakuru",
+    "category": "place",
+    "sources": [
+      "T0039",
+      "T0040",
+      "T0066",
+      "T1421",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "Vaiśālī",
+    "chinese": "毘舍離",
+    "sanskrit": "Vaiśālī",
+    "category": "place",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0030",
+      "T0046",
+      "T1421"
+    ]
+  },
+  {
+    "english": "Videha",
+    "chinese": "毘提訶",
+    "sanskrit": "Videha",
+    "category": "place",
+    "sources": [
+      "T0008",
+      "T0076"
+    ]
+  },
+  {
+    "english": "Vārāṇasī",
+    "chinese": "波羅奈",
+    "sanskrit": "Vārāṇasī",
+    "category": "place",
+    "sources": [
+      "T0002",
+      "T0004",
+      "T0005",
+      "T0008",
+      "T0044",
+      "T0051",
+      "T0152",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Śrāvastī",
+    "chinese": "舍衛",
+    "sanskrit": "Śrāvastī",
+    "category": "place",
+    "sources": [
+      "T0002",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0015",
+      "T0021",
+      "T0022",
+      "T0027",
+      "T0028",
+      "T0029",
+      "T0036",
+      "T0037",
+      "T0038",
+      "T0039",
+      "T0040",
+      "T0042",
+      "T0043",
+      "T0048",
+      "T0053",
+      "T0056",
+      "T0059",
+      "T0061",
+      "T0062",
+      "T0065",
+      "T0068",
+      "T0070",
+      "T0071",
+      "T0072",
+      "T0073",
+      "T0074",
+      "T0077",
+      "T0078",
+      "T0099",
+      "T1507"
+    ]
+  },
+  {
+    "english": "arhat",
+    "chinese": "阿羅漢",
+    "sanskrit": "arhat",
+    "category": "title",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0015",
+      "T0020",
+      "T0030",
+      "T0033",
+      "T0042",
+      "T0046",
+      "T0052",
+      "T0054",
+      "T0062",
+      "T0063",
+      "T0068",
+      "T0073",
+      "T0074",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "arhatship",
+    "chinese": "阿羅漢果",
+    "sanskrit": "arhat",
+    "category": "title",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0020",
+      "T0033",
+      "T0042",
+      "T0062",
+      "T0068",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T1421",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "bhikṣu",
+    "chinese": "比丘",
+    "sanskrit": "bhikṣu",
+    "category": "title",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0011",
+      "T0012",
+      "T0015",
+      "T0018",
+      "T0019",
+      "T0021",
+      "T0022",
+      "T0028",
+      "T0029",
+      "T0030",
+      "T0033",
+      "T0034",
+      "T0035",
+      "T0037",
+      "T0038",
+      "T0041",
+      "T0043",
+      "T0046",
+      "T0048",
+      "T0049",
+      "T0050",
+      "T0052",
+      "T0054",
+      "T0055",
+      "T0056",
+      "T0060",
+      "T0061",
+      "T0062",
+      "T0063",
+      "T0064",
+      "T0066",
+      "T0067",
+      "T0069",
+      "T0070",
+      "T0071",
+      "T0074",
+      "T0076",
+      "T0077",
+      "T0078",
+      "T0099",
+      "T0222",
+      "T0265",
+      "T1421",
+      "T1505",
+      "T1507"
+    ]
+  },
+  {
+    "english": "bhikṣuṇī",
+    "chinese": "比丘尼",
+    "sanskrit": "bhikṣuṇī",
+    "category": "title",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0018",
+      "T0049",
+      "T0060",
+      "T0099",
+      "T0222",
+      "T0265",
+      "T1421"
+    ]
+  },
+  {
+    "english": "Blessed One",
+    "chinese": "世尊",
+    "sanskrit": "Bhagavān",
+    "category": "title",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0012",
+      "T0015",
+      "T0017",
+      "T0018",
+      "T0019",
+      "T0020",
+      "T0022",
+      "T0028",
+      "T0029",
+      "T0030",
+      "T0034",
+      "T0035",
+      "T0041",
+      "T0044",
+      "T0049",
+      "T0051",
+      "T0052",
+      "T0056",
+      "T0058",
+      "T0059",
+      "T0060",
+      "T0061",
+      "T0062",
+      "T0063",
+      "T0064",
+      "T0065",
+      "T0066",
+      "T0067",
+      "T0069",
+      "T0070",
+      "T0073",
+      "T0074",
+      "T0075",
+      "T0076",
+      "T0077",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1566"
+    ]
+  },
+  {
+    "english": "bodhisattva",
+    "chinese": "菩薩",
+    "sanskrit": "bodhisattva",
+    "category": "title",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0006",
+      "T0033",
+      "T0034",
+      "T0054",
+      "T0062",
+      "T0076",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "bodhisattva-mahāsattva",
+    "chinese": "菩薩摩訶薩",
+    "sanskrit": "bodhisattva-mahāsattva",
+    "category": "title",
+    "sources": [
+      "T0222",
+      "T0887"
+    ]
+  },
+  {
+    "english": "cakravartin",
+    "chinese": "轉輪王",
+    "sanskrit": "cakravartin",
+    "category": "title",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0038",
+      "T0040",
+      "T0060",
+      "T0061",
+      "T0063",
+      "T0152",
+      "T0222",
+      "T1421",
+      "T1507"
+    ]
+  },
+  {
+    "english": "dharma king",
+    "chinese": "法王",
+    "sanskrit": "dharmarāja",
+    "category": "title",
+    "sources": [
+      "T0887"
+    ]
+  },
+  {
+    "english": "Great Vajra-Holder",
+    "chinese": "大金剛手",
+    "sanskrit": "Mahāvajradhara",
+    "category": "title",
+    "sources": [
+      "T0887"
+    ]
+  },
+  {
+    "english": "Knower of the World",
+    "chinese": "世間解",
+    "sanskrit": "Lokavid",
+    "category": "title",
+    "sources": [
+      "T0006",
+      "T0020",
+      "T0044",
+      "T0069",
+      "T0073",
+      "T1421"
+    ]
+  },
+  {
+    "english": "Perfectly Enlightened",
+    "chinese": "正等覺",
+    "sanskrit": "Samyaksaṃbuddha",
+    "category": "title",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0006",
+      "T0015",
+      "T0019",
+      "T0020",
+      "T0030",
+      "T0044",
+      "T0066",
+      "T0067",
+      "T0069",
+      "T0073",
+      "T0074",
+      "T0075",
+      "T0076",
+      "T1421"
+    ]
+  },
+  {
+    "english": "pratyekabuddha",
+    "chinese": "辟支佛",
+    "sanskrit": "pratyekabuddha",
+    "category": "title",
+    "sources": [
+      "T0033",
+      "T0044",
+      "T0062",
+      "T0073",
+      "T0074",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "Tamer of Men",
+    "chinese": "調御丈夫",
+    "sanskrit": "Puruṣadamyasārathi",
+    "category": "title",
+    "sources": [
+      "T1421"
+    ]
+  },
+  {
+    "english": "Tathāgata",
+    "chinese": "如來",
+    "sanskrit": "Tathāgata",
+    "category": "title",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0015",
+      "T0018",
+      "T0019",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0030",
+      "T0034",
+      "T0038",
+      "T0044",
+      "T0053",
+      "T0058",
+      "T0060",
+      "T0061",
+      "T0062",
+      "T0063",
+      "T0064",
+      "T0066",
+      "T0067",
+      "T0070",
+      "T0073",
+      "T0074",
+      "T0075",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "Teacher of Gods and Humans",
+    "chinese": "天人師",
+    "sanskrit": "Śāstā devamanuṣyāṇām",
+    "category": "title",
+    "sources": [
+      "T0022",
+      "T0044",
+      "T0069",
+      "T0073",
+      "T0076",
+      "T1421"
+    ]
+  },
+  {
+    "english": "Tripiṭaka Master",
+    "chinese": "三藏法師",
+    "sanskrit": "Tripiṭaka",
+    "category": "title",
+    "sources": [
+      "T1566"
+    ]
+  },
+  {
+    "english": "Unsurpassed",
+    "chinese": "無上士",
+    "sanskrit": "Anuttara",
+    "category": "title",
+    "sources": [
+      "T0003",
+      "T0006",
+      "T0020",
+      "T0022",
+      "T0044",
+      "T0069",
+      "T0073",
+      "T0076",
+      "T1421"
+    ]
+  },
+  {
+    "english": "upāsaka",
+    "chinese": "優婆塞",
+    "sanskrit": "upāsaka",
+    "category": "title",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0009",
+      "T0015",
+      "T0018",
+      "T0041",
+      "T0049",
+      "T0051",
+      "T0069",
+      "T0070",
+      "T0075",
+      "T0078",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T1421"
+    ]
+  },
+  {
+    "english": "upāsikā",
+    "chinese": "優婆夷",
+    "sanskrit": "upāsikā",
+    "category": "title",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0018",
+      "T0049",
+      "T0222",
+      "T0265",
+      "T1421"
+    ]
+  },
+  {
+    "english": "Well-Gone",
+    "chinese": "善逝",
+    "sanskrit": "Sugata",
+    "category": "title",
+    "sources": [
+      "T0006",
+      "T0009",
+      "T0022",
+      "T0044",
+      "T0069",
+      "T0073",
+      "T0077",
+      "T1421",
+      "T1505"
+    ]
+  },
+  {
+    "english": "Worthy One",
+    "chinese": "應供",
+    "sanskrit": "Arhat",
+    "category": "title",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0019",
+      "T0022",
+      "T0030",
+      "T0035",
+      "T0062",
+      "T0066",
+      "T0067",
+      "T0073",
+      "T0074",
+      "T0075",
+      "T0076"
+    ]
+  },
+  {
+    "english": "ācārya",
+    "chinese": "阿闍梨",
+    "sanskrit": "ācārya",
+    "category": "title",
+    "sources": [
+      "T0887",
+      "T1566"
+    ]
+  },
+  {
+    "english": "śramaṇa",
+    "chinese": "沙門",
+    "sanskrit": "śramaṇa",
+    "category": "title",
+    "sources": [
+      "T0003",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0011",
+      "T0015",
+      "T0016",
+      "T0017",
+      "T0018",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0027",
+      "T0034",
+      "T0035",
+      "T0042",
+      "T0043",
+      "T0044",
+      "T0046",
+      "T0049",
+      "T0054",
+      "T0056",
+      "T0057",
+      "T0058",
+      "T0060",
+      "T0062",
+      "T0064",
+      "T0065",
+      "T0066",
+      "T0067",
+      "T0068",
+      "T0069",
+      "T0070",
+      "T0071",
+      "T0074",
+      "T0075",
+      "T0076",
+      "T0078",
+      "T0099",
+      "T1421",
+      "T1507",
+      "T1566"
+    ]
+  },
+  {
+    "english": "śrāvaka",
+    "chinese": "聲聞",
+    "sanskrit": "śrāvaka",
+    "category": "title",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0015",
+      "T0019",
+      "T0028",
+      "T0030",
+      "T0041",
+      "T0061",
+      "T0062",
+      "T0063",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "Abhidharma",
+    "chinese": "阿毘達磨",
+    "sanskrit": "Abhidharma",
+    "category": "doctrinal",
+    "sources": [
+      "T0060",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "afflicted mentation",
+    "chinese": "末那識",
+    "sanskrit": "kliṣṭa-manas",
+    "category": "doctrinal",
+    "sources": [
+      "T1602"
+    ]
+  },
+  {
+    "english": "afflictions",
+    "chinese": "煩惱",
+    "sanskrit": "kleśa",
+    "category": "doctrinal",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0012",
+      "T0014",
+      "T0015",
+      "T0017",
+      "T0018",
+      "T0022",
+      "T0027",
+      "T0030",
+      "T0031",
+      "T0034",
+      "T0035",
+      "T0037",
+      "T0044",
+      "T0046",
+      "T0054",
+      "T0062",
+      "T0063",
+      "T0075",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "aging and death",
+    "chinese": "老死",
+    "sanskrit": "jarāmaraṇa",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0068",
+      "T0099"
+    ]
+  },
+  {
+    "english": "anger",
+    "chinese": "瞋",
+    "sanskrit": "dveṣa",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0011",
+      "T0012",
+      "T0016",
+      "T0017",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0031",
+      "T0033",
+      "T0035",
+      "T0048",
+      "T0050",
+      "T0051",
+      "T0053",
+      "T0054",
+      "T0062",
+      "T0063",
+      "T0064",
+      "T0065",
+      "T0066",
+      "T0067",
+      "T0068",
+      "T0071",
+      "T0075",
+      "T0076",
+      "T0078",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "anuttarā-samyak-saṃbodhi",
+    "chinese": "阿耨多羅三藐三菩提",
+    "sanskrit": "anuttarā-samyak-saṃbodhi",
+    "category": "doctrinal",
+    "sources": [
+      "T0099",
+      "T0222",
+      "T0265",
+      "T0887"
+    ]
+  },
+  {
+    "english": "anāgāmin",
+    "chinese": "阿那含",
+    "sanskrit": "anāgāmin",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0011",
+      "T0020",
+      "T0029",
+      "T0030",
+      "T0033",
+      "T0068",
+      "T0073",
+      "T0074",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "applied thought",
+    "chinese": "尋",
+    "sanskrit": "vitarka",
+    "category": "doctrinal",
+    "sources": [
+      "T0008",
+      "T0012",
+      "T1602"
+    ]
+  },
+  {
+    "english": "arrogance",
+    "chinese": "憍",
+    "sanskrit": "mada",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0008",
+      "T0017",
+      "T0020",
+      "T0031",
+      "T0046",
+      "T0047",
+      "T0062",
+      "T0075",
+      "T0099",
+      "T0222",
+      "T1505",
+      "T1566"
+    ]
+  },
+  {
+    "english": "avadāna",
+    "chinese": "譬喻",
+    "sanskrit": "avadāna",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0027",
+      "T1602"
+    ]
+  },
+  {
+    "english": "becoming",
+    "chinese": "有",
+    "sanskrit": "bhava",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0012",
+      "T0016",
+      "T0018",
+      "T0020",
+      "T0022",
+      "T0054",
+      "T0068",
+      "T0071",
+      "T0099",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "birth",
+    "chinese": "生",
+    "sanskrit": "jāti",
+    "category": "doctrinal",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0012",
+      "T0014",
+      "T0015",
+      "T0016",
+      "T0018",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0027",
+      "T0029",
+      "T0030",
+      "T0031",
+      "T0033",
+      "T0034",
+      "T0035",
+      "T0037",
+      "T0039",
+      "T0041",
+      "T0042",
+      "T0043",
+      "T0044",
+      "T0046",
+      "T0047",
+      "T0049",
+      "T0051",
+      "T0052",
+      "T0053",
+      "T0054",
+      "T0057",
+      "T0058",
+      "T0061",
+      "T0062",
+      "T0063",
+      "T0065",
+      "T0068",
+      "T0069",
+      "T0071",
+      "T0072",
+      "T0073",
+      "T0075",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "bodhi",
+    "chinese": "菩提",
+    "sanskrit": "bodhi",
+    "category": "doctrinal",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0006",
+      "T0009",
+      "T0015",
+      "T0018",
+      "T0033",
+      "T0034",
+      "T0054",
+      "T0062",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "body-consciousness",
+    "chinese": "身識",
+    "sanskrit": "kāya-vijñāna",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T1602"
+    ]
+  },
+  {
+    "english": "buddha eye",
+    "chinese": "佛眼",
+    "sanskrit": "buddhacakṣus",
+    "category": "doctrinal",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "cessation of perception and feeling",
+    "chinese": "滅盡定",
+    "sanskrit": "nirodha-samāpatti",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T0014",
+      "T0018",
+      "T0066",
+      "T1602"
+    ]
+  },
+  {
+    "english": "clinging to rules and observances",
+    "chinese": "戒禁取",
+    "sanskrit": "śīla-vrata-parāmarśa",
+    "category": "doctrinal",
+    "sources": [
+      "T1602"
+    ]
+  },
+  {
+    "english": "clinging to views",
+    "chinese": "見取",
+    "sanskrit": "dṛṣṭi-parāmarśa",
+    "category": "doctrinal",
+    "sources": [
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "conceit",
+    "chinese": "慢",
+    "sanskrit": "māna",
+    "category": "doctrinal",
+    "sources": [
+      "T0008",
+      "T0011",
+      "T0017",
+      "T0047",
+      "T0063",
+      "T0099",
+      "T1421",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "conceptual proliferation",
+    "chinese": "戲論",
+    "sanskrit": "prapañca",
+    "category": "doctrinal",
+    "sources": [
+      "T0222",
+      "T1566"
+    ]
+  },
+  {
+    "english": "conditioned phenomena",
+    "chinese": "有為法",
+    "sanskrit": "saṃskṛta-dharma",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0030",
+      "T1602"
+    ]
+  },
+  {
+    "english": "consciousness",
+    "chinese": "識",
+    "sanskrit": "vijñāna",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0012",
+      "T0014",
+      "T0015",
+      "T0016",
+      "T0018",
+      "T0020",
+      "T0021",
+      "T0041",
+      "T0043",
+      "T0046",
+      "T0048",
+      "T0052",
+      "T0056",
+      "T0071",
+      "T0076",
+      "T0077",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "contact",
+    "chinese": "觸",
+    "sanskrit": "sparśa",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0012",
+      "T0014",
+      "T0015",
+      "T0021",
+      "T0031",
+      "T0052",
+      "T0059",
+      "T0066",
+      "T0099",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "conventional designation",
+    "chinese": "假名",
+    "sanskrit": "prajñapti",
+    "category": "doctrinal",
+    "sources": [
+      "T0222",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "conventional truth",
+    "chinese": "世俗諦",
+    "sanskrit": "saṃvṛti-satya",
+    "category": "doctrinal",
+    "sources": [
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "craving",
+    "chinese": "愛",
+    "sanskrit": "tṛṣṇā",
+    "category": "doctrinal",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0011",
+      "T0012",
+      "T0014",
+      "T0015",
+      "T0016",
+      "T0020",
+      "T0030",
+      "T0031",
+      "T0036",
+      "T0037",
+      "T0039",
+      "T0041",
+      "T0046",
+      "T0048",
+      "T0049",
+      "T0052",
+      "T0057",
+      "T0059",
+      "T0061",
+      "T0062",
+      "T0063",
+      "T0066",
+      "T0067",
+      "T0068",
+      "T0069",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "deceit",
+    "chinese": "誑",
+    "sanskrit": "māyā",
+    "category": "doctrinal",
+    "sources": [
+      "T0008",
+      "T0011",
+      "T0012",
+      "T0014",
+      "T0021",
+      "T0022",
+      "T0050",
+      "T0051",
+      "T0058",
+      "T0062",
+      "T0070",
+      "T0099",
+      "T0152"
+    ]
+  },
+  {
+    "english": "decorum",
+    "chinese": "愧",
+    "sanskrit": "apatrāpya",
+    "category": "doctrinal",
+    "sources": [
+      "T1602"
+    ]
+  },
+  {
+    "english": "delusion",
+    "chinese": "癡",
+    "sanskrit": "moha",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0016",
+      "T0017",
+      "T0018",
+      "T0020",
+      "T0022",
+      "T0029",
+      "T0030",
+      "T0033",
+      "T0035",
+      "T0036",
+      "T0037",
+      "T0043",
+      "T0046",
+      "T0048",
+      "T0053",
+      "T0054",
+      "T0057",
+      "T0062",
+      "T0068",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "dependent arising",
+    "chinese": "緣起",
+    "sanskrit": "pratītyasamutpāda",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0011",
+      "T0020",
+      "T0052",
+      "T0076",
+      "T0099",
+      "T0222",
+      "T1421",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "dharma",
+    "chinese": "法",
+    "sanskrit": "dharma",
+    "category": "doctrinal",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0012",
+      "T0014",
+      "T0015",
+      "T0018",
+      "T0021",
+      "T0022",
+      "T0027",
+      "T0028",
+      "T0033",
+      "T0034",
+      "T0035",
+      "T0038",
+      "T0039",
+      "T0041",
+      "T0046",
+      "T0048",
+      "T0051",
+      "T0052",
+      "T0058",
+      "T0059",
+      "T0060",
+      "T0062",
+      "T0063",
+      "T0070",
+      "T0077",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "dharma eye",
+    "chinese": "法眼",
+    "sanskrit": "dharmacakṣus",
+    "category": "doctrinal",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "distraction",
+    "chinese": "散亂",
+    "sanskrit": "vikṣepa",
+    "category": "doctrinal",
+    "sources": [
+      "T0018",
+      "T0031",
+      "T1505"
+    ]
+  },
+  {
+    "english": "divine eye",
+    "chinese": "天眼",
+    "sanskrit": "divyacakṣus",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0011",
+      "T0018",
+      "T0019",
+      "T0041",
+      "T0042",
+      "T0043",
+      "T0066",
+      "T0068",
+      "T0075",
+      "T0222",
+      "T1505",
+      "T1507"
+    ]
+  },
+  {
+    "english": "doubt",
+    "chinese": "疑",
+    "sanskrit": "vicikitsā",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0012",
+      "T0015",
+      "T0016",
+      "T0018",
+      "T0021",
+      "T0022",
+      "T0031",
+      "T0033",
+      "T0041",
+      "T0044",
+      "T0051",
+      "T0055",
+      "T0058",
+      "T0060",
+      "T0070",
+      "T0071",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "drowsiness",
+    "chinese": "睡眠",
+    "sanskrit": "middha",
+    "category": "doctrinal",
+    "sources": [
+      "T0021",
+      "T0022",
+      "T0047",
+      "T0051",
+      "T0152"
+    ]
+  },
+  {
+    "english": "ear-consciousness",
+    "chinese": "耳識",
+    "sanskrit": "śrotra-vijñāna",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T1602"
+    ]
+  },
+  {
+    "english": "eight worldly conditions",
+    "chinese": "八風",
+    "sanskrit": "aṣṭalokadharma",
+    "category": "doctrinal",
+    "sources": [
+      "T0012"
+    ]
+  },
+  {
+    "english": "eighteen unique dharmas",
+    "chinese": "十八不共法",
+    "sanskrit": "aṣṭādaśa āveṇika-buddhadharma",
+    "category": "doctrinal",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "emptiness",
+    "chinese": "空",
+    "sanskrit": "śūnyatā",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0018",
+      "T0022",
+      "T0046",
+      "T0048",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "enmity",
+    "chinese": "恨",
+    "sanskrit": "upanāha",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0008",
+      "T0011",
+      "T0015",
+      "T0016",
+      "T0017",
+      "T0021",
+      "T0062",
+      "T0066",
+      "T0068",
+      "T0071",
+      "T1421"
+    ]
+  },
+  {
+    "english": "extreme view",
+    "chinese": "邊見",
+    "sanskrit": "antagrāha-dṛṣṭi",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T1602"
+    ]
+  },
+  {
+    "english": "eye-consciousness",
+    "chinese": "眼識",
+    "sanskrit": "cakṣur-vijñāna",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T0099",
+      "T1505",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "feeling",
+    "chinese": "受",
+    "sanskrit": "vedanā",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0012",
+      "T0014",
+      "T0015",
+      "T0018",
+      "T0021",
+      "T0033",
+      "T0041",
+      "T0047",
+      "T0052",
+      "T0053",
+      "T0057",
+      "T0059",
+      "T0066",
+      "T0068",
+      "T0070",
+      "T0077",
+      "T0099",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "five aggregates",
+    "chinese": "五蘊",
+    "sanskrit": "pañcaskandha",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0014",
+      "T0041",
+      "T0046",
+      "T0057",
+      "T0076",
+      "T0099",
+      "T0222",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "five aggregates of clinging",
+    "chinese": "五取蘊",
+    "sanskrit": "pañcopādānaskandha",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0046",
+      "T0099",
+      "T1602"
+    ]
+  },
+  {
+    "english": "five eyes",
+    "chinese": "五眼",
+    "sanskrit": "pañcacakṣus",
+    "category": "doctrinal",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "five hindrances",
+    "chinese": "五蓋",
+    "sanskrit": "pañcanīvaraṇa",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T0021",
+      "T0022",
+      "T0036",
+      "T0037",
+      "T0046",
+      "T0062",
+      "T0070",
+      "T0076",
+      "T0099",
+      "T0152"
+    ]
+  },
+  {
+    "english": "forgetfulness",
+    "chinese": "失念",
+    "sanskrit": "muṣita-smṛtitā",
+    "category": "doctrinal",
+    "sources": [
+      "T1602"
+    ]
+  },
+  {
+    "english": "form",
+    "chinese": "色",
+    "sanskrit": "rūpa",
+    "category": "doctrinal",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0012",
+      "T0014",
+      "T0015",
+      "T0017",
+      "T0018",
+      "T0019",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0028",
+      "T0031",
+      "T0033",
+      "T0034",
+      "T0035",
+      "T0037",
+      "T0038",
+      "T0039",
+      "T0040",
+      "T0041",
+      "T0042",
+      "T0044",
+      "T0046",
+      "T0047",
+      "T0048",
+      "T0050",
+      "T0051",
+      "T0052",
+      "T0053",
+      "T0054",
+      "T0055",
+      "T0057",
+      "T0060",
+      "T0062",
+      "T0063",
+      "T0065",
+      "T0066",
+      "T0067",
+      "T0068",
+      "T0069",
+      "T0070",
+      "T0071",
+      "T0075",
+      "T0076",
+      "T0077",
+      "T0078",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "formations",
+    "chinese": "行",
+    "sanskrit": "saṃskāra",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0009",
+      "T0017",
+      "T0019",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0041",
+      "T0042",
+      "T0047",
+      "T0057",
+      "T0076",
+      "T0077",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0887",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "four fearlessnesses",
+    "chinese": "四無畏",
+    "sanskrit": "catvāri vaiśāradyāni",
+    "category": "doctrinal",
+    "sources": [
+      "T0076",
+      "T0222",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "four noble truths",
+    "chinese": "四聖諦",
+    "sanskrit": "catvāri āryasatyāni",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0034",
+      "T0046",
+      "T0099",
+      "T1505",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "geyas",
+    "chinese": "應頌",
+    "sanskrit": "geya",
+    "category": "doctrinal",
+    "sources": [
+      "T1421"
+    ]
+  },
+  {
+    "english": "grasping",
+    "chinese": "取",
+    "sanskrit": "upādāna",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0006",
+      "T0008",
+      "T0011",
+      "T0012",
+      "T0014",
+      "T0021",
+      "T0022",
+      "T0052",
+      "T0063",
+      "T0070",
+      "T0099",
+      "T0222",
+      "T1421",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "greed",
+    "chinese": "貪",
+    "sanskrit": "rāga",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0012",
+      "T0016",
+      "T0017",
+      "T0018",
+      "T0020",
+      "T0021",
+      "T0029",
+      "T0031",
+      "T0035",
+      "T0044",
+      "T0046",
+      "T0051",
+      "T0052",
+      "T0053",
+      "T0054",
+      "T0064",
+      "T0065",
+      "T0067",
+      "T0068",
+      "T0076",
+      "T0078",
+      "T0099",
+      "T0152",
+      "T0265",
+      "T1421",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "guile",
+    "chinese": "諂",
+    "sanskrit": "śāṭhya",
+    "category": "doctrinal",
+    "sources": [
+      "T0068",
+      "T0069"
+    ]
+  },
+  {
+    "english": "gāthā",
+    "chinese": "偈",
+    "sanskrit": "gāthā",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0008",
+      "T0015",
+      "T0027",
+      "T0887",
+      "T1421",
+      "T1602"
+    ]
+  },
+  {
+    "english": "harmfulness",
+    "chinese": "害",
+    "sanskrit": "vihiṃsā",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T0022",
+      "T1602"
+    ]
+  },
+  {
+    "english": "Hīnayāna",
+    "chinese": "小乘",
+    "sanskrit": "Hīnayāna",
+    "category": "doctrinal",
+    "sources": [
+      "T1566"
+    ]
+  },
+  {
+    "english": "ignorance",
+    "chinese": "無明",
+    "sanskrit": "avidyā",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0015",
+      "T0016",
+      "T0019",
+      "T0020",
+      "T0022",
+      "T0031",
+      "T0041",
+      "T0043",
+      "T0046",
+      "T0063",
+      "T0075",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "ill will",
+    "chinese": "瞋恚",
+    "sanskrit": "vyāpāda",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T0050",
+      "T0070",
+      "T0099",
+      "T1421"
+    ]
+  },
+  {
+    "english": "impermanence",
+    "chinese": "無常",
+    "sanskrit": "anitya",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0012",
+      "T0016",
+      "T0021",
+      "T0030",
+      "T0033",
+      "T0041",
+      "T0048",
+      "T0059",
+      "T0066",
+      "T0069",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1505",
+      "T1507",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "jealousy",
+    "chinese": "嫉",
+    "sanskrit": "īrṣyā",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0011",
+      "T0021",
+      "T0022",
+      "T0035",
+      "T0047",
+      "T0051",
+      "T0078",
+      "T0152",
+      "T1505"
+    ]
+  },
+  {
+    "english": "jātaka",
+    "chinese": "本生",
+    "sanskrit": "jātaka",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0027",
+      "T1602"
+    ]
+  },
+  {
+    "english": "karma",
+    "chinese": "業",
+    "sanskrit": "karma",
+    "category": "doctrinal",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0006",
+      "T0008",
+      "T0011",
+      "T0016",
+      "T0018",
+      "T0020",
+      "T0032",
+      "T0033",
+      "T0034",
+      "T0041",
+      "T0046",
+      "T0061",
+      "T0062",
+      "T0063",
+      "T0069",
+      "T0099",
+      "T0152",
+      "T0887",
+      "T1421",
+      "T1566",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "karmic consequences",
+    "chinese": "業報",
+    "sanskrit": "karmavipāka",
+    "category": "doctrinal",
+    "sources": [
+      "T1421"
+    ]
+  },
+  {
+    "english": "laziness",
+    "chinese": "懈怠",
+    "sanskrit": "kausīdya",
+    "category": "doctrinal",
+    "sources": [
+      "T0046",
+      "T0099",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "liberation",
+    "chinese": "解脫",
+    "sanskrit": "vimukti",
+    "category": "doctrinal",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0012",
+      "T0014",
+      "T0015",
+      "T0016",
+      "T0018",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0029",
+      "T0030",
+      "T0031",
+      "T0032",
+      "T0036",
+      "T0037",
+      "T0041",
+      "T0046",
+      "T0050",
+      "T0051",
+      "T0052",
+      "T0054",
+      "T0059",
+      "T0061",
+      "T0062",
+      "T0063",
+      "T0066",
+      "T0067",
+      "T0069",
+      "T0076",
+      "T0078",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "liberation of mind",
+    "chinese": "心解脫",
+    "sanskrit": "cetovimutti",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T0015",
+      "T0021",
+      "T0099",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Madhyamaka",
+    "chinese": "中觀",
+    "sanskrit": "Madhyamaka",
+    "category": "doctrinal",
+    "sources": [
+      "T1566"
+    ]
+  },
+  {
+    "english": "Mahāyāna",
+    "chinese": "大乘",
+    "sanskrit": "Mahāyāna",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0034",
+      "T0076",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "mental consciousness",
+    "chinese": "意識",
+    "sanskrit": "mano-vijñāna",
+    "category": "doctrinal",
+    "sources": [
+      "T1602"
+    ]
+  },
+  {
+    "english": "mentation",
+    "chinese": "意",
+    "sanskrit": "manas",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0020",
+      "T0030",
+      "T0046",
+      "T0047",
+      "T0099",
+      "T1421",
+      "T1602"
+    ]
+  },
+  {
+    "english": "Middle Way",
+    "chinese": "中道",
+    "sanskrit": "madhyamā-pratipad",
+    "category": "doctrinal",
+    "sources": [
+      "T1566"
+    ]
+  },
+  {
+    "english": "miserliness",
+    "chinese": "慳",
+    "sanskrit": "mātsarya",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0008",
+      "T0017",
+      "T0065",
+      "T0078",
+      "T0099"
+    ]
+  },
+  {
+    "english": "name-and-form",
+    "chinese": "名色",
+    "sanskrit": "nāmarūpa",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0014",
+      "T0020",
+      "T0052",
+      "T0099",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "nidāna",
+    "chinese": "因緣",
+    "sanskrit": "nidāna",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0016",
+      "T0027",
+      "T1602"
+    ]
+  },
+  {
+    "english": "nine abodes of beings",
+    "chinese": "九有情居",
+    "sanskrit": "navasattāvāsa",
+    "category": "doctrinal",
+    "sources": [
+      "T0012"
+    ]
+  },
+  {
+    "english": "nirvāṇa",
+    "chinese": "涅槃",
+    "sanskrit": "nirvāṇa",
+    "category": "doctrinal",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0011",
+      "T0015",
+      "T0018",
+      "T0019",
+      "T0020",
+      "T0021",
+      "T0029",
+      "T0033",
+      "T0041",
+      "T0044",
+      "T0046",
+      "T0047",
+      "T0058",
+      "T0059",
+      "T0061",
+      "T0068",
+      "T0070",
+      "T0075",
+      "T0076",
+      "T0077",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "non-harmfulness",
+    "chinese": "不害",
+    "sanskrit": "ahiṃsā",
+    "category": "doctrinal",
+    "sources": [
+      "T0012"
+    ]
+  },
+  {
+    "english": "non-self",
+    "chinese": "無我",
+    "sanskrit": "anātman",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0014",
+      "T0046",
+      "T0059",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1628"
+    ]
+  },
+  {
+    "english": "nose-consciousness",
+    "chinese": "鼻識",
+    "sanskrit": "ghrāṇa-vijñāna",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T1602"
+    ]
+  },
+  {
+    "english": "once-return",
+    "chinese": "斯陀含",
+    "sanskrit": "sakṛdāgāmin",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0020",
+      "T0029",
+      "T0033",
+      "T0068",
+      "T0073",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "parinirvāṇa",
+    "chinese": "般涅槃",
+    "sanskrit": "parinirvāṇa",
+    "category": "doctrinal",
+    "sources": [
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0020",
+      "T0021",
+      "T0029",
+      "T0046",
+      "T0047",
+      "T0058",
+      "T0265",
+      "T1507",
+      "T1566"
+    ]
+  },
+  {
+    "english": "perception",
+    "chinese": "想",
+    "sanskrit": "saṃjñā",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0009",
+      "T0012",
+      "T0014",
+      "T0016",
+      "T0018",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0027",
+      "T0031",
+      "T0041",
+      "T0046",
+      "T0047",
+      "T0048",
+      "T0052",
+      "T0056",
+      "T0057",
+      "T0059",
+      "T0062",
+      "T0066",
+      "T0072",
+      "T0077",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1421",
+      "T1505",
+      "T1566",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "prajñā",
+    "chinese": "般若",
+    "sanskrit": "prajñā",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0012",
+      "T0018",
+      "T0052",
+      "T0222",
+      "T1505",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "prajñāpāramitā",
+    "chinese": "般若波羅蜜多",
+    "sanskrit": "prajñāpāramitā",
+    "category": "doctrinal",
+    "sources": [
+      "T0222",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "regret",
+    "chinese": "惡作",
+    "sanskrit": "kaukṛtya",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0029",
+      "T0058",
+      "T0099",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "restlessness",
+    "chinese": "掉舉",
+    "sanskrit": "auddhatya",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T0047",
+      "T0070",
+      "T0099",
+      "T0152",
+      "T1602"
+    ]
+  },
+  {
+    "english": "restlessness-and-remorse",
+    "chinese": "掉舉惡作",
+    "sanskrit": "auddhatya-kaukṛtya",
+    "category": "doctrinal",
+    "sources": [
+      "T0012"
+    ]
+  },
+  {
+    "english": "right view",
+    "chinese": "正見",
+    "sanskrit": "samyag-dṛṣṭi",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0009",
+      "T0012",
+      "T0015",
+      "T0018",
+      "T0021",
+      "T0041",
+      "T0043",
+      "T0046",
+      "T0057",
+      "T0059",
+      "T0066",
+      "T0074",
+      "T0075",
+      "T0099",
+      "T1505",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "saṃgha",
+    "chinese": "僧伽",
+    "sanskrit": "saṃgha",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0033",
+      "T0034",
+      "T0060",
+      "T0061",
+      "T0099",
+      "T1421",
+      "T1566"
+    ]
+  },
+  {
+    "english": "seeds",
+    "chinese": "種子",
+    "sanskrit": "bīja",
+    "category": "doctrinal",
+    "sources": [
+      "T0011",
+      "T0016",
+      "T0021",
+      "T0022",
+      "T0030",
+      "T0037",
+      "T0058",
+      "T0064",
+      "T0073",
+      "T0887",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "self-conceit",
+    "chinese": "我慢",
+    "sanskrit": "ātma-māna",
+    "category": "doctrinal",
+    "sources": [
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "self-nature",
+    "chinese": "自性",
+    "sanskrit": "svabhāva",
+    "category": "doctrinal",
+    "sources": [
+      "T0887",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "self-view",
+    "chinese": "我見",
+    "sanskrit": "ātma-dṛṣṭi",
+    "category": "doctrinal",
+    "sources": [
+      "T0014",
+      "T0222",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "selflessness of persons",
+    "chinese": "人無我",
+    "sanskrit": "pudgala-nairātmya",
+    "category": "doctrinal",
+    "sources": [
+      "T1566"
+    ]
+  },
+  {
+    "english": "sensual desire",
+    "chinese": "欲貪",
+    "sanskrit": "kāmacchanda",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0012",
+      "T0021",
+      "T0022",
+      "T0039",
+      "T0055",
+      "T0057",
+      "T0068",
+      "T0070",
+      "T0099"
+    ]
+  },
+  {
+    "english": "seven stations of consciousness",
+    "chinese": "七識住",
+    "sanskrit": "saptavijñānasthiti",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T0014"
+    ]
+  },
+  {
+    "english": "shame",
+    "chinese": "慚",
+    "sanskrit": "hrī",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0011",
+      "T0015",
+      "T0016",
+      "T0020",
+      "T0022",
+      "T0029",
+      "T0033",
+      "T0044",
+      "T0046",
+      "T0050",
+      "T0051",
+      "T0062",
+      "T0066",
+      "T0068",
+      "T0069",
+      "T0070",
+      "T0078",
+      "T0099",
+      "T1421",
+      "T1505",
+      "T1507"
+    ]
+  },
+  {
+    "english": "signlessness",
+    "chinese": "無相",
+    "sanskrit": "animitta",
+    "category": "doctrinal",
+    "sources": [
+      "T0076",
+      "T0222",
+      "T1505",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "six consciousnesses",
+    "chinese": "六識",
+    "sanskrit": "ṣaḍ vijñāna",
+    "category": "doctrinal",
+    "sources": [
+      "T0099",
+      "T1602"
+    ]
+  },
+  {
+    "english": "six contacts",
+    "chinese": "六觸",
+    "sanskrit": "ṣaṭ sparśa",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T0099"
+    ]
+  },
+  {
+    "english": "six sense bases",
+    "chinese": "六入",
+    "sanskrit": "ṣaḍāyatana",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0052",
+      "T0099",
+      "T0222"
+    ]
+  },
+  {
+    "english": "six supernatural powers",
+    "chinese": "六神通",
+    "sanskrit": "ṣaḍabhijñā",
+    "category": "doctrinal",
+    "sources": [
+      "T0044",
+      "T0076",
+      "T0222"
+    ]
+  },
+  {
+    "english": "sloth-and-torpor",
+    "chinese": "昏沉睡眠",
+    "sanskrit": "styāna-middha",
+    "category": "doctrinal",
+    "sources": [
+      "T0012"
+    ]
+  },
+  {
+    "english": "sphere of boundless consciousness",
+    "chinese": "識無邊處",
+    "sanskrit": "vijñānānantyāyatana",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T0014",
+      "T0052"
+    ]
+  },
+  {
+    "english": "sphere of boundless space",
+    "chinese": "空無邊處",
+    "sanskrit": "ākāśānantyāyatana",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T0014",
+      "T0052"
+    ]
+  },
+  {
+    "english": "sphere of neither-perception-nor-non-perception",
+    "chinese": "非想非非想處",
+    "sanskrit": "naivasaṃjñānāsaṃjñāyatana",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0012",
+      "T0018",
+      "T0052",
+      "T1505"
+    ]
+  },
+  {
+    "english": "sphere of nothingness",
+    "chinese": "無所有處",
+    "sanskrit": "ākiñcanyāyatana",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0012",
+      "T0018",
+      "T0052",
+      "T0056",
+      "T1505"
+    ]
+  },
+  {
+    "english": "srotāpanna",
+    "chinese": "須陀洹",
+    "sanskrit": "srotāpanna",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0015",
+      "T0020",
+      "T0029",
+      "T0031",
+      "T0033",
+      "T0061",
+      "T0066",
+      "T0068",
+      "T0073",
+      "T0074",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T1505",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "srotāpatti",
+    "chinese": "須陀洹果",
+    "sanskrit": "srotāpatti",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0029",
+      "T0061",
+      "T0099"
+    ]
+  },
+  {
+    "english": "suffering",
+    "chinese": "苦",
+    "sanskrit": "duḥkha",
+    "category": "doctrinal",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0012",
+      "T0014",
+      "T0015",
+      "T0016",
+      "T0017",
+      "T0018",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0028",
+      "T0029",
+      "T0030",
+      "T0031",
+      "T0032",
+      "T0033",
+      "T0039",
+      "T0041",
+      "T0042",
+      "T0043",
+      "T0044",
+      "T0046",
+      "T0049",
+      "T0052",
+      "T0053",
+      "T0054",
+      "T0055",
+      "T0057",
+      "T0058",
+      "T0059",
+      "T0062",
+      "T0064",
+      "T0066",
+      "T0067",
+      "T0068",
+      "T0069",
+      "T0072",
+      "T0073",
+      "T0075",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "supernatural powers",
+    "chinese": "神通",
+    "sanskrit": "abhijñā",
+    "category": "doctrinal",
+    "sources": [
+      "T0008",
+      "T0030",
+      "T0034",
+      "T0039",
+      "T0041",
+      "T0044",
+      "T0062",
+      "T0068",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1421",
+      "T1507"
+    ]
+  },
+  {
+    "english": "sustained thought",
+    "chinese": "伺",
+    "sanskrit": "vicāra",
+    "category": "doctrinal",
+    "sources": [
+      "T0008",
+      "T0012",
+      "T0075",
+      "T1602"
+    ]
+  },
+  {
+    "english": "sūtra",
+    "chinese": "經",
+    "sanskrit": "sūtra",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0016",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0033",
+      "T0035",
+      "T0036",
+      "T0037",
+      "T0040",
+      "T0043",
+      "T0046",
+      "T0048",
+      "T0050",
+      "T0052",
+      "T0054",
+      "T0059",
+      "T0060",
+      "T0061",
+      "T0062",
+      "T0067",
+      "T0068",
+      "T0076",
+      "T0078",
+      "T0099",
+      "T0152",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "ten powers",
+    "chinese": "十力",
+    "sanskrit": "daśabala",
+    "category": "doctrinal",
+    "sources": [
+      "T0076",
+      "T0222",
+      "T0265",
+      "T1505",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "ten wholesome deeds",
+    "chinese": "十善業",
+    "sanskrit": "daśakuśalakarmapatha",
+    "category": "doctrinal",
+    "sources": [
+      "T0033",
+      "T0076",
+      "T0222"
+    ]
+  },
+  {
+    "english": "three characteristics",
+    "chinese": "三法印",
+    "sanskrit": "trilakṣaṇa",
+    "category": "doctrinal",
+    "sources": [
+      "T1566",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "three fetters",
+    "chinese": "三結",
+    "sanskrit": "trīṇi saṃyojanāni",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0009",
+      "T0029",
+      "T0031",
+      "T1505"
+    ]
+  },
+  {
+    "english": "Three Jewels",
+    "chinese": "三寶",
+    "sanskrit": "triratna",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0099",
+      "T0152",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566"
+    ]
+  },
+  {
+    "english": "three poisons",
+    "chinese": "三毒",
+    "sanskrit": "triviṣa",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0020",
+      "T0062",
+      "T0076",
+      "T0152",
+      "T1507"
+    ]
+  },
+  {
+    "english": "three refuges",
+    "chinese": "三歸依",
+    "sanskrit": "triśaraṇa",
+    "category": "doctrinal",
+    "sources": [
+      "T0072",
+      "T0152",
+      "T1505"
+    ]
+  },
+  {
+    "english": "tongue-consciousness",
+    "chinese": "舌識",
+    "sanskrit": "jihvā-vijñāna",
+    "category": "doctrinal",
+    "sources": [
+      "T0012",
+      "T1602"
+    ]
+  },
+  {
+    "english": "torpor",
+    "chinese": "惛沉",
+    "sanskrit": "styāna",
+    "category": "doctrinal",
+    "sources": [
+      "T0011",
+      "T0012",
+      "T0022",
+      "T0070",
+      "T0099",
+      "T1602"
+    ]
+  },
+  {
+    "english": "Tripiṭaka",
+    "chinese": "三藏",
+    "sanskrit": "Tripiṭaka",
+    "category": "doctrinal",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0012",
+      "T0014",
+      "T0015",
+      "T0016",
+      "T0017",
+      "T0018",
+      "T0019",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0026",
+      "T0027",
+      "T0028",
+      "T0029",
+      "T0030",
+      "T0031",
+      "T0032",
+      "T0033",
+      "T0034",
+      "T0035",
+      "T0036",
+      "T0037",
+      "T0038",
+      "T0039",
+      "T0040",
+      "T0041",
+      "T0042",
+      "T0043",
+      "T0044",
+      "T0046",
+      "T0047",
+      "T0048",
+      "T0049",
+      "T0050",
+      "T0051",
+      "T0052",
+      "T0053",
+      "T0054",
+      "T0055",
+      "T0056",
+      "T0057",
+      "T0058",
+      "T0059",
+      "T0060",
+      "T0061",
+      "T0062",
+      "T0063",
+      "T0064",
+      "T0065",
+      "T0066",
+      "T0067",
+      "T0068",
+      "T0069",
+      "T0070",
+      "T0071",
+      "T0072",
+      "T0073",
+      "T0074",
+      "T0075",
+      "T0076",
+      "T0077",
+      "T0078",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "truth of cessation",
+    "chinese": "滅諦",
+    "sanskrit": "nirodha-satya",
+    "category": "doctrinal",
+    "sources": [
+      "T0046",
+      "T0099",
+      "T1602"
+    ]
+  },
+  {
+    "english": "truth of suffering",
+    "chinese": "苦諦",
+    "sanskrit": "duḥkha-satya",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0046",
+      "T0099",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "truth of the origin",
+    "chinese": "集諦",
+    "sanskrit": "samudaya-satya",
+    "category": "doctrinal",
+    "sources": [
+      "T0099"
+    ]
+  },
+  {
+    "english": "truth of the path",
+    "chinese": "道諦",
+    "sanskrit": "mārga-satya",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0032",
+      "T0046",
+      "T0099",
+      "T1602"
+    ]
+  },
+  {
+    "english": "twelve divisions of scripture",
+    "chinese": "十二部經",
+    "sanskrit": "dvādaśāṅga-pravacana",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0027",
+      "T0076"
+    ]
+  },
+  {
+    "english": "twelve links",
+    "chinese": "十二因緣",
+    "sanskrit": "dvādaśāṅga-pratītyasamutpāda",
+    "category": "doctrinal",
+    "sources": [
+      "T0062",
+      "T0076",
+      "T0099",
+      "T0222",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "two truths",
+    "chinese": "二諦",
+    "sanskrit": "dvisatya",
+    "category": "doctrinal",
+    "sources": [
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "twofold selflessness",
+    "chinese": "二無我",
+    "sanskrit": "dvi-nairātmya",
+    "category": "doctrinal",
+    "sources": [
+      "T1566"
+    ]
+  },
+  {
+    "english": "udāna",
+    "chinese": "自說",
+    "sanskrit": "udāna",
+    "category": "doctrinal",
+    "sources": [
+      "T0027",
+      "T0152",
+      "T1602"
+    ]
+  },
+  {
+    "english": "ultimate truth",
+    "chinese": "勝義諦",
+    "sanskrit": "paramārtha-satya",
+    "category": "doctrinal",
+    "sources": [
+      "T0222",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "unconditioned",
+    "chinese": "無為",
+    "sanskrit": "asaṃskṛta",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0014",
+      "T0020",
+      "T0021",
+      "T0032",
+      "T0035",
+      "T0036",
+      "T0037",
+      "T0041",
+      "T0046",
+      "T0054",
+      "T0057",
+      "T0071",
+      "T0076",
+      "T0222",
+      "T0887",
+      "T1505",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "upadeśa",
+    "chinese": "論議",
+    "sanskrit": "upadeśa",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0027",
+      "T1421",
+      "T1602"
+    ]
+  },
+  {
+    "english": "vaipulya",
+    "chinese": "方廣",
+    "sanskrit": "vaipulya",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0027",
+      "T1421",
+      "T1602"
+    ]
+  },
+  {
+    "english": "vexation",
+    "chinese": "惱",
+    "sanskrit": "pradāśa",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0008",
+      "T0011"
+    ]
+  },
+  {
+    "english": "view of the self-collection",
+    "chinese": "身見",
+    "sanskrit": "satkāya-dṛṣṭi",
+    "category": "doctrinal",
+    "sources": [
+      "T1602"
+    ]
+  },
+  {
+    "english": "Vinaya",
+    "chinese": "律",
+    "sanskrit": "vinaya",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0011",
+      "T0021",
+      "T0022",
+      "T0048",
+      "T0060",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "wisdom eye",
+    "chinese": "慧眼",
+    "sanskrit": "prajñācakṣus",
+    "category": "doctrinal",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "wishlessness",
+    "chinese": "無願",
+    "sanskrit": "apraṇihita",
+    "category": "doctrinal",
+    "sources": [
+      "T0076",
+      "T0222",
+      "T1505",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "wrath",
+    "chinese": "忿",
+    "sanskrit": "krodha",
+    "category": "doctrinal",
+    "sources": [
+      "T0035",
+      "T0887",
+      "T1507"
+    ]
+  },
+  {
+    "english": "wrong view",
+    "chinese": "邪見",
+    "sanskrit": "mithyā-dṛṣṭi",
+    "category": "doctrinal",
+    "sources": [
+      "T0008",
+      "T0011",
+      "T0012",
+      "T0017",
+      "T0018",
+      "T0021",
+      "T0022",
+      "T0031",
+      "T0037",
+      "T0041",
+      "T0043",
+      "T0046",
+      "T0051",
+      "T0067",
+      "T0070",
+      "T0074",
+      "T0075",
+      "T0076",
+      "T0099",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "Āgama",
+    "chinese": "阿含",
+    "sanskrit": "Āgama",
+    "category": "doctrinal",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0019",
+      "T1505"
+    ]
+  },
+  {
+    "english": "ālaya-vijñāna",
+    "chinese": "阿賴耶識",
+    "sanskrit": "ālaya-vijñāna",
+    "category": "doctrinal",
+    "sources": [
+      "T1602"
+    ]
+  },
+  {
+    "english": "āsrava",
+    "chinese": "漏",
+    "sanskrit": "āsrava",
+    "category": "doctrinal",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0018",
+      "T0019",
+      "T0022",
+      "T0028",
+      "T0041",
+      "T0044",
+      "T0046",
+      "T0057",
+      "T0063",
+      "T0069",
+      "T0070",
+      "T0075",
+      "T0222",
+      "T1566"
+    ]
+  },
+  {
+    "english": "āyatana",
+    "chinese": "處",
+    "sanskrit": "āyatana",
+    "category": "doctrinal",
+    "sources": [
+      "T0006",
+      "T0012",
+      "T0014",
+      "T0018",
+      "T0052",
+      "T0099",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "almsround",
+    "chinese": "乞食",
+    "sanskrit": "piṇḍapāta",
+    "category": "practice",
+    "sources": [
+      "T0005"
+    ]
+  },
+  {
+    "english": "aspiration",
+    "chinese": "欲",
+    "sanskrit": "chanda",
+    "category": "practice",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0009",
+      "T0011",
+      "T0015",
+      "T0017",
+      "T0018",
+      "T0020",
+      "T0022",
+      "T0027",
+      "T0033",
+      "T0034",
+      "T0044",
+      "T0046",
+      "T0061",
+      "T0062",
+      "T0069",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "attention",
+    "chinese": "作意",
+    "sanskrit": "manaskāra",
+    "category": "practice",
+    "sources": [
+      "T0006",
+      "T0009",
+      "T0017",
+      "T0031",
+      "T0037",
+      "T0057",
+      "T1602"
+    ]
+  },
+  {
+    "english": "brahmacarya",
+    "chinese": "梵行",
+    "sanskrit": "brahmacarya",
+    "category": "practice",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0021",
+      "T0022",
+      "T0028",
+      "T0034",
+      "T0035",
+      "T0037",
+      "T0044",
+      "T0051",
+      "T0060",
+      "T0064",
+      "T0073",
+      "T0152",
+      "T1421",
+      "T1505",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "compassion",
+    "chinese": "悲",
+    "sanskrit": "karuṇā",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0012",
+      "T0015",
+      "T0016",
+      "T0017",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0027",
+      "T0034",
+      "T0035",
+      "T0041",
+      "T0044",
+      "T0049",
+      "T0051",
+      "T0058",
+      "T0060",
+      "T0062",
+      "T0066",
+      "T0067",
+      "T0069",
+      "T0071",
+      "T0073",
+      "T0076",
+      "T0078",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "concentration",
+    "chinese": "定",
+    "sanskrit": "samādhi",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0012",
+      "T0015",
+      "T0018",
+      "T0021",
+      "T0022",
+      "T0031",
+      "T0032",
+      "T0034",
+      "T0038",
+      "T0044",
+      "T0046",
+      "T0057",
+      "T0070",
+      "T0075",
+      "T0076",
+      "T0099",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "consecration",
+    "chinese": "灌頂",
+    "sanskrit": "abhiṣeka",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0008",
+      "T0009",
+      "T0038",
+      "T0063",
+      "T0887"
+    ]
+  },
+  {
+    "english": "dhyāna-pāramitā",
+    "chinese": "禪定波羅蜜",
+    "sanskrit": "dhyāna-pāramitā",
+    "category": "practice",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "dhāraṇī",
+    "chinese": "陀羅尼",
+    "sanskrit": "dhāraṇī",
+    "category": "practice",
+    "sources": [
+      "T0061",
+      "T0222",
+      "T0887",
+      "T1602"
+    ]
+  },
+  {
+    "english": "disenchantment",
+    "chinese": "厭離",
+    "sanskrit": "nirveda",
+    "category": "practice",
+    "sources": [
+      "T0011",
+      "T0018",
+      "T0041",
+      "T0050",
+      "T0057",
+      "T0099"
+    ]
+  },
+  {
+    "english": "dāna",
+    "chinese": "布施",
+    "sanskrit": "dāna",
+    "category": "practice",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0009",
+      "T0016",
+      "T0017",
+      "T0018",
+      "T0021",
+      "T0022",
+      "T0027",
+      "T0031",
+      "T0036",
+      "T0041",
+      "T0044",
+      "T0046",
+      "T0052",
+      "T0062",
+      "T0065",
+      "T0072",
+      "T0073",
+      "T0074",
+      "T0078",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "dāna-pāramitā",
+    "chinese": "布施波羅蜜",
+    "sanskrit": "dāna-pāramitā",
+    "category": "practice",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "eight liberations",
+    "chinese": "八解脫",
+    "sanskrit": "aṣṭavimokṣa",
+    "category": "practice",
+    "sources": [
+      "T0012",
+      "T0222"
+    ]
+  },
+  {
+    "english": "eightfold path",
+    "chinese": "八正道",
+    "sanskrit": "aṣṭāṅgika-mārga",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0006",
+      "T0015",
+      "T0099",
+      "T0222",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "emptiness samādhi",
+    "chinese": "空三昧",
+    "sanskrit": "śūnyatā-samādhi",
+    "category": "practice",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "equanimity",
+    "chinese": "捨",
+    "sanskrit": "upekṣā",
+    "category": "practice",
+    "sources": [
+      "T0006",
+      "T0012",
+      "T0015",
+      "T0021",
+      "T0028",
+      "T0031",
+      "T0038",
+      "T0044",
+      "T0050",
+      "T0051",
+      "T0052",
+      "T0066",
+      "T0067",
+      "T0075",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1505",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "faith",
+    "chinese": "信",
+    "sanskrit": "śraddhā",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0012",
+      "T0015",
+      "T0016",
+      "T0017",
+      "T0018",
+      "T0019",
+      "T0021",
+      "T0022",
+      "T0027",
+      "T0028",
+      "T0029",
+      "T0030",
+      "T0033",
+      "T0034",
+      "T0036",
+      "T0037",
+      "T0041",
+      "T0049",
+      "T0052",
+      "T0060",
+      "T0063",
+      "T0066",
+      "T0069",
+      "T0070",
+      "T0073",
+      "T0075",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0265",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "five faculties",
+    "chinese": "五根",
+    "sanskrit": "pañcendriyāṇi",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0006",
+      "T0012",
+      "T0099",
+      "T0222"
+    ]
+  },
+  {
+    "english": "five powers",
+    "chinese": "五力",
+    "sanskrit": "pañcabalāni",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0006",
+      "T0012",
+      "T0099",
+      "T0222"
+    ]
+  },
+  {
+    "english": "four bases of supernatural power",
+    "chinese": "四如意足",
+    "sanskrit": "catvāra ṛddhipādāḥ",
+    "category": "practice",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "four dhyānas",
+    "chinese": "四禪",
+    "sanskrit": "catvāri dhyānāni",
+    "category": "practice",
+    "sources": [
+      "T0018",
+      "T0046",
+      "T0053",
+      "T0068",
+      "T0070",
+      "T0152",
+      "T0222",
+      "T1505"
+    ]
+  },
+  {
+    "english": "four formless absorptions",
+    "chinese": "四無色定",
+    "sanskrit": "caturārūpyadhyāna",
+    "category": "practice",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "four foundations of mindfulness",
+    "chinese": "四念處",
+    "sanskrit": "catvāri smṛtyupasthānāni",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0006",
+      "T0036",
+      "T0037",
+      "T0099",
+      "T0222",
+      "T1602"
+    ]
+  },
+  {
+    "english": "four immeasurables",
+    "chinese": "四無量心",
+    "sanskrit": "catvāry apramāṇāni",
+    "category": "practice",
+    "sources": [
+      "T0005",
+      "T0067",
+      "T0076",
+      "T0152",
+      "T0222",
+      "T1602"
+    ]
+  },
+  {
+    "english": "four right efforts",
+    "chinese": "四正勤",
+    "sanskrit": "catvāri samyakpradhānāni",
+    "category": "practice",
+    "sources": [
+      "T0006",
+      "T0062",
+      "T0099",
+      "T0222"
+    ]
+  },
+  {
+    "english": "great compassion",
+    "chinese": "大悲",
+    "sanskrit": "mahākaruṇā",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0069",
+      "T0152",
+      "T0222",
+      "T1602"
+    ]
+  },
+  {
+    "english": "heedfulness",
+    "chinese": "不放逸",
+    "sanskrit": "apramāda",
+    "category": "practice",
+    "sources": [
+      "T0022"
+    ]
+  },
+  {
+    "english": "jhāna",
+    "chinese": "禪",
+    "sanskrit": "dhyāna",
+    "category": "practice",
+    "sources": [
+      "T0006",
+      "T0008",
+      "T0012",
+      "T0018",
+      "T0021",
+      "T0022",
+      "T0028",
+      "T0030",
+      "T0034",
+      "T0044",
+      "T0046",
+      "T0048",
+      "T0052",
+      "T0053",
+      "T0058",
+      "T0068",
+      "T0070",
+      "T0075",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "kṣānti",
+    "chinese": "忍辱",
+    "sanskrit": "kṣānti",
+    "category": "practice",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0012",
+      "T0017",
+      "T0022",
+      "T0074",
+      "T0076",
+      "T0099",
+      "T0222",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "kṣānti-pāramitā",
+    "chinese": "忍辱波羅蜜",
+    "sanskrit": "kṣānti-pāramitā",
+    "category": "practice",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "lion's roar",
+    "chinese": "獅子吼",
+    "sanskrit": "siṃhanāda",
+    "category": "practice",
+    "sources": [
+      "T0018",
+      "T0152"
+    ]
+  },
+  {
+    "english": "loving-kindness",
+    "chinese": "慈",
+    "sanskrit": "maitrī",
+    "category": "practice",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0011",
+      "T0012",
+      "T0022",
+      "T0029",
+      "T0030",
+      "T0051",
+      "T0066",
+      "T0067",
+      "T0072",
+      "T0073",
+      "T0074",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1421",
+      "T1505",
+      "T1566"
+    ]
+  },
+  {
+    "english": "mantra",
+    "chinese": "真言",
+    "sanskrit": "mantra",
+    "category": "practice",
+    "sources": [
+      "T0887"
+    ]
+  },
+  {
+    "english": "meditation",
+    "chinese": "禪定",
+    "sanskrit": "dhyāna",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0015",
+      "T0019",
+      "T0021",
+      "T0029",
+      "T0035",
+      "T0039",
+      "T0047",
+      "T0066",
+      "T0067",
+      "T0071",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "mindfulness",
+    "chinese": "念",
+    "sanskrit": "smṛti",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0005",
+      "T0006",
+      "T0009",
+      "T0012",
+      "T0015",
+      "T0018",
+      "T0021",
+      "T0028",
+      "T0029",
+      "T0031",
+      "T0032",
+      "T0036",
+      "T0037",
+      "T0038",
+      "T0052",
+      "T0057",
+      "T0059",
+      "T0061",
+      "T0063",
+      "T0066",
+      "T0070",
+      "T0075",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "mindfulness of the Buddha",
+    "chinese": "念佛",
+    "sanskrit": "buddhānusmṛti",
+    "category": "practice",
+    "sources": [
+      "T0006"
+    ]
+  },
+  {
+    "english": "mindfulness of the Dharma",
+    "chinese": "念法",
+    "sanskrit": "dharmānusmṛti",
+    "category": "practice",
+    "sources": [
+      "T0006"
+    ]
+  },
+  {
+    "english": "mindfulness of the Saṅgha",
+    "chinese": "念僧",
+    "sanskrit": "saṃghānusmṛti",
+    "category": "practice",
+    "sources": [
+      "T0006"
+    ]
+  },
+  {
+    "english": "non-retrogression",
+    "chinese": "不退轉",
+    "sanskrit": "avaivartika",
+    "category": "practice",
+    "sources": [
+      "T0033",
+      "T0061",
+      "T0152",
+      "T0222",
+      "T0265"
+    ]
+  },
+  {
+    "english": "patient endurance",
+    "chinese": "忍",
+    "sanskrit": "kṣānti",
+    "category": "practice",
+    "sources": [
+      "T0076",
+      "T0222"
+    ]
+  },
+  {
+    "english": "Poṣadha",
+    "chinese": "布薩",
+    "sanskrit": "poṣadha",
+    "category": "practice",
+    "sources": [
+      "T0008"
+    ]
+  },
+  {
+    "english": "resolve",
+    "chinese": "勝解",
+    "sanskrit": "adhimokṣa",
+    "category": "practice",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0015",
+      "T0016",
+      "T0018",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0033",
+      "T0034",
+      "T0042",
+      "T0044",
+      "T0047",
+      "T0057",
+      "T0069",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1421",
+      "T1602"
+    ]
+  },
+  {
+    "english": "right action",
+    "chinese": "正業",
+    "sanskrit": "samyak-karmānta",
+    "category": "practice",
+    "sources": [
+      "T0006",
+      "T0009",
+      "T0012",
+      "T0015",
+      "T0046",
+      "T0057",
+      "T0099",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "right concentration",
+    "chinese": "正定",
+    "sanskrit": "samyak-samādhi",
+    "category": "practice",
+    "sources": [
+      "T0006",
+      "T0009",
+      "T0012",
+      "T0015",
+      "T0032",
+      "T0046",
+      "T0057",
+      "T0099",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "right effort",
+    "chinese": "正精進",
+    "sanskrit": "samyag-vyāyāma",
+    "category": "practice",
+    "sources": [
+      "T0006",
+      "T0009",
+      "T0012",
+      "T0015",
+      "T0032",
+      "T0057",
+      "T0062",
+      "T0099",
+      "T0222",
+      "T1421",
+      "T1602"
+    ]
+  },
+  {
+    "english": "right intention",
+    "chinese": "正思惟",
+    "sanskrit": "samyak-saṃkalpa",
+    "category": "practice",
+    "sources": [
+      "T0006",
+      "T0012",
+      "T0015",
+      "T0046",
+      "T0057",
+      "T0099",
+      "T1421",
+      "T1602"
+    ]
+  },
+  {
+    "english": "right livelihood",
+    "chinese": "正命",
+    "sanskrit": "samyag-ājīva",
+    "category": "practice",
+    "sources": [
+      "T0006",
+      "T0009",
+      "T0012",
+      "T0015",
+      "T0032",
+      "T0046",
+      "T0057",
+      "T0099",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "right mindfulness",
+    "chinese": "正念",
+    "sanskrit": "samyak-smṛti",
+    "category": "practice",
+    "sources": [
+      "T0009",
+      "T0012",
+      "T0015",
+      "T0032",
+      "T0036",
+      "T0037",
+      "T0057",
+      "T0063",
+      "T0099",
+      "T1602"
+    ]
+  },
+  {
+    "english": "right speech",
+    "chinese": "正語",
+    "sanskrit": "samyag-vāc",
+    "category": "practice",
+    "sources": [
+      "T0006",
+      "T0009",
+      "T0012",
+      "T0015",
+      "T0022",
+      "T0046",
+      "T0057",
+      "T0099",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "samādhi",
+    "chinese": "三摩地",
+    "sanskrit": "samādhi",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0009",
+      "T0012",
+      "T0015",
+      "T0018",
+      "T0021",
+      "T0022",
+      "T0028",
+      "T0030",
+      "T0033",
+      "T0035",
+      "T0041",
+      "T0047",
+      "T0052",
+      "T0059",
+      "T0061",
+      "T0062",
+      "T0064",
+      "T0066",
+      "T0067",
+      "T0099",
+      "T0222",
+      "T0887",
+      "T1505",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "seven factors of awakening",
+    "chinese": "七覺支",
+    "sanskrit": "saptabodhyaṅga",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0006",
+      "T0012",
+      "T0034",
+      "T0036",
+      "T0037",
+      "T0099",
+      "T0222",
+      "T1507"
+    ]
+  },
+  {
+    "english": "signless samādhi",
+    "chinese": "無相三昧",
+    "sanskrit": "animitta-samādhi",
+    "category": "practice",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "six perfections",
+    "chinese": "六度",
+    "sanskrit": "ṣaṭpāramitā",
+    "category": "practice",
+    "sources": [
+      "T0062",
+      "T0152",
+      "T1602"
+    ]
+  },
+  {
+    "english": "six pāramitās",
+    "chinese": "六波羅蜜",
+    "sanskrit": "ṣaṭpāramitā",
+    "category": "practice",
+    "sources": [
+      "T0016",
+      "T0222",
+      "T0265",
+      "T1507"
+    ]
+  },
+  {
+    "english": "sympathetic joy",
+    "chinese": "喜",
+    "sanskrit": "muditā",
+    "category": "practice",
+    "sources": [
+      "T0006",
+      "T0012",
+      "T0051",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1505",
+      "T1566"
+    ]
+  },
+  {
+    "english": "thirty-seven factors of awakening",
+    "chinese": "三十七道品",
+    "sanskrit": "saptatriṃśad bodhipakṣyadharmāḥ",
+    "category": "practice",
+    "sources": [
+      "T0034",
+      "T1507"
+    ]
+  },
+  {
+    "english": "tranquility",
+    "chinese": "輕安",
+    "sanskrit": "praśrabdhi",
+    "category": "practice",
+    "sources": [
+      "T0003",
+      "T0006",
+      "T0012",
+      "T0018",
+      "T0027",
+      "T0031",
+      "T0035",
+      "T0038",
+      "T0099",
+      "T1602"
+    ]
+  },
+  {
+    "english": "vajra",
+    "chinese": "金剛",
+    "sanskrit": "vajra",
+    "category": "practice",
+    "sources": [
+      "T0019",
+      "T0076",
+      "T0222",
+      "T0887",
+      "T1421",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "volition",
+    "chinese": "思",
+    "sanskrit": "cetanā",
+    "category": "practice",
+    "sources": [
+      "T0006",
+      "T0020",
+      "T0046",
+      "T0099",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "vīrya",
+    "chinese": "精進",
+    "sanskrit": "vīrya",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0006",
+      "T0011",
+      "T0012",
+      "T0015",
+      "T0016",
+      "T0018",
+      "T0029",
+      "T0031",
+      "T0033",
+      "T0046",
+      "T0063",
+      "T0069",
+      "T0070",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "vīrya-pāramitā",
+    "chinese": "精進波羅蜜",
+    "sanskrit": "vīrya-pāramitā",
+    "category": "practice",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "wisdom",
+    "chinese": "慧",
+    "sanskrit": "prajñā",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0012",
+      "T0014",
+      "T0015",
+      "T0016",
+      "T0017",
+      "T0018",
+      "T0019",
+      "T0020",
+      "T0022",
+      "T0027",
+      "T0029",
+      "T0031",
+      "T0033",
+      "T0036",
+      "T0037",
+      "T0038",
+      "T0040",
+      "T0041",
+      "T0044",
+      "T0046",
+      "T0049",
+      "T0052",
+      "T0053",
+      "T0055",
+      "T0058",
+      "T0059",
+      "T0060",
+      "T0061",
+      "T0062",
+      "T0063",
+      "T0065",
+      "T0066",
+      "T0070",
+      "T0076",
+      "T0078",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "wishless samādhi",
+    "chinese": "無願三昧",
+    "sanskrit": "apraṇihita-samādhi",
+    "category": "practice",
+    "sources": [
+      "T0222"
+    ]
+  },
+  {
+    "english": "śīla",
+    "chinese": "戒",
+    "sanskrit": "śīla",
+    "category": "practice",
+    "sources": [
+      "T0002",
+      "T0005",
+      "T0060",
+      "T0063",
+      "T0152",
+      "T0222",
+      "T1505",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "Akaniṣṭha",
+    "chinese": "色究竟天",
+    "sanskrit": "Akaniṣṭha",
+    "category": "cosmological",
+    "sources": [
+      "T0003",
+      "T0012",
+      "T0015",
+      "T0222",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "animal realm",
+    "chinese": "畜生",
+    "sanskrit": "tiryagyoni",
+    "category": "cosmological",
+    "sources": [
+      "T0020",
+      "T0068",
+      "T0222",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "asura",
+    "chinese": "阿修羅",
+    "sanskrit": "asura",
+    "category": "cosmological",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0015",
+      "T0019",
+      "T0022",
+      "T0030",
+      "T0032",
+      "T0041",
+      "T0044",
+      "T0049",
+      "T0051",
+      "T0054",
+      "T0056",
+      "T0057",
+      "T0061",
+      "T0062",
+      "T0066",
+      "T0067",
+      "T0069",
+      "T0075",
+      "T0076",
+      "T0152",
+      "T0222",
+      "T0887",
+      "T1505",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "Atapa",
+    "chinese": "無熱天",
+    "sanskrit": "Atapa",
+    "category": "cosmological",
+    "sources": [
+      "T0012",
+      "T1505"
+    ]
+  },
+  {
+    "english": "Avṛha",
+    "chinese": "無煩天",
+    "sanskrit": "Avṛha",
+    "category": "cosmological",
+    "sources": [
+      "T0005",
+      "T0012",
+      "T1505"
+    ]
+  },
+  {
+    "english": "Bhadra kalpa",
+    "chinese": "賢劫",
+    "sanskrit": "bhadrakalpa",
+    "category": "cosmological",
+    "sources": [
+      "T0002",
+      "T0004"
+    ]
+  },
+  {
+    "english": "Brahmā heaven",
+    "chinese": "梵天",
+    "sanskrit": "Brahmaloka",
+    "category": "cosmological",
+    "sources": [
+      "T0008",
+      "T0014",
+      "T0030",
+      "T0066",
+      "T0067",
+      "T0071",
+      "T0265"
+    ]
+  },
+  {
+    "english": "Cāturmahārājakāyika",
+    "chinese": "四大王眾天",
+    "sanskrit": "Cāturmahārājakāyika",
+    "category": "cosmological",
+    "sources": [
+      "T0009",
+      "T0030"
+    ]
+  },
+  {
+    "english": "desire realm",
+    "chinese": "欲界",
+    "sanskrit": "kāmadhātu",
+    "category": "cosmological",
+    "sources": [
+      "T0012",
+      "T0030",
+      "T0099",
+      "T0222",
+      "T1602"
+    ]
+  },
+  {
+    "english": "devaputra",
+    "chinese": "天子",
+    "sanskrit": "devaputra",
+    "category": "cosmological",
+    "sources": [
+      "T0008",
+      "T0015"
+    ]
+  },
+  {
+    "english": "five Pure Abodes",
+    "chinese": "五淨居天",
+    "sanskrit": "pañca śuddhāvāsa",
+    "category": "cosmological",
+    "sources": [
+      "T0012"
+    ]
+  },
+  {
+    "english": "five turbidities",
+    "chinese": "五濁",
+    "sanskrit": "pañcakaṣāya",
+    "category": "cosmological",
+    "sources": [
+      "T0002"
+    ]
+  },
+  {
+    "english": "form realm",
+    "chinese": "色界",
+    "sanskrit": "rūpadhātu",
+    "category": "cosmological",
+    "sources": [
+      "T0018",
+      "T0021",
+      "T0099",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "formless realm",
+    "chinese": "無色界",
+    "sanskrit": "ārūpyadhātu",
+    "category": "cosmological",
+    "sources": [
+      "T0014",
+      "T0018",
+      "T0099",
+      "T0222",
+      "T1505",
+      "T1602"
+    ]
+  },
+  {
+    "english": "gandharva",
+    "chinese": "乾闥婆",
+    "sanskrit": "gandharva",
+    "category": "cosmological",
+    "sources": [
+      "T0006",
+      "T0008",
+      "T0015",
+      "T0019",
+      "T1566"
+    ]
+  },
+  {
+    "english": "hell",
+    "chinese": "地獄",
+    "sanskrit": "naraka",
+    "category": "cosmological",
+    "sources": [
+      "T0002",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0012",
+      "T0016",
+      "T0017",
+      "T0020",
+      "T0029",
+      "T0039",
+      "T0041",
+      "T0042",
+      "T0043",
+      "T0051",
+      "T0053",
+      "T0054",
+      "T0057",
+      "T0058",
+      "T0062",
+      "T0066",
+      "T0067",
+      "T0068",
+      "T0071",
+      "T0075",
+      "T0078",
+      "T0152",
+      "T0222",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "hungry ghost",
+    "chinese": "餓鬼",
+    "sanskrit": "preta",
+    "category": "cosmological",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0012",
+      "T0020",
+      "T0057",
+      "T0062",
+      "T0068",
+      "T0152",
+      "T0222",
+      "T1505",
+      "T1507",
+      "T1602"
+    ]
+  },
+  {
+    "english": "kalpa",
+    "chinese": "劫",
+    "sanskrit": "kalpa",
+    "category": "cosmological",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0012",
+      "T0018",
+      "T0019",
+      "T0020",
+      "T0021",
+      "T0030",
+      "T0041",
+      "T0066",
+      "T0071",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T0265",
+      "T0887",
+      "T1421",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "koṭi",
+    "chinese": "億",
+    "sanskrit": "koṭi",
+    "category": "cosmological",
+    "sources": [
+      "T0005",
+      "T0018",
+      "T0039",
+      "T0222",
+      "T0887",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "maṇḍala",
+    "chinese": "曼荼羅",
+    "sanskrit": "maṇḍala",
+    "category": "cosmological",
+    "sources": [
+      "T0887"
+    ]
+  },
+  {
+    "english": "Nirmāṇarati",
+    "chinese": "化樂天",
+    "sanskrit": "Nirmāṇarati",
+    "category": "cosmological",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0019",
+      "T0030",
+      "T0222",
+      "T1505"
+    ]
+  },
+  {
+    "english": "nāga",
+    "chinese": "龍",
+    "sanskrit": "nāga",
+    "category": "cosmological",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0015",
+      "T0019",
+      "T0033",
+      "T0034",
+      "T0035",
+      "T0038",
+      "T0061",
+      "T0062",
+      "T0067",
+      "T0076",
+      "T0099",
+      "T0152",
+      "T0265",
+      "T0887",
+      "T1507",
+      "T1628"
+    ]
+  },
+  {
+    "english": "Paranirmitavaśavartin",
+    "chinese": "他化自在天",
+    "sanskrit": "Paranirmitavaśavartin",
+    "category": "cosmological",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0019",
+      "T0030",
+      "T0222",
+      "T0887",
+      "T1505"
+    ]
+  },
+  {
+    "english": "saṃsāra",
+    "chinese": "輪迴",
+    "sanskrit": "saṃsāra",
+    "category": "cosmological",
+    "sources": [
+      "T0003",
+      "T0006",
+      "T0052",
+      "T0060",
+      "T0222",
+      "T1566"
+    ]
+  },
+  {
+    "english": "Sudarśana",
+    "chinese": "善現天",
+    "sanskrit": "Sudarśana",
+    "category": "cosmological",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0012",
+      "T1505",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Sudṛśa",
+    "chinese": "善見天",
+    "sanskrit": "Sudṛśa",
+    "category": "cosmological",
+    "sources": [
+      "T0012",
+      "T1505"
+    ]
+  },
+  {
+    "english": "three evil paths",
+    "chinese": "三惡道",
+    "sanskrit": "trayo durgati",
+    "category": "cosmological",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0071",
+      "T0265"
+    ]
+  },
+  {
+    "english": "three realms",
+    "chinese": "三界",
+    "sanskrit": "trailokya",
+    "category": "cosmological",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0015",
+      "T0016",
+      "T0020",
+      "T0061",
+      "T0062",
+      "T0076",
+      "T0152",
+      "T0222",
+      "T0887",
+      "T1505",
+      "T1507",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "trichiliocosm",
+    "chinese": "三千大千世界",
+    "sanskrit": "trisāhasramahāsāhasralokadhātu",
+    "category": "cosmological",
+    "sources": [
+      "T0222",
+      "T0265",
+      "T0887"
+    ]
+  },
+  {
+    "english": "Trāyastriṃśa",
+    "chinese": "忉利天",
+    "sanskrit": "Trāyastriṃśa",
+    "category": "cosmological",
+    "sources": [
+      "T0002",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0015",
+      "T0019",
+      "T0030",
+      "T0039",
+      "T0040",
+      "T0044",
+      "T0066",
+      "T0067",
+      "T0222",
+      "T0265",
+      "T1505",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Tuṣita",
+    "chinese": "兜率天",
+    "sanskrit": "Tuṣita",
+    "category": "cosmological",
+    "sources": [
+      "T0002",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0019",
+      "T0030",
+      "T0152",
+      "T0222",
+      "T1421",
+      "T1505"
+    ]
+  },
+  {
+    "english": "yakṣa",
+    "chinese": "夜叉",
+    "sanskrit": "yakṣa",
+    "category": "cosmological",
+    "sources": [
+      "T0002",
+      "T0006",
+      "T0019",
+      "T0887",
+      "T1505",
+      "T1602",
+      "T1628"
+    ]
+  },
+  {
+    "english": "Yāma",
+    "chinese": "夜摩天",
+    "sanskrit": "Yāma",
+    "category": "cosmological",
+    "sources": [
+      "T0002",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0019",
+      "T0030",
+      "T0042",
+      "T0043",
+      "T0222",
+      "T1505"
+    ]
+  },
+  {
+    "english": "alms bowl",
+    "chinese": "鉢",
+    "sanskrit": "pātra",
+    "category": "monastic_item",
+    "sources": [
+      "T0003",
+      "T0009",
+      "T1421",
+      "T1507"
+    ]
+  },
+  {
+    "english": "five precepts",
+    "chinese": "五戒",
+    "sanskrit": "pañcaśīla",
+    "category": "monastic_item",
+    "sources": [
+      "T0002",
+      "T0005",
+      "T0006",
+      "T0016",
+      "T0033",
+      "T0054",
+      "T0068",
+      "T0072",
+      "T0074",
+      "T0078",
+      "T0099",
+      "T0152",
+      "T1505",
+      "T1507"
+    ]
+  },
+  {
+    "english": "four assemblies",
+    "chinese": "四眾",
+    "sanskrit": "catuḥpariṣad",
+    "category": "monastic_item",
+    "sources": [
+      "T0006",
+      "T0009",
+      "T0034",
+      "T0044",
+      "T0063",
+      "T0067",
+      "T0222",
+      "T0265",
+      "T1421",
+      "T1507"
+    ]
+  },
+  {
+    "english": "kāṣāya",
+    "chinese": "袈裟",
+    "sanskrit": "kāṣāya",
+    "category": "monastic_item",
+    "sources": [
+      "T0003",
+      "T0008",
+      "T0028",
+      "T0067",
+      "T0068",
+      "T0069",
+      "T1421"
+    ]
+  },
+  {
+    "english": "ordination",
+    "chinese": "受具足戒",
+    "sanskrit": "upasampadā",
+    "category": "monastic_item",
+    "sources": [
+      "T0003",
+      "T0060",
+      "T1421",
+      "T1507"
+    ]
+  },
+  {
+    "english": "parajika",
+    "chinese": "波羅夷",
+    "sanskrit": "pārājika",
+    "category": "monastic_item",
+    "sources": [
+      "T1421"
+    ]
+  },
+  {
+    "english": "precepts",
+    "chinese": "戒",
+    "sanskrit": "śīla",
+    "category": "monastic_item",
+    "sources": [
+      "T0002",
+      "T0003",
+      "T0005",
+      "T0006",
+      "T0011",
+      "T0012",
+      "T0015",
+      "T0016",
+      "T0017",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0030",
+      "T0033",
+      "T0034",
+      "T0035",
+      "T0041",
+      "T0042",
+      "T0043",
+      "T0044",
+      "T0051",
+      "T0054",
+      "T0060",
+      "T0062",
+      "T0067",
+      "T0068",
+      "T0069",
+      "T0070",
+      "T0071",
+      "T0072",
+      "T0073",
+      "T0074",
+      "T0076",
+      "T0078",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1421",
+      "T1505",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Prātimokṣa",
+    "chinese": "波羅提木叉",
+    "sanskrit": "Prātimokṣa",
+    "category": "monastic_item",
+    "sources": [
+      "T0003",
+      "T0034",
+      "T0060",
+      "T1421"
+    ]
+  },
+  {
+    "english": "rains retreat",
+    "chinese": "安居",
+    "sanskrit": "varṣā",
+    "category": "monastic_item",
+    "sources": [
+      "T0003",
+      "T0063",
+      "T0069",
+      "T0077",
+      "T1421"
+    ]
+  },
+  {
+    "english": "saṃghāṭī",
+    "chinese": "僧伽梨",
+    "sanskrit": "saṃghāṭī",
+    "category": "monastic_item",
+    "sources": [
+      "T0047"
+    ]
+  },
+  {
+    "english": "Saṅgha",
+    "chinese": "僧伽",
+    "sanskrit": "saṃgha",
+    "category": "monastic_item",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0015",
+      "T0033",
+      "T0034",
+      "T0060",
+      "T0061",
+      "T0069",
+      "T0070",
+      "T0072",
+      "T0073",
+      "T0074",
+      "T0075",
+      "T0076",
+      "T0099",
+      "T1507",
+      "T1566"
+    ]
+  },
+  {
+    "english": "stūpa",
+    "chinese": "塔",
+    "sanskrit": "stūpa",
+    "category": "monastic_item",
+    "sources": [
+      "T0005",
+      "T0006",
+      "T0016",
+      "T0041",
+      "T0099",
+      "T0152",
+      "T0265",
+      "T1505",
+      "T1507"
+    ]
+  },
+  {
+    "english": "uttarāsaṅga",
+    "chinese": "鬱多羅僧",
+    "sanskrit": "uttarāsaṅga",
+    "category": "monastic_item",
+    "sources": [
+      "T0047"
+    ]
+  },
+  {
+    "english": "amṛta",
+    "chinese": "甘露",
+    "sanskrit": "amṛta",
+    "category": "other",
+    "sources": [
+      "T0009",
+      "T0035",
+      "T0044",
+      "T0062"
+    ]
+  },
+  {
+    "english": "Aśvattha tree",
+    "chinese": "阿說他樹",
+    "sanskrit": "aśvattha",
+    "category": "other",
+    "sources": [
+      "T0004",
+      "T0006"
+    ]
+  },
+  {
+    "english": "Bodhi tree",
+    "chinese": "菩提樹",
+    "sanskrit": "bodhivṛkṣa",
+    "category": "other",
+    "sources": [
+      "T0075",
+      "T1421"
+    ]
+  },
+  {
+    "english": "brāhmaṇa",
+    "chinese": "婆羅門",
+    "sanskrit": "brāhmaṇa",
+    "category": "other",
+    "sources": [
+      "T0002",
+      "T0004",
+      "T0005",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0015",
+      "T0017",
+      "T0018",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0027",
+      "T0030",
+      "T0033",
+      "T0035",
+      "T0041",
+      "T0044",
+      "T0046",
+      "T0049",
+      "T0051",
+      "T0053",
+      "T0054",
+      "T0056",
+      "T0057",
+      "T0058",
+      "T0060",
+      "T0065",
+      "T0066",
+      "T0067",
+      "T0068",
+      "T0069",
+      "T0070",
+      "T0071",
+      "T0072",
+      "T0073",
+      "T0074",
+      "T0075",
+      "T0076",
+      "T0078",
+      "T0099",
+      "T0152",
+      "T0265",
+      "T1421",
+      "T1505",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Dharmaguptaka",
+    "chinese": "法藏部",
+    "sanskrit": "Dharmaguptaka",
+    "category": "other",
+    "sources": [
+      "T1566"
+    ]
+  },
+  {
+    "english": "four elements",
+    "chinese": "四大",
+    "sanskrit": "catvāri mahābhūtāni",
+    "category": "other",
+    "sources": [
+      "T0003",
+      "T0005",
+      "T0020",
+      "T0021",
+      "T0022",
+      "T0099",
+      "T0152",
+      "T0222",
+      "T1505",
+      "T1566",
+      "T1602"
+    ]
+  },
+  {
+    "english": "kṣatriya",
+    "chinese": "剎帝利",
+    "sanskrit": "kṣatriya",
+    "category": "other",
+    "sources": [
+      "T0002",
+      "T0004",
+      "T0006",
+      "T0008",
+      "T0009",
+      "T0011",
+      "T0030",
+      "T0033",
+      "T0038",
+      "T0049",
+      "T0053",
+      "T0060",
+      "T0070",
+      "T0071",
+      "T1507"
+    ]
+  },
+  {
+    "english": "Licchavī",
+    "chinese": "離車",
+    "sanskrit": "Licchavī",
+    "category": "other",
+    "sources": [
+      "T0005",
+      "T0006"
+    ]
+  },
+  {
+    "english": "Mahisasaka",
+    "chinese": "彌沙塞部",
+    "sanskrit": "Mahīśāsaka",
+    "category": "other",
+    "sources": [
+      "T1421"
+    ]
+  },
+  {
+    "english": "maṇi",
+    "chinese": "摩尼",
+    "sanskrit": "maṇi",
+    "category": "other",
+    "sources": [
+      "T0002",
+      "T0019",
+      "T0020",
+      "T0033",
+      "T0034",
+      "T0038",
+      "T0041",
+      "T0265",
+      "T0887",
+      "T1507",
+      "T1566"
+    ]
+  },
+  {
+    "english": "Nyagrodha tree",
+    "chinese": "尼拘陀樹",
+    "sanskrit": "nyagrodha",
+    "category": "other",
+    "sources": [
+      "T0004",
+      "T0006"
+    ]
+  },
+  {
+    "english": "Puṇḍarīka tree",
+    "chinese": "芬陀利樹",
+    "sanskrit": "Puṇḍarīka",
+    "category": "other",
+    "sources": [
+      "T0004"
+    ]
+  },
+  {
+    "english": "Pāṭalī tree",
+    "chinese": "波吒釐樹",
+    "sanskrit": "Pāṭalī",
+    "category": "other",
+    "sources": [
+      "T0004"
+    ]
+  },
+  {
+    "english": "Udumbara tree",
+    "chinese": "優曇婆羅樹",
+    "sanskrit": "udumbara",
+    "category": "other",
+    "sources": [
+      "T0004",
+      "T0005"
+    ]
+  },
+  {
+    "english": "Vedas",
+    "chinese": "吠陀",
+    "sanskrit": "Veda",
+    "category": "other",
+    "sources": [
+      "T0008",
+      "T0041",
+      "T1566"
+    ]
+  },
+  {
+    "english": "Vṛjji",
+    "chinese": "跋耆",
+    "sanskrit": "Vṛjji",
+    "category": "other",
+    "sources": [
+      "T0006"
+    ]
+  },
+  {
+    "english": "Śirīṣa tree",
+    "chinese": "尸利沙樹",
+    "sanskrit": "śirīṣa",
+    "category": "other",
+    "sources": [
+      "T0004"
+    ]
+  },
+  {
+    "english": "Śāla tree",
+    "chinese": "娑羅樹",
+    "sanskrit": "śāla",
+    "category": "other",
+    "sources": [
+      "T0004"
+    ]
+  }
+]

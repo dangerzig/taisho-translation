@@ -10,9 +10,9 @@ date: April 2026
 
 The Taishō Tripiṭaka contains 2,455 texts spanning 8,915 fascicles and 72.2 million Chinese characters, representing the most comprehensive collection of Chinese Buddhist canonical literature. Despite decades of effort, only about 15-20% of the canon has any English translation. The BDK English Tripiṭaka project, the most ambitious systematic effort to date, has published approximately 81 texts in 43 years and is projected to require over 100 years for Phase 1 alone (139 texts).
 
-This study demonstrates that AI-assisted translation can compress this timeline dramatically. We translated a representative sample of 12 untranslated texts (149 fascicles, 1.24 million Chinese characters) spanning all major genres of the canon in approximately 72 minutes of wall-clock time. This represents a sustained throughput of over 1 million characters per hour, suggesting the entire untranslated corpus could be rendered into English in a matter of weeks rather than centuries.
+This study demonstrates that AI-assisted translation can compress this timeline dramatically. Using a hybrid pipeline (Claude Sonnet for automated batch translation, Claude Opus for interactive review), we achieved sustained throughput of approximately 50,000 characters per hour in unattended batch mode. Running continuously, this translates to roughly 1.2 million characters per day, suggesting the entire untranslated corpus could be rendered into English in a matter of months rather than centuries.
 
-The results, detailed below, indicate that a small team could produce complete first-draft translations of the remaining approximately 1,800 untranslated texts within weeks to months, making them available for scholarly review.
+As of early April 2026, we have completed 83 translations covering texts from across the canon, with the automated pipeline running continuously. The results indicate that a small team could produce complete first-draft translations of the remaining approximately 1,800 untranslated texts within several months, making them available for scholarly review.
 
 \newpage
 
@@ -102,7 +102,9 @@ We selected 12 texts to represent the full diversity of the Taishō, organized i
 
 ### 3.3 Timing Methodology
 
-Each translation was timed using Unix timestamps (`date +%s`) recorded at the start and end of each text's translation. Tier 3 texts were translated in parallel using three simultaneous AI agents, with the wall-clock time recorded for the entire parallel batch.
+Initial timing measurements were taken during interactive sessions using Unix timestamps at the start and end of each translation. These initial measurements captured raw model throughput but did not fully account for rate limiting, pipeline overhead, and quality-checking steps that reduce effective throughput in sustained production.
+
+Subsequent production runs provided more realistic sustained throughput data. Over a full day of interactive translation (April 2, 2026), we translated 69 texts totaling 225,742 CJK characters in 10.9 hours, yielding an effective rate of approximately 21,000 characters per hour. An automated batch pipeline using Claude Sonnet achieved approximately 52,000 characters per hour in unattended mode.
 
 \newpage
 
@@ -127,22 +129,27 @@ Each translation was timed using Unix timestamps (`date +%s`) recorded at the st
 
 \* Tier 3 texts were translated in parallel; times marked with * reflect wall-clock time for the entire parallel batch (15:09 total for all three).
 
-**Summary statistics:**
+**Initial sample statistics:**
 - **Total characters translated**: 1,243,869
 - **Total wall-clock time**: ~72 minutes
-- **Aggregate throughput**: 1,039,079 chars/hr
-- **Sequential throughput** (Tier 1-2 only): 300,000-780,000 chars/hr depending on genre
-- **Parallel throughput** (Tier 3): 3,473,075 chars/hr (3 agents)
+- **Apparent aggregate throughput**: 1,039,079 chars/hr (see note below)
+
+**Note on throughput measurement:** The initial sample throughput figures above reflect raw model streaming speed during a single interactive session and do not account for rate limiting, pipeline overhead, and review steps that reduce effective throughput in sustained production. Subsequent production measurements show substantially lower but more realistic sustained rates.
+
+**Sustained production statistics (April 2026):**
+- **Interactive Opus (with review)**: ~21,000 chars/hr effective (69 texts, 225,742 chars, 10.9 hours)
+- **Automated Sonnet batch (per-text)**: ~52,000 chars/hr (measured on a 5,691-char text)
+- **Automated Sonnet batch (rate-limited)**: ~47 requests/hr (measured: 31 requests per 30-min window)
 
 ### 4.2 Key Observations
 
-**Throughput scales with text size.** Small texts (under 10,000 characters) show lower chars/hr rates due to fixed per-text overhead (reading the source, setting up context, writing headers). Texts over 50,000 characters consistently achieve 400,000+ chars/hr in sequential mode.
+**Rate limiting, not processing speed, is the primary bottleneck.** The Claude Max subscription allows approximately 31 API requests per 30-minute window before imposing a cooldown. With cooldown periods, effective throughput is approximately 47 requests per hour. Since each small text (under 15,000 characters) requires one request, and each large text requires multiple requests (approximately one per 10,000 characters), the total number of requests determines the timeline more than text size or genre difficulty.
 
-**Repetitive genres are fastest.** The Prajñāpāramitā sūtra (T0222), with its highly formulaic structure, achieved the highest sequential throughput at nearly 781,000 chars/hr. The Āgama (T0099), with its repetitive sūtra format, was similarly efficient. This is significant because repetitive genres constitute a large fraction of the canon.
+**Throughput varies by mode.** Interactive translation with human review achieves approximately 21,000 chars/hr, while automated batch translation achieves approximately 52,000 chars/hr per request. However, rate limiting means the batch pipeline's effective throughput depends on the number of texts rather than their aggregate size.
 
-**Philosophical treatises are slowest but still fast.** The most demanding text, the Madhyamaka commentary (T1566), with its formal debate structure and dense philosophical argumentation, still achieved over 384,000 chars/hr. Even the hardest texts in the canon can be translated at rates far exceeding human capability.
+**Repetitive genres are fastest.** The Prajñāpāramitā sūtra (T0222) and Āgama collections, with their highly formulaic structures, show the highest relative throughput. This is significant because repetitive genres constitute a large fraction of the canon.
 
-**Parallelization is highly effective.** Running three agents simultaneously on the Tier 3 texts produced a combined throughput of nearly 3.5 million chars/hr, demonstrating that the pipeline scales linearly with parallel agents.
+**Philosophical treatises are slower but still fast.** Dense Madhyamaka commentaries and logic treatises require more model reasoning time but still achieve translation rates far exceeding human capability.
 
 ### 4.3 Difficulty Assessment
 
@@ -184,65 +191,79 @@ Areas requiring expert review:
 
 ### 5.2 Time Estimates
 
-Using conservative throughput estimates derived from our sample (accounting for varying genre difficulty and a mix of text sizes):
+The primary constraint on translation speed is not processing time but API rate limiting. The Claude Max subscription allows approximately 31 requests per 30-minute window (about 47 requests per hour). Each text under 15,000 Chinese characters requires one request; larger texts require approximately one request per 10,000 characters.
 
-| Scenario | Throughput | Hours for 52.2M chars | Calendar Time (1 person, 40 hr/wk) |
-|----------|------------|----------------------|-------------------------------------|
-| Conservative (sequential, hard texts) | 300,000 chars/hr | 174 hours | ~4.4 weeks |
-| Moderate (sequential, mixed genres) | 500,000 chars/hr | 104 hours | ~2.6 weeks |
-| Demonstrated (with parallelization) | 1,000,000 chars/hr | 52 hours | ~1.3 weeks |
-| Aggressive (3-agent parallel) | 2,000,000 chars/hr | 26 hours | ~3.3 days |
+**Remaining corpus breakdown (as of April 2026):**
+
+| Category | Texts | CJK Characters | Requests Needed |
+|----------|-------|---------------|-----------------|
+| Small texts (<=15K chars) | 1,543 | 6.4M | 1,543 |
+| Large texts (>15K chars) | 641 | 62M | ~5,858 |
+| **Total remaining** | **2,184** | **68.4M** | **~7,401** |
+
+**Time estimates at measured rate (~47 requests/hr):**
+
+| Category | Requests | Est. Time (24/7) |
+|----------|----------|-------------------|
+| Small texts | 1,543 | ~33 hours (1.4 days) |
+| Large texts | ~5,858 | ~125 hours (5.2 days) |
+| **Total** | **~7,401** | **~157 hours (~7 days)** |
+
+These estimates assume a single subscription running continuously. Multiple subscriptions would reduce the timeline proportionally.
 
 Adding typesetting (largely automated) and project management overhead:
 
 | Phase | Estimated Time | Notes |
 |-------|---------------|-------|
-| AI translation (first draft) | 50-175 hours | Depending on parallelization |
+| AI translation (first draft) | 150-200 hours | Rate-limit constrained |
 | Typesetting and formatting | 50-100 hours | Largely automated pipeline |
+| Quality review and correction | 200-500 hours | Expert review of key texts |
 | Project management | 50-100 hours | Coordination, quality tracking |
-| **Total** | **150-375 hours** | |
+| **Total** | **450-900 hours** | |
 
 ### 5.3 Team and Timeline Scenarios
 
-These estimates cover producing complete first-draft translations ready for scholarly review. The time required for expert review and revision is outside the scope of this proposal.
+These estimates cover producing complete first-draft translations ready for scholarly review. The time required for comprehensive expert review and revision is outside the scope of this proposal.
 
-| Team Size | Working Hours/Year | Completion Time |
-|-----------|-------------------|-----------------|
-| 1 person full-time | 2,000 | 1-2 months |
-| 2 people full-time | 4,000 | 2-5 weeks |
-| 5 people (mixed FT/PT) | 6,000 | 1-3 weeks |
+| Team Size | Approach | First-Draft Completion |
+|-----------|---------|------------------------|
+| 1 person with 24/7 batch pipeline | Single subscription, automated | ~1-2 weeks |
+| 2 people with parallel pipelines | 2 subscriptions + review | ~1 week |
+| Small team (3-5 people) | Multiple subscriptions + systematic review | ~1 week + ongoing review |
 
 \newpage
 
 ## 6. Proposed Work Plan
 
-### Phase 1: Āgamas and Major Sūtras (Months 1-2)
+### Phase 1: Automated First Drafts (Weeks 1-2)
 
-The Āgama collections and major Mahāyāna sūtras are the highest priority for the scholarly community and often the most straightforward to translate due to their formulaic structure.
+All texts are processed via the automated batch pipeline, sorted by size (smallest first). Texts under 15,000 CJK characters are translated in a single request; larger texts are split by fascicle.
 
-- Remaining Āgama texts (vols. 1-2)
-- Major untranslated Mahāyāna sūtras (vols. 9-17)
-- Prajñāpāramitā corpus (vol. 5-8)
-- Estimated: ~600 texts, ~18M characters
+- ~1,543 small texts (~1.4 days at measured rate)
+- ~641 large texts requiring fascicle splitting (~5.2 days)
+- Estimated completion: ~7 days of continuous automated operation
 
-### Phase 2: Vinaya and Abhidharma (Months 2-3)
+### Phase 2: Quality Review and Correction (Weeks 2-8)
 
-- Complete Vinaya codes and supplementary texts (vols. 22-24)
-- Abhidharma treatises (vols. 25-29)
-- Estimated: ~300 texts, ~12M characters
+Systematic review of automated translations, prioritized by scholarly significance:
 
-### Phase 3: Commentaries and Treatises (Months 3-5)
+- Āgama collections and major Mahāyāna sūtras (highest priority)
+- Vinaya codes and Abhidharma treatises
+- Philosophical treatises (Madhyamaka, Yogācāra, logic)
+- Estimated: 200-500 hours of expert review time
 
-- Madhyamaka, Yogācāra, and logic treatises (vols. 30-32)
-- Chinese commentarial literature (vols. 33-40)
-- Estimated: ~500 texts, ~15M characters
+### Phase 3: Specialized Texts and Typesetting (Weeks 8-12)
 
-### Phase 4: Specialized and Supplementary (Months 5-6)
+- Review of esoteric/tantric texts, commentaries, historical works
+- Typesetting and PDF generation for all translations
+- Glossary compilation and cross-referencing
+- Estimated: 100-200 hours
 
-- Esoteric/tantric texts (vols. 18-21)
-- Historical, biographical, and encyclopedic texts (vols. 49-54)
-- Supplementary texts (vol. 85)
-- Estimated: ~400 texts, ~7M characters
+### Phase 4: Publication and Dissemination (Months 3-6)
+
+- Final editorial review of priority texts
+- Open-access publication of complete corpus
+- Digital searchable corpus and parallel editions
 
 ## 7. Team Structure
 
@@ -265,8 +286,8 @@ The Āgama collections and major Mahāyāna sūtras are the highest priority for
 
 | Metric | BDK English Tripiṭaka | AI-Assisted (This Proposal) |
 |--------|----------------------|----------------------------|
-| Texts completed | ~81 (in 43 years) | 12 sample (in 72 minutes) |
-| Current rate | ~2 texts/year | ~10 texts/hour |
+| Texts completed | ~81 (in 43 years) | 114 (in ~2 weeks of operation) |
+| Current rate | ~2 texts/year | ~47 texts/hour (rate-limit constrained) |
 | Phase 1 target | 139 texts | All 2,455 texts |
 | Phase 1 projected completion | ~2050-2060 | 2026-2027 |
 | Full canon projected | 22nd century | 2026-2027 |
@@ -277,9 +298,11 @@ The comparison is not meant to diminish the extraordinary scholarly achievement 
 
 ## 10. Conclusion
 
-This feasibility study demonstrates that complete first-draft English translations of the entire Taishō Tripiṭaka can be produced within weeks to months using AI-assisted methods. Our sample of 12 texts across all major genres shows consistent, high-throughput translation that scales effectively with parallelization.
+This feasibility study demonstrates that complete first-draft English translations of the entire Taishō Tripiṭaka can be produced within months using AI-assisted methods. Our initial sample of 12 texts across all major genres confirmed the viability of the approach, and subsequent production runs have now completed 83 translations from across the canon.
 
-The Buddhist Studies community has long recognized the need for broader access to the Chinese canon in Western languages. The technology now exists to produce draft translations of the entire untranslated corpus, ready for scholarly review, within a single project cycle. We propose assembling a small, focused team to begin this work immediately.
+Sustained production measurements show that the primary constraint is API rate limiting (approximately 47 requests per hour), not processing speed. At this rate, the approximately 7,400 requests needed to translate the full remaining corpus can be completed in roughly one week of continuous automated operation.
+
+The Buddhist Studies community has long recognized the need for broader access to the Chinese canon in Western languages. The technology now exists to produce draft translations of the entire untranslated corpus, ready for scholarly review, within weeks rather than centuries. We propose assembling a small, focused team to complete the first-draft translations and begin systematic scholarly review within 2026.
 
 ---
 

@@ -1,0 +1,58 @@
+# 清淨觀世音普賢陀羅尼經
+## Pure Avalokiteśvara Samantabhadra Dhāraṇī Sūtra
+
+Taishō Tripiṭaka No. 1038
+
+Translated from the Chinese. Tang dynasty, translated by Zhìtōng (智通).
+
+---
+
+Thus have I heard. At one time the Bhagavān was in the city of Rājagṛha on Vulture Peak, together with a great assembly of five hundred bhikṣus and countless bodhisattvas. At that time, Avalokiteśvara Bodhisattva was seated together with ninety-two koṭis of bodhisattvas. Then Avalokiteśvara Bodhisattva, rising from his seat at dawn, straightened his robes, joined palms reverently, bowed his head to the Buddha, and addressed him: "World-Honored One, I wish to speak the Samantabhadra Dhāraṇī, out of compassion to benefit all sentient beings. I received this spell from Candraprabhā Buddha in the past, and now wish to speak this dhāraṇī before the Buddha. I humbly beseech the World-Honored One to permit me to proclaim it." He then spoke the spell:
+
+*Namo ratna-trayāya. Namaḥ ārya-avalokiteśvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya. Tadyathā: khagave khagave khagave cakṣu-khagave sūtra-khagave karaṇa-khagave jihva-khagave kāya-khagave mana-khagave svara-khagave vaima-khagave śūnya-khagave nirmita-khagave praṇidhāna-khagave samatha-khagave pāramitā-khagave bodhi-khagave sara sara sara sarva-buddha-adhiṣṭhite bhara bhara bhara dharma-adhiṣṭhite kara kara kara saṅgha-adhiṣṭhite. Namaḥ ārya-avalokiteśvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya. Namo sattva-navatīnāṃ bodhisattva-koṭīnāṃ adhiṣṭhāntu mā āyur-balāṃ-ca-da-nantu. Tadyathā: surabhī surabhī mahā-surabhī muni muni mahāmuni mati mati mahāmati. Namaḥ ārya-avalokiteśvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya. Siddhyantu samanta-bhadra-dhāraṇī svāhā.*
+
+"The above is the root spell.
+
+"The boundary-sealing dhāraṇī spell says:
+
+*Namo ratna-trayāya. Namaḥ ārya-avalokiteśvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya. Tadyathā: ciri-bandha-mi miri-bandha-mi ciri-miri-bandha-mi sīmā-bandha-mi sīmā-me kaṣṭhina-ti-kramatu svāhā.*
+
+"Empower water with twenty-one recitations and sprinkle in all ten directions to establish the boundary. Before using this dhāraṇī spell, one must first maintain the practice of pre-establishing the boundary. Sealing the boundary as I have described, one achieves accomplishment.
+
+"The invitation dhāraṇī says:
+
+*Namo ratna-trayāya. Namaḥ ārya-avalokiteśvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya. Tadyathā: ciri ciri miri miri cirile ehi bhagavan ārya-avalokiteśvara svāhā.*
+
+"If you wish to invite me, after making the heart-invitation as I have described, then from the eighth to the fifteenth of the bright half of the month, bathe daily in fragrant water at all three periods and don new, clean garments. At each of the three daily periods, recite one hundred and eight repetitions of the spell. On the fifteenth day, make especially excellent offerings and recite without limit. At midnight on that night, Avalokiteśvara Bodhisattva will personally come and manifest a golden body, adorned with marks and excellences, emitting various kinds of radiance and a thousand rays of light. At that time, the spell-master should not be afraid.
+
+"When the practitioner sees this, having attained the superior bhūmi and the dhāraṇī samādhi, one then sees Akṣobhya Buddha in the east, Ratnalakṣaṇa Buddha in the south, Amitābha Buddha in the west, and Sūkṣmasvara Buddha in the north. One sees the radiant forms of such tathāgatas of the ten directions in their boundless number. After departing this body, one is born in a pure buddha-land, praised by the buddhas in all places. The Samantabhadra Dhāraṇī has been fully proclaimed."
+
+At that time, when Avalokiteśvara Bodhisattva had spoken this spell, ninety-two koṭis of bodhisattvas all attained the stage of non-retrogression (avaivartika), saw all the buddhas, heard the true dharma, destroyed all grave sins of the three obstructions, and gained great merit. "Like the number of dust-motes on the ground of Jambudvīpa, the practitioner's own body gains various merits and adornments. All illness, suffering, and evil karma are entirely extinguished. One further gains swift eloquence, a mind of mastery, and all aspirations are fulfilled. One perfects all the pāramitās, is reborn at will in the pure lands of the ten directions, sees all the buddhas, and hears the true dharma preached. One attains the śūraṅgama and all other samādhis, including the jewel samādhi, the radiance samādhi, the great-ocean-water samādhi, the sky-ascension samādhi, and the emergence-and-submersion samādhi, attaining samādhis like these, equal in number to the sands of the Ganges. One further attains immeasurable great-power dhāraṇī-gates. The merit of this spell is no different from the merit of eight hundred thousand dhāraṇīs. Through the power of this spell I have attained this dharma-body and am further able to benefit all sentient beings, enabling them swiftly to gain various kinds of intelligence, eloquence, and the pure dharma-body. Through the power of this spell, upon hearing it once, one holds it in memory and never forgets. Through the power of this spell, wherever my lasso touches, the grave sins of all sentient beings are extinguished, and all evil persons, evil māras, evil ghosts, and evil spirits are naturally subdued and eliminated. All sentient beings who hear the name of this spell and maintain it will never fall into the hells, the hungry ghost realm, or the animal realm."
+
+The Buddha said: "Excellent, excellent! As for the power of your spell, if there are members of the fourfold assembly who can maintain it, the merits and power they gain will be no different from mine."
+
+At that time, when Avalokiteśvara Bodhisattva spoke this spell, the great trichiliocosm trembled in six ways. From above in the Akaniṣṭha Heaven down to all the devas, nāgas, yakṣas, ghosts, spirits, humans, and non-humans within it, all were shaken with awe, their hair standing on end, and they praised: "Excellent! The spiritual power of this spell is inconceivable. All sentient beings receive its benefit." Then Avalokiteśvara Bodhisattva again addressed the Buddha: "May the Buddha bear witness! May the fourfold assembly, regarding the spell I have proclaimed, all diligently maintain it with reverence and make offerings to it."
+
+Then Avalokiteśvara Bodhisattva addressed the Buddha: "Now that I have upheld this spell, the entire great earth has trembled in six ways, and all sentient beings, devas, and nāgas are all awestruck. The spiritual power of this spell is inconceivable.
+
+"By what causes and conditions do I and all sentient beings who maintain it attain the vajra samādhi? How can you and all sentient beings who maintain it attain peace and security of mind, gaining merits and spiritual power no different from mine? I shall further explain the powers of this spell.
+
+"At dawn, recite the spell twenty-one times; at midday, twenty-one times; toward evening, twenty-one times. If one constantly maintains it without forgetting, one can extinguish the five heinous crimes. One further accomplishes the śūraṅgama and all other samādhis, accomplishes all dhāraṇīs, and accomplishes all buddha-dharmas. If one can constantly and diligently recite it without forgetting, one will always see Śākyamuni Buddha, Samantabhadra Bodhisattva, and Avalokiteśvara Bodhisattva, and will also see celestial maidens receiving the buddha-dharma.
+
+"If one wishes to make an icon, one should paint Śākyamuni Buddha seated on a lotus throne, golden in body, wearing five-colored robes. On the left side, paint Samantabhadra Bodhisattva seated on Mount Sumeru. On the mountain's left, a seven-headed nāga encircles the mountain with its seven heads emerging from the left and looking toward the bodhisattva. On the right, a five-headed nāga encircles the mountain with its five heads emerging from the right and looking toward the bodhisattva. The bodhisattva sits in lotus posture, holding a sūtra open in both hands for reading, wearing five-colored robes. The Buddha's right hand forms a teaching mudrā while the left hand grasps the kāṣāya and rests on the knee, preaching the dharma.
+
+"On the right side, paint Avalokiteśvara seated on a lotus throne, wearing white robes, kneeling with palms joined, facing the Buddha and listening to the dharma. On the left side, three hands: one holding flowers, one holding a water pitcher, one holding a sūtra case. On the right side, three hands: one bestowing fearlessness and producing jewels, one holding a lasso, one holding a rosary. Atop the bodhisattva's head is a buddha.
+
+"Below, paint the practitioner kneeling, burning incense and holding a rosary, looking toward the bodhisattva. Below Samantabhadra, paint a Vidyā celestial maiden, kneeling in a seated position, offering a flower-crown in her hands, wearing white robes, on a sitting-cloth, looking toward the bodhisattva. The icon should be painted using pure methods, without animal glue, following the rules of purity.
+
+"Next, I shall explain the method for entering the altar and maintaining the practice. Beginning on the eighth of the bright half-month, enter the ritual space. Smear the ground with cow dung and make a square altar, from four cubits up to eight cubits, in five colors. You will need sixteen water jars, filled with water, flowers, and fruits. You will need sixteen incense burners and sixteen lamps. If making a four-cubit altar, use four water jars, four incense burners, and four lamps. Prepare various foods, fruits, butter, honey, and rock sugar. Burn various incenses without interruption during all six periods. The practitioner should bathe and wear clean garments according to the method. One may eat only polished rice, gruel, milk, cheese, butter, honey, fruits, rock sugar, dried ginger, pepper, and long pepper; nothing else is permitted.
+
+"The food offerings, from the eighth day when presented to the Buddha through the fifteenth, should not be removed. On the sixteenth day, collect them and either cast them into water or burn them in fire. Starting from the first day of entering the ritual space on the eighth, facing the buddha-altar, additionally make a one-cubit altar of cow dung. Take dried wood and mulberry wood, empower one piece with one spell recitation and place it on the altar, up to twenty-one pieces and recitations. Then take seven kinds of grain seeds, take each by hand, empower with one recitation, and cast into the fire, up to twenty-one recitations. This may be done by day or by night, once daily, through the fifteenth day without fail.
+
+"On the night of the fifteenth, one must not sleep, but recite the spell single-mindedly throughout the night. During that night, at certain times the earth may tremble or a great sound may be heard. The practitioner should not be startled but should calm the mind, continue reciting the spell, and contemplate the two bodhisattvas. At that time, Samantabhadra and Avalokiteśvara will manifest in person and say to the practitioner: 'What do you wish? Whatever you seek, we can fulfill it.'
+
+"If one does not succeed in seeing them and having one's wishes fulfilled, on the sixteenth day remove the altar, construct a new one, and resume the practice and spell-recitation as before. Continue until one sees them and one's aspirations are fulfilled.
+
+"The practitioner in the ritual space may see and speak with only one attendant; no other person may be seen or spoken to. The practitioner within the space must also refrain from speaking; if speech is necessary, one must go outside.
+
+"The Avalokiteśvara Samantabhadra Dhāraṇī method is now complete."

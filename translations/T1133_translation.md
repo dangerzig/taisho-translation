@@ -1,0 +1,34 @@
+# 金剛壽命陀羅尼念誦法
+## Recitation Method for the Vajra Longevity Dhāraṇī
+
+Taishō Tripiṭaka No. 1133
+
+Translated from the Chinese. Tang dynasty, translated by Amoghavajra (不空).
+
+---
+
+I now rely upon the Vajraśekhara Yoga Sūtra. The reward-body Buddha Vairocana, at the summit of the form realm in the fourth dhyāna, attained perfect awakening, and then descended to the jeweled vajra peak pavilion atop Mount Sumeru. All tathāgatas throughout space and the dharmadhātu gathered like clouds, surrounding him before and after, and with different mouths but the same voice said: "We beseech the World-Honored One to turn the wondrous, profound, and secret four kinds of dharma wheels: the Vajradhātu Wheel, the Trailokyavijaya Command Wheel, the Universal Subjugation Dharma Wheel, and the Accomplishment of All Benefits Wheel. These four wheels issue from the heart of Vairocana Tathāgata. Within each wheel there are thirty-seven holy ones, each with a true word, a samādhi, a mudrā, and the dignified power of great compassion vows. In defiled buddha-worlds and pure buddha-worlds, whether hidden or manifest, they turn to benefit beings, liberating sentient beings each in different ways."
+
+After Vairocana Buddha had received the request of all tathāgatas, when he was about to turn the dharma wheel, he entered samādhi and observed that Maheśvara and other devas were obstinate and difficult to convert, attached to wrong views, and that his own tranquil body of great compassion was not capable of subjugating them. At that time the World-Honored One entered the wrathful samādhi. From the five-peaked vajra bodhicitta in his chest there flowed forth Trailokyavijaya Vajra Bodhisattva, with four faces and eight arms, blazing with fierce and dazzling majesty. He bowed to Vairocana and all the buddhas: "We beseech the World-Honored One to instruct me: what shall I do?"
+
+The Buddha told Trailokyavijaya Bodhisattva: "You shall now subjugate the difficult-to-subdue devas and cause them to take refuge in the buddhas, dharma, and saṃgha and generate the bodhicitta." All the devas took refuge, but Maheśvara alone, relying on his great awesome power, came to resist and fight. Trailokyavijaya subjected him to various torments, even unto death. Vairocana Buddha then entered the compassionate great-compassion samaya and spoke the Vajra Longevity Dhāraṇī. He entered the Vajra Longevity Samādhi and formed the mudrā to empower Maheśvara, who was revived, granted increased lifespan, took refuge in the buddhas, received consecration and prediction, and realized the eighth bhūmi.
+
+The Vajra Longevity True Word says:
+
+*Oṃ vajrāyuṣe svāhā*
+
+The Buddha told Vajradhara Bodhisattva: "If any good man or good woman receives, upholds, and recites this, three times each day, one thousand times per session, the evil karmic causes of the past that would shorten life or cause premature death will, through upholding this dhāraṇī, be purified by pure faith, karmic obstacles will be eliminated, and lifespan will be further increased.
+
+"If any practitioner of samādhi wishes, in this very life without transforming the body born of father and mother, to attain the five supernatural powers and soar freely through the sky, here is the samādhi method. Sit cross-legged with the body upright and eyes closed, hands placed one upon the other below the navel. In the space above, visualize all the buddhas clearly and distinctly. Then within one's own body, at the heart, contemplate a full moon, bright and lustrous. Above it is a five-pronged vajra, which gradually enlarges to the size of one's body, then transforms into Trailokyavijaya Bodhisattva, with Vairocana Buddha at the crown. From the buddha's entire body and every pore, amṛta flows as a crown-consecration, pouring into one's own body and entering the heart. Then visualize Vajrasattva Bodhisattva, and form the Vajra Longevity Bodhisattva Dhāraṇī Mudrā: both hands in vajra fists, with the index fingers of the right pressing over the left and hooking together, placed atop the crown. Recite the Vajra Longevity Dhāraṇī seven times, then place it at the forehead, separate the hands and clasp them behind the neck, extend both fingers straight, and rotate them around the entire body as if donning armor."
+
+The armor true word says:
+
+*Oṃ caṃ vajrāyuḥ*
+
+"Through empowering with this mudrā, one attains a body like indestructible vajra, is freed from all calamities and misfortunes, and those who see one will rejoice and generate great reverence.
+
+"Next, the explanation of the homa altar for removing calamity and extending life. Prepare a clean room and on the eastern side place an image of Vajra Longevity Bodhisattva, hung with banners and canopies. Before the image, make a square altar of three cubits. Dig deep and remove tiles, gravel, bones, ashes, and all impure substances. If the ground has no impurities, refill it with the original soil. If there is soil remaining, this is a sign of great auspiciousness and the method will easily succeed. If there are impurities, take clean soil from both banks of a river to fill and level it. Mix it with various incenses and smear it with gomaya. In the center of the altar, draw in white powder a vajra armor of one and a half cubits, and in the center excavate a furnace half a cubit deep, with a rim around it. If one does not wish to excavate, place a fire vessel. The practitioner sits before the fire vessel. On the four sides of the altar make offerings of food, drink, and various fruits. At the four corners of the altar place vases.
+
+"In the furnace, light charcoal. First prepare twenty-one sticks of milk-wood, each ten finger-widths long and as thick as a thumb. Dip both ends in ghee, recite the Vajra Longevity True Word, and cast them into the fire. When the fire blazes vigorously, visualize within the fire an eight-petaled lotus. In the center of the lotus, visualize the syllable A, its light shining everywhere, which becomes Vajra Longevity Bodhisattva. Then with the four-syllable four-vidyā, invite the bodhisattva to enter the fire furnace and receive all offerings. With the right hand in the half-vajra mudrā, sprinkle water on the fire to purify it. Then take a vessel filled with melted ghee, and with a fresh green stalk of kuśa grass, dip it in the ghee, recite the Vajra Longevity Dhāraṇī once, and cast it into the fire, up to one hundred and eight stalks or one thousand and eight stalks. Afterward, cast and burn various incenses and curds. When the recitation is complete, pour three full ladles of ghee into the fire. The beginning and end are performed in this manner.
+
+"If one can perform this offering during the three months of extended fasting or on one's own birthday, it can remove calamities, increase lifespan, bring peace and prosperity to the kingdom, free it from all epidemics, ensure timely wind and rain, and all worthy sages will protect that person."

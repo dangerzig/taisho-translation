@@ -1882,3 +1882,232 @@ Furthermore, what do you think? When visual consciousness arises depending on th
 Furthermore, what is your preference? Does the self you maintain undergo change through what perception produces and what feeling produces, or does it not undergo change? If it does undergo change, then to maintain that the world and the self are permanent is unreasonable. If it does not undergo change, then to have one kind of perception and then give rise to various kinds of perception, and further to have small perceptions and immeasurable perceptions, is unreasonable. Furthermore, to first have exclusively pleasure and then exclusively suffering, and then to have suffering, pleasure, and neither-suffering-nor-pleasure, is unreasonable.
 
 Furthermore, if one maintains that the life-force is identical with the body, one sees the self as form. If one maintains that the life-force is different from the body, one sees the self as non-form. If one maintains that the self pervades both without duality or deficiency, one sees the self as both form and non-form. If, in order to counter this, one grasps at the same meaning through different phrases and different words, one sees the self as neither form nor non-form. Furthermore, if one sees a small amount of form and a small amount of non-form, one sees the self as finite. If one sees these as immeasurable, one sees the self as infinite. If one pervades both, seeing the form portion as small and the non-form as immeasurable, or the form as immeasurable and the non-form portion as small, one sees the self as both finite and infinite. If, in order to counter this, one grasps merely through different words but not different meanings, one sees the self as neither finite nor infinite, or one sees the liberated self as free from both.
+
+---
+
+## Fascicle 10
+
+### Chapter on Gathering the Meaning of Purity, Part Six
+
+*[Continuing the refutation of the sixteen heterodox treatises]*
+
+#### 5. The thesis of permanence (continued): the permanence of atoms
+
+Furthermore, regarding those who maintain that atoms (paramāṇu) are permanent, I now ask you; answer according to your own understanding. Did you assert that atoms are permanent after having investigated, or without having investigated? If without having investigated, then to assert permanence without the investigation of wisdom is unreasonable. If you say you have investigated, then because it contradicts the valid means of knowledge (pramāṇa), it is unreasonable.
+
+Furthermore, what is your preference? Do you maintain that atoms are permanent because they are subtle, or because their characteristics are different from coarse resultant things? If because they are subtle, then being dispersed, diminished, and weak in nature, yet to call them permanent is unreasonable. If because their characteristics are different, then atoms would transcend the characteristics of earth, water, fire, and wind, and since they would not be of the same class of characteristics, to say they can produce those effects is unreasonable. Furthermore, no different characteristic of atoms can be found, so this is also unreasonable.
+
+Furthermore, what is your preference? Are the coarse things that arise from atoms of the same or different characteristics? If of the same characteristics, then since they are without difference from their cause, they too should be permanent, and there would then be no determination of cause and effect. If of different characteristics, what do you think? Do coarse things arise from atoms that are dispersed, or from atoms that are aggregated? If from dispersed atoms, then at all times all effects should arise, and there would be no determination of cause and effect. If from aggregated atoms, what do you think? When coarse resultant things arise from atoms, do they not exceed the size and quality of the atoms, or do they exceed it? If they do not exceed the size and quality, then for a thing possessing form and quality to arise from things that are portions of form and quality is unreasonable. If they exceed it, then since the substance of atoms has no subtle parts and cannot be analyzed further, the coarse things produced from them should also be permanent. This is unreasonable. If furthermore one says that atoms, which originally did not exist, now arise, then to maintain that atoms are permanent is unreasonable.
+
+Furthermore, what is your preference? Do atoms fashion coarse things like seeds and so forth, or like potters and so forth? If like seeds, then just as seeds are impermanent in substance, atoms should likewise be impermanent. If like potters, then atoms should have deliberate thought, like potters. If you say they are not like seeds or potters, then since no similar analogy can be found, this is unreasonable.
+
+Furthermore, what do you think? Does the arising of external things occur through sentient beings or not? If through sentient beings, then for external coarse things to arise through sentient beings while the subtle things that serve as their basis do not arise through sentient beings is unreasonable; who could control their capacity? If not through sentient beings, then for external things to arise without any purpose is unreasonable.
+
+Thus, because of recollecting the aggregates and sentient beings, because of the unbroken flow of all consciousnesses with regard to a single object, and because of the change and non-change of perception and feeling, the theses of permanence asserting the past and asserting the future are unreasonable.
+
+Furthermore, because of investigating and not investigating, because of shared characteristics, because of own characteristics, because of fashioning, and because of the fundamental utility, the thesis of the permanence of atoms is unreasonable. Therefore the thesis of permanence is not a reasoned statement.
+
+Furthermore, I shall now state the characteristic of permanence. If at all times there is no characteristic of change, if in all respects there is no characteristic of change, if naturally there is no characteristic of change, if through another there is also no characteristic of change, and furthermore if there is no characteristic of arising, one should know this is the characteristic of permanence.
+
+#### 6. The thesis that all is caused by prior action
+
+This means that someone, whether a śramaṇa or a brāhmaṇa, gives rise to the following view and establishes the following thesis, as extensively explained in the sūtras: "Whatever a person of the world experiences, namely the suffering presently experienced, is all caused by prior action," meaning caused by past evil deeds. "Through diligent effort one expels old karma," meaning through extremely tormenting oneself in the present life. "Because present new karma is destroyed by the cause of non-action," meaning unwholesome karma. "Thus afterward there are no further outflows (āsrava)," meaning that one becomes exclusively of a wholesome nature, and thus afterward is without outflows. "Through the exhaustion of outflows, karma is exhausted," meaning evil karma. "Through the exhaustion of karma, suffering is exhausted," meaning the suffering caused by past conditions and the suffering invited by present practices. "Through the exhaustion of suffering, one realizes the limit of suffering," meaning one realizes the exhaustion of the suffering of continued existence in future lives. This is the position of the Nirgrantha (Jain) non-Buddhists.
+
+**Question**: For what reason do those non-Buddhists give rise to this view and establish this thesis?
+
+**Answer**: Because of teaching and reasoning. Teaching is as previously stated. *Reasoning* means that someone, being of a nature to investigate and observe, and so forth as previously stated, seeing that the functional efficacy of actions in the present life is indeterminate, reasons as follows: they see in the world that although one employs correct means, one incurs suffering, and although one employs wrong means, one obtains happiness. They think: if the functional efficacy of actions in the present life were the cause, the results should be the opposite. Since what they observe is not inverted, everything must have prior action as its cause. Through this reasoning, they give rise to this view and establish this thesis.
+
+One should now ask them: what is your preference? Is the suffering incurred through the practices of the present life caused by prior action, or caused by present practices? If caused by prior action, then your previous statement that "through diligent effort one expels old karma" and "because present new karma is destroyed by the cause of non-action, thus afterward there are no further outflows," and so forth, is unreasonable. If caused by present practices, then your previous statement that "whatever a person of the world experiences is all caused by prior action" is unreasonable.
+
+Thus, because present-life suffering being caused by prior action is unreasonable, and because present functional efficacy being the cause is also unreasonable, this thesis is not a reasoned statement.
+
+Furthermore, I shall now state the characteristic of the true cause. Some sufferings are caused solely by prior action. For example, someone, through the dominant force of their own karma, is born in an evil destiny, or born in a poor and lowly family, or suffering arises from mixed causes. For example, someone serves a wicked king and, instead of obtaining a pleasant result, incurs suffering. As with serving a king, so too through various activities such as speech, commerce, agriculture, robbery, or harming other sentient beings: those who have merit obtain wealth and happiness, while those without merit, though they exert effort, achieve no result. Or again, there are dharmas produced purely through present functional effort as their cause, such as newly created actions that lead to further existence, or hearing the correct Dharma and awakening to the Dharma, or initiating the path of deportment, or studying and practicing technical arts. Such things are caused solely by the present skillful functional effort.
+
+#### 7. The thesis that Īśvara and others are the creators
+
+This means that someone, whether a śramaṇa or a brāhmaṇa, gives rise to the following view and establishes the following thesis: whatever a person of the world experiences, all of it is caused either by the transformation of Īśvara (the Great Lord), or by the transformation of some other supreme being, and so forth. This is the position of those who propound the thesis of unequal causes such as Īśvara.
+
+**Question**: For what reason do those non-Buddhists give rise to this view and establish this thesis?
+
+**Answer**: Because of teaching and reasoning. Teaching is as previously stated. *Reasoning* means that someone, being of a nature to investigate and observe, and so forth as previously stated. Because they directly observe that among the causes and effects in the world, sentient beings do not turn according to their own wishes, they make this assertion. Why? They directly observe that sentient beings of the world, at the time of the cause, wish to cultivate pure karma but contrary to their original intention instead do evil; at the time of the effect, they wish to be born in a fortunate destiny but contrary to their original intention fall into an evil destiny; they intend to experience happiness but contrary to their wish experience suffering. Seeing this, they think: the things of the world must have a separate creator, producer, and transformer who is the father of those things, namely the god Īśvara, or someone else.
+
+One should now ask them. The summary verse says:
+
+> Functional capacity and substancelessness,
+> Included or not included, contradiction,
+> Usefulness and uselessness,
+> And being a cause: these constitute the faults.
+
+**The treatise says**: What is your preference? Is Maheśvara's (the Great Lord's) transformative functional capacity caused by the skillful means of action, or without cause? If caused by the skillful means of action, then for only this capacity to be caused by the skillful means of action and not the rest of the world is unreasonable. If without cause, then for only this capacity to be without cause and not worldly things is unreasonable.
+
+Furthermore, what is your preference? Is this Maheśvara included within the world or not? If included, then this Maheśvara would be the same as worldly dharmas, yet to be able to produce the entire world is unreasonable. If not included, then he would be liberated, yet to be able to produce the world is unreasonable.
+
+Furthermore, what is your preference? Did he produce the world because of a need, or without a need? If because of a need, then with regard to that need he would have no sovereignty, yet to have sovereignty over the world is unreasonable. If without a need, then to produce the world without any need is unreasonable.
+
+Furthermore, what is your preference? Is what is produced caused solely by Maheśvara, or does it also require other causes? If caused solely by Maheśvara, then whenever Maheśvara exists, production would exist at that time, and whenever production exists, Maheśvara would exist at that time. To say that production takes Maheśvara as its cause is then unreasonable.
+
+If you say it also requires other causes, does it take only desire (icchā) as a cause, or apart from desire does it require still other causes? If it takes only desire as a cause, is this desire caused solely by Maheśvara, or by other causes? If caused solely by Maheśvara, then whenever Maheśvara exists, desire would exist at that time, and whenever desire exists, Maheśvara would exist at that time, and production would be beginninglessly constant. This too is unreasonable. If you say it also requires other causes, then since this cause cannot be found, it is unreasonable. Furthermore, to have no sovereignty over that desire yet to claim sovereignty over worldly things is unreasonable.
+
+Thus, because of functional capacity, because of inclusion and non-inclusion, because of usefulness and uselessness, and because of the nature of being a cause, it is in every case unreasonable. Therefore this thesis is not a reasoned statement.
+
+#### 8. The thesis that killing is the correct Dharma
+
+This means that someone, whether a śramaṇa or a brāhmaṇa, gives rise to the following view and establishes the following thesis: if in a sacrifice, with mantras first, one takes the lives of living beings, the one who performs the sacrifice, the beings who are killed, and all the assistants will all be born in heaven.
+
+**Question**: For what reason do those non-Buddhists give rise to this view and establish this thesis?
+
+**Answer**: This thesis, which contradicts reason, arises from deceit and fraud. It is not established through the investigation of reasoning. Rather, at the time of the evil kalpa of contention, the brāhmaṇas, transgressing the ancient brāhmaṇa dharma, in order to eat meat, falsely devised this assertion.
+
+Furthermore, one should ask them: what is your preference? Is this mantra-method a dharma by its own nature, or a non-dharma by its own nature? If it is a dharma by its own nature, then apart from killing, it cannot produce one's own desired fruit; to convert that non-dharma into correct dharma is unreasonable. If it is a non-dharma by its own nature, then it is itself a dharma that produces undesirable fruit; for it to be able to convert other dharmas that produce undesirable fruit is unreasonable.
+
+Having thus refuted, there is a further defense: just as worldly poison, when governed by mantra-methods, cannot cause harm, so too this mantra-method should be understood likewise.
+
+One should now ask them: what is your preference? Just as mantra-methods can quell external poison, can they also quell the internal poisons of desire, aversion, and delusion, or not? If they can, then there should be no place, no time, and no person in whom the quiescence of desire, aversion, and delusion can be found, and so this is unreasonable. If they cannot quell these, then your previous claim that mantra-methods can quell external poison and also eliminate non-dharmic karma is unreasonable.
+
+Furthermore, what is your preference? Does this mantra-method pervade everywhere, or does it not? If it pervades, then one should first use it to sacrifice one's own loved ones, and the fact that one does not is unreasonable. If it does not pervade, then the efficacy of this mantra would not be determinate, which is unreasonable.
+
+Furthermore, what is your preference? Does the efficacy of this mantra transform only the cause, or does it also transform the effect? If it transforms only the cause, then to be powerless over the effect is unreasonable. If it also transforms the effect, then just as with transformation, it should immediately cause sheep and other animals to become of beautiful and pleasing form; yet they must abandon the body of sheep and so forth before taking a heavenly body, which is unreasonable.
+
+Furthermore, what is your preference? Does the one who created the mantras have power and compassion, or not? If they do, then to be unable to lead those beings to be born in heaven without killing them is unreasonable. If they do not, then for the mantras they created to be able to accomplish anything is unreasonable.
+
+Thus, because of the cause, because of the analogy, because of non-determination, because of powerlessness over the effect, and because of the mantra-creator, it is unreasonable. Therefore this thesis is not a reasoned statement.
+
+Furthermore, I shall now state the characteristic of non-dharma. If an action harms others and does not remedy present faults, it is called non-dharma. Furthermore, if an action is commonly known by all practitioners of the path to produce undesirable fruit; if an action is definitely declared by the omniscient one to be unwholesome; if an action is something one would not desire for oneself; if an action arises from a defiled mind; if an action requires wrong mantras and ritual implements for its efficacy; if an action is by nature morally neutral: all of these are characteristics of non-dharma.
+
+#### 9. The thesis of finitude and infinitude
+
+This means that someone, whether a śramaṇa or a brāhmaṇa, depending on worldly dhyānas, dwells with the idea that the world is finite, or infinite, or both, or neither, as extensively explained in the sūtras. Therefore they give rise to this view and establish the thesis: the world is finite, the world is infinite, the world is both finite and infinite, the world is neither finite nor infinite. One should know that the causes and the ones who make these assertions have been stated herein.
+
+Among these, when one seeks the limit of the world by way of the temporal boundary: if one recollects the kalpa of destruction, one gives rise to the idea that the world is finite. If one recollects the kalpa of formation, one gives rise to the idea that the world is infinite. When one seeks the limit of the world by way of spatial extent: if below, beyond the Avīci hell nothing further is found, and above, beyond the fourth dhyāna nothing further is found, but laterally in all directions no boundary is found, then one gives rise to the idea that the world is finite above and below but infinite laterally. If, in order to counter this attachment, one depends on different words but with no difference in meaning, one gives rise to the idea that the world is neither finite nor infinite.
+
+One should now ask them: what is your preference? Since the prior kalpa of destruction, has a further world arisen, or has none arisen? If one has arisen, then your assertion that the world is finite is unreasonable. If none has arisen, then to dwell in this present world and think about the limit of the world is unreasonable.
+
+Thus, because of arising from that time onward, and because of non-arising from that time onward, it is in every case unreasonable. Therefore this thesis is not a reasoned statement.
+
+#### 10. The thesis of immortal evasion
+
+This refers to the four kinds of immortal-evasion non-Buddhists (amarā-vikṣepa), as extensively explained in the sūtras. Those non-Buddhists, when someone comes and asks about the wholesome and unwholesome according to the worldly path, or about suffering, its origin, cessation, and the path according to the supramundane path, proclaim themselves to be "immortal evaders." Depending on the location and relying on the pure gods of immortality, they evade direct questioning. With regard to whatever is asked, they use words to equivocate, or take refuge in other matters to skillfully avoid the question, or merely follow the questioner's words.
+
+Among these, the first immortal evader perceives that he has not yet awakened. The second has the conceit of superiority (adhimāna) regarding the dharma he has realized. The third perceives that he has awakened but has not yet reached certainty. The fourth is weak and dull-witted.
+
+Furthermore, the first, fearing false speech and fearing that others will know his lack of wisdom, does not clearly answer by saying "I do not know." The second, not yet having attained fearlessness regarding what he has realized, fearing others' cross-examination, fearing false speech and fearing wrong views, does not clearly say "I have realized something." The third, fearing wrong views and fearing false speech, dreading others' cross-examination, does not clearly say "I am not yet certain." These three take refuge in other matters and use words to equivocate. The fourth merely dreads others' cross-examination, and regarding both the worldly path and the supramundane path has no understanding, nor is he well-versed in worldly language. He does not clearly say "I am dull-witted and have no understanding whatsoever," but merely questions the other back and follows the other's words to equivocate. The causes for the arising of these four kinds of thesis, those who make the assertions, and the refutation of their positions are all as explained in the sūtras.
+
+Because those non-Buddhists are dominated by many fears, they abide in this view: whenever someone comes with a question, they employ deceit and crookedness to equivocate. One should know that this view is included among evil views. Therefore this thesis is not a reasoned statement.
+
+#### 11. The view of no cause
+
+This is established based on dhyāna and incorrect mental engagement in two kinds, as extensively explained in the sūtras.
+
+**Question**: For what reason do those non-Buddhists, based on incorrect mental engagement, give rise to this view and establish the thesis: the self and the world arise without a cause?
+
+**Answer**: Briefly stated, because they first see discontinuity, the immeasurably differentiated arising of internal and external things of various kinds appears to them. Or at times they see causes and conditions that are empty of results. They see the world as without cause and condition. Or at times a great wind suddenly arises and within a moment subsides into silence. Or at times a great river suddenly overflows and within a moment is completely dry. Or at times trees and fruits suddenly bloom luxuriantly and within a moment wither completely. Because of such observations, they give rise to the view of no cause and establish the thesis of no cause.
+
+One should now ask them: what is your preference? In your recollection of past abodes, do you recall a non-existent substance or your own self? If you recall a non-existent substance, then for a non-existent dharma that has never been habituated to and never experienced to be recollected is unreasonable. If you recall your own self, then to maintain that the self originally did not exist and suddenly arose is unreasonable.
+
+Furthermore, what is your preference? Do all internal and external things of the world arise in various kinds, or arise suddenly, without a cause or with a cause? If without a cause, then for them to arise in various kinds and suddenly and then suddenly not arise is unreasonable. If with a cause, then your assertion that the self and the world arise without a cause is unreasonable.
+
+Thus, because of recalling a non-existent substance, because of recalling the self, because of the various differences of internal and external things not being due to causes and conditions, and because of the various differences being due to causes and conditions, it is unreasonable. Therefore this thesis is not a reasoned statement.
+
+#### 12. The annihilationist view
+
+This means that someone, whether a śramaṇa or a brāhmaṇa, gives rise to the following view and establishes the following thesis: as long as I have this coarse body made of the four great elements and composed of form, which is sustained and not yet destroyed, at that time there is illness, there are tumors, and there are darts. When I die, I am annihilated and cease to exist; at that time I am well cut off. Likewise for the gods of the desire realm, the gods of the form realm, and those belonging to the sphere of infinite space through the sphere of neither-perception-nor-non-perception, as extensively explained in the sūtras. This is the position of the proponents of the seven kinds of annihilationist views.
+
+**Question**: For what reason do those non-Buddhists give rise to this view and establish this thesis?
+
+**Answer**: Because of teaching and reasoning. Teaching is as previously stated. *Reasoning* means that someone, being of a nature to investigate and observe, and so forth as previously stated, thinks as follows: if after I die there is another body, then one should obtain karmic maturation without having performed the action. If the entire nature of my self is permanently non-existent, then the actions performed and their fruits should also be non-existent. Observing that both of these reasonings are untenable, they give rise to this view and establish the thesis: after my body dies, I am annihilated and cease to exist, like a broken tile or stone. Once shattered, it cannot be reassembled; so too should this be understood.
+
+One should now ask them: what is your preference? Are the aggregates annihilated, or is the self annihilated? If the aggregates are annihilated, then since the substance of the aggregates is impermanent and the arising of cause and effect flows on continuously without cessation, to say they are annihilated is unreasonable. If the self is annihilated, then your previous statement about a coarse body made of the four great elements, with illness, tumors, and darts, and those belonging to the desire realm gods, the form realm gods, and those of the sphere of infinite space through the sphere of neither-perception-nor-non-perception, is unreasonable.
+
+Thus, whether the aggregates are annihilated or the self is annihilated, both are unreasonable. Therefore this thesis is not a reasoned statement.
+
+#### 13. The emptiness view
+
+This means that someone, whether a śramaṇa or a brāhmaṇa, gives rise to the following view and establishes the following thesis: there is no giving, no nurturing, no sacrifice, and so forth extensively through "there are no true arhats in the world." There are also those who give rise to the following view and establish the following thesis: there are no characteristics or substances of any dharmas whatsoever.
+
+**Question**: For what reason do those non-Buddhists give rise to this view and establish this thesis?
+
+**Answer**: Because of teaching and reasoning. Teaching is as previously stated. *Reasoning* means that someone, being of a nature to investigate and observe, and so forth as previously stated. Furthermore, depending on worldly dhyānas, they see a worldly donor who throughout one lifetime constantly practices giving without interruption, and who after death is born in a low and impoverished family lacking necessities. They think: there is definitely no giving, no nurturing, no sacrifice.
+
+Furthermore, they see a person who throughout one lifetime constantly practices good conduct or evil conduct, and they see that after death the person falls into an evil destiny and is born in the hells, or goes to a fortunate destiny and is born in a heavenly world of happiness. They think: there is definitely no good conduct and no evil conduct, and no karmic maturation of good and evil actions.
+
+Furthermore, they see a kṣatriya who after death is born among the brāhmaṇa, vaiśya, or śūdra classes. Or a brāhmaṇa who after death is born among the kṣatriya, vaiśya, or śūdra classes. Likewise with vaiśyas, śūdras, and so forth. They think: there are definitely no kṣatriyas and so forth in this world who come from the classes of kṣatriyas and so forth in that world, nor are there kṣatriyas and so forth in that world who go from the classes of kṣatriyas and so forth in this world.
+
+Furthermore, they observe those who have separated from desire being born in a lower realm. They also see a mother who after death becomes a daughter, and a daughter who after death becomes the mother again; a father who after death becomes the son, and the son who becomes the father again. Having seen the indeterminacy of parents, they think: there is definitely no father and no mother in the world.
+
+Or they see a person whose body has perished and life has ended, and who, because of this, is born in the realm of non-perception, or in the formless realm, or enters nirvāṇa; when they seek the place of that person's rebirth, they cannot find it. They think: there are definitely no beings of spontaneous birth (upapāduka), since their place cannot be known.
+
+Or, having given rise to the conceit of superiority regarding oneself as an arhat, at the time of death one sees the signs of one's own rebirth. One then thinks: there are definitely no true arhats in the world. And so forth extensively.
+
+**Question**: Furthermore, for what reason do some give rise to the view and establish the thesis that there are no characteristics or substances of any dharmas?
+
+**Answer**: Because they are unable to truly and correctly comprehend the profoundly deep dharmas that transcend verbal expression in the extremely profound sūtras proclaimed by the Tathāgata, and because they engage in mental reflection about established dharma-characteristics in a manner that does not accord with reason, they give rise to the emptiness view. They think: there are definitely no characteristics or substances of dharmas.
+
+One should now ask them: what is your preference? Are there actions whose effects are experienced in this life and actions whose effects are experienced in later lives, or are all of them experienced in this life? If both exist, then your previous statement that there is no giving, no nurturing, no sacrifice, no good conduct, no evil conduct, no karmic maturation of good and evil actions, no this world, and no that world is unreasonable. If you say there are no effects experienced in later lives, then for those who have created pure and impure actions of various kinds, after they die, at the time of rebirth, to suddenly receive all the karmic maturation of both pure and impure actions is unreasonable.
+
+Furthermore, what is your preference? Those who are born from a certain womb and from a certain seed, are those the father and mother, or not? If they are the father and mother, then your claim that there is no father and no mother is unreasonable. If they are not the father and mother, then to be born from that womb and that seed yet to say they are not the father and mother is unreasonable. When one is the father or mother, at that time one is not the son or daughter; when one is the son or daughter, at that time one is not the father or mother. There is no fault of indeterminacy.
+
+Furthermore, what is your preference? Are there sentient beings born in places that are invisible to the divine eye, or are there not? If there are, then your claim that there are no beings of spontaneous birth is unreasonable. If there are not, then you would be denying those who have separated from the desire for perception, those who have separated from the desire for form, and those who have separated from the desire for the three realms. This is unreasonable.
+
+Furthermore, what is your preference? Is there an arhat-nature regarding which one gives rise to the conceit of superiority, or is there not? If there is, then your claim that there are definitely no true arhats in the world is unreasonable. If there is not, then if someone who gives rise to incorrect mental engagement and inversion, claiming to be an arhat, would also be a true arhat, this is unreasonable.
+
+Furthermore, one should ask them: what is your preference? Do the dharma of the perfectly accomplished nature (pariniṣpanna-svabhāva), the dharma of the dependent nature (paratantra-svabhāva), and the dharma of the imputed nature (parikalpita-svabhāva) exist, or are they non-existent? If they exist, then your claim that there are no characteristics or substances of any dharmas is unreasonable. If they are non-existent, then there should be no inverted imputations, no defilement, and no purification. This is unreasonable.
+
+Thus, because of effects experienced in later lives, because of non-indeterminacy, because of the existence of places of rebirth, because of the existence of the conceit of superiority, and because of the existence of the three natures, it is unreasonable. Therefore this thesis is not a reasoned statement.
+
+#### 14. The thesis of false attribution of supremacy
+
+This means that someone, whether a śramaṇa or a brāhmaṇa, gives rise to the following view and establishes the following thesis: the brāhmaṇa is the supreme class; the kṣatriya and other classes are inferior. The brāhmaṇa belongs to the white class; the other classes are the dark class. The brāhmaṇa class can attain purity; the other classes cannot. The brāhmaṇas are the sons of Brahmā, born from his belly and mouth, produced from Brahmā, transformed by Brahmā, heirs of Brahmā's substance. This is the position of the brāhmaṇas during the kalpa of contention.
+
+**Question**: For what reason do the brāhmaṇas give rise to this view and establish this thesis?
+
+**Answer**: Because of teaching and reasoning. Teaching is as previously stated. *Reasoning* means that someone, being of a nature to investigate and observe, and so forth as previously stated, seeing that true brāhmaṇas in the world are naturally endowed with morality, and also out of craving for fame, profit, and respect, make this assertion.
+
+One should now ask them: what is your preference? Are only the other classes born from a mother, or is this also the case for brāhmaṇas? If only the other classes, then since it is directly observed in the world that brāhmaṇas are also born from a mother, you would be denying what is directly perceived. This is unreasonable. If brāhmaṇas are also born in this way, then your previous claim that brāhmaṇas are the supreme class while kṣatriyas and others are inferior classes is unreasonable.
+
+Just as with being born from a mother, the same applies to performing unwholesome actions or performing wholesome actions, performing evil deeds of body, speech, and mind, or performing good deeds of body, speech, and mind, receiving undesirable fruits in the present life or receiving desirable fruits, being born in evil destinies in future lives or being born in fortunate destinies. If the three conditions are present, it is this or that, and because of this or that, one enters the mother's womb and is born. The same applies to worldly technical arts, work and occupations, the wholesome and unwholesome, kings and ministers, agility, progress and fulfillment, being selected by the king for service or not, being subject to old age, sickness, and death or not, cultivating the brahmā-abodes and being born in the brahmā-world or not, cultivating the factors of awakening or not, realizing the awakening of a śrāvaka, a pratyekabuddha, or unsurpassed awakening, or not.
+
+Furthermore, what is your preference? Is one called supreme because one is born of a supreme class, or because of morality, learning, and so forth? If because of being born of a supreme class, then your own treatise states that in sacrifices, those who are superior in learning and superior in morality are taken as the standard. This claim would then be unreasonable. If because of morality and learning and so forth, then your previous claim that brāhmaṇas are the supreme class and the rest are inferior is unreasonable.
+
+Thus, because of birth, because of actions, because of rebirth, because of arts and occupations, because of advancement, because of royal selection, because of the brahmā-abodes, because of cultivating the factors of awakening, because of realizing awakening, and because of superiority in morality and learning, it is unreasonable. Therefore this thesis is not a reasoned statement.
+
+#### 15. The thesis of false attribution of purity
+
+This means that someone, whether a śramaṇa or a brāhmaṇa, gives rise to the following view and establishes the following thesis: if I am liberated, my mind attains sovereignty and my contemplation attains sovereignty; this is called purity. This means firmly grasping and appropriating the exquisite five sensual desires among the gods, sporting and amusing oneself with pleasure, enjoying them at will. This is called attaining the first purity of present-life nirvāṇa.
+
+Furthermore, separating from desires and unwholesome dharmas, one attains and dwells in the first dhyāna, through to attaining and dwelling in the fourth dhyāna. This is also called attaining the first purity of present-life nirvāṇa.
+
+There are also non-Buddhists who give rise to this view and establish this thesis: if sentient beings bathe their limbs in the Sundarikā River, all their karmic obstructions will be entirely eliminated. As with the Sundarikā River, so too with the Bāhudā, Gayā, Sarasvatī, Gaṅgā, and other rivers: bathing one's limbs in them, all karmic obstructions are entirely eliminated, yielding first purity.
+
+There are also non-Buddhists who maintain the dog-precept as purity, or the cow-precept, or the oil-and-ink precept, or the naked-precept, or the ash-precept, or the self-mortification precept, or the filth-precept, and so forth, maintaining these as purity. This is the position of the non-Buddhists who assert present-life nirvāṇa and those who assert water-purification and similar practices.
+
+**Question**: For what reason do they give rise to this view and establish this thesis?
+
+**Answer**: Because of teaching and reasoning. Teaching is as previously stated. *Reasoning* means that someone, being of a nature to investigate and observe, and so forth as previously stated. They consider that attaining various kinds of indulgent sovereignty, sovereignty over desire, and sovereignty over yogic practice constitutes supreme purity. However, they do not truly understand the characteristics of indulgent sovereignty and so forth.
+
+Furthermore, some maintain that through self-mortification of the body, one's own evil is eliminated; or that by committing transgressions, the transgressions are eliminated.
+
+One should now ask them: what is your preference? Do those who sport and take pleasure in the exquisite five sensual desires have separated from desire or have not yet separated from desire? If they have separated from desire, then to sport and take pleasure in worldly five sensual desires is unreasonable. If they have not yet separated from desire, then to maintain this as liberation and purity is unreasonable.
+
+Furthermore, what is your preference? Have those who attain the first dhyāna through dwelling in the fourth dhyāna separated from all desire, or have they not? If they have separated from all desire, then merely to dwell through the fourth dhyāna is unreasonable. If they have not separated from all desire, then to maintain this as ultimate liberation and purity is unreasonable.
+
+Furthermore, what is your preference? Is ultimate purity achieved through internal purification or through external purification? If through internal purification, then to maintain that bathing in a river produces purity is unreasonable. If through external purification, then while internally possessing all the filth of desire, aversion, delusion, and so forth, merely to remove external dirt and maintain ultimate purity is unreasonable.
+
+Furthermore, what is your preference? Is purity achieved through grasping a pure thing, or through grasping an impure thing? If through grasping a pure thing, then since the world commonly acknowledges dogs and such to be impure, to maintain that grasping the dog-precept and such produces purity is unreasonable. If through grasping an impure thing, then for something that is itself impure to be able to purify another is unreasonable.
+
+Furthermore, what is your preference? Do those who observe the dog-precept and such attain purity through performing evil deeds of body and so forth, or through performing good deeds of body and so forth? If through performing evil deeds, then to perform evil deeds and maintain purity is unreasonable. If through performing good deeds, then observing the dog-precept and such would be in vain, and to maintain that it can produce purity is unreasonable.
+
+Thus, because of separation from desire and non-separation from desire, because of internal and external, because of grasping the pure and the impure, and because of evil conduct and good conduct, it is unreasonable. Therefore this thesis is not a reasoned statement.
+
+#### 16. The thesis of false attribution of auspiciousness
+
+This means that someone, whether a śramaṇa or a brāhmaṇa, gives rise to the following view and establishes the following thesis: when the sun and moon of the world are eclipsed and the stars and constellations are out of order, whatever one wishes to accomplish will not succeed; when they are in alignment, whatever one wishes will be accomplished. For this purpose, they diligently make offerings to the sun, moon, and stars, sacrifice into the fire, chant mantras, arrange kuśa grass, fill vases, and set out bilva fruit and conch shells. This is the position of the astrologers and calendrical calculators.
+
+**Question**: For what reason do they give rise to this view and establish this thesis?
+
+**Answer**: Because of teaching and reasoning. Teaching is as previously stated. *Reasoning* means that someone, being of a nature to investigate and observe, and so forth as previously stated. Having attained worldly dhyāna, the world commonly regards them as arhats. Those who wish to obtain prosperity, happiness, and the fulfillment of their prayers come to them for consultation. However, they do not truly understand the principle of conditioned arising that accords with the correspondence of action and fruit. They merely see that in the world, when the sun and moon are eclipsed and the stars are in certain positions, at that time the pure and impure karmic fruits of sentient beings mature. They then attribute this to the sun, moon, and so forth as the agents. Furthermore, for those who have faith in such matters, they establish and proclaim this teaching.
+
+One should now ask them: what is your preference? Are the affairs of prosperity and decline in the world produced by the eclipses and positions of the sun, moon, and stars, or by pure and impure karma? If by the sun and others, then it is directly observed that throughout one's life, one creates meritorious or non-meritorious karma and experiences fruits of prosperity and decline, suffering and happiness. This is unreasonable. If by pure and impure karma, then your claim that the sun and others are the agents is unreasonable.
+
+Thus, because of the sun and others being the agents, and because of pure and impure karma being the agents, it is unreasonable. Therefore this thesis is not a reasoned statement.
+
+**Conclusion**: Thus these sixteen kinds of heterodox treatises, when investigated through two approaches and pursued through correct reasoning, are in every case and in every respect unreasonable.

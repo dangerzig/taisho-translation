@@ -2374,3 +2374,237 @@ There are three kinds of dharmas most productive in the established thesis: (1) 
 **Question**: Why are these three dharmas called the most productive in the established thesis?
 
 **Answer**: Because of being skilled in both one's own and others' school, one is able to initiate discourse regarding all dharmas. Because of fearlessness, one is able to initiate discourse in all assemblies. Because of eloquence, one is able to skillfully respond to all questions and challenges. Therefore these three are called the dharmas most productive in the established thesis.
+
+---
+
+## Fascicle 12
+
+### Chapter on Gathering the Meaning of Purity, Part Eight
+
+**The many kinds of explanation** (vyākhyāna): the summary verse says:
+
+> Substance, explanation, text, meaning, dharma,
+> Arising, meaning, difficulties, sequence, and the teacher,
+> Speaking, the assembly, listening, praising the Buddha,
+> Brief and extensive, study, and superior benefit.
+
+**The treatise says**: **Substance** (vastu) means that the substance of the sūtras is briefly of two kinds: text (vyañjana) and meaning (artha). One should know that text is the support and meaning is what is supported. These two together are collectively called the domain of what is to be known.
+
+**Explanation** (vyākhyāna) is briefly of five kinds: (1) dharma, (2) arising, (3) meaning, (4) resolving difficulties, and (5) sequence.
+
+**Text** (vyañjana) is briefly of six kinds: (1) groups of names (nāma-kāya), (2) groups of sentences (pada-kāya), (3) groups of syllables (vyañjana-kāya), (4) speech (vāc), (5) characteristics (nimitta), and (6) occasions prompted by questions (adhyeṣaṇā).
+
+**Groups of names** refer to commonly understood conventional expressions (adhivacana). These are briefly of twelve kinds: (1) conventional names (prajñapti-nāma), (2) real names (dravya-nāma), (3) general names, (4) specific names, (5) names following meaning, (6) names of idle proliferation, (7) easy names, (8) difficult names, (9) manifest names, (10) hidden names, (11) abbreviated names, and (12) extended names.
+
+*Conventional names* means establishing names such as "self," "being," and "life-force" for the internal aggregates, and establishing names such as "vase," "clothing," and "vehicle" for external forms. *Real names* means establishing names such as "sense-faculty" and "sense-object" for the eye and so forth, and for form and so forth. *General names* means names such as "being," "form," "feeling," and "great element." *Specific names* means names such as "Buddha-friend," "Virtue-friend," "blue," and "yellow." *Names following meaning* means names given because of the meaning, such as "form" (rūpa) because of resistance, "feeling" (vedanā) because of experiencing, and "sun" because it illuminates and burns. *Names of idle proliferation* means calling a poor person "wealthy" and such, establishing names without regard for the meaning. *Easy names* means commonly known conceptions. *Difficult names* means the opposite. *Manifest names* means those whose meaning is easy to understand. *Hidden names* means those whose meaning is difficult to understand, such as the mantra "Dāramidha." *Abbreviated names* means single-syllable names. *Extended names* means multi-syllable names.
+
+**Groups of sentences** refer to the complete expression of meaning based on names and syllables. These are of six kinds: (1) incomplete sentences, (2) complete sentences, (3) established sentences, (4) establishing sentences, (5) introductory sentences, and (6) explanatory sentences.
+
+*Incomplete sentences* means the text is not complete and the meaning is not complete; additional sentences are needed to bring them to completeness. For example, the teaching says: "All evils, do not commit; all good, practice; well tame your own mind; this is the teaching of all buddhas." If one says only "all evils," the text is not yet sufficient. If one further says "all evils," the meaning is not yet sufficient. If one says in full "all evils, do not commit," then both are complete. This is called the second kind, a complete sentence.
+
+*Established sentences* means a preceding sentence that requires a following sentence for its establishment. For example: "All formations are impermanent; they are dharmas that arise and cease; because what arises must cease, that quiescence is bliss." Here "all formations are impermanent" is the established sentence, which is established by the sentence "they are dharmas that arise and cease."
+
+*Establishing sentences* means the second sentence establishes the first.
+
+*Introductory sentences* are like "a good person."
+
+*Explanatory sentences* are like "namely, a person who proceeds correctly."
+
+**Groups of syllables** refer to the forty-nine syllables (akṣara) that serve as the basis for both names and sentences, whether complete or incomplete.
+
+Among these, desire is the head of names, and names are the head of sentences. A sentence necessarily has names; if there is only one syllable, it does not constitute a sentence. Furthermore, if there are syllables not included in names, then there are only syllables and no names.
+
+**Question**: For what reason are the three groups of names, sentences, and syllables established?
+
+**Answer**: In order to experience the feeling produced by contact with conventional expression.
+
+**Question**: What is the meaning of "name"?
+
+**Answer**: Because it designates various things and causes the world to commonly know them, and because it causes the mind to produce various characteristics, and because it is transmitted through speech, it is called "name."
+
+**Question**: What is the meaning of "sentence"?
+
+**Answer**: Because it encompasses names and completely reveals meaning that is not directly perceived, it is called "sentence."
+
+**Question**: What is the meaning of "syllable"?
+
+**Answer**: Because it reveals names and sentences, it is called "syllable."
+
+As the Blessed One said: "Conventional expression, the path of conventional expression," and so forth extensively. *Conventional expression* refers to the commonly established names of all classes. *Path* means that the desire of those classes is able to give rise to them. *Words* means the corresponding speech and the various regional dialects; because they serve as their basis, they are called their path. *Designation* (prajñapti) means analyzing one dharma and establishing many kinds; because it serves as the basis for these, it is called their path. Desire is precisely words; there is no separate desire. These words are precisely the path of conventional expression and designation.
+
+Those groups of names and so forth have briefly six kinds of bases: (1) dharma, (2) meaning, (3) person (pudgala), (4) time, (5) number, and (6) location. Their extensive discrimination is found in the Ground of What Is Accomplished through Hearing (Śrutamayī-bhūmi).
+
+**Speech** (vāc) should be known to have briefly eight components: beginning with the foremost and beautiful, through possessing the qualities of the provisions of constant and thorough allocation, and so forth, one is able to teach the correct Dharma through the complete correspondence of those kinds of speech.
+
+*Foremost speech* means that it has as its head the goal of the palace of nirvāṇa. *Beautiful speech* means pure and beautiful in sound. *Clear speech* means that the expressions are well composed. *Easy-to-understand speech* means it is explained through skillful eloquence. *Delightful-to-hear speech* means it leads to the meaning of the Dharma. *Independent speech* means it does not depend on hoping that others will trust oneself. *Non-contrary speech* means one knows the measure of one's words. *Unbounded speech* means it is rich in skillful means.
+
+These eight kinds of speech should be known to possess briefly three virtues: (1) the virtue of the destination, referring to the first kind; (2) the virtue of own-substance, referring to the next two kinds; (3) the virtue of application, referring to the remaining kinds.
+
+*Corresponding* means that groups of names, sentences, and syllables are well established in sequence, and they mutually correspond based on the four kinds of reasoning. *Accompaniment* means they accomplish the sequence. *Accordance* means they explain the sequence. *Clarity* means the text and sentences are clear and pure in presentation. *Effectiveness* means they skillfully enter the minds of the assembly. *Suitability* means they are appropriate to the assembly. *Compliance* means they accord with the Dharma, lead to meaning, and accord with the time. *Provisions of constant and thorough allocation* means that because one constantly cultivates and thoroughly cultivates, it is called constant and thorough. Its components mean correct view and so forth. Provisions mean that these serve as the provisions for those.
+
+**Characteristics** (nimitta) refer to discourse connected with the aggregates, the elements, the sense-bases, dependent arising, the possible and the impossible, the foundations of mindfulness, and so forth. Whether spoken by śrāvakas, by bodhisattvas, or by the Tathāgata, these are called characteristics.
+
+**Occasions prompted by questions** refer to discourse that arises because of a question prompted by an occasion. This furthermore involves twenty-seven kinds of persons differentiated by faculties and so forth. Among these, by differentiation of faculties, they are divided into two kinds: those of dull faculties and those of keen faculties. By differentiation of conduct, there are seven kinds: those of the conduct of desire and so forth, as explained in the Śrāvakabhūmi. By differentiation of category, there are two kinds: householders and renunciants. By differentiation of aspiration, there are three kinds: śrāvakas, pratyekabuddhas, and bodhisattvas. By differentiation of those who can and cannot be saved, there are two kinds: those who possess the dharma of nirvāṇa and those who do not. By differentiation of skillful means, there are nine kinds: those who have already entered the correct Dharma, those who have not yet entered, those with obstructions, those without obstructions, the matured, the not yet matured, the fully bound, the not fully bound, and the unbound. By differentiation of type, there are two kinds: humans and non-humans.
+
+These six kinds of text are gathered into four: (1) what is spoken, namely groups of names and so forth, together with a portion of characteristics; (2) those for whom it is spoken, namely the twenty-seven kinds of persons included in the occasions for questions; (3) the means of speaking, namely speech; and (4) the speakers, namely buddhas, bodhisattvas, and śrāvakas. All these six aspects collectively display the text. If even one is reduced, the meaning is not made clear. Because it is able to reveal the meaning, it is called text.
+
+**Meaning** (artha) is briefly of ten kinds: (1) the meaning of grounds (bhūmi), (2) the meaning of characteristics (lakṣaṇa), (3) the meaning of mental attention (manaskāra), (4) the meaning of location (āśraya-sthāna), (5) the meaning of faults (ādīnava), (6) the meaning of benefits (anuśaṃsa), (7) the meaning of what is to be counteracted (pratipakṣya), (8) the meaning of the antidote (pratipakṣa), (9) the meaning of the brief (saṃkṣepa), and (10) the meaning of the extensive (vistara).
+
+*The meaning of grounds*: briefly there are five grounds: (1) the ground of provisions (saṃbhāra-bhūmi), (2) the ground of skillful means (prayoga-bhūmi), (3) the ground of seeing (darśana-bhūmi), (4) the ground of cultivation (bhāvanā-bhūmi), and (5) the ground of ultimate fulfillment (niṣṭhā-bhūmi). Furthermore, when extensively discriminated, there are seventeen grounds: (1) the ground corresponding to the five consciousness bodies, (2) the ground of the mental faculty, (3) the ground with investigation and analysis, (4) the ground without investigation but with analysis only, (5) the ground without investigation or analysis, (6) the ground of concentration (samāhita), (7) the ground of non-concentration, (8) the ground with mind, (9) the ground without mind, (10) the ground of what is accomplished through hearing, (11) the ground of what is accomplished through reflection, (12) the ground of what is accomplished through cultivation, (13) the ground of śrāvakas, (14) the ground of pratyekabuddhas, (15) the ground of bodhisattvas, (16) the ground with remainder (sopādhiśeṣa), and (17) the ground without remainder (nirupādhiśeṣa).
+
+*The meaning of characteristics*: there are five kinds: (1) own-characteristic (svalakṣaṇa), (2) shared characteristic (sāmānyalakṣaṇa), (3) provisionally established characteristic, (4) causal characteristic, and (5) fruition characteristic. These five characteristics, if extensively discriminated, are as found in the Cintāmayī-bhūmi. Furthermore there are five characteristics: (1) the characteristic of differentiation, (2) the characteristic of yoga, (3) the characteristic of transformation, (4) the characteristic of defilement, and (5) the characteristic of purity. These five characteristics should be understood as previously discriminated in various places. Furthermore there are five characteristics: (1) the characteristic of what is signified, (2) the characteristic of what signifies, (3) the characteristic of the relation between these two, (4) the characteristic of attachment, and (5) the characteristic of non-attachment.
+
+*The characteristic of what is signified* refers to the five dharmas beginning with characteristics, as explained in the Five Dharma Treasury.
+
+*The characteristic of what signifies* means that, based on names and so forth regarding those dharmas, all discourse designates the own-substance and differentiations of dharmas. This also reveals the own-substance of what is universally imputed (parikalpita-svabhāva). This own-substance of the universally imputed has many names: it is also called "what is calculated through universal discrimination," "what is accomplished through combination," "the augmented characteristic," "what is falsely conceived," "what is displayed through discourse," "the expedient of words and letters," "merely having sound," and "without substantial characteristic." Such differentiations should be known.
+
+*The characteristic of the relation between these two* means the mutual connection between what signifies and what is signified, which serves as the basis for attachment to the own-substance of the universally imputed.
+
+*The characteristic of attachment* means the attachment to the own-substance of the universally imputed by all foolish beings from beginningless saṃsāra, together with its latent tendencies (anuśaya).
+
+*The characteristic of non-attachment* means that those who have seen the truth (darśana-mārga) truly understand the universally imputed characteristic and its habitual tendencies, and through liberating correct discrimination they know and discriminate as appropriate, as in the Cintāmayī-bhūmi and so forth.
+
+*The meaning of mental attention*: there are seven kinds of mental attention (manaskāra) beginning with discerning characteristics, as previously explained. If extensively discriminated, as in the Śrāvakabhūmi. Furthermore there are ten knowledges (jñāna): (1) knowledge of suffering, (2) knowledge of the origin, (3) knowledge of cessation, (4) knowledge of the path, (5) dharma-knowledge, (6) subsequent knowledge (anvaya-jñāna), (7) knowledge of others' minds, (8) conventional knowledge (saṃvṛti-jñāna), (9) knowledge of exhaustion, and (10) knowledge of non-arising. If extensively discriminated, as in the Śrāvakabhūmi. Furthermore there are the six consciousness bodies, namely visual consciousness through mental consciousness, as previously briefly explained. If extensively discriminated, as in the Ground Corresponding to the Five Consciousness Bodies and the Ground of the Mental Faculty. Furthermore there are nine comprehensive knowledges (parijñā): (1) the first comprehensive knowledge of severing the obstructions to seeing suffering and the origin in the desire realm, (2) the second comprehensive knowledge of severing those in the form and formless realms, (3) the third comprehensive knowledge of severing the obstructions to seeing cessation in the desire realm, (4) the fourth of severing those in the form and formless realms, (5) the fifth of severing the obstructions to seeing the path in the desire realm, (6) the sixth of severing those in the form and formless realms, (7) the seventh of severing the five lower fetters (pañcāvarabhāgīya-saṃyojana), (8) the eighth of the exhaustion of desire for form, and (9) the ninth of the exhaustion of desire for the formless. If extensively discriminated, as in the Samāhita-bhūmi. Furthermore there are the three gates of liberation (vimokṣa-mukha): emptiness (śūnyatā), signlessness (ānimitta), and wishlessness (apraṇihita), also as extensively explained in the Samāhita-bhūmi.
+
+Among these, one should observe all dharmas: how many kinds of mental attention reflect upon them? How many knowledges know them? How many consciousnesses cognize them? How many comprehensive knowledges comprehensively know them? How many gates of liberation liberate them? Through such immeasurable gates of observation, one should observe all dharmas.
+
+*The meaning of location*: briefly there are three kinds: (1) the basis of affairs, (2) the basis of time, and (3) the basis of persons.
+
+*The basis of affairs* furthermore has three kinds: (1) the basis of fundamental affairs, (2) the basis of the affairs of attaining skillful means, and (3) the basis of the affairs of compassion for others.
+
+The basis of fundamental affairs has six kinds: (1) fortunate destinies, (2) evil destinies, (3) regression, (4) advancement, (5) transmigration (saṃsāra), and (6) quiescence (nirvāṇa).
+
+The basis of the affairs of attaining skillful means has twelve kinds, namely twelve kinds of conduct: (1) conduct of desire, (2) conduct of renunciation, (3) good conduct, (4) bad conduct, (5) conduct of austerity, (6) conduct of non-austerity, (7) conduct tending toward regression, (8) conduct tending toward advancement, (9) defiled conduct, (10) pure conduct, (11) conduct for one's own benefit, and (12) conduct for others' benefit.
+
+The basis of the affairs of compassion for others has five kinds: (1) causing separation from desire, (2) demonstration, (3) instruction, (4) encouragement, and (5) commendation.
+
+Among these, *fortunate destinies* refers to the human and heavenly realms. *Evil destinies* refers to the hells and so forth. *Regression* furthermore has two kinds: not caused by others and caused by others. Not caused by others refers to the natural diminution of lifespan. As with lifespan, so too should one understand the diminution of physical form, strength, well-being, eloquence, and so forth. Caused by others refers to the diminution of clan and lineage, the diminution of sovereignty, sparse relatives, unrefined and evil wisdom, the inability to obtain subtle and vast form, fragrance, taste, and touch, and the mind not taking delight in excellent and wondrous things to be enjoyed. Such instances are called regression. The reverse of this regression, as appropriate, is called advancement. *Transmigration* refers precisely to these fortunate destinies, evil destinies, regression, and advancement. *Quiescence* refers to the quiescence-realm with remainder (sopādhiśeṣa-nirvāṇa-dhātu) and without remainder (nirupādhiśeṣa-nirvāṇa-dhātu).
+
+*Conduct of desire* is as explained in the section on the ten kinds of desire-based actions. *Conduct of renunciation* means that regarding those things to be enjoyed, having understood their impermanence, one becomes weary of desire, leaves home, receives and upholds the precepts, guards the gates of the sense-faculties, and so forth. *Good conduct* means the wholesome (kuśala) conduct of giving, morality, and meditation that is still within the defiled realm. *Bad conduct* means the three kinds of evil conduct. *Conduct of austerity* means going naked, and so forth extensively. *Conduct of non-austerity* means enjoying requisites obtained in accordance with the Dharma, abandoning the practice of self-indulgence, avoiding the two extremes of indulging in sensual pleasures and self-mortification, diligently practicing the middle way, relying on the Dharma, and seeking and properly using robes, bowls, and so forth. *Conduct tending toward regression* means conduct that obstructs the stages of advancement and so forth. *Conduct tending toward advancement* means the opposite. *Defiled conduct* is as explained in the Śukā-sūtra, briefly of three kinds: defilement of action, defilement of affliction, and defilement of transmigration. One should know that these have nine fundamental clauses: defilement of action has three, namely desire (rāga), aversion (dveṣa), and delusion (moha). Defilement of affliction has four, namely the four inversions (viparyāsa). Defilement of transmigration has two, namely ignorance (avidyā) and craving for existence (bhava-tṛṣṇā). Why? Because through the three unwholesome roots, various defilements of action are produced. Because through the four inversions, various defilements of affliction are initiated. Because through the gate of ignorance, various defilements of transmigration are generated for renunciants. Because through the gate of craving for existence, various defilements of transmigration are generated for householders. *Pure conduct*, briefly, encompasses the three trainings and the five grounds. These three trainings and so forth should be known to also have nine fundamental clauses: non-desire, non-aversion, and non-delusion, included in the superior training in morality and the superior training in mind, on the ground of provisions and the ground of skillful means; the four non-inversions, clarity (vidyā), and liberation, included in the superior training in wisdom, on the ground of seeing, the ground of cultivation, and the ground of ultimate fulfillment. *Conduct for one's own benefit* means self-benefiting conduct, as with śrāvakas and pratyekabuddhas, who, although they sometimes engage in benefiting others, because their original vow and aspiration is for self-benefit, are also called self-benefit. *Conduct for others' benefit* means other-benefiting conduct, as with buddhas and bodhisattvas, who ultimately benefit immeasurable sentient beings, and so forth extensively.
+
+*Causing separation from desire* means reproaching the six kinds of dark conduct, displaying their faults, and causing separation from desire. *Demonstration* means that, in order to cause the acceptance of white (wholesome) conduct, one demonstrates the four kinds of true reasoning. *Instruction* means that, having demonstrated, one obtains faith and understanding, causing correct acceptance and correct practice at the training grounds. Because one has already attained mastery therein, one tells them: "You should now, with regard to such-and-such matters, correctly act and study accordingly." *Encouragement* means that when those sentient beings become discouraged regarding what is to be known, practiced, or attained, at that time one praises and encourages their minds, causing them to have the capacity and power regarding what is to be known, practiced, or attained. *Commendation* means that when those sentient beings courageously and correctly practice the Dharma in accordance with the Dharma, one should truthfully praise and speak to them, causing them to rejoice.
+
+Furthermore, regarding causing separation from desire and demonstration: sometimes one causes separation from desire without demonstration, as when instructing another to separate from desire by saying: "As such-and-such a person has said one should not do, you definitely should not do it again." Or one intimidates them: "If you do it, I shall take action." Or one appeals to them: "If you are my dear friend, you should not do it." Sometimes one demonstrates without causing separation from desire, as when a neutral person demonstrates to beings their virtues and faults but does not prevent them from committing transgressions. Sometimes one both demonstrates and causes separation from desire, as when displaying faults to cause their abandonment. *Instruction* means causing those who have not yet accepted the training to accept it. *Encouragement* means causing those who have accepted the training but not yet advanced to advance. *Commendation* has five kinds of benefit: (1) causing those who have realized to gain certainty of mind regarding what they have realized, (2) causing others to aspire toward the superior virtue of what has been realized, (3) causing slanderers to dwell in a neutral state of mind, (4) causing those without faith to give rise to pure faith, and (5) causing those who already have faith to increase it further.
+
+If someone commends another's good deeds, one should know that this person creates and increases karma that produces the birth among gods accompanied by pleasing experience. After death, wherever one is born, one constantly hears pleasing and beautiful sounds, never unpleasant ones.
+
+Furthermore, conduct of desire sometimes produces fortunate destinies, as when for the sake of desire one creates subsequent wholesome karma; sometimes it produces evil destinies, as when one acquires desires through non-dharmic means. Conduct of renunciation, if the precepts are violated, produces evil destinies; if not violated, it produces fortunate destinies and serves as provision for quiescence. Good conduct produces fortunate destinies and serves as provision for quiescence. Bad conduct produces evil destinies. Conduct of austerity, because of depending on wrong views to torment one's own body, produces evil destinies. Conduct of non-austerity serves as provision for quiescence and produces fortunate destinies. Conduct tending toward regression produces regression. Conduct tending toward advancement produces advancement. Defiled conduct produces transmigration. Pure conduct realizes quiescence. Conduct for one's own benefit causes only oneself to attain fortunate destinies, advancement, and the realization of quiescence. Conduct for others' benefit causes both self and others to attain fortunate destinies, advancement, and the realization of quiescence.
+
+Thus, for these three kinds of affairs: the fundamental affairs have six kinds, namely fortunate destinies through nirvāṇa; the affairs of attaining skillful means have twelve kinds, namely the twelve conducts; the affairs of compassion have five kinds, namely the five kinds of compassion for sentient beings. Among these, through the dominant force of the fundamental affairs, one causes others to separate from desire through commendation, depending on the twelve conducts as appropriate and timed.
+
+*The basis of time*: briefly there are three kinds: (1) discourse based on the past, (2) discourse based on the future, and (3) discourse based on the present, as extensively explained in the sūtras.
+
+*The basis of persons*: refers to the twenty-seven kinds of persons differentiated by dull faculties and so forth.
+
+As stated above, it is based on the three foundations of affairs, time, and persons that the Blessed One, the Buddha, disseminated the sacred teaching. Therefore they are called the bases.
+
+*The meaning of faults* (ādīnava): regarding what should be reproached and found distasteful, one gives rise to reproach and distaste, whether toward dharmas or toward sentient beings.
+
+*The meaning of benefits* (anuśaṃsa): briefly stated, regarding what is worthy of praise, one gives rise to praise, whether toward dharmas or toward sentient beings.
+
+*The meaning of what is to be counteracted* (pratipakṣya): briefly stated, all defiled conduct.
+
+*The meaning of the antidote* (pratipakṣa): all pure conduct. As desire is to be counteracted and the contemplation of impurity is the antidote, and aversion is to be counteracted and loving-kindness is the antidote, and so forth: all should be understood.
+
+*The meaning of the brief* means teaching the general and common meaning of dharmas.
+
+*The meaning of the extensive* means teaching the specific and particular meaning of dharmas.
+
+Furthermore: teaching sūtras of non-definitive meaning (neyārtha), and teaching sūtras of definitive meaning (nītārtha).
+
+Furthermore, the brief has two kinds: (1) brief in name and (2) brief in meaning. The extensive likewise has two kinds: extensive in name and extensive in meaning. As the Blessed One said: "Śāriputra! I am able to teach the correct Dharma both extensively and briefly; however, those who comprehend are extremely difficult to find." In that sūtra, the prose is extensive in text but brief in meaning, while the verses are extensive in meaning but brief in text.
+
+To encompass the ten meanings, the intervening summary verse says:
+
+> The grounds, characteristics, and mental attention,
+> Location, merits, and faults,
+> What is to be counteracted and the antidote,
+> Brief and extensive meaning: these should be known.
+
+Furthermore, having thus briefly explained the ten kinds of meaning of the substance of the Buddha's teaching, those who teach the Dharma should, in dependence on the sacred teaching, investigate whether these ten are present or absent. Having investigated for themselves, they should teach others.
+
+Having thus established the substance of text and meaning, those who teach the Dharma should, through five aspects, sequentially explain all sūtras of the Buddha: first one should briefly state the essential Dharma, next explain the arising, next explain the meaning, next resolve difficulties, and finally clarify the sequence.
+
+**Dharma**: briefly there are twelve kinds, namely the twelve divisions of teaching beginning with the sūtras.
+
+*Sūtra* (sūtra) means "stitching together." For the most part, it consists of long prose passages that directly state the substance of dharmas.
+
+*Responsive verses* (geya) means verses that follow after the prose, as well as brief summaries of what has been said, being sūtras of non-definitive meaning.
+
+*Predictions* (vyākaraṇa) means the extensive discrimination of the briefly stated meaning, as well as predicting the place of rebirth of deceased disciples.
+
+*Verses* (gāthā) means teachings stated in one line, or two lines, or three, four, five, or six lines.
+
+*Inspired utterances* (udāna) means teachings spoken without being requested, in order to cause disciples to gain superior understanding, in order to cause those of the highest capacity among those to be transformed to abide in the superior principle. They are spoken spontaneously. This is called inspired utterances. As the sūtra says: "The World-Honored One at that time spontaneously proclaimed."
+
+*Causal narratives* (nidāna) means teachings spoken because of a prompted question. As the sūtra says: "At one time, the World-Honored One, because of Maudgalyāyana, proclaimed the essential Dharma to the bhikṣus." Furthermore, all discourse based on the prātimokṣa and the superior path of the vinaya, stating that in dependence on such-and-such causes and conditions and such-and-such affairs, the World-Honored One spoke such-and-such words, is called causal narratives.
+
+*Parables* (avadāna) means sūtras that contain parables, through which hidden meanings become clear.
+
+*Accounts of former events* (itivṛttaka) means, apart from birth-stories, the narration of all events from the anterior period.
+
+*Birth-stories* (jātaka) means the narration of the events of one's own past lives when practicing the bodhisattva path.
+
+*Extensive teachings* (vaipulya) means those that teach the bodhisattva path, such as the ten grounds, the four bodhisattva practices, and the one hundred and forty exclusive buddha-dharmas of the Tathāgata, namely the four all-aspect purities through the all-aspect sublime knowledge, as extensively explained in the Bodhisattvabhūmi. Furthermore, because the Dharma is immeasurable, because its meaning is deep and vast, and because the time is extremely long, namely the most vigorous cultivation over three great incalculable kalpas needed for completion, they are called extensive teachings.
+
+*Marvelous dharmas* (adbhutadharma) means the marvelous dharmas spoken by the Buddha and his disciples. As in the sūtras, discourse arises because of marvelous events.
+
+*Treatise-discussions* (upadeśa) means the mātṛkā (matrix texts) contained within the sūtras. All sūtras of definitive meaning are called mātṛkā. This refers to the Tathāgata himself extensively discriminating the substance and characteristics of dharmas. Furthermore, the disciples who have already seen the noble path (darśana-mārga), in dependence on what they themselves have realized, display without inversion the substance and characteristics of dharmas. This is also called mātṛkā.
+
+Mātṛkā is also called abhidharma. Just as in the world, all books, mathematics, poetry, and treatises have their fundamental sources (matrix), one should know that the discourse within the sūtras that investigates the characteristics of dharmas is likewise. Furthermore, just as in the world, without the fundamental syllables (mātṛkā), syllables are not made clear, so too within the twelve divisions of teaching, without establishing the substance and characteristics of dharmas, the dharmas are not made clear. Once they are established, the own-characteristics and shared characteristics of all dharmas become manifest. Furthermore, because it reveals the unmixed characteristics of dharmas, this mātṛkā is called abhidharma. The remaining explanations of the meaning of the sūtras based on this mātṛkā are also called upadeśa.
+
+**Arising** (samutthāna): briefly of three kinds, because of the differences of the bases of affairs, time, and persons. As stated in the sūtras: "At such a time, for such persons, in dependence on such conduct, one causes them to separate from desire through commendation."
+
+**Meaning** (artha): briefly of two kinds: (1) general meaning and (2) specific meaning.
+
+The general meaning furthermore has four kinds: (1) citing sūtras of definitive meaning, (2) the ultimate discrimination of affairs, (3) practice, and (4) fruit. Practice is of two kinds: wrong practice and correct practice. Fruit is also of two kinds: the fruit of wrong practice and the fruit of correct practice.
+
+The specific meaning likewise has four kinds: (1) discriminating differentiated names, (2) discriminating own-characteristic substances, (3) etymological explanation of terms, and (4) differentiation of meaning-gates.
+
+Etymological explanation of terms has five kinds of methods: (1) by characteristic, (2) by own-substance, (3) by function, (4) by dharma, and (5) by cause and effect.
+
+Differentiation of meaning-gates also has five kinds: (1) differentiation of own-substance, (2) differentiation of realm (dhātu), (3) differentiation of time, (4) differentiation of stage, and (5) differentiation of person.
+
+*Differentiation of own-substance*: form has ten form-bases of differentiation; feeling has three feeling-differentiations; perception has six perception-differentiations; formations have three formation-differentiations; consciousness has six consciousness-differentiations. Such differentiations of own-substance should be known.
+
+*Differentiation of realm*: the desire realm, the form realm, and the formless realm. *Differentiation of time*: past, future, and present. *Differentiation of stage* should be known as twenty-five kinds: the three stages of lower, intermediate, and superior; the three stages of suffering, pleasure, and neither-suffering-nor-pleasure; the three stages of wholesome, unwholesome, and neutral; the three stages of hearing, reflection, and cultivation; the three stages of the superior training in morality, mind, and wisdom; the two stages of internal and external; the two stages of what is apprehended and the apprehender; the two stages of what is to be counteracted and the antidote; the two stages of present and not-present; and the two stages of cause and fruit. *Differentiation of person*: the twenty-seven kinds as previously stated.
+
+**Resolving difficulties** (parihāra): whether the difficulty is posed by oneself or by another, all should be resolved. One should know that difficulties are briefly posed for five reasons: (1) in order to make clear a meaning not yet understood, as when one asks: "What is the meaning of this passage?" (2) Because of verbal contradiction, as when one asks: "Why did the Blessed One speak differently before and after?" (3) Because of logical contradiction, as when there is a meaning displayed as contradicting the four kinds of reasoning. (4) Because of indeterminate presentation, as when one asks: "Why did the Blessed One display the same meaning through various different approaches?" (5) Because it is ultimately imperceptible, as when one asks: "What characteristics and appearance does the inner self have, being permanent, constant, unchanging, and abiding in its own nature?"
+
+For these five difficulties, one should resolve them in their respective order. For difficulties regarding what is not understood, one skillfully makes it clear. For difficulties regarding verbal contradiction, one harmoniously reconciles them. As with verbal contradiction, so too with difficulties regarding indeterminate presentation and the ultimately imperceptible. For difficulties regarding logical contradiction, one either adjudicates through the teaching of the black dharma and reasoning, or displays the four kinds of reasoning, or displays the reasoning of the correspondence of cause and effect, stating that these words reveal the fruit or reveal the cause.
+
+Furthermore, in response to questions, one should employ four kinds of reply: (1) *Definitive reply* (ekāṃśa-vyākaraṇa), in order to establish without inversion the substance and characteristics of dharmas for those who ask in accord with reason. (2) *Discriminative reply* (vibhajya-vyākaraṇa), in order to reveal the differentiated characteristics for those who ask both in accord with reason and not in accord with reason. (3) *Counter-question reply* (paripṛcchā-vyākaraṇa), in order to put a stop to contentious and disputatious discourse. (4) *Setting aside* (sthāpanīya), which has four kinds of reasons: because of the absence of substantial nature and so forth through because the nature of dharmas is just so, as previously explained. If extensively discriminated, as in the Cintāmayī-bhūmi.
+
+Furthermore, regarding questions such as whether the Tathāgata exists after death or not, these cannot be answered in terms of either conventional truth or ultimate truth, and therefore they are set aside. Because in the ultimate sense there is no Tathāgata, a definitive answer cannot be given. In terms of conventional truth, because the reasoning of the support and what is supported contradicts this, and because the fruit of annihilation is not truly real, one cannot answer that the Tathāgata after death is existent, non-existent, and so forth.
+
+**Sequence** (krama): briefly of three kinds: (1) the sequence of completeness, (2) the sequence of explanation, and (3) the sequence of establishment.
+
+To display these three kinds of sequence, a sacred teaching is briefly cited. As the World-Honored One said: "When I left home, I was in the bloom of youth, the first bloom, the utmost bloom." This statement displays the sequence of completeness of the bloom of youth. Furthermore he said: "I once dwelt in my father King Śuddhodana's palace, with a beautiful appearance," and so forth extensively. This statement displays the sequence of explanation of the bloom of youth. Furthermore he said: "For what purpose did one in the bloom of youth leave home? Because of seeing the dharmas of old age, sickness, death, and so forth." This statement displays the sequence of establishment.
+
+Furthermore, when a sūtra briefly states dharmas, such as "the three feelings: suffering, pleasure, and neither-suffering-nor-pleasure," and so forth, this displays only the sequence of completeness. Because the remaining clauses complete this feeling, it is called completeness. As with feeling, so too in the four noble truths: the initial clause is stated first, and each subsequent clause is analyzed in sequential accordance.
+
+The sequence of establishment has two kinds: either the preceding clause establishes the succeeding clause, or the succeeding clause establishes the preceding clause. The sequence of explanation should likewise be understood.
+
+**The teacher** (deśaka): one who is accomplished in ten dharmas is called a Dharma-teacher of complete characteristics. (1) *Skilled in the dharma and its meaning*: able to skillfully comprehend the six kinds of dharma and the ten kinds of meaning. (2) *Able to proclaim extensively*: having much learning, retaining what is heard, and accumulating what is heard. (3) *Endowed with fearlessness*: proclaiming the correct Dharma before great assemblies of kṣatriyas and others without timidity. Furthermore, because of this, the voice does not crack, the armpits do not perspire, and memory is without lapse. (4) *Skillful in speech and words*: having completeness of verbal skill, accomplishment in the eight components, completeness of speech and words, and teaching the Dharma before assemblies. Completeness of verbal skill means the correspondence of phrases and so forth, as extensively explained. Accomplishment in the eight components means foremost, beautiful, and so forth, as extensively explained. (5) *Skillful in expedient teaching*: the twenty kinds of skillful expedient teaching, such as the characteristics of timeliness and earnestness. (6) *Accomplished in the practice of Dharma in accordance with the Dharma*: not merely taking the hearing of speech as the ultimate, but practicing as one teaches. (7) *Complete deportment*: when teaching the correct Dharma, the hands and feet are not disordered, one does not shake the head or move the brows, the face and limbs do not change, and one advances and withdraws with dignified composure. (8) *Courageous and diligent*: constantly delighting in hearing Dharma not yet heard, causing the Dharma already heard to become increasingly clear, not abandoning yoga, not abandoning mental attention, and not letting the mind part from inner śamatha. (9) *Without weariness or fatigue*: extensively proclaiming the wonderful Dharma to the four assemblies without weariness of body or mind. (10) *Endowed with the power of forbearance*: when reviled, mocked, scolded, or blamed, one never retaliates; when slighted, one does not give rise to anger or sorrow, and so forth extensively.
+
+**Speaking and the assembly** (deśanā-parṣad): one addresses five assemblies with eight kinds of speech. What are the eight? (1) Pleasing speech (priya-vacana), (2) speech that skillfully opens up, (3) speech that skillfully resolves difficulties, (4) speech that skillfully analyzes, (5) speech that skillfully accords with and enters, (6) speech that cites other evidence, (7) speech of superior eloquence, and (8) speech that follows the school's intent.
+
+The five assemblies are: (1) the householder assembly, (2) the renunciant assembly, (3) the assembly of pure faith, (4) the assembly of hostile opponents, and (5) the neutral assembly.
+
+*Pleasing speech* has five characteristics: (1) having evidential reasons, (2) having analogies, (3) completeness of verbal action, (4) beauty of text, sentences, and words, and (5) clarity of speech.
+
+*Speech that skillfully opens up* means opening the deep and hidden meaning so that it becomes manifest, and articulating the coarse and manifest meaning so that it becomes profound.
+
+*Speech that skillfully resolves difficulties* means being able to skillfully resolve the five kinds of difficulties, as previously explained.
+
+*Speech that skillfully analyzes* means analyzing each individual dharma according to the principle of numerical increase, from one through ten or beyond, making skillful discriminations. For example, based on one dharma, establishing two kinds, three kinds, four foundations of mindfulness, and so forth extensively.
+
+*Speech that skillfully accords with and enters* means solely skillfully explaining the sūtras, responsive verses, and so forth of the twelve divisions of teaching, never introducing or incorporating the heterodox treatises of wrong paths.
+
+*Speech that cites other evidence* means citing other sūtras to establish what has been said.
+
+*Speech of superior eloquence* means, following one's own understanding, skillfully discriminating the meaning.
+
+*Speech that follows the school's intent* means discriminating and displaying in dependence on the mātṛkā, or explaining in accordance with reason based on the verbal teaching of other non-inverted teachers.
+
+Furthermore, before the householder assembly, one should teach the Dharma based on reproaching all evil conduct and praising good conduct, in order to cause them to cease from evil and advance in cultivation. Before the renunciant assembly, one should teach the Dharma based on the three trainings of the superior training in morality and so forth, in order to cause them to swiftly bring their cultivation to completion. Before the assemblies of pure faith and others, one should teach the Dharma based on the vast majestic virtue of the sacred teaching, in order, respectively, to cause it to increase further, to cause them to dwell in a neutral state, and to cause pure faith to arise.

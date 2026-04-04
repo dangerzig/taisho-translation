@@ -1,1163 +1,535 @@
 # 顯揚聖教論
-## Xiǎnyáng Shèngjiào Lùn (Compendium of the Ascertainment of the Noble Teaching)
+## Compendium Elucidating the Sacred Teaching
 
 Taishō Tripiṭaka No. 1602
 
-Composed by Asaṅga (無著). Translated from the Chinese. Tang dynasty, translated by Xuanzang (玄奘)
+Composed by Bodhisattva Asaṅga (無著菩薩). Translated from the Chinese. Tang dynasty, translated by Xuanzang (玄奘).
 
 ---
 
-## Fascicle 1
+## Fascicle One
 
-### Chapter 1: Compendium of Topics (*Shè Shì Pǐn* 攝事品, Part 1)
+### Chapter One: Compendium of Topics, Part One
 
-> The Bhagavān's teachings include all dharmas.
-> To clarify the noble teaching, this treatise is composed.
+> The Well-Gone One's well-spoken wondrous three bodies,
+> The fearless, outflow-free, realized and taught Dharma,
+> The supreme vehicle's true children of the Sage:
+> To these I now pay homage with utmost sincerity.
+> Next I bow to the Great Compassionate Lord,
+> Who will succeed to the Dharma King's throne of omniscience,
+> Refuge of the world that has no other support,
+> The one who expounded the Yogācārabhūmi.
+> Long ago, I, Asaṅga, heard it from him;
+> Now I shall arrange in order the essentials of those Stages.
+> Out of compassion, I elucidate the sacred teaching,
+> With concise text, comprehensive meaning, and easy comprehension.
+> Compendium of Topics, Compendium of Pure Principles, Compendium of Accomplishments, Compendium of Skillful Means,
+> Impermanence, Suffering, Emptiness, and Non-self-nature,
+> Direct Realization, Yoga, the Inconceivable,
+> Compendium of the Supreme, and Compendium of Discernment: eleven chapters.
 
-The treatise states: In brief, there are nine topics. What are the nine? (1) The five dharmas, (2) realms, (3) defilements, (4) truths, (5) meditative bases, (6) awakening factors, (7) persons, (8) fruits, and (9) virtues.
+> All, realm, defilement,
+> Truths, supports, factors of awakening,
+> Persons, fruits,
+> And meritorious qualities: nine topics.
 
-#### 1. The Five Dharmas
+The treatise states: "All" refers to five dharmas that comprehensively encompass the Bodhisattva Piṭaka. What are these five? The verse states:
 
-##### (a) Mind (*citta*)
+> Mind, mental factors, form, factors dissociated from mind, and the unconditioned.
 
-**Question:** What is mind?
+**The treatise states:** "Mind" refers to the different names of citta, manas, and vijñāna.
 
-**Answer:** Mind is threefold: mind (*citta*), mentation (*manas*), and consciousness (*vijñāna*).
+Question: What is consciousness (vijñāna)?
 
-The first, mind (*citta*), is also called the *ālaya-vijñāna* (storehouse consciousness), also called the *ādāna-vijñāna* (appropriating consciousness). Why is it called mind (*citta*)? Because it is the accumulation (*cita*) and heaping up of seeds of all dharmas. Why is it called the *ālaya-vijñāna*? Because it takes hold of and stores the body with its sense-faculties, so that they are not lost, and because they mutually take hold of one another as appropriating consciousness.
+Answer: Consciousness is of eight kinds, namely: ālaya-vijñāna; eye, ear, nose, tongue, and body consciousness; manas; and mano-vijñāna.
 
-The second, mentation (*manas*), is also called the afflicted mentation (*kliṣṭa-manas*). Why is it called mentation? Because it always takes the *ālaya-vijñāna* as its object and engages with the mental activities of self-view (*ātma-dṛṣṭi*), self-conceit (*ātma-māna*), self-love (*ātma-sneha*), and ignorance (*avidyā*), and is constantly conjoined with these four afflictions.
+**Ālaya-vijñāna** refers to that whose essence is the all-seed ripened consciousness (vipāka-vijñāna), produced from the cause of beginningless conceptual proliferation and habituation (vāsanā), conditioned by the karma and afflictions created and accumulated in previous lives. This consciousness can apprehend and discern the material sense faculties, the bases upon which those faculties depend, and the habituation of conceptual proliferation. At all times it arises and ceases uniformly, in a manner that cannot be known. Furthermore, it can sustain and discern the external vessel-world. It is associated with feeling that is neither suffering nor pleasure. It is exclusively unobstructed and morally indeterminate. It serves as the supporting cause for the evolving consciousnesses. Together with the defiled and pure evolving consciousnesses and their associated feelings, it evolves simultaneously. Its function is to increase the defiled evolving consciousnesses, and also to diminish the pure evolving consciousnesses.
 
-The third, consciousness (*vijñāna*), is also called the discriminating consciousness. It comprises the six consciousnesses: eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness, and mental consciousness (*mano-vijñāna*). Because they understand and discriminate their respective objects, they are called consciousnesses.
+How do we know this consciousness exists? As the Bhagavān has said: "Covered by ignorance, bound by the fetter of craving, the foolish ordinary person obtains an embodied consciousness." This statement reveals the ripened ālaya-vijñāna. He also said: "Like five kinds of seeds, this is called consciousness with grasping." This statement reveals the all-seed ālaya-vijñāna. He also said: "The ādāna-vijñāna is extremely deep and subtle; all its seeds flow like a torrent. I do not reveal it to ordinary fools, lest they discriminate and grasp it as a self."
 
-As the verse says:
+**Eye consciousness** refers to that which is produced from the seeds of the ālaya-vijñāna, depends upon the eye faculty, evolves together with it, takes visible form as its object-domain, and has discernment as its nature. As the Bhagavān has said: "When the internal eye-base is unimpaired and external visible forms are present, and the attention produced by them arises properly, then the eye consciousness so produced comes into being." He also said: "Conditioned by the eye and visible forms, eye consciousness arises." The same should be understood for ear, nose, tongue, and body consciousness. The distinction among these is that each depends on its own faculty, each takes its own object-domain, and each discerns separately. For all of them, the two sūtra passages above should be cited.
 
-> Mind, also called the *ālaya*,
-> Together with mentation and the consciousness,
-> The five [sense-consciousnesses] and the mental consciousness:
-> These are designated "mind" in summary.
+**Manas** refers to that which is produced from the seeds of the ālaya-vijñāna, takes that very consciousness as its object, is associated with self-delusion, self-love, self and self-possession, and self-pride, or is associated with the reversal of those, and at all times has the activity of conceit and elevation, or the activity of equanimity, evolves together with it, and has discernment as its nature. As the Bhagavān has said: "When the internal mind-base is unimpaired and external dharmas are present, and the attention produced by them arises properly, then the mano-vijñāna so produced comes into being."
 
-##### (b) Mental Factors (*caitta* / *caitasika*)
-
-**Question:** What are mental factors?
-
-**Answer:** In brief, mental factors are of fifty-one kinds, organized into six categories.
-
-**i. Five Omnipresent Factors (*sarva-traga*):**
-
-1. Attention (*manaskāra*): the function of directing the mind toward an object.
-2. Contact (*sparśa*): the conjunction of sense-faculty, object, and consciousness, which serves as the basis for feeling.
-3. Feeling (*vedanā*): the experience of pleasant, unpleasant, or neutral sensation.
-4. Perception (*saṃjñā*): the apprehension of distinguishing characteristics.
-5. Volition (*cetanā*): the function of the mind that moves the mental continuum toward good, evil, or neutral activity.
-
-**ii. Five Object-Determining Factors (*viniyata*):**
-
-1. Aspiration (*chanda*): the desire to act regarding a perceived object.
-2. Resolve (*adhimokṣa*): the decisive determination regarding that object.
-3. Recollection (*smṛti*): the non-forgetfulness of a previously experienced object.
-4. Concentration (*samādhi*): one-pointed focus of the mind on its object.
-5. Wisdom (*prajñā*): the discernment of dharmas, the function of investigating and distinguishing.
-
-**iii. Eleven Wholesome Factors (*kuśala*):**
-
-1. Faith (*śraddhā*), 2. Diligence (*vīrya*), 3. Shame (*hrī*), 4. Decorum (*apatrāpya*), 5. Non-greed (*alobha*), 6. Non-hatred (*adveṣa*), 7. Non-delusion (*amoha*), 8. Tranquility (*praśrabdhi*), 9. Heedfulness (*apramāda*), 10. Equanimity (*upekṣā*), 11. Non-harmfulness (*ahiṃsā*).
-
-**iv. Six Root Afflictions (*mūla-kleśa*):**
-
-1. Craving (*rāga*), 2. Aversion (*pratigha*), 3. Ignorance (*avidyā*), 4. Conceit (*māna*), 5. Doubt (*vicikitsā*), 6. Wrong view (*dṛṣṭi*).
-
-Wrong view is fivefold: (a) view of the self-collection (*satkāya-dṛṣṭi*), (b) extreme view (*antagrāha-dṛṣṭi*), (c) wrong view (*mithyā-dṛṣṭi*), (d) clinging to views (*dṛṣṭi-parāmarśa*), (e) clinging to rules and observances (*śīla-vrata-parāmarśa*).
-
-**v. Twenty Secondary Afflictions (*upakleśa*):**
-
-1. Wrath (*krodha*), 2. Enmity (*upanāha*), 3. Dissimulation (*mrakṣa*), 4. Vexation (*pradāśa*), 5. Jealousy (*īrṣyā*), 6. Miserliness (*mātsarya*), 7. Deceit (*māyā*), 8. Guile (*śāṭhya*), 9. Arrogance (*mada*), 10. Harmfulness (*vihiṃsā*), 11. Shamelessness (*āhrīkya*), 12. Lack of decorum (*anapatrāpya*), 13. Torpor (*styāna*), 14. Restlessness (*auddhatya*), 15. Non-faith (*āśraddhya*), 16. Laziness (*kausīdya*), 17. Heedlessness (*pramāda*), 18. Forgetfulness (*muṣita-smṛtitā*), 19. Distraction (*vikṣepa*), 20. Non-discernment (*asaṃprajanya*).
-
-**vi. Four Indeterminate Factors (*aniyata*):**
-
-1. Regret (*kaukṛtya*), 2. Drowsiness (*middha*), 3. Applied thought (*vitarka*), 4. Sustained thought (*vicāra*).
-
-##### (c) Form (*rūpa*)
-
-**Question:** What is form?
-
-**Answer:** In brief, form is of fifteen kinds. As the verse says:
-
-> The five sense-organs, five sense-objects, and unmanifest form:
-> The material aggregates have fifteen kinds.
-
-The five sense-organs are eye, ear, nose, tongue, and body. The five sense-objects are form, sound, smell, taste, and tangibles. Further, there is form pertaining to the mind-base (*dharma-āyatana-paryāpanna-rūpa*), also called unmanifest form (*avijñapti-rūpa*).
-
-##### (d) Formations Not Associated with Mind (*citta-viprayukta-saṃskāra*)
-
-**Question:** What are formations not associated with mind?
-
-**Answer:** In brief, they are of twenty-four kinds: (1) acquisition (*prāpti*), (2) non-acquisition, (3) homogeneous nature of the group (*nikāya-sabhāga*), (4) the state of being without thought (*āsaṃjñika*), (5) the attainment of the thoughtless absorption, (6) the attainment of cessation (*nirodha-samāpatti*), (7) life-force (*jīvitendriya*), (8) arising (*jāti*), (9) aging (*jarā*), (10) duration (*sthiti*), (11) impermanence (*anityatā*), (12) collections of names (*nāma-kāya*), (13) collections of phrases (*pada-kāya*), (14) collections of syllables (*vyañjana-kāya*), (15) the state of being an ordinary person (*pṛthagjana-tva*), (16) continuity (*pravṛtti*), (17) distinction (*pratiniyama*), (18) conjunction (*yoga*), (19) rapidity (*jāva*), (20) sequence (*anukrama*), (21) time (*kāla*), (22) region (*deśa*), (23) number (*saṃkhyā*), (24) combination (*sāmagrī*).
-
-##### (e) Unconditioned Dharmas (*asaṃskṛta*)
-
-**Question:** What are unconditioned dharmas?
-
-**Answer:** In brief, they are of eight kinds: (1) space (*ākāśa*), (2) non-analytical cessation (*apratisaṃkhyā-nirodha*), (3) analytical cessation (*pratisaṃkhyā-nirodha*), (4) cessation of suffering and pleasure (*vedanā-nirodha*), (5) cessation of perception and feeling (*saṃjñā-vedayita-nirodha*), (6) immobile cessation (*āniñjya*), (7) suchness (*tathatā*), (8) the dharma-realm (*dharma-dhātu*).
-
-#### 2. Realms (*dhātu*)
-
-**Question:** What are the realms?
-
-**Answer:** In brief, there are three realms: the desire realm (*kāma-dhātu*), the form realm (*rūpa-dhātu*), and the formless realm (*ārūpya-dhātu*). There are five destinies (*gati*): hells (*naraka*), animals (*tiryañc*), hungry ghosts (*preta*), humans (*manuṣya*), and gods (*deva*). There are four modes of birth (*yoni*): egg-born (*aṇḍaja*), womb-born (*jarāyuja*), moisture-born (*saṃsvedaja*), and spontaneously born (*upapāduka*).
-
-As the verse says:
-
-> Three realms, five destinies, and four modes of birth:
-> These are the distinctions of the realm of sentient beings.
-
-#### 3. Defilements (*saṃkleśa*)
-
-**Question:** What are defilements?
-
-**Answer:** In brief, there are three kinds of defilement: affliction-defilement (*kleśa-saṃkleśa*), karma-defilement (*karma-saṃkleśa*), and birth-defilement (*janma-saṃkleśa*).
-
-Affliction-defilement includes the latent tendencies (*anuśaya*), the fetters (*saṃyojana*), the bonds (*bandhana*), the secondary afflictions (*upakleśa*), the entanglements (*paryavasthāna*), and the hindrances (*nīvaraṇa*). Afflictions are examined in terms of their nature, causes, objects, and functions.
-
-Karma-defilement includes wholesome, unwholesome, and neutral actions of body, speech, and mind, both meritorious (*puṇya*) and non-meritorious (*apuṇya*), and the imperturbable (*āniñjya*) karma.
-
-Birth-defilement is the process of becoming through the twelve links of dependent origination (*pratītya-samutpāda*): (1) ignorance, (2) formations, (3) consciousness, (4) name-and-form, (5) six sense-bases, (6) contact, (7) feeling, (8) craving, (9) grasping, (10) becoming, (11) birth, (12) old-age-and-death. These twelve links traverse three periods and two cycles of cause and effect, perpetuating the rounds of existence.
-
-#### 4. Truths (*satya*)
-
-**Question:** What are the truths?
-
-**Answer:** In brief, there are four truths:
-
-1. **Suffering (*duḥkha-satya*):** the three kinds of suffering are suffering of suffering (*duḥkha-duḥkhatā*), suffering of change (*vipariṇāma-duḥkhatā*), and suffering of conditioned existence (*saṃskāra-duḥkhatā*). All conditioned dharmas of the three realms are pervaded by suffering.
-
-2. **Origination (*samudaya-satya*):** craving (*tṛṣṇā*) accompanied by delight and attachment, seeking pleasure here and there. It is the craving for sensual pleasures, craving for existence, and craving for non-existence.
-
-3. **Cessation (*nirodha-satya*):** the complete cessation and exhaustion of that very craving, its abandonment, relinquishment, release, and non-attachment.
-
-4. **The path (*mārga-satya*):** the noble eightfold path, namely: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration.
-
-As the verse says:
-
-> Suffering, its origination, cessation, and the path:
-> These are the four noble truths as declared.
-
-#### 5. Meditative Bases (*samāhita-vastu*)
-
-**Question:** What are the meditative bases?
-
-**Answer:** In brief, meditative bases include calm abiding (*śamatha*) and insight (*vipaśyanā*), the four meditative absorptions (*dhyāna*), the four formless attainments (*ārūpya-samāpatti*), the attainment of cessation of perception and feeling (*saṃjñā-vedayita-nirodha-samāpatti*), and the three concentrations (*samādhi*): emptiness (*śūnyatā*), signlessness (*ānimitta*), and wishlessness (*apraṇihita*).
-
-The four absorptions are: (1) the first absorption, with applied and sustained thought, joy and pleasure born of seclusion; (2) the second absorption, with inner clarity, free from applied and sustained thought, joy and pleasure born of concentration; (3) the third absorption, with equanimity, mindfulness, and clear comprehension, pleasure experienced in the body; (4) the fourth absorption, with neither pleasure nor suffering, purity of equanimity and mindfulness.
-
-The four formless attainments are: (1) the base of infinite space, (2) the base of infinite consciousness, (3) the base of nothingness, (4) the base of neither-perception-nor-non-perception.
-
-#### 6. Awakening Factors (*bodhipakṣya*)
-
-**Question:** What are the awakening factors?
-
-**Answer:** In brief, the awakening factors include thirty-seven dharmas conducive to awakening (*saptatriṃśad-bodhipakṣya-dharmāḥ*):
-
-- Four foundations of mindfulness (*smṛty-upasthāna*): mindfulness of body, feeling, mind, and dharmas.
-- Four right exertions (*samyak-pradhāna*): preventing unarisen unwholesome dharmas, abandoning arisen unwholesome dharmas, generating unarisen wholesome dharmas, and maintaining arisen wholesome dharmas.
-- Four bases of spiritual power (*ṛddhi-pāda*): aspiration, diligence, mind, and investigation.
-- Five faculties (*indriya*): faith, diligence, mindfulness, concentration, and wisdom.
-- Five powers (*bala*): [as above, but with the character of being unshakable].
-- Seven factors of awakening (*bodhyaṅga*): mindfulness, investigation of dharmas, diligence, joy, tranquility, concentration, and equanimity.
-- The noble eightfold path (*āryāṣṭāṅga-mārga*): [as listed above under truths].
-
-Further, ten kinds of wisdom (*jñāna*), three gates of liberation (*vimokṣa-mukha*), four practices, four abodes (*vihāra*), four reliances (*pratisaraṇa*), and the bodhisattva practices including the ten grounds (*daśa-bhūmi*), the ten perfections (*daśa-pāramitā*), the four means of attraction (*catuḥ-saṃgraha-vastu*), *dhāraṇī* gates, and *samādhi* gates are all included.
-
-The ten perfections are: (1) giving (*dāna*), (2) moral discipline (*śīla*), (3) patience (*kṣānti*), (4) diligence (*vīrya*), (5) meditative concentration (*dhyāna*), (6) wisdom (*prajñā*), (7) skillful means (*upāya*), (8) aspiration (*praṇidhāna*), (9) power (*bala*), (10) knowledge (*jñāna*).
-
-The ten grounds are: (1) Joyful (*pramuditā*), (2) Stainless (*vimalā*), (3) Luminous (*prabhākarī*), (4) Radiant (*arciṣmatī*), (5) Hard to Conquer (*sudurjayā*), (6) Facing Forward (*abhimukhī*), (7) Far-Reaching (*dūraṅgamā*), (8) Immovable (*acalā*), (9) Perfect Intellect (*sādhumatī*), (10) Cloud of Dharma (*dharma-meghā*).
-
-#### 7. Persons (*pudgala*)
-
-**Question:** What are persons?
-
-**Answer:** In brief, there are two kinds of persons: those who have obtained the fruit and those who have not yet obtained the fruit. Those who have obtained the fruit include the four results: stream-enterer (*srotāpanna*), once-returner (*sakṛdāgāmin*), non-returner (*anāgāmin*), and worthy one (*arhat*). Also included are the three vehicle practitioners: śrāvaka, pratyekabuddha, and bodhisattva. Within the bodhisattva path, there are those on the grounds and those who have not yet entered the grounds.
-
-#### 8. Fruits (*phala*)
-
-**Question:** What are the fruits?
-
-**Answer:** In brief, there are five fruits: (1) maturation fruit (*vipāka-phala*), (2) outflow fruit (*niṣyanda-phala*), (3) separation fruit (*visaṃyoga-phala*), (4) person-produced fruit (*puruṣakāra-phala*), and (5) dominant fruit (*adhipati-phala*).
-
-#### 9. Virtues (*guṇa*)
-
-**Question:** What are the virtues?
-
-**Answer:** In brief, virtues include the thirty-two major marks (*dvātriṃśan-mahā-puruṣa-lakṣaṇa*) and eighty minor marks (*aśīty-anuvyañjana*) of a great being, the four kinds of purity, the ten powers (*daśa-bala*), the four fearlessnesses (*catvāri-vaiśāradyāni*), the three kinds of non-guardedness, the three foundations of mindfulness (*smṛty-upasthāna*), the destruction of habitual tendencies (*vāsanā*), never-forgetting dharma, great compassion (*mahā-karuṇā*), and the eighteen unshared dharmas of a buddha (*āveṇika-buddha-dharma*), culminating in omniscient wisdom (*sarvajña-jñāna*).
-
-The ten powers are: (1) knowledge of what is possible and impossible, (2) knowledge of the maturation of karma, (3) knowledge of the various elements of sentient beings, (4) knowledge of the various dispositions, (5) knowledge of the superior and inferior faculties, (6) knowledge of the paths leading everywhere, (7) knowledge of the afflictions, purifications, and emergence regarding meditative absorptions, liberations, concentrations, and attainments, (8) knowledge of recollecting past lives, (9) knowledge of the death and rebirth of sentient beings, (10) knowledge of the destruction of defilements.
-
-The four fearlessnesses are: (1) fearlessness in claiming perfect awakening, (2) fearlessness in claiming the destruction of all defilements, (3) fearlessness in declaring the obstacles to the path, (4) fearlessness in declaring the path leading to the end of suffering.
-
-The eighteen unshared dharmas of a buddha include six aspects of unshared conduct, six aspects of unshared realization, and three aspects of unshared activity, plus the unshared wisdom that pervades the three times.
+**Mano-vijñāna** refers to that which is produced from the seeds of the ālaya-vijñāna, depends upon manas, evolves together with it, takes all shared and unshared dharmas as its object-domain, and has discernment as its nature.
 
 ---
 
-This concludes the summary of the nine topics as presented in the verse prologue and the opening section of the Compendium of Topics.
+**Mental factors** (caitta) refer to dharmas produced from the seeds of the ālaya-vijñāna that arise dependent on mind, evolve together with mind, and are associated with it.
+
+What are they? The **omnipresent** (sarvatraga) factors are five: (1) attention (manaskāra), (2) contact (sparśa), (3) feeling (vedanā), (4) perception (saṃjñā), (5) volition (cetanā).
+
+The **object-determining** (viniyata) factors are five: (1) desire (chanda), (2) determination (adhimokṣa), (3) mindfulness (smṛti), (4) concentration (samādhi), (5) wisdom (prajñā).
+
+The **wholesome** (kuśala) factors are eleven: (1) faith (śraddhā), (2) shame (hrī), (3) embarrassment (apatrāpya), (4) non-attachment (alobha), (5) non-hatred (adveṣa), (6) non-delusion (amoha), (7) diligence (vīrya), (8) pliancy (praśrabdhi), (9) non-carelessness (apramāda), (10) equanimity (upekṣā), (11) non-harmfulness (avihiṃsā).
+
+The **root afflictions** (kleśa) are six: (1) greed (rāga), (2) hatred (pratigha), (3) pride (māna), (4) ignorance (avidyā), (5) views (dṛṣṭi), (6) doubt (vicikitsā).
+
+The **secondary afflictions** (upakleśa) are twenty: (1) anger (krodha), (2) resentment (upanāha), (3) concealment (mrakṣa), (4) vexation (pradāśa), (5) jealousy (īrṣyā), (6) miserliness (mātsarya), (7) deceit (māyā), (8) flattery (śāṭhya), (9) arrogance (mada), (10) harmfulness (vihiṃsā), (11) shamelessness (āhrīkya), (12) lack of embarrassment (anapatrāpya), (13) torpor (styāna), (14) restlessness (auddhatya), (15) faithlessness (āśraddhya), (16) laziness (kausīdya), (17) carelessness (pramāda), (18) forgetfulness (muṣita-smṛtitā), (19) mental distraction (vikṣepa), (20) non-introspection (asaṃprajanya).
+
+The **indeterminate** (aniyata) factors are four: (1) regret (kaukṛtya), (2) sleep (middha), (3) investigation (vitarka), (4) analysis (vicāra).
+
+**Attention** (manaskāra) refers to that which is produced from the seeds of the ālaya-vijñāna, arises dependent on mind, evolves together with and is associated with mind, and has activating the mind as its essence. Its function is to direct the mind. Because of this, it takes the same object as the mind, and therefore is said to be conjoined and not unconjoined. As stated in the sūtras: "Whatever one attends to, that one discerns; whatever one discerns, that one attends to. Therefore these two are always conjoined, not unconjoined; these two dharmas cannot be posited as separate and different." It is further stated: "The workings of mind and mental factors are inconceivable." It is also said: "When the attention produced by them arises properly, then the eye consciousness and so forth so produced come into being."
+
+**Contact** (sparśa) refers to the meeting of three things, with discrimination as its essence. Its function is to serve as the support for feeling. As stated in the sūtras: "There are six groups of contact." It is also said: "Conditioned by the eye and visible form, eye consciousness can arise. The coming together and meeting of these three dharmas produces contact." It is further said: "Contact is the condition for feeling."
+
+**Feeling** (vedanā) refers to that whose essence is experiencing. Its function is to serve as the condition for craving. As stated in the sūtras: "There are six groups of feeling." It is also said: "Feeling is the condition for craving."
+
+**Perception** (saṃjñā) refers to that which, with the habituation of names, phrases, and syllables as its condition, is produced from the seeds of the ālaya-vijñāna, arises dependent on mind, evolves together with and is associated with mind, and has apprehending characteristics as its essence. Its function is to initiate verbal discourse. As stated in the sūtras: "There are six groups of perception." It is also said: "As one perceives, so one initiates verbal discourse."
+
+**Volition** (cetanā) refers to that whose essence is causing the mind to act so as to produce gain, loss, or neither, constituting mental karma. Its function may be to bring about union, or separation, or compliance, or craving, or hatred, or abandonment; or it may initiate investigation and analysis; or it may initiate the two karmas of body and speech; or it may produce defiled or pure conduct, with wholesome, unwholesome, or indeterminate functions. As stated in the sūtras: "There are six groups of volition." It is also said: "You should know that what I call the six present sense-bases are the karma intentionally created in previous lives."
+
+**Desire** (chanda) refers to that whose essence is hoping and wishing for a pleasing object. Its function is to serve as the basis for effort. As stated in the sūtras: "Desire is the root of all dharmas."
+
+**Determination** (adhimokṣa) refers to that whose essence is decisive understanding of a determined object, imprinting it as appropriate. Its function is to be unshakeable. As stated in the sūtras: "We now generate the determination that these internal six bases are certainly without self."
+
+**Mindfulness** (smṛti) refers to that whose essence is causing the mind to clearly remember and not forget an object that has been repeatedly experienced. Its function is to serve as the support for concentration. As stated in the sūtras: "All mindfulness, recollection, distinct mindfulness, remembrance and recollection, not forgetting, not losing, the dharma of the mind's clear remembrance: such is its nature."
+
+**Concentration** (samādhi) refers to that whose essence is focusing and dwelling on a single object within the observed domain. Its function is to prevent the mind from scattering and to serve as the support for wisdom. As stated in the sūtras: "All that causes the mind to abide, to abide evenly, to abide peacefully, to abide closely, to abide firmly, not to be confused, not to be scattered, to be collected, calmed, stilled, and concentrated: the mind abiding in a single object, such is its nature."
+
+**Wisdom** (prajñā) refers to that whose essence is discerning and selecting within the observed domain. Its function is to penetrate the knowable in ways that are in accord with principle, not in accord with principle, and neither in accord nor not in accord with principle. As stated in the sūtras: "Discerning dharmas, supremely discerning, ultimately discerning dharmas, thorough understanding, close understanding, astute understanding, penetration, investigation, intelligence, wakefulness, the practice of wisdom, vipaśyanā."
+
+**Faith** (śraddhā) refers to that whose essence is mental purity, acceptance, and conviction regarding what truly exists, what has true virtue, and what has true ability. Its functions are to obstruct faithlessness, to enable the completion of the provisions for awakening (bodhi-saṃbhāra), to benefit oneself and others, to lead to favorable rebirths, and to increase pure faith. As stated in the sūtras: "Generate firm faith in the Tathāgata."
+
+**Shame** (hrī) refers to that whose essence is, in dependence upon oneself as a superior factor and the Dharma as a superior factor, feeling ashamed of faults and evils. Its function is to obstruct shamelessness, and so forth up to increasing shame. As stated in the sūtras: "Being ashamed of what is shameful," and so forth in detail.
+
+**Embarrassment** (apatrāpya) refers to that whose essence is, in dependence upon the world as a superior factor, feeling ashamed of faults and evils. Its function is to obstruct lack of embarrassment, and so forth up to increasing embarrassment. As stated in the sūtras: "Being embarrassed by what is embarrassing," and so forth in detail.
+
+**Non-attachment** (alobha) refers to that whose essence is, regarding existence and the instruments of existence, aversion, non-grasping, non-hoarding, non-craving, and non-clinging. Its function is to obstruct greed, and so forth up to increasing non-attachment. As stated in the sūtras: "The wholesome root of non-attachment."
+
+**Non-hatred** (adveṣa) refers to that whose essence is having no intention to harm sentient beings, with compassion and sympathy. Its function is to obstruct hatred, and so forth up to increasing non-hatred. As stated in the sūtras: "The wholesome root of non-hatred."
+
+**Non-delusion** (amoha) refers to that whose essence is correctly understanding reality. Its function is to obstruct delusion, and so forth up to increasing non-delusion. As stated in the sūtras: "The wholesome root of non-delusion."
+
+**Diligence** (vīrya) refers to that whose essence is mental courage without sloth and not belittling oneself. Its function is to obstruct laziness, and so forth up to increasing diligence. As stated in the sūtras: "Arouse diligence, abide with vigor, with effort, with courage, with firmness and fortitude, not abandoning the yoke of good."
+
+**Pliancy** (praśrabdhi) refers to that whose essence is being free from heaviness, with body and mind attuned and at ease. Its function is to obstruct heaviness, and so forth up to increasing pliancy. As stated in the sūtras: "Agreeable to the mind, body and mind at peace."
+
+**Non-carelessness** (apramāda) refers to that whose essence comprehensively encompasses non-attachment, non-hatred, non-delusion, and diligence. Depending on this, one can cut off unwholesome dharmas and cultivate their antidote, wholesome dharmas. Its function is to obstruct carelessness, and so forth up to increasing non-carelessness. As stated in the sūtras: "All the immeasurable wholesome dharmas that arise all depend on the root of non-carelessness."
+
+**Equanimity** (upekṣā) refers to that whose essence comprehensively encompasses non-attachment, non-hatred, non-delusion, and diligence. Depending on this equanimity, one attains mental equipoise, mental uprightness, and mental non-agitation. Its function is to obstruct agitation, and so forth up to increasing equanimity. Through non-carelessness one removes defiled dharmas; through equanimity, regarding what has already been removed, one abides without defilement. As stated in the sūtras: "To remove craving and grief, the mind relies on equanimity."
+
+**Non-harmfulness** (avihiṃsā) refers to that whose essence is, by not tormenting or harming sentient beings, having compassion, pity, sympathy, and care. Its function is to obstruct harmfulness, and so forth up to increasing non-harmfulness. As stated in the sūtras: "Through non-harmfulness one knows that person to be wise," and so forth in detail.
+
+**Greed** (rāga) refers to that whose essence is craving for, delighting in, concealing, cherishing, and clinging to the five appropriated aggregates (pañcopādāna-skandha). It may be innate or arise from discrimination. Its functions are to obstruct non-attachment, to obstruct the completion of the provisions for awakening, to harm oneself and others, to lead to unfavorable rebirths, and to increase greed. As stated in the sūtras: "Those who have greed and craving are overcome and obscured by greed."
+
+**Hatred** (pratigha) refers to that whose essence is wishing to inflict harm upon sentient beings. It may be innate or arise from discrimination. Its function is to obstruct non-hatred, and so forth up to increasing hatred. As stated in the sūtras: "Those who have hatred are overcome and obscured by hatred."
+
+**Pride** (māna) refers to that whose essence is, comparing others with oneself, conceiving "I am superior," "I am equal," or "I am inferior," causing the mind to be conceited and elevated. It may be innate or arise from discrimination. Its function is to obstruct absence of pride, and so forth up to increasing pride. As stated in the sūtras: "Three kinds of pride: the pride of thinking 'I am superior,' the pride of thinking 'I am equal,' the pride of thinking 'I am inferior.'"
+
+**Ignorance** (avidyā) refers to that whose essence is not correctly understanding reality. It may be innate or arise from discrimination. Its function is to obstruct correct understanding, and so forth up to increasing ignorance. As stated in the sūtras: "Those who are deluded are overcome and obscured by ignorance."
+
+**Views** (dṛṣṭi) have five kinds as their essence:
+
+(1) **View of a real self** (satkāya-dṛṣṭi): regarding the five appropriated aggregates, conceiving a self and self-possessions, with defiled wisdom as its essence. It may be innate or arise from discrimination. Its function is to obstruct the understanding of non-self free from inversion, and so forth up to increasing the view of a real self. As stated in the sūtras: "Knowing and seeing thus, one permanently severs three fetters: the view of a real self, clinging to rules and rituals, and doubt."
+
+(2) **Extreme views** (antagrāha-dṛṣṭi): regarding the five appropriated aggregates, grasping at eternalism or annihilationism, with defiled wisdom as its essence. It may be innate or arise from discrimination. Its function is to obstruct the understanding of impermanence free from inversion, and so forth up to increasing extreme views. As stated in the sūtras: "Kātyāyana, all the world relies on two things: existence or non-existence."
+
+(3) **Wrong views** (mithyā-dṛṣṭi): denying causes, denying effects, denying function, or destroying what is real, with defiled wisdom as its essence. It arises only from discrimination. Its function is to obstruct right views, and so forth up to increasing wrong views. As stated in the sūtras: "Those with wrong views have all their convictions inverted," and so forth in detail.
+
+(4) **Clinging to views** (dṛṣṭi-parāmarśa): regarding the preceding three views and the aggregates upon which the views depend, conceiving them as supreme, highest, and foremost, with defiled wisdom as its essence. It arises only from discrimination. Its function is to obstruct the understanding of suffering and impurity free from inversion, and so forth up to increasing clinging to views. As stated in the sūtras: "Grasping at and clinging firmly to one's own views," and so forth in detail.
+
+(5) **Clinging to rules and rituals** (śīla-vrata-parāmarśa): regarding the preceding views and the aggregates upon which they depend, conceiving them as purification, liberation, or escape, with defiled wisdom as its essence. It arises only from discrimination. Its function is to obstruct the aforesaid understanding free from inversion, and so forth up to increasing clinging to rules and rituals. As stated in the sūtras: "Bound by the fetter of clinging."
+
+**Doubt** (vicikitsā) refers to that whose essence is hesitation and indecision regarding the truths. It arises only from discrimination. Its function is to obstruct freedom from doubt, and so forth up to increasing doubt. As stated in the sūtras: "Hesitation is doubt."
+
+**Anger** (krodha) refers to that whose essence is, when confronted with a present adverse condition, causing the mind to become indignant. Its function is to obstruct non-hatred, and so forth up to increasing anger.
+
+**Resentment** (upanāha) refers to that whose essence is, regarding a past adverse condition, bearing grudges and not letting go. Its function is to obstruct non-hatred, and so forth up to increasing resentment.
+
+**Concealment** (mrakṣa) refers to that whose essence is, regarding one's own transgressions, whether or not others admonish one, hiding the evil one has done. Its function is to obstruct confession and repentance, and so forth up to increasing concealment.
+
+**Vexation** (pradāśa) refers to that whose essence is, regarding one's transgressions, when others admonish one, uttering harsh words with a violent mind that cannot endure. Its function is to obstruct good companions, and so forth up to increasing vexation.
+
+**Jealousy** (īrṣyā) refers to that whose essence is, regarding the merits, fame, respect, and material gains that others possess, the mind being envious and displeased. Its function is to obstruct kindness and benevolence, and so forth up to increasing jealousy.
+
+**Miserliness** (mātsarya) refers to that whose essence is hoarding and clinging to accumulations. Its function is to obstruct non-attachment, and so forth up to increasing miserliness.
+
+**Deceit** (māyā) refers to that whose essence is, in order to confuse others, displaying what is unreal, with a crafty mind. Its function is to obstruct affection and respect, and so forth up to increasing deceit.
+
+**Flattery** (śāṭhya) refers to that whose essence is, in order to deceive others, falsely displaying obsequiousness, with a crooked mind. Its function is to obstruct affection and respect, and so forth up to increasing flattery. As stated in the sūtras: "Anger, resentment, concealment, vexation, jealousy, miserliness, deceit, and flattery."
+
+**Arrogance** (mada) refers to that whose essence is, upon temporarily obtaining worldly prosperity and such things, the mind being conceited and elevated without any restraint. Its function is to obstruct disenchantment, and so forth up to increasing arrogance. As stated in the sūtras: "The unlearned ordinary fool, seeing youth, health, and longevity temporarily abiding, gives rise extensively to arrogance and heedlessness," and so forth in detail.
+
+**Harmfulness** (vihiṃsā) refers to that whose essence is oppressing sentient beings, without compassion, without sympathy, without pity, without care, without concern. Its function is to obstruct non-harmfulness, and so forth up to increasing harmfulness. As stated in the sūtras: "Those who are harmful will certainly torment others."
+
+**Shamelessness** (āhrīkya) refers to that whose essence is, regarding oneself and the Dharma as superior factors, not feeling ashamed of faults and evils. Its function is to obstruct shame, and so forth up to increasing shamelessness. As stated in the sūtras: "Not being ashamed of what is shameful, shamelessness gives rise to unwholesome dharmas," and so forth in detail.
+
+**Lack of embarrassment** (anapatrāpya) refers to that whose essence is, regarding the world as a superior factor, not feeling ashamed of faults and evils. Its function is to obstruct embarrassment, and so forth up to increasing lack of embarrassment. As stated in the sūtras: "Not being embarrassed by what is embarrassing, lack of embarrassment gives rise to unwholesome dharmas," and so forth in detail.
+
+**Torpor** (styāna) refers to that whose essence is, depending on bodily heaviness and delighting in not exerting oneself, causing the mind to sink. Its function is to obstruct vipaśyanā, and so forth up to increasing torpor. As stated in the sūtras: "This person gives rise to bodily and mental torpor."
+
+**Restlessness** (auddhatya) refers to that whose essence is, depending on improper mental pursuit or recollection of previously experienced pleasurable activities, the mind being unable to be still. Its function is to obstruct śamatha, and so forth up to increasing restlessness. As stated in the sūtras: "You are restless and also agitated," and so forth in detail.
+
+**Faithlessness** (āśraddhya) refers to that whose essence is the mind not having pure faith regarding what truly exists, what has true virtue, and what has true ability. Its function is to obstruct faith, and so forth up to increasing faithlessness. As stated in the sūtras: "If a person does not abide in impure faithlessness, they will never lose their wholesome dharmas," and so forth in detail.
+
+**Laziness** (kausīdya) refers to that whose essence is, through indulging in the pleasure of sleep and reclining, and through fear of exertion and self-deprecation, the mind not making effort. Its function is to obstruct the arousal of right effort, and so forth up to increasing laziness. As stated in the sūtras: "Those who are lazy will certainly regress from right effort," and so forth in detail.
+
+**Carelessness** (pramāda) refers to that whose essence comprehensively encompasses greed, hatred, delusion, and laziness. Depending on this, the mind does not restrain unwholesome dharmas and does not cultivate their antidote dharmas. Its function is to obstruct non-carelessness, and so forth up to increasing carelessness. As stated in the sūtras: "Carelessness is the path of birth-and-death," and so forth in detail.
+
+**Forgetfulness** (muṣita-smṛtitā) refers to that whose essence is defiled inability to remember what was long ago done, said, or thought, whether dharmas or their meanings. Its function is to obstruct non-forgetfulness, and so forth up to increasing forgetfulness. As stated in the sūtras: "One who is forgetful is incapable of anything," and so forth in detail.
+
+**Mental distraction** (vikṣepa) refers to that whose essence is, taking as its support the mind's not delighting in the wholesome being cultivated, scattering outward to external conditions. Its function is to obstruct concentration, and so forth up to increasing mental distraction. As stated in the sūtras: "If regarding the five desires one's mind is scattered and flows unceasingly," and so forth in detail.
+
+**Non-introspection** (asaṃprajanya) refers to that whose essence is not correctly knowing the activities of body, speech, and mind, with defiled wisdom. Its function is to obstruct introspection, and so forth up to increasing non-introspection. As stated in the sūtras: "One who is forgetful abides in non-introspection," and so forth in detail.
+
+**Regret** (kaukṛtya) refers to that whose essence is, regarding things done or not done, whether wholesome or unwholesome, whether defiled or undefiled, feeling remorse and sorrow. Its function is to obstruct śamatha, and so forth up to increasing regret. As stated in the sūtras: "If one harbors remorse, then one is not at peace," and so forth in detail.
+
+**Sleep** (middha) refers to that whose essence is the mind being contracted and not freely functioning. Its function is to obstruct vipaśyanā, and so forth up to increasing sleep. As stated in the sūtras: "Indulging in the taste of sleep is like being swallowed by a great fish."
+
+**Investigation** (vitarka) refers to that whose essence is, sometimes through volition creating something regarding dharmas, sometimes through wisdom pursuing something regarding dharmas, roaming outward to external objects and causing the mind to become coarse. Its function is to obstruct inner mental purity, and so forth up to increasing investigation.
+
+**Analysis** (vicāra) refers to that which is produced from the seeds of the ālaya-vijñāna, arises dependent on mind, evolves together with and is associated with mind, and whose essence is, regarding the dharma being investigated, subtly roaming over external objects and causing the mind to become refined. The rest is as stated for investigation, up to increasing analysis. Because of this, it takes the same object as the mind, and therefore is said to be conjoined and not unconjoined. As the Bhagavān has said: "Whatever one analyzes, that one discerns; whatever one discerns, that one analyzes. Therefore these two are always conjoined, not unconjoined; these two dharmas cannot be posited as separate and different." It is further stated: "The workings of mind and mental factors are inconceivable."
+
+The scriptural evidence for these two: as the Bhagavān has said: "Depending on investigation and analysis, one initiates verbal discourse; without investigation and analysis, one does not."
+
+Regarding those mental factors that are briefly not discussed here, they should be understood in detail as appropriate. Just as consciousness and mental factors are inconceivable, so too should the interrelationships among the various mental factors be understood.
 
 ---
 
-## Fascicle 2
+**Form** (rūpa) is of fifteen kinds, namely: earth, water, fire, wind, eye, ear, nose, tongue, body, visible form, sound, smell, taste, a portion of tangible objects, and form included in the dharma-base.
 
-### Chapter 1: Compendium of Topics (Continued, Part 2)
+**Earth** is of two kinds: internal and external. Internal earth refers to the support and basis for the five faculties of the eye and so forth, individually within the body, and their dwelling places, being of the nature of solidity and hardness, having the quality of being apprehended. Further, there are predominant accumulations, namely: hair of the head, body hair, nails, teeth, dust, dirt, skin, flesh, sinews, bones, veins, and other impure substances. This is the essence of internal earth in its material form. Its function is to be experienced and used. External earth refers to the support and basis for the five object-domains of visible form and so forth, individually outside the body, being of the nature of solidity and hardness, not having the quality of being apprehended. Further, there are predominant accumulations, namely: pebbles, stones, hills, mountains, trees, forests, bricks, and so forth. When the water and other disasters arise, these are soon destroyed. This is the essence of external earth in its material form. Its functions are to serve as experienced, as support for experienced, as destroyed and experienced, and as antidote and nourishment.
 
-#### The Four Summaries of Buddha-word
+**Water** is also of two kinds: internal and external. Internal water refers to the support and basis for the five faculties and their dwelling places within the body, being of the nature of moisture and dampness, having the quality of being apprehended. Further, there are predominant accumulations, namely: mucus, tears, saliva, sweat, marrow, fat, phlegm, and other impure substances. This is the essence of internal water. Its function is to moisten, collect, and serve as experienced. External water refers to the support and basis for the five object-domains outside the body, being of the nature of moisture and dampness, not having the quality of being apprehended. Further, there are predominant accumulations, namely: springs, streams, ponds, great ravines, flooding rivers, and so forth. When the fire and other disasters arise, these are soon dried up. This is the essence of external water. Its functions are to serve as support for experienced, as changed and destroyed for experienced, and as antidote and nourishment.
 
-The treatise states: Now, the manner of understanding the Buddha's word will be explained. As the verse says:
+**Fire** is also of two kinds: internal and external. Internal fire refers to the support and basis for the five faculties and their dwelling places within the body, being of the nature of warmth and heat, having the quality of being apprehended. Further, there are predominant accumulations, namely: that which causes sentient beings to become warm throughout and to increase in heat, and that which digests whatever is eaten and drunk. Such things are the essence of internal fire. Its function is to ripen, combine, and serve as experienced. External fire refers to the support and basis for the five object-domains outside the body, being of the nature of warmth and heat, not having the quality of being apprehended. Further, there are predominant accumulations, namely: conflagrations burning villages, cities, spreading to continents; or fire ceases of itself when reaching empty space with nothing to support it; or when one drills wood or strikes stones seeking fire in various ways, this fire, once produced, soon becomes ashes. This is the essence of external fire. Its functions are to change and destroy for experienced, and as antidote and nourishment.
 
-> By means of four kinds of summary,
-> The Buddha's word should be understood:
-> Sentence-summary, meaning-summary,
-> Setting-aside summary, and investigation-summary.
+**Wind** is also of two kinds: internal and external. Internal wind refers to the support and basis for the five faculties and their dwelling places within the body, being of the nature of lightness and movement, having the quality of being apprehended. Further, there are predominant accumulations, namely: winds moving upward, downward, crosswise, entering and exiting as breath. Such things are the essence of internal wind. Its function is to initiate activities and serve as experienced. External wind refers to the support and basis for the five object-domains outside the body, being of the nature of lightness and movement, not having the quality of being apprehended. Further, there are predominant accumulations, namely: winds that demolish mountain cliffs, topple forests and trees, and so forth. After these are scattered and destroyed, without support they become still. When one seeks wind by moving clothes or waving fans, if there is no movement, for lack of conditions it ceases. Such things are the essence of external wind. Its functions are to serve as support for experienced, as change and destruction for experienced, and as antidote and nourishment.
 
-**i. Sentence-summary (*pada-piṇḍārtha*):** This concerns understanding the various types of statements made by the Bhagavān. The teaching is expressed through nine categories of literary form: sūtra, geya, vyākaraṇa, gāthā, udāna, nidāna, avadāna, itivṛttaka, and jātaka, as well as vaipulya, adbhuta-dharma, and upadeśa: twelve divisions of the teaching (*dvādaśāṅga-pravacana*) in all.
+**The eye** refers to that which is apprehended by the all-seed ālaya-vijñāna, is created by the four great elements, has visible form as its object-domain, serves as the support for the consciousness that takes visible form as its object, and has pure material substance as its essence. It is included in the form aggregate (rūpa-skandha). Its nature is invisible with obstruction (anidarśana-sapratigha). As with the eye, so too for the ear, nose, tongue, and body. The distinction among these is that each operates in its own object-domain and each serves as the support for the consciousness that takes its own object.
 
-**ii. Meaning-summary:** This concerns four kinds of explanation of the hidden intent. The teaching is expressed through four modes: regarding the hidden intent of entry, regarding the hidden intent of characteristics, regarding the hidden intent of antidotes, and regarding the hidden intent of translation.
+**Visible form** (rūpa) refers to the object-domain of the eye, the object of eye consciousness, created by the four great elements, with color, shape, and bodily expression as its essence. It is included in the form aggregate. Its nature is visible with obstruction (sanidarśana-sapratigha). It is of three kinds: pleasant, unpleasant, and neutral. What are these? They include: blue, yellow, red, white, and other colors; long, short, square, round, coarse, fine, high, low, straight, and crooked; smoke, clouds, dust, mist, light, shadow, brightness, and darkness; the single visible aspect of space; and the reflected images thereof. These are called visible form.
 
-**iii. Setting-aside summary:** There are four things that should be set aside in order to understand the teaching correctly: (a) setting aside of the words alone, to penetrate the meaning; (b) setting aside of the meaning of mere convention, to penetrate the ultimate; (c) setting aside of the interpretable meaning, to penetrate the definitive meaning; (d) setting aside of reliance on ordinary consciousness, to rely on wisdom.
+**Sound** refers to the object-domain of the ear, the object of ear consciousness, created by the four great elements, with audible tones as its essence. It is included in the form aggregate. Its nature is invisible with obstruction. It is of three kinds: pleasant, unpleasant, and neutral. Sounds may be produced by hands striking together, or by investigation and analysis striking strings and beating drums, or arise dependent on worldly conventions, or for livelihood, or to proclaim the meaning of the Dharma through verbal discourse, or arise dependent on cliffs and valleys producing echoes. Whether intrinsic characteristics, discriminated, or echoed, these are called sound.
 
-**iv. Investigation-summary:** The detailed investigation of all aspects of the teaching, including the analysis of delusion, conceptual elaboration, and the Buddha's intention.
+**Smell** refers to the object-domain of the nose, the object of nose consciousness, created by the four great elements, with smellable substances as its essence. It is included in the form aggregate. Its nature is invisible with obstruction. It is of three kinds: pleasant fragrance, unpleasant odor, and neutral smell. They include: the scents of roots, stems, bark, leaves, flowers, fruits, smoke, and powders, whether innate, combined, or altered. These are called smell.
 
-#### Six Approaches to Proper Practice
+**Taste** refers to the object-domain of the tongue, the object of tongue consciousness, created by the four great elements, with tasteable substances as its essence. It is included in the form aggregate. Its nature is invisible with obstruction. It is of three kinds: sweet, not sweet, and neutral. They include: the tastes of ghee, oil, sugar, rock candy, ripe fruits, and so forth, whether innate, combined, or altered. These are called taste.
 
-As the verse says:
+**A portion of tangible objects** refers to the object-domain of the body, the object of body consciousness, created by the four great elements, with touchable substances as its essence. It is included in the form aggregate. Its nature is invisible with obstruction. It is of three kinds: pleasant, unpleasant, and neutral. They include: rough, smooth, light, heavy, relaxed, tense, warm, cold, hunger, thirst, satiation, stifling, strong, weak, itching, illness, aging, death, fatigue, rest, stickiness, vigor; or conditions of luster or lack of luster; or conditions of solidity or lack of solidity; or conditions of binding, or of increasing accumulation, or of conflict, or of harmony; whether innate, combined, or altered. These are called a portion of tangible objects.
 
-> Hearing, thinking, cultivation:
-> This is the foundation of the path.
-> Calm and insight, the two wings:
-> By these the practitioner proceeds.
-
-The six approaches are: (1) listening to the correct dharma, (2) proper reflection, (3) cultivation of calm abiding (*śamatha*), (4) cultivation of insight (*vipaśyanā*), (5) correct practice, and (6) attainment of the fruit.
+**Form included in the dharma-base** (dharmāyatana-paryāpanna-rūpa) refers to that which at all times serves as the object-domain of the mind, is included in the form aggregate, and is invisible without obstruction (anidarśana-apratigha). It is of three kinds: disciplined form (saṃvara-rūpa), undisciplined form (asaṃvara-rūpa), and form in the domain of concentration (samāpatti-gocarya-rūpa). What is disciplined form? For those who guard their bodily and verbal conduct, because of the predominance of the mind and mental factors that produce such conduct, a material nature is established in dependence on the non-occurrence of those dharmas. What is undisciplined form? For those who do not guard their bodily and verbal conduct, because of the predominance of the mind and mental factors that produce such conduct, a material nature is established in dependence on the occurrence of those dharmas. What is form in the domain of concentration? Because of the mind and mental factors that arise accompanying lower, middling, and higher levels of concentration, there arise the material nature of the mental images of their objects, and the material nature of what is accomplished through them. These are called form included in the dharma-base.
 
 ---
 
-## Fascicles 3–4
+**Factors dissociated from mind** (citta-viprayukta-saṃskāra) refer to factors that are not associated with mind and are provisionally designated on the basis of the aspects of mind, mental factors, and form. They cannot be posited as either identical with or different from mind and other dharmas.
 
-### Chapter 1: Compendium of Topics (Continued, Parts 3–4)
+They have twenty-four kinds of distinctions, namely: (1) acquisition (prāpti), (2) the attainment of non-perception (asaṃjñi-samāpatti), (3) the attainment of cessation (nirodha-samāpatti), (4) the non-perceptual realm (asaṃjñika), (5) the life faculty (jīvitendriya), (6) group-homogeneity (nikāya-sabhāga), (7) birth (jāti), (8) aging (jarā), (9) abiding (sthiti), (10) impermanence (anityatā), (11) collections of names (nāma-kāya), (12) collections of phrases (pada-kāya), (13) collections of syllables (vyañjana-kāya), (14) the nature of an ordinary being (pṛthagjana-tva), (15) transmigration (pravṛtti), (16) distinction (pratiniyama), (17) correlation (yoga), (18) sequence (krama), (19) rapidity (jāva), (20) time (kāla), (21) direction (deśa), (22) number (saṃkhyā), (23) conjunction (sāmagrī), (24) disjunction (asāmagrī). There are also further such distinctions that should be understood.
 
-These fascicles continue the detailed exposition of the nine topics, particularly elaborating on:
+**Acquisition** is of three kinds: (1) the differentiation in the continuum subsumed under the seeds of conditioned factors; (2) the differentiation in the continuum of autonomous arising; (3) the differentiation in the continuum of self-characteristic arising.
 
-- The detailed sub-classifications of defilements, including the latent tendencies organized by the three realms and the three categories of objects to be abandoned by seeing, meditation, and neither.
-- The detailed analysis of the twelve links of dependent origination, the forward and reverse sequences, and how they operate across three lifetimes.
-- The detailed classification of the path structure, including the stages of accumulation (*saṃbhāra-mārga*), preparation (*prayoga-mārga*), seeing (*darśana-mārga*), cultivation (*bhāvanā-mārga*), and the path beyond training (*aśaikṣa-mārga*).
-- The classification and distribution of the various types of persons according to their spiritual lineage (*gotra*), inclination, and capacity.
+**The attainment of non-perception** refers to: having already been freed from desire for the Third Dhyāna but not yet freed from desire for the higher realms, regarding perception as a disease, a tumor, an arrow, and regarding only the non-perceptual heavens as peaceful and subtle. By means of the preparatory practice of generating the intention for escape toward the non-perceptual heavens, the non-constantly-occurring mind and mental factors cease.
 
----
+**The attainment of cessation** refers to: having already been freed from desire for the Sphere of Nothingness, one either enters the attainment of the Sphere of Neither Perception Nor Non-perception and further progresses, or enters the attainment of non-perception and further progresses. By means of the preparatory practice of generating the intention to temporarily cease perception, the non-constantly-occurring mind and mental factors and a portion of the constantly-occurring mind and mental factors cease, with their objects stilled.
 
-## Fascicle 5
+**The non-perceptual realm** refers to: having previously obtained the attainment of non-perception in this world, one is subsequently reborn in the heaven of non-perceptual beings through this cause, and the non-constantly-occurring mind and mental factors cease.
 
-### Chapter 2: Compendium of Pure Meaning (*Shè Jìng Yì Pǐn* 攝淨義品, Part 1)
+**The life faculty** refers to the determined duration of the six bases' abiding, as a ripening drawn forth by previous karma.
 
-The treatise states: Now the Compendium of Pure Meaning will be explained. As the verse says:
+**Group-homogeneity** refers to the mutual similarity among sentient beings.
 
-> The two truths, five dharmas, three natures,
-> Twelve divisions of the teaching:
-> These are the foundation of pure meaning,
-> Taught for the welfare of sentient beings.
+**The nature of an ordinary being** is of two kinds: (1) the nature of a foolish ordinary being, referring to the nature of foolishness present in the bodies of sentient beings since beginningless time; (2) the nature of an unlearned ordinary being, referring to the nature of wrong paths outside the Tathāgata's Dharma.
 
-#### Two Truths
+**Birth** refers to the arising of the self-characteristics of conditioned factors.
 
-**Question:** What are the two truths?
+**Aging** refers to the change and alteration of conditioned factors from earlier to later.
 
-**Answer:** They are conventional truth (*saṃvṛti-satya*) and ultimate truth (*paramārtha-satya*). Conventional truth is the truth of worldly designation, the truth that accords with the understanding of ordinary beings regarding the names and characteristics of dharmas. Ultimate truth is the truth that is the object of the noble ones' direct realization, the true nature of dharmas as they really are.
+**Abiding** refers to the unbroken continuity of conditioned factors at the time of arising.
 
-#### Five Dharmas and Three Natures
+**Impermanence** refers to the destruction and perishing of conditioned factors after the arising of their self-characteristics.
 
-The five dharmas (*pañca-dharma*) are: (1) names (*nāma*), (2) characteristics (*nimitta*), (3) discrimination (*vikalpa*), (4) suchness (*tathatā*), (5) correct wisdom (*samyag-jñāna*).
+**Collections of names** refer to the designations and labels provisionally established as appellations for the intrinsic nature of conditioned factors and other dharmas.
 
-The three natures (*trisvabhāva*) are:
+**Collections of phrases** refer to that which serves as the basis for verbal discourse, through the gathering of names to express the meaning of the defiled and the pure.
 
-1. **The imagined nature (*parikalpita-svabhāva*):** the nature that is merely imputed by conceptual elaboration. It is like seeing a rope as a snake. The imagined nature has no real existence; it is the object of erroneous discrimination.
+**Collections of syllables** refer to the phonemic nature upon which the preceding two depend.
 
-2. **The dependent nature (*paratantra-svabhāva*):** the nature that arises dependently through causes and conditions. It is like the rope itself, which exists in dependence upon its component fibers and conditions. The dependent nature is the basis of both error and correct understanding.
+**Transmigration** refers to the unbroken continuity of causes and effects among conditioned factors.
 
-3. **The thoroughly established nature (*pariniṣpanna-svabhāva*):** the absence of the imagined nature in the dependent nature. It is like correctly seeing the rope as a rope, or seeing its emptiness of snake-nature. The thoroughly established nature is suchness (*tathatā*), the object of non-discriminating wisdom.
+**Distinction** refers to the mutual distinctness of causes and effects among conditioned factors.
 
-Among the five dharmas, names and characteristics belong to the imagined nature; discrimination belongs to the dependent nature; suchness and correct wisdom belong to the thoroughly established nature.
+**Correlation** refers to the mutual correspondence of causes and effects among conditioned factors.
 
-#### The Twelve Divisions of the Teaching
+**Rapidity** refers to the swift flow of conditioned factors.
 
-The twelve divisions (*dvādaśāṅga-dharma-pravacana*) are: sūtra, geya, vyākaraṇa, gāthā, udāna, nidāna, avadāna, itivṛttaka, jātaka, vaipulya, adbhuta-dharma, and upadeśa.
+**Sequence** refers to the one-by-one sequential flow of conditioned factors.
 
-#### Hearing (*śruta*)
+**Time** refers to the ever-new arising and ceasing of conditioned factors in succession.
 
-**Question:** What is the meaning of hearing?
+**Direction** refers to the spatial extension and delimitation of material conditioned factors.
 
-**Answer:** Hearing has six divisions: (1) hearing itself, (2) the function of hearing, (3) the characteristics of hearing, (4) the categories of hearing, (5) the relationship between hearing and practice, and (6) the accomplishment of hearing.
+**Number** refers to the flow of each distinct continuum and its characteristics among conditioned factors.
 
-Hearing is the basis for all dharma practice. Without hearing the correct dharma, one cannot generate correct thinking; without correct thinking, one cannot cultivate the path; without cultivating the path, one cannot attain the fruit.
+**Conjunction** refers to the coming together of conditions for conditioned factors.
 
-#### The Three Refuges (*triśaraṇa*)
-
-Taking refuge in the Buddha, the Dharma, and the Saṃgha has three divisions: (1) the nature of refuge, (2) the motive for taking refuge, and (3) the benefit of taking refuge.
-
-#### The Three Trainings (*triśikṣā*)
-
-The three trainings are: (1) the higher training in moral discipline (*adhiśīla-śikṣā*), (2) the higher training in mind (*adhicitta-śikṣā*), and (3) the higher training in wisdom (*adhiprajñā-śikṣā*). These are elaborated in twelve divisions.
-
-#### The Three Awakenings (*tribodhi*)
-
-The three awakenings are: (1) the awakening of the śrāvaka, (2) the awakening of the pratyekabuddha, and (3) the supreme perfect awakening (*anuttarā samyaksaṃbodhi*) of the buddha. These are distinguished in five divisions.
+**Disjunction** refers to the failure of conditions for conditioned factors.
 
 ---
 
-## Fascicles 6–8
+**The unconditioned** (asaṃskṛta) is of eight kinds, namely: (1) space (ākāśa), (2) non-analytical cessation (apratisaṃkhyā-nirodha), (3) analytical cessation (pratisaṃkhyā-nirodha), (4) immovability (āniñjya), (5) the cessation of perception and feeling (saṃjñā-vedayita-nirodha), (6) the true suchness of wholesome dharmas, (7) the true suchness of unwholesome dharmas, (8) the true suchness of indeterminate dharmas.
 
-### Chapter 2: Compendium of Pure Meaning (Continued, Parts 2–4)
+**Space** refers to the nature of the antidotal domain for external form that serves as the object of mind and mental factors.
 
-#### Holy Conduct (*brahmacarya*)
+**Non-analytical cessation** refers to the nature of cessation, not being liberation from bondage, when conditions do not come together and conditioned factors do not arise in the intervening period.
 
-The treatise explains that holy conduct is the entirety of the path, including moral discipline, concentration, and wisdom. It is called "holy" because it is the conduct of the noble ones and leads to the holy fruit.
+**Analytical cessation** refers to the nature of cessation that is liberation from bondage, through the means of wisdom, when conditioned factors with outflows ultimately do not arise.
 
-#### The Great Vehicle (*mahāyāna*)
+**Immovability** refers to the nature of liberation from bondage regarding suffering and pleasure during the intervening period when, freed from desire for the Third Dhyāna, one attains the Fourth Dhyāna.
 
-**Question:** Why is the Mahāyāna called "great"?
+**The cessation of perception and feeling** refers to the nature of liberation from bondage when, freed from desire for the Sphere of Nothingness and entering the attainment of cessation, during the intervening period the non-constantly-occurring mind and mental factors and a portion of the constantly-occurring mind and mental factors cease.
 
-**Answer:** It is great in seven respects: (1) great object (*ālambana*), because it encompasses all dharmas; (2) great practice, because it includes all six perfections; (3) great wisdom, because it understands both person-selflessness and dharma-selflessness; (4) great diligence, because it spans three incalculable eons; (5) great skillful means, because it does not abandon sentient beings; (6) great accomplishment, because it achieves the ten powers and other virtues; (7) great activity, because it displays great miraculous powers.
-
-#### The Great Awakening
-
-The supreme perfect awakening surpasses the awakenings of śrāvakas and pratyekabuddhas because it abandons both the afflictive obstructions (*kleśa-āvaraṇa*) and the cognitive obstructions (*jñeya-āvaraṇa*), and because it is endowed with omniscient wisdom.
-
-#### Virtues of Bodhisattvas
-
-The virtues of bodhisattvas are explained in terms of: (a) the initial generation of the aspiration for awakening (*bodhicitta-utpāda*), (b) the practice of the perfections, (c) the attainment of the grounds, and (d) the final attainment of buddhahood.
+**The true suchness of wholesome, unwholesome, and indeterminate dharmas** refers to the nature of the pure domain within wholesome, unwholesome, and indeterminate dharmas respectively.
 
 ---
 
-## Fascicles 9–10
+Furthermore, these five dharmas should be understood as having three characteristics: (1) the characteristic of superimposition, (2) the characteristic of what arises from superimposition, (3) the characteristic of the dharma-nature.
 
-### Chapter 2: Compendium of Pure Meaning (Continued, Parts 5–6)
+The **characteristic of superimposition** refers to the imagined self-nature (parikalpita-svabhāva) within all dharmas.
 
-#### Sixteen Heterodox Views and Their Refutation
+The **characteristic of what arises from superimposition** refers to the other-dependent self-nature (paratantra-svabhāva) within all dharmas, as appropriate.
 
-The treatise states: Now, the refutation of heterodox views will be explained. There are sixteen principal types of wrong view held by non-Buddhist philosophers:
-
-1. The view of a permanent self (*ātman*).
-2. The view that the world is eternal.
-3. The view that the world is not eternal.
-4. The view that the world is both eternal and not eternal.
-5. The view that the world is neither eternal nor not eternal.
-6. The view that the world has an end.
-7. The view that the world has no end.
-8. The view that the world both has and has no end.
-9. The view that the world neither has nor has no end.
-10. The view that the self and body are identical.
-11. The view that the self and body are different.
-12. The view that the Tathāgata exists after death.
-13. The view that the Tathāgata does not exist after death.
-14. The view that the Tathāgata both exists and does not exist after death.
-15. The view that the Tathāgata neither exists nor does not exist after death.
-16. The view that there is no causation.
-
-Each of these views is refuted by showing its logical contradictions, its inconsistency with the directly perceived facts of impermanence and dependent origination, and its conflict with the Buddha's teaching.
-
-#### Debate Methodology
-
-The treatise explains seven aspects of debate and argumentation:
-
-1. **Thesis (*pratijñā*):** The proposition to be established.
-2. **Reason (*hetu*):** The logical ground for the thesis.
-3. **Example (*dṛṣṭānta*):** The illustration that supports the reason.
-4. **Application (*upanaya*):** Applying the example to the case at hand.
-5. **Conclusion (*nigamana*):** The final determination.
-6. **Means of correct knowledge (*pramāṇa*):** Direct perception (*pratyakṣa*), inference (*anumāna*), and scriptural testimony (*āgama*).
-7. **Fallacies (*hetvābhāsa*):** The various types of pseudo-reasons, including the unestablished, the contradictory, the inconclusive, and the counterbalanced.
+The **characteristic of the dharma-nature** refers to the consummate self-nature (pariniṣpanna-svabhāva) within all dharmas.
 
 ---
 
-## Fascicles 11–13
+Thus has "All" been explained. Now "Realm" shall be explained. The verse states:
 
-### Chapter 2: Compendium of Pure Meaning (Continued, Parts 7–9)
+> Realm refers to the desire realm and the rest,
+> And to the three-thousand world system.
 
-#### Hermeneutics and Interpretation
+**The treatise states:** Realm is of two kinds: (1) the three realms of desire and so forth, (2) the three-thousand world system.
 
-The treatise explains the methods of interpreting the Buddha's teaching:
+The **three realms of desire and so forth** are: (1) the desire realm (kāma-dhātu), referring to the distinct aggregates mixed with the afflictions of the stage where desire has not yet been abandoned; (2) the form realm (rūpa-dhātu), referring to the distinct aggregates mixed with the afflictions of the stage where desire has been abandoned; (3) the formless realm (ārūpya-dhātu), referring to the distinct aggregates mixed with the afflictions of the stage where desire for form has been abandoned.
 
-**The four reliances (*catvāri pratisaraṇāni*):**
-1. Rely on the dharma, not on the person.
-2. Rely on the meaning, not on the words.
-3. Rely on the definitive meaning, not on the interpretable meaning.
-4. Rely on wisdom, not on ordinary consciousness.
+These three realms should be understood as having five kinds of distinction: (1) distinction of characteristics, (2) distinction of heaviness, (3) distinction of location, (4) distinction of enjoyment, (5) distinction of sustenance.
 
-**The interpretable and definitive meanings:** Sūtras of interpretable meaning (*neyārtha*) require further explanation and should not be taken literally. Sūtras of definitive meaning (*nītārtha*) directly express the ultimate truth and can be taken as they stand.
+**Distinction of characteristics:** In the desire realm, form has the characteristics of being manifold, impure, and various and mixed. In the form realm, form has the characteristics of being sparse, pure, and not various and mixed. In the formless realm, although there is no form born of karma, there is form born of concentration, invisible and without obstruction. Furthermore, in the desire realm there are the characteristics of association with painful feeling, association with hatred, and association with many secondary afflictions. In the form and formless realms there are the characteristics of non-association with painful feeling, non-association with hatred, and association with few secondary afflictions.
 
-**The hidden intent (*abhiprāya*) of the teaching:** The Buddha sometimes speaks with hidden intent for pedagogical purposes. Four types of hidden intent are distinguished: (1) intent regarding entry, (2) intent regarding characteristics, (3) intent regarding antidotes, (4) intent regarding translation from one mode of discourse to another.
+**Distinction of heaviness:** In the desire realm, heaviness is coarse and harmful. In the form and formless realms, heaviness is subtle and not harmful.
 
-#### Teacher Qualities
+**Distinction of location:** The desire realm is situated below; the form realm is situated above; the formless realm has no location.
 
-The teacher of the dharma should possess the following qualities: learning, moral discipline, compassion, eloquence, patience, fearlessness, and skill in means.
+**Distinction of enjoyment:** The desire realm enjoys external sense-objects. The form and formless realms enjoy internal sense-objects.
 
-#### Audience Types
+**Distinction of sustenance:** The aggregates in the desire realm are sustained by four kinds of nutriment. The aggregates in the form and formless realms are sustained by three kinds of nutriment.
 
-Audiences are classified according to their spiritual faculties, their lineage, and their capacity for receiving the teaching. The teacher should adapt the teaching according to the audience's capacity.
+The **three-thousand world system** consists of: (1) a minor chiliocosm, (2) a middling dichiliocosm, (3) a great trichiliocosm. A single world is defined as the extent illuminated by one sun and one moon. In one thousand such worlds, there are a thousand suns and moons, a thousand Mount Sumerus, a thousand Southern Jambudvīpas, a thousand Eastern Videhas, a thousand Western Godānīyas, a thousand Northern Kurus, a thousand heavens of the Four Great Kings, a thousand Trāyastriṃśa heavens, a thousand Yāma heavens, a thousand Tuṣita heavens, a thousand Nirmāṇarati heavens, a thousand Paranirmita-vaśavartin heavens, and a thousand Brahmā-world heavens. Together these are called the first minor chiliocosm. A thousand minor chiliocosms are called the second middling dichiliocosm. A thousand middling dichiliocosms are called the third great trichiliocosm.
 
-#### Praise of the Buddha
+Question: Why is the minor chiliocosm called minor and lowly?
 
-The chapter concludes with an extensive praise of the Buddha's virtues, his compassion, his wisdom, and his unceasing activity for the benefit of sentient beings.
+Answer: It is like a bull whose two horns have been cut off: because of the deficiency, it is called lowly. In the same way, the thousand worlds contained below the Brahmā-world do not reach the higher realms, and so are called lowly.
 
----
+These three-thousand world systems are destroyed by three disasters: fire, water, and wind. There are three levels of disaster. The upper limits of the three disasters correspond to the Second, Third, and Fourth Dhyānas respectively. The devas of the Fourth Dhyāna naturally arise and cease together with their palaces. Furthermore, three intermediate kalpas arise, namely: famine, epidemic, and warfare. Twenty intermediate kalpas constitute the period of world-destruction. Twenty intermediate kalpas constitute the period of abiding after destruction. Twenty intermediate kalpas constitute the period of world-formation. Twenty intermediate kalpas constitute the period of abiding after formation. These eighty intermediate kalpas together are called a great kalpa.
 
-## Fascicle 14
-
-### Chapter 3: Establishing Expertise (*Chéng Shànqiǎo Pǐn* 成善巧品)
-
-The treatise states: Now, the establishment of expertise will be explained. As the verse says:
-
-> Seven kinds of expertise the wise should know:
-> In aggregates, elements, sense-bases,
-> Dependent origination, appropriate and inappropriate,
-> Faculties, and the truths.
-
-**Question:** How many kinds of expertise are there?
-
-**Answer:** There are seven kinds of expertise (*saptavidha-kauśalya*):
-
-1. **Expertise in the aggregates (*skandha-kauśalya*):** Understanding the five aggregates of form, feeling, perception, formations, and consciousness, their characteristics, arising, and cessation.
-
-2. **Expertise in the elements (*dhātu-kauśalya*):** Understanding the eighteen elements, namely the six sense-organs, six sense-objects, and six sense-consciousnesses, and how they interact.
-
-3. **Expertise in the sense-bases (*āyatana-kauśalya*):** Understanding the twelve sense-bases, namely the six internal bases (eye, ear, nose, tongue, body, mind) and six external bases (forms, sounds, smells, tastes, tangibles, dharmas).
-
-4. **Expertise in dependent origination (*pratītya-samutpāda-kauśalya*):** Understanding the twelve links of dependent origination in both their forward and reverse sequences.
-
-5. **Expertise in the appropriate and inappropriate (*sthānāsthāna-kauśalya*):** Understanding what is possible and impossible, what accords with the nature of dharmas and what does not.
-
-6. **Expertise in the faculties (*indriya-kauśalya*):** Understanding the twenty-two faculties, including the five sense-faculties, the life-faculty, the five spiritual faculties, and others.
-
-7. **Expertise in the truths (*satya-kauśalya*):** Understanding the four noble truths and the two truths (conventional and ultimate).
-
-Each of these seven kinds of expertise is essential for the practitioner's progress on the path. They are the foundation for both calm abiding and insight, and for the direct realization of the nature of dharmas.
-
-### Chapter 4: Establishing Impermanence (*Chéng Wúcháng Pǐn* 成無常品)
-
-The treatise states: Now, the establishment of impermanence will be explained. As the verse says:
-
-> All conditioned things are impermanent:
-> This should be known through six types and eight.
-
-Impermanence is of six types:
-
-1. **Impermanence of arising and ceasing (*utpāda-vyaya-anityatā*):** All conditioned dharmas arise and cease in every moment.
-2. **Impermanence as transformation (*anyathātva-anityatā*):** Conditioned dharmas continuously undergo change.
-3. **Impermanence of destruction (*vināśa-anityatā*):** All conditioned dharmas eventually come to an end.
-4. **Impermanence of separation (*viprayoga-anityatā*):** All associations eventually dissolve.
-5. **Impermanence as momentariness (*kṣaṇika-anityatā*):** Dharmas exist only for a single moment.
-6. **Impermanence of dharma-nature (*dharmatā-anityatā*):** It is simply the nature of conditioned dharmas to be impermanent.
-
-The eight aspects elaborate on how impermanence manifests in the body, possessions, status, companions, moral character, views, prosperity, and life itself.
-
-There are also fifteen kinds of change (*vipariṇāma*), and the chapter includes a detailed refutation of the eternalist position.
+Just as rain falls from the sky in drops as thick as cart axles, without interruption pouring from the sky, in the same way the worlds in the eastern direction are boundless and without interruption, either forming or being destroyed: some are being destroyed, some abide after destruction, some are being formed, some abide after formation. The same extends to the worlds in all ten directions.
 
 ---
 
-## Fascicle 15
+Thus has "Realm" been explained. Now "Defilement" shall be explained. The verse states:
 
-### Chapter 5: Establishing Suffering (*Chéng Kǔ Pǐn* 成苦品)
+> Affliction, karma, and birth:
+> The nature of defilement should thus be known.
 
-The treatise states: Now, the establishment of suffering will be explained. As the verse says:
+**The treatise states:** The nature of defilement is of three kinds: (1) affliction-defilement, (2) karma-defilement, (3) birth-defilement.
 
-> Three kinds of suffering pervade:
-> Suffering of suffering, change, and formations.
+**Affliction-defilement** refers to all afflictions and secondary afflictions, collectively called affliction-defilement. Afflictions in brief are of ten kinds: (1) view of a real self, (2) extreme views, (3) wrong views, (4) clinging to views, (5) clinging to rules and rituals, (6) greed, (7) hatred, (8) ignorance, (9) pride, (10) doubt. Or they are of two kinds: (1) eliminated by seeing, (2) eliminated by cultivation. Or they are of three kinds: (1) bound to the desire realm, (2) bound to the form realm, (3) bound to the formless realm.
 
-The three kinds of suffering are:
+Furthermore, there are seven kinds of inverted conduct: (1) wrong understanding, (2) non-understanding, (3) neither understanding nor non-understanding, (4) grasping wrong understanding, (5) conduct based on the causal ground of those, (6) conduct arising from fear of those, (7) spontaneously arising conduct.
 
-1. **Suffering of suffering (*duḥkha-duḥkhatā*):** The direct experience of painful feeling.
-2. **Suffering of change (*vipariṇāma-duḥkhatā*):** The suffering inherent in the fact that pleasant experiences come to an end.
-3. **Suffering of conditioned existence (*saṃskāra-duḥkhatā*):** The suffering inherent in all conditioned phenomena, which are bound by impermanence and subject to the afflictions.
+Wrong understanding refers to the view of a real self, extreme views, and wrong views, because they generate wrong convictions regarding knowable objects. Non-understanding refers to ignorance. Neither understanding nor non-understanding refers to doubt. Grasping wrong understanding refers to clinging to views and clinging to rules and rituals, as well as greed and other afflictions arising in dependence on views. Conduct based on the causal ground refers to afflictions eliminated by seeing suffering and the arising of suffering. Conduct arising from fear refers to afflictions eliminated by seeing cessation and the path. Spontaneously arising conduct refers to afflictions eliminated by cultivation.
 
-The chapter further enumerates fifty-five types of suffering in detail, organized according to: the suffering inherent in birth, aging, sickness, and death; the suffering of association with the unpleasant; the suffering of separation from the pleasant; the suffering of not obtaining what one desires; and the suffering of the five aggregates of clinging.
+Afflictions eliminated by seeing number one hundred and twelve. Afflictions eliminated by cultivation number sixteen. Together, the afflictions eliminated by seeing and by cultivation total one hundred and twenty-eight.
 
-### Chapter 6: Establishing Emptiness (*Chéng Kōng Pǐn* 成空品, Part 1)
+This affliction-defilement, because of various distinctions of meaning, is given various names, namely: fetters, bonds, latent tendencies, secondary afflictions, entanglements, floods, yokes, clinging, ties, hindrances, stumps, stains, burns, harms, arrows, possessions, misconduct, outflows, deprivations, fevers, quarrels, blazing, fires, thickets, and obstructions. Such are the various names with their distinctions of meaning.
 
-The treatise states: Now, the establishment of emptiness will be explained. As the verse says:
+**Karma-defilement** refers to bodily karma, verbal karma, and mental karma belonging to the three realms as appropriate, produced either from afflictions or from wholesome dharmas assisted by afflictions as conditions. These are of two kinds: (1) volition (cetanā), and (2) what volition initiates. The distinctions of this karma are further of many kinds. Those belonging to the desire realm are called meritorious and demeritorious. Those belonging to the form and formless realms are called imperturbable. Furthermore, there is drawing-forth karma, which, being created and accumulated, draws forth the fruits and ripened effects of the various sentient-being worlds and vessel-worlds. Furthermore, there is completing karma, which, through assisting what was previously drawn forth, causes it to come into being.
 
-> Person-selflessness and dharma-selflessness:
-> These two emptinesses should be understood.
-
-#### Person-Selflessness (*pudgala-nairātmya*)
-
-Person-selflessness is established by showing that no permanent, unitary, independent self can be found among the five aggregates, either individually or collectively. The self is merely a conventional designation (*prajñapti*) based on the continuity of the aggregates.
-
-#### Sixteen Emptinesses
-
-The sixteen kinds of emptiness are:
-
-1. Internal emptiness (*ādhyātma-śūnyatā*)
-2. External emptiness (*bahirdhā-śūnyatā*)
-3. Internal-external emptiness (*ādhyātma-bahirdhā-śūnyatā*)
-4. Emptiness of emptiness (*śūnyatā-śūnyatā*)
-5. Great emptiness (*mahā-śūnyatā*)
-6. Ultimate emptiness (*paramārtha-śūnyatā*)
-7. Conditioned emptiness (*saṃskṛta-śūnyatā*)
-8. Unconditioned emptiness (*asaṃskṛta-śūnyatā*)
-9. Transcendent emptiness (*atyanta-śūnyatā*)
-10. Beginningless emptiness (*anavarāgra-śūnyatā*)
-11. Non-dispersal emptiness (*anavakāra-śūnyatā*)
-12. Nature emptiness (*prakṛti-śūnyatā*)
-13. All-dharma emptiness (*sarva-dharma-śūnyatā*)
-14. Own-characteristic emptiness (*sva-lakṣaṇa-śūnyatā*)
-15. Unobtainable emptiness (*anupalambha-śūnyatā*)
-16. Non-entity own-nature emptiness (*abhāva-svabhāva-śūnyatā*)
+**Birth-defilement** refers to: because of afflictions and karma, one is born; because of birth, one suffers. Suffering is of many kinds, namely: the suffering of oppression in the womb, the suffering of aging, illness, and death, the suffering of being united with those one hates, the suffering of being separated from those one loves, the suffering of not obtaining what one seeks, the suffering that arises together with the activity of heaviness in every birth and growth, the suffering of repeated death and birth, and the suffering of being born in the difficult states. This is called birth.
 
 ---
 
-## Fascicle 16
+## Fascicle Two
 
-### Chapter 6: Establishing Emptiness (Continued, Part 2)
+### Chapter One: Compendium of Topics, Part Two
 
-#### Eighteen Modes of Cultivating Emptiness
+Thus has "Defilement" been explained. Now "Truths" shall be explained. The verse states:
 
-The eighteen modes of cultivating emptiness encompass the progressive deepening of the understanding of emptiness through: (1) cultivating the emptiness of each aggregate, (2) cultivating the emptiness of each sense-base, (3) cultivating the emptiness of each element, (4) cultivating the emptiness of dependent origination, (5) cultivating the emptiness of the person, and so on, through increasingly subtle levels of analysis.
+> The truths are of six kinds.
 
-The chapter also discusses the relationship between emptiness and the three natures: the imagined nature is empty by nature, the dependent nature is empty of the imagined, and the thoroughly established nature is the emptiness of the imagined in the dependent.
+**The treatise states:** Truths are of six kinds: (1) conventional truth (saṃvṛti-satya), (2) ultimate truth (paramārtha-satya), (3) the truth of suffering (duḥkha-satya), (4) the truth of arising (samudaya-satya), (5) the truth of cessation (nirodha-satya), (6) the truth of the path (mārga-satya).
 
-### Chapter 7: Establishing No-Self-Nature (*Chéng Wúxìng Pǐn* 成無性品)
+**Conventional truth** refers to collections of names, phrases, and syllables, as well as all verbal discourse dependent on their meaning, and the meaning understood through verbal discourse. It also refers to mundane mind and mental factors that have been previously obtained, and the objects and meanings that constitute their domain.
 
-The treatise states: Now, the establishment of no-self-nature will be explained. As the verse says:
+**Ultimate truth** refers to noble wisdom, the objects and meanings that constitute its domain, and the mind and mental factors associated with it.
 
-> Three no-self-natures are taught
-> Based on the three natures of dharmas.
+**The truth of suffering** is of two kinds: (1) that subsumed under conventional truth, (2) that subsumed under ultimate truth. That subsumed under conventional truth is as stated in the sūtras: "The suffering of birth, the suffering of aging, the suffering of illness, the suffering of death, the suffering of being united with those one hates, the suffering of being separated from those one loves, the suffering of not obtaining what one seeks." That subsumed under ultimate truth is as stated in the sūtras: "In brief, all five appropriated aggregates are suffering."
 
-The three no-self-natures (*trividha-niḥsvabhāvatā*) are:
+**The truth of arising** is of four kinds: (1) total inclusion, (2) predominant inclusion, (3) that subsumed under conventional truth, (4) that subsumed under ultimate truth. Total inclusion means that all afflictions and karma of the three realms are called the truth of arising. Predominant inclusion means that craving directed toward already obtained or not-yet-obtained personal existence and objects of experience, craving for future existence, craving conjoined with delight, and craving for various pleasures are all called the truth of arising. That subsumed under conventional truth means the causes that can produce the truth of suffering subsumed under conventional truth. That subsumed under ultimate truth means the causes that can produce the truth of suffering subsumed under ultimate truth.
 
-1. **No-self-nature of characteristics (*lakṣaṇa-niḥsvabhāvatā*):** The imagined nature (*parikalpita*) lacks self-nature because it is merely imputed by discrimination and does not exist by its own characteristics.
+**The truth of cessation** is also of four kinds, as stated above. Total inclusion means the complete severance, abandonment, exhaustion, freedom from desire, cessation, and pacification of the totally included truth of arising, without remainder. Predominant inclusion means the complete severance, without remainder, of the predominantly included truth of arising, as explained in detail above. That subsumed under conventional truth means the complete severance, without remainder, of the truth of arising subsumed under conventional truth, as explained in detail above. That subsumed under ultimate truth means the complete severance, without remainder, of the truth of arising subsumed under ultimate truth, as explained in detail above.
 
-2. **No-self-nature of arising (*utpatti-niḥsvabhāvatā*):** The dependent nature (*paratantra*) lacks self-nature because it does not arise by its own power but only through the power of other conditions.
+**The truth of the path** is also of four kinds, as stated above. Total inclusion means all factors of awakening. Predominant inclusion means the eight noble path factors. That subsumed under conventional truth means: for the sake of fully knowing, permanently severing, and directly realizing the truth of suffering, the truth of arising, and the truth of cessation subsumed under conventional truth, all noble paths. That subsumed under ultimate truth means: for the sake of fully knowing the truth of suffering, the truth of arising, and the truth of cessation subsumed under ultimate truth, as explained in detail above.
 
-3. **Ultimate no-self-nature (*paramārtha-niḥsvabhāvatā*):** The thoroughly established nature (*pariniṣpanna*) is the ultimate no-self-nature, which is the object of the purified wisdom of the noble ones. It is the dharma-selflessness (*dharma-nairātmya*) of all dharmas.
-
-**Question:** If all dharmas lack self-nature, how can the three natures be established?
-
-**Answer:** Although all dharmas lack self-nature, this does not mean they are utterly non-existent. The three natures are established precisely through the three no-self-natures. The imagined nature does not exist but is imputed; the dependent nature exists as dependently arisen; the thoroughly established nature exists as the true nature of dharmas. Understanding this avoids both the extreme of eternalism and the extreme of nihilism.
-
-### Chapter 8: Establishing Direct Realization (*Chéng Xiànguān Pǐn* 成現觀品, Part 1)
-
-The treatise states: Now, the establishment of direct realization will be explained. As the verse says:
-
-> Entry into the path of seeing:
-> By direct realization, the truths are seen.
-
-Direct realization (*abhisamaya*) is the direct, non-conceptual cognition of the four noble truths and the true nature of dharmas. It marks the transition from an ordinary being to a noble one (*ārya*).
-
-**Conditions for entry:** To enter direct realization, one must: (1) have accumulated the requisites of merit and wisdom, (2) have completed the stages of accumulation and preparation, (3) have attained a sufficient degree of calm abiding and insight, and (4) have generated the correct understanding through hearing and reflection.
-
-**Ten kinds of certainty:** The ten kinds of certainty (*daśa-niyata*) that accompany direct realization include certainty regarding the truths, certainty regarding the path, certainty regarding the fruit, and so forth.
-
-**Six and eighteen types of direct realization:** Direct realization is classified into six types according to its object and eighteen types according to its mode.
+Regarding the meaning of the noble truths of suffering, arising, cessation, and the path: wherever noble wisdom operates, suffering, arising, cessation, and the path there are truths. Because all noble ones hold these to be truths, they are therefore called noble truths.
 
 ---
 
-## Fascicle 17
+Thus have "Truths" been explained. Now "Supports" shall be explained. The verse states:
 
-### Chapter 8: Establishing Direct Realization (Continued, Part 2)
+> Supports are eight and two.
 
-The chapter continues with the detailed analysis of the stages of direct realization, including: the path of seeing (*darśana-mārga*), the path of cultivation (*bhāvanā-mārga*), the sixteen moments of the path of seeing, the progressive abandonment of the defilements, and the relationship between direct realization and the attainment of the four fruits.
+**The treatise states:** Supports are of eight kinds. What are these eight? They are the four dhyānas and the four formless attainments. Furthermore, there are two kinds. What are these two? The first dhyāna is of two kinds: mundane and supramundane. Likewise up to the Sphere of Nothingness, each is of two kinds: mundane and supramundane. The Sphere of Neither Perception Nor Non-perception is exclusively mundane.
 
-### Chapter 9: Establishing Yoga (*Chéng Yúqié Pǐn* 成瑜伽品)
+**The mundane first dhyāna** refers to: having taken as one's object-domain either the sūtra teachings superior to freedom from desire-realm desire, or the instructions for freedom from that desire, one cultivates and transforms one's basis through the mundane path by means of attention, observation, ardent practice, and so forth. However, because one does not deeply penetrate the meaning of what is known, one cannot permanently destroy the latent tendencies; it remains a locus for afflictions of one's own stage and is subject to regression. It serves as the support for the mind and mental factors of one's own stage of concentration. As with the mundane first dhyāna, so too for the mundane stages up through the Sphere of Neither Perception Nor Non-perception, each taking as its object-domain the sūtra teachings for freedom from the desire of the lower stage, as explained in detail above.
 
-The treatise states: Now, the establishment of yoga will be explained. As the verse says:
+**The supramundane first dhyāna** refers to: having previously entered the first dhyāna with such-and-such modes, such-and-such aspects, and such-and-such characteristics through attention, one now does not enter with such modes, aspects, and characteristics through attention. Rather, regarding the dharmas subsumed under form, feeling, perception, formations, and consciousness, one reflects that they are like a disease, like a tumor, like an arrow, an obstruction, impermanent, suffering, empty, and without self. Or one reflects: suffering is suffering, arising is arising, cessation is cessation, the path is the path. Or one reflects on true suchness (tathatā), the dharma-nature (dharmatā), and the true limit of reality (bhūta-koṭi). Having reflected on these dharmas as like a disease and so forth up to the true limit of reality, one generates aversion and dread toward such dharmas. Having generated aversion and dread, one collects the mind and abides in the deathless realm, or collects the mind and abides in true suchness, the dharma-nature, and the true limit of reality. Herein, the non-discriminating wisdom and its associated mind and mental factors, and the transformation of basis upon which they depend: because one deeply penetrates the meaning of what is known, one can permanently destroy the latent tendencies. It is not a locus for any afflictions and is a non-regressive dharma. This is called the supramundane first dhyāna, and so forth up through the Sphere of Nothingness, which should be explained in detail.
 
-> The yoga of the perfection of wisdom:
-> Calm and insight in union.
+Regarding the dhyānas and formless attainments, there are furthermore four kinds to be known: (1) defiled, (2) pure, (3) established, (4) pristine.
 
-Yoga here refers specifically to the yoga of *prajñāpāramitā*, the union of calm abiding (*śamatha*) and insight (*vipaśyanā*) directed toward the ultimate nature of dharmas. This is the supreme practice of the bodhisattva path.
+**Defiled** means giving rise to deep attachment, views, pride, and doubt regarding the higher dhyānas. Attachment has ten kinds: (1) innate attention-attachment, (2) discriminatively arisen attention-attachment, (3) attachment to attention of one's own stage, (4) attachment to attention of a different stage, (5) past attachment, (6) future attachment, (7) present attachment, (8) lower attachment, (9) middling attachment, (10) upper attachment.
 
-The chapter explains: (1) the nature of this yoga, (2) its objects, (3) its practice, (4) its stages, and (5) its fruit. The yoga of *prajñāpāramitā* is distinguished from the yogas of the śrāvaka and pratyekabuddha paths by its scope (encompassing all dharmas and all sentient beings), its motivation (great compassion), and its fruit (omniscient wisdom).
+**Pure** means both pure and uncontaminated. Pure is of three kinds: (1) through inducement, (2) through progressive refinement, (3) through the fitness attained by removing impurities. Uncontaminated is also of three kinds: (1) supramundane uncontaminated, (2) the outflow of that which is uncontaminated, (3) uncontaminated through liberation from bondage.
 
-### Chapter 10: Establishing the Inconceivable (*Chéng Bùsīyì Pǐn* 成不思議品)
+**Established** is of four kinds: (1) establishing the preliminary stage (sāmantaka), (2) establishing the fundamental stage (maula), (3) establishing the attainment, (4) establishing rebirth.
 
-The treatise states: Now, the establishment of the inconceivable will be explained. As the verse says:
+Establishing the preliminary and fundamental stages: as stated in the sūtras, "This very body is moistened, thoroughly moistened, made comfortable, and pervaded by the joy and happiness born of seclusion": this is the preliminary stage of the first dhyāna. As the sūtra further states, "In this very body, there is no place whatsoever that is not pervaded by the joy and happiness born of seclusion": this is the fundamental stage of the first dhyāna.
 
-> Nine inconceivable matters:
-> The wise should know them well.
+As stated in the sūtras, "This very body is moistened, thoroughly moistened, made comfortable, and pervaded by the joy and happiness born of concentration": this is the preliminary stage of the second dhyāna. As the sūtra further states, "In this very body, there is no place whatsoever that is not pervaded by the joy and happiness born of concentration": this is the fundamental stage of the second dhyāna.
 
-The nine inconceivable matters are:
+As stated in the sūtras, "This very body is moistened, thoroughly moistened, made comfortable, and pervaded by the happiness free from joy": this is the preliminary stage of the third dhyāna. As the sūtra further states, "In this very body, there is no place whatsoever that is not pervaded by the happiness free from joy": this is the fundamental stage of the third dhyāna.
 
-1. The inconceivable nature of the self (*ātman*): the true nature of the self is inconceivable.
-2. The inconceivable nature of the world (*loka*): the extent and nature of the world are inconceivable.
-3. The inconceivable nature of sentient beings (*sattva*): the variety of sentient beings' faculties and dispositions is inconceivable.
-4. The inconceivable nature of the buddha-realm (*buddha-kṣetra*): the purification and adornment of buddha-lands are inconceivable.
-5. The inconceivable nature of the maturation of karma (*karma-vipāka*): how actions produce their results is inconceivable in its full complexity.
-6. The inconceivable nature of the power of meditation (*dhyāna-bala*): the powers gained through meditative attainment are inconceivable.
-7. The inconceivable nature of the power of the Buddha (*buddha-bala*): the ten powers and other qualities of the Buddha are inconceivable.
-8. The inconceivable nature of the power of the Dharma (*dharma-bala*): the transformative power of the teaching is inconceivable.
-9. The inconceivable nature of the dharma-realm (*dharma-dhātu*): the ultimate nature of reality is inconceivable.
+As stated in the sūtras, "This very body is pervaded and fully abides with a purified mind and whitened mind through resolute understanding": this is the preliminary stage of the fourth dhyāna. As the sūtra further states, "In this very body, there is no place whatsoever that is not pervaded by the purified mind and whitened mind": this is the fundamental stage of the fourth dhyāna.
 
-### Chapter 11: Compendium of Supreme Determinations (*Shè Shèng Juézé Pǐn* 攝勝決擇品, Part 1)
+As stated in the sūtras, "Because all perceptions of form are completely transcended, because perceptions of resistance have ceased, and because one does not attend to perceptions of variety, one enters the Sphere of Infinite Space, thinking 'Space is infinite'": this is the preliminary stage of the Sphere of Infinite Space. As the sūtra further states, "One abides having fully attained it": this is the fundamental stage of the Sphere of Infinite Space.
 
-The treatise states: Now, the Compendium of Supreme Determinations will be explained. As the verse says:
+As stated in the sūtras, "Completely transcending the Sphere of Infinite Space, one enters the Sphere of Infinite Consciousness, thinking 'Consciousness is infinite'": this is the preliminary stage of the Sphere of Infinite Consciousness. As the sūtra further states, "One abides having fully attained it": this is the fundamental stage of the Sphere of Infinite Consciousness.
 
-> Supreme determinations on the dharmas:
-> Mind, form, and all the rest.
+As stated in the sūtras, "Completely transcending the Sphere of Infinite Consciousness, one enters the Sphere of Nothingness, thinking 'There is nothing at all'": this is the preliminary stage of the Sphere of Nothingness. As the sūtra further states, "One abides having fully attained it": this is the fundamental stage of the Sphere of Nothingness.
 
-This chapter provides authoritative determinations (*nirṇaya*) on each of the topics previously discussed, going deeper into their analysis. It spans four fascicles (17 through 20) and constitutes the most detailed and analytically rigorous section of the treatise.
+As stated in the sūtras, "Completely transcending the Sphere of Nothingness, one enters the Sphere of Neither Perception Nor Non-perception": this is the preliminary stage of the Sphere of Neither Perception Nor Non-perception. As the sūtra further states, "One abides having fully attained it": this is the fundamental stage of the Sphere of Neither Perception Nor Non-perception.
 
-#### Supreme Determination on Mind
+**Establishing the attainment:** As stated in the sūtras, "Having abandoned evil, unwholesome dharmas through being free from desires, with investigation and analysis, and with the joy and happiness born of seclusion, one abides having fully attained the first dhyāna." *Free from desires* means: having taken as one's object either the sūtra teachings or the instructions superior to freedom from desire-realm desire, one severs the affliction-defilement of the desire realm. *Having abandoned evil, unwholesome dharmas* means severing the karma-defilement of the desire realm. Dharmas that can cause one to fall into evil destinies are called "evil." Dharmas that obstruct the wholesome are called "unwholesome." *Investigation* (vitarka) refers to three kinds that serve as antidotes to two kinds of defilement: investigation of renunciation, investigation of non-ill-will, investigation of non-harmfulness. *Analysis* (vicāra) similarly refers to three kinds: analysis of renunciation, analysis of non-ill-will, analysis of non-harmfulness. *Seclusion* (viveka) means the transformation of basis obtained through cultivating the antidotes and severing the obstructions to be eliminated. *Born* means arisen from that. *Joy* (prīti) means, for one whose basis has been transformed, dependent on the evolving consciousness: delight, courage, comfort, and ease of mind, subsumed under the pleasant mental feeling. *Happiness* (sukha) means, for one whose basis has been transformed, dependent on the ālaya-vijñāna: that which collects and supports the bodily basis, causing bodily comfort and ease, subsumed under the pleasant physical feeling. *First* means it is the first in the sequential order of attainments. *Dhyāna* means: having severed the defilement of the desire realm, dependent on the transformation of basis as the support for investigation, analysis, joy, and happiness, the mind abiding in a single object. *Fully attained* means cultivated to completion. *Abides* means having mastery over entering, abiding in, and emerging from it at will.
 
-**The establishment of the *ālaya-vijñāna* through eight arguments:**
+As also stated in the sūtras, "Because investigation and analysis have become calm, because of inner serenity, because of the mind being unified in one direction, without investigation and without analysis, with the joy and happiness born of concentration, one abides having fully attained the second dhyāna." *Investigation and analysis have become calm* means: having taken as one's object the sūtra teachings or instructions for freedom from desire of the first dhyāna, the investigation and analysis of the first dhyāna stage have become calm and no longer manifest. *Inner serenity* means: as an antidote to investigation and analysis, one collects mindfulness and introspection, and with regard to one's own inner being, the mind abides in equanimity, free from the turbidity of the dusty dharmas of investigation and analysis; hence it is called "inner serenity." *Mind unified in one direction* means: when entering in this way, one abides in prolonged continuity, and the dharmas of investigation and analysis never manifest. *Without investigation and without analysis* means having realized the dharma of severing investigation and analysis. *Concentration* (samādhi) means, for one whose basis has been transformed, the mind abiding in a single object. *Born* means born from concentration. Joy and happiness are as previously explained. *Second dhyāna* means: with investigation and analysis calmed, inner being pervaded by serenity, and born of concentration, dependent on the transformation of basis as the support for joy and happiness, the mind abiding in a single object. The rest is as previously explained.
 
-The existence of the *ālaya-vijñāna* is established through eight lines of reasoning:
+As also stated in the sūtras, "Through being free from joy, one abides in equanimity with mindfulness and introspection, experiencing happiness with the body. As the noble ones declare, one who has attained equanimity and mindfulness abides in happiness, having fully attained the third dhyāna." *Free from joy* means: having taken as one's object the sūtra teachings or instructions for freedom from desire of the second dhyāna, one sees the fault in the characteristic of the joy of the second dhyāna. *Abiding in equanimity* means: because one does not accept and because one is averse to the already-arisen perceptions of and attention to joy, one abides without defilement in mental equipoise, mental uprightness, and mental non-agitation. *Mindfulness* means: within the characteristic of the cessation of the already-observed joy, one does not forget and remains clear, causing joy to definitively cease manifesting. *Introspection* means: if at times mindfulness is lost and joy manifests again, one has discriminating awareness of the characteristic of the manifesting joy. *Happiness* means, for one whose basis has been transformed: a pleasant feeling free from joy and free from excitement, subsumed under pleasant feeling. *Body* means, for one whose basis has been transformed: both the evolving consciousness and the ālaya-vijñāna, being of a single mental nature without distinction, are collectively called "body." *Experiencing* means, for one whose basis has been transformed: collecting and supporting the body, causing bodily comfort, collectively expressed as "experiencing happiness with the body." The pleasant feeling in this stage is profoundly calm, supremely subtle, unmatched above or below. *Noble ones* refers to the Buddha and the Buddha's disciples. *Declare* means to manifest and establish. *One who has attained equanimity and mindfulness abides in happiness* means: from this stage upward there is no subtle happiness, and in lower stages there is no such supreme happiness nor equanimity and mindfulness as antidotes. *Third dhyāna* means: having become free from joy, dependent on the transformation of basis as the support for equanimity, mindfulness, introspection, and happiness, the mind abiding in a single object. The rest is as previously explained.
 
-1. **From the impossibility of appropriation without it:** Without the *ālaya-vijñāna*, there would be no basis for the appropriation of a body endowed with sense-faculties. The six operative consciousnesses are intermittent and cannot serve as the continuous basis of appropriation.
+As also stated in the sūtras, "Through the severance of happiness, and through the prior severance of suffering, joy, and grief, with neither suffering nor happiness, and with equanimity and mindfulness purified, one abides having fully attained the fourth dhyāna." *Severance of happiness* means at the time of entering the fourth dhyāna. *Prior severance of suffering* means at the time of entering the second dhyāna. *Prior severance of joy* means at the time of entering the third dhyāna. *Prior severance of grief* means at the time of entering the first dhyāna. *Neither suffering nor happiness* means, for one whose basis has been transformed: a feeling that is neither comfortable nor uncomfortable, subsumed under the feeling of the form realm at its most supreme, calm, and supreme collection, without any agitation. *Equanimity purified* means: because one has transcended all the agitation of the three stages of investigation, analysis, joy, and happiness, one has the nature of mental equipoise, mental uprightness, and mental non-agitation. *Mindfulness purified* means: because one has transcended all the agitation of the three stages of investigation, analysis, joy, and happiness, one has the nature of the mind's not forgetting and being clear. *Fourth* means fourth in the sequential order of attainments. *Dhyāna* means: because happiness has been severed, dependent on the transformation of basis as the support for neither suffering nor happiness, equanimity, and purified mindfulness, the mind abiding in a single object. The rest is as previously explained.
 
-2. **From the impossibility of sense-experience without it:** The five sense-consciousnesses and mental consciousness arise and cease from moment to moment. Without a continuous underlying consciousness, there would be no basis for the arising of the operative consciousnesses.
+As also stated in the sūtras, "Because all perceptions of form are completely transcended, because perceptions of resistance have ceased, and because one does not attend to perceptions of variety, one enters infinite space, and abides having fully attained the Sphere of Infinite Space." *All* refers to all aspects and characteristics. *Perceptions of form* refers to perceptions of visible color. *Completely transcended* means freed from desire for them. As with the meaning of "completely transcended," so too "perceptions of resistance have ceased" and "one does not attend to perceptions of variety" should be understood. *Perceptions of resistance* refers to perceptions of the four great elements upon which one depends, and perceptions of the remaining derived forms. *Perceptions of variety* refers to perceptions of variety subsumed under conceptual forms within the four great elements and derived forms, such as long, short, coarse, fine, square, round, high, low, straight, crooked, light, shadow, brightness, darkness, and similar types. When one properly enters the Sphere of Infinite Space, perceptions of resistance do not manifest and hence cease, and perceptions of variety do not arise through attention. Through this, one transcends all perceptions of form upon which they depend. *Infinite* means the characteristics of the ten directions cannot be differentiated. *Space* means the antidotal object-domain for form. *Sphere of Infinite Space* refers to the transformation of basis of this stage and the attainment that depends upon it. The rest is as previously explained.
 
-3. **From the impossibility of seeds without it:** The seeds (*bīja*) of all dharmas must be stored somewhere. The six consciousnesses are too intermittent and too specific to serve as the universal repository of seeds.
+As also stated in the sūtras, "Completely transcending the Sphere of Infinite Space, one enters infinite consciousness and abides having fully attained the Sphere of Infinite Consciousness." *Completely transcending the Sphere of Infinite Space* means transcending both the preliminary and fundamental stages. *Infinite consciousness* means: the consciousness that took infinite space as its object is now taken as one's own object-domain. *Sphere of Infinite Consciousness* refers to the transformation of basis of this stage and the attainment that depends upon it. The rest is as previously explained.
 
-4. **From the impossibility of karma-result without it:** Karma performed in one life must produce its result in a future life. Without the *ālaya-vijñāna* to carry the karmic seeds, this would be impossible.
+As also stated in the sūtras, "Completely transcending the Sphere of Infinite Consciousness, one enters 'there is nothing at all' and abides having fully attained the Sphere of Nothingness." *Completely transcending the Sphere of Infinite Consciousness* means transcending both the preliminary and fundamental stages. *There is nothing at all* means: when searching for an object-domain above the Sphere of Consciousness, one finds nothing whatsoever. Apart from nothingness there is no other object-domain, because one sees only this object as supremely calm. *Sphere of Nothingness* refers to the transformation of basis of this stage and the attainment that depends upon it. The rest is as previously explained.
 
-5. **From the impossibility of mindless states without it:** In states such as the attainment of cessation, dreamless sleep, and fainting, the six consciousnesses cease. If there were no underlying consciousness, the body would be a corpse. The *ālaya-vijñāna* continues to function in these states.
+As also stated in the sūtras, "Completely transcending the Sphere of Nothingness, one enters 'neither perception nor non-perception' and abides having fully attained the Sphere of Neither Perception Nor Non-perception." *Completely transcending the Sphere of Nothingness* means transcending both the preliminary and fundamental stages. *Neither perception* means having transcended the perception of nothingness. *Nor non-perception* means: when searching for an object-domain above the Sphere of Nothingness, one finds only an extremely subtle mind and mental factors that take nothingness as their object, because one sees only this object as supremely calm. *Sphere of Neither Perception Nor Non-perception* refers to the transformation of basis of this stage and the attainment that depends upon it. The rest is as previously explained.
 
-6. **From the impossibility of death and rebirth without it:** At the time of death, consciousness departs the body. At the time of rebirth, consciousness enters a new body. The *ālaya-vijñāna* is the consciousness that performs these functions.
+**Establishing rebirth:** If one previously in this world cultivated the first dhyāna at the lower, middling, and higher levels, one is subsequently reborn in that realm and receives three heavenly fruits: the Brahmā-body heaven, the Brahmā-attendant heaven, and the Great Brahmā heaven. If one has well cultivated the first dhyāna without investigation but with analysis, one is reborn as a Great Brahmā heaven fruit, for there is no other place that surpasses it. If one previously cultivated the second dhyāna at the lower, middling, and higher levels, one subsequently receives three heavenly fruits: the Limited Light heaven, the Immeasurable Light heaven, and the Utmost Pure Light heaven. If one previously cultivated the third dhyāna at the lower, middling, and higher levels, one subsequently receives three heavenly fruits: the Limited Purity heaven, the Immeasurable Purity heaven, and the Universal Purity heaven. If one previously cultivated the fourth dhyāna at the lower, middling, and higher levels, one subsequently receives three heavenly fruits: the Cloudless heaven, the Merit-Born heaven, and the Vast Fruit heaven.
 
-7. **From the impossibility of simultaneity without it:** Multiple consciousnesses operate simultaneously. The *ālaya-vijñāna* serves as the common foundation for their simultaneous operation.
+Above this, because one is freed from desire for form, there is no distinction of location. Although there are lower, middling, and higher causes of cultivation, no distinctions of rebirth-fruit are established. If one cultivates the Sphere of Infinite Space at the lower, middling, and higher levels, one receives the rebirth-fruit of the Sphere of Infinite Space heaven. If one cultivates the Sphere of Infinite Consciousness at the lower, middling, and higher levels, one receives the rebirth-fruit of the Sphere of Infinite Consciousness heaven. If one cultivates the Sphere of Nothingness at the lower, middling, and higher levels, one receives the rebirth-fruit of the Sphere of Nothingness heaven. If one cultivates the Sphere of Neither Perception Nor Non-perception at the lower, middling, and higher levels, one receives the rebirth-fruit of the Sphere of Neither Perception Nor Non-perception heaven. Due to differences in the calmness of the attainments and due to whether one's duration of abiding is full or not full, there are distinctions among them.
 
-8. **From the impossibility of purification without it:** The path purifies defilements progressively. This requires a continuous consciousness in which the seeds of defilement are stored and progressively eliminated.
+Furthermore, through extensively abiding in attachment to the first dhyāna through the Sphere of Neither Perception Nor Non-perception, one dies prematurely without completing one's lifespan. If one cultivates the fourth dhyāna in a mixed manner at the lower level, combining mundane and uncontaminated practice, one receives the rebirth-fruit of the Avṛha Pure Abode heaven. If one cultivates in a mixed manner at the middling level, one receives the rebirth-fruit of the Atapa Pure Abode heaven. If one cultivates in a mixed manner at the upper level, one receives the rebirth-fruit of the Sudṛśa Pure Abode heaven. If one cultivates in a mixed manner at the upper-superior level, one receives the rebirth-fruit of the Sudarśana Pure Abode heaven. If one cultivates in a mixed manner at the upper-supreme level, one receives the rebirth-fruit of the Akaniṣṭha Pure Abode heaven. If one has well cultivated the inconceivable immeasurable bodhisattva samādhi that induces the fourth dhyāna of the tenth bodhisattva stage, one receives the rebirth-fruit of the Great Maheśvara heaven that transcends the Pure Abodes.
 
-**The five-fold establishment of the *ālaya-vijñāna*:**
-
-1. **Object-domain (*ālambana*):** The *ālaya-vijñāna* takes as its object the seeds of all dharmas and the body with its sense-faculties.
-
-2. **Concomitants (*samprayukta*):** It is always accompanied by the five omnipresent mental factors (attention, contact, feeling, perception, volition), but only with the neutral, indistinct feeling of neither pleasure nor suffering.
-
-3. **Mutual causation:** The *ālaya-vijñāna* and the operative consciousnesses serve as mutual causes. The *ālaya-vijñāna* provides the seeds for the arising of the operative consciousnesses; the operative consciousnesses perfume the *ālaya-vijñāna* with new seeds.
-
-4. **Simultaneous operation:** The *ālaya-vijñāna* operates simultaneously with one or more of the seven operative consciousnesses. At minimum, it always operates together with the afflicted mentation (*kliṣṭa-manas*); at maximum, all eight consciousnesses operate together.
-
-5. **Defilement and purification:** The *ālaya-vijñāna* is the root of all defilement (*saṃkleśa*) because it stores and activates the seeds of affliction. It is also the basis for purification (*vyavadāna*) because the seeds of wholesome dharmas are also stored within it, and through cultivation of the path, the seeds of defilement are progressively eliminated and the *ālaya-vijñāna* itself is transformed.
+**Pristine** refers to the borderline first dhyāna, in dependence upon which all supreme merits and swift supernatural powers are induced. As with the pristine characteristic of the first dhyāna, so too for the remaining dhyānas and formless attainments. The distinction in the case of the formless attainments is that they give rise to liberation and other merits of those stages. The distinctions of the defiled, pure, established, and pristine characteristics of all dhyānas and formless attainments should be understood in this way.
 
 ---
 
-## Fascicle 18
+Thus have "Supports" been explained. Now "Factors of Awakening" shall be explained. The verse states:
 
-### Chapter 11: Compendium of Supreme Determinations (Continued, Part 2)
+> Factors of awakening are of many kinds;
+> Foremost are the thirty-seven.
 
-#### Supreme Determination on the Simultaneous Operation of Consciousnesses
+**The treatise states:** The categories of factors conducive to awakening (bodhipakṣya-dharma) are of many kinds. The foremost and supreme are thirty-seven, namely the four foundations of mindfulness and so forth, as extensively explained in the sūtras.
 
-**Question:** How is the simultaneous operation of the consciousnesses established?
+**The four foundations of mindfulness** (smṛty-upasthāna): First, the foundation of mindfulness of the body: taking the body as one's object, or taking the sūtra teachings superior to the body as one's object, or taking the instructions concerning it as one's object, through wisdom born of hearing, reflection, and cultivation, whether as mere mental image or as accomplished fact, one well establishes mindfulness in the domain of the body, in order to attain liberation from bondage regarding the body. As with the foundation of mindfulness of the body, so too for the foundations of mindfulness of feeling, mind, and dharmas, which should be understood likewise. The distinction among them is that each operates in its own domain as appropriate, up to attaining liberation from bondage regarding dharmas. Furthermore, in all cases one should speak of mind and mental factors associated with mindfulness. When one thus arouses the mind of observation, the objects have four kinds of phenomena: (1) phenomena grasped by mind, (2) phenomena experienced by mind, (3) phenomena discerned by mind, (4) phenomena of mind's defilement and purification.
 
-**Answer:** The *ālaya-vijñāna* may at one time operate together with only one operative consciousness, namely the mentation (*manas*). Why? Because this mentation is always conjoined with the activities of self-view, self-conceit, and similar afflictions, with an aspect of prideful elevation. Whether in states with mind or states without mind, it always arises simultaneously with this consciousness.
+**The four right exertions** (samyak-prahāṇa), as extensively explained in the sūtras: First, regarding evil, unwholesome dharmas that have already arisen, in order to sever them, one generates desire, makes effort, arouses right exertion, encourages the mind, and sustains the mind. *Already arisen* means subsumed under coarse manifest afflictions. *Evil, unwholesome dharmas* means desire-realm afflictions and secondary afflictions that can produce misconduct. The meaning of "evil" and "unwholesome" has been explained previously. *In order to sever* means cultivating their antidotes to weaken them. *Generating desire* means arousing the wish to realize their severance. *Making effort* means not tolerating evil and turning toward severance. *Arousing right exertion* means cultivating the antidotes in many kinds of firm practice. These three phrases indicate the lower-level antidotes of the wisdom of hearing and reflection in the indeterminate stage. *Encouraging the mind* means: when the mind is sinking and defiled by afflictions during the manifestation of the cultivated antidote, one encourages and uplifts the mind. *Sustaining the mind* means: when the mind is floating and defiled by afflictions during the manifestation of this antidote, one sustains and lowers the mind.
 
-Moreover, this mentation always takes the *ālaya-vijñāna* as its object, and arises with the aspect of grasping "I" and conceit.
+Second, regarding evil, unwholesome dharmas that have not yet arisen, in order to prevent their arising, as explained in detail. *Not yet arisen* means subsumed under intensified latent tendencies that are the causes able to produce coarse manifest afflictions. *In order to prevent their arising* means causing coarse manifest afflictions not to become active. *Generating desire* means arousing the wish to realize non-manifestation. *Making effort* means not forgetting to maintain abiding for the sake of non-manifestation, well maintaining mindfulness. Arousing right exertion, encouraging and sustaining the mind are all as previously explained.
 
-At one time, the *ālaya-vijñāna* may operate together with two operative consciousnesses: mentation and mental consciousness. At one time, with three: when one of the five sense-consciousnesses arises along with the preceding two. At one time, with four: when two of the five sense-consciousnesses arise along with the preceding two. [As above], up to seven operative consciousnesses: when all five sense-consciousnesses arise together along with mentation and mental consciousness.
+Third, regarding wholesome dharmas that have not yet arisen, in order to cause them to arise, as explained in detail. *Not yet arisen* means not yet obtained. *Wholesome dharmas* means the three kinds of wisdom born of hearing, reflection, and cultivation; they are called "wholesome" because they are free from fault. *In order to cause them to arise* means to cause their attainment. *Generating desire* means arousing the wish for attainment. *Making effort* means seeking the correct methods for receiving and upholding them. *Arousing right exertion* means long-term, earnest, and firmly cultivating practice. These three phrases indicate the wholesome dharmas subsumed under the wisdom of hearing and reflection in the indeterminate stage as antidotes to evil, unwholesome dharmas. *Encouraging and sustaining the mind* means for the sake of attaining the wisdom of cultivation. The rest is as previously explained.
 
-#### The *Ālaya-vijñāna* and Feelings
+Fourth, regarding wholesome dharmas that have already arisen, causing them to abide, not to be forgotten, to be completed, to be doubled, to increase, and to become vast, as explained in detail. *Already arisen* means already obtained. *Causing them to abide* means the wisdom of hearing. *Not to be forgotten* means the wisdom of reflection. *To be completed* means the wisdom of cultivation. These three phrases indicate the mere guarding of what has already been obtained. *To be doubled, to increase, and to become vast* means, in their respective order, not being satisfied with merely those. *Generating desire* means arousing the wish for attainment. The rest is as previously explained.
 
-The *ālaya-vijñāna* may at one time operate together with painful feeling, pleasant feeling, or neutral feeling. These feelings are associated with the operative consciousnesses and arise dependent on them, being generated from the seeds in the *ālaya-vijñāna*.
+**The four bases of spiritual power** (ṛddhi-pāda), as extensively explained in the sūtras: First, the concentration obtained through the predominance of desire. Suppose a practitioner has cultivated superior wholesome roots in previous lives. Toward the great teacher or toward a wise fellow practitioner, they generate faith and desire, and listen to the true Dharma. Having listened to the true Dharma in accordance with their faith and desire, they progressively realize the mind's abiding in a single object. Through this desire, concentration is accomplished.
 
-In the human realm, in the desire-realm heavens, and in portions of the ghost and animal realms, the innate neutral feeling associated with the *ālaya-vijñāna* operates simultaneously with the painful, pleasant, and neutral feelings associated with the operative consciousnesses.
+Regarding evil, unwholesome dharmas that have already arisen and those not yet arisen, in order to sever them and prevent them from arising, one generates desire and so forth up to sustaining the mind. Regarding their antidote wholesome dharmas that have not yet arisen, in order to cause them to arise; regarding those already arisen, in order to cause them to abide, not to be forgotten, to be completed, to be doubled, to increase, and to become vast, one generates desire and so forth up to sustaining the mind.
 
-In the hells, the neutral feeling is overwhelmed by others, and the *ālaya-vijñāna* operates simultaneously with the purely painful feelings of the operative consciousnesses. This feeling of the *ālaya-vijñāna*, being overwhelmed, is difficult to discern.
+Such a practitioner further cultivates eight kinds of severance-activities through desire: effort, faith, ease, right mindfulness, introspection, volition, and equanimity. "Through this desire, concentration is accomplished" means one attains mastery therein.
 
-Just as in the hells it always operates with painful feeling, so in the lower three absorptions it always operates with pleasant feeling, and from the fourth absorption up through the peak of existence it always operates with neutral feeling.
+*Evil, unwholesome dharmas that have already arisen and not yet arisen* means those subsumed under lower-level manifest afflictions and those subsumed under weakened but not yet damaged or destroyed latent tendencies. *In order to sever them and prevent them from arising* means for the sake of being free from already-arisen mild manifest afflictions, and for the sake of damaging weakened latent tendencies. Generating desire and so forth up to sustaining the mind are as extensively explained above. Regarding their antidote wholesome dharmas not yet arisen, causing them to arise; regarding those already arisen, causing them to abide, not to be forgotten, to be completed, to be doubled, to increase, and to become vast, generating desire and so forth up to sustaining the mind, as should be known from the previous extensive explanation.
 
-#### Defilement and Purification Through the *Ālaya-vijñāna*
+*Such a practitioner* means one who has practiced in this way for a long time. *Further cultivating desire* means desiring to realize non-manifestation and damage. *Effort* means: with desire as the cause, arousing right exertion in śamatha and vipaśyanā. *Faith* means: as the cause of generating desire, having definitive faith in that damage and attainment. *Ease* means: as a result of effort, removing bodily and mental heaviness, making body and mind fit. *Right mindfulness* means: within guarding against the secondary afflictions of sinking and floating, causing the mind not to forget. *Introspection* means: when at times mindfulness is lost and secondary afflictions manifest, having discriminating awareness. *Volition* means creating mental activity within calming and uplifting. *Equanimity* means: in non-defiled abiding, mental equipoise, mental uprightness, and mental non-agitation.
 
-**Question:** How is the aspect of defilement and purification of the *ālaya-vijñāna* established?
+These eight kinds of severance-activities should be known in all bases of spiritual power. The distinction among them is: second, the concentration obtained through the predominance of effort: suppose a practitioner relies on instructional and advisory teachings, and whether in solitude, in a forest, or in a quiet room, practices with long-term courage, thoroughness, ardor, and right exertion, and realizes the mind's abiding in a single object. Through right exertion, concentration is accomplished. The rest is as previously explained.
 
-**Answer:** In brief, the *ālaya-vijñāna* should be known as the root of all defiled dharmas. Why? Because this *ālaya-vijñāna* is the root of the arising of the sentient-being world: it generates the sense-faculties, their supporting bases, and the operative consciousnesses. It is also the root of the arising of the vessel world: it generates the external environment. And this consciousness is also the root of the mutual arising of all sentient beings, because all sentient beings serve as dominant conditions (*adhipati-pratyaya*) for one another.
+Third, the concentration obtained through the predominance of mind: suppose a practitioner has previously cultivated śamatha practice. Through this cause, by reflecting on internal dharmas, one swiftly realizes the mind's abiding in a single object. Through cultivating mind, concentration is accomplished. The rest is as previously explained.
 
-Furthermore, because the *ālaya-vijñāna* possesses the seeds of all things, in the present life it is the substance of the truth of suffering; it is the cause that generates the future truth of suffering; and it is also the cause that generates the present truth of origination. Thus it is the root of all defilement.
+Fourth, the concentration obtained through the predominance of investigation: suppose a practitioner is learned and retentive, with their learning well accumulated. Dwelling alone in solitude, regarding those dharmas, they discern with wisdom, supremely discern, thoroughly observe and examine. Through this, one realizes the mind's abiding in a single object. Through investigation, concentration is accomplished. The rest is as previously explained.
 
-As for purification: the *ālaya-vijñāna* also holds the seeds of wholesome dharmas conducive to liberation (*mokṣa-bhāgīya*) and conducive to penetration (*nirvedha-bhāgīya*). These are not causes of the truth of origination, because the wholesome roots conducive to liberation oppose the flow of cyclic existence. Through cultivation of wholesome dharmas, these seeds become increasingly potent, and the wholesome dharmas they generate become increasingly clear and pure.
+**The five faculties** (indriya), as extensively explained in the sūtras: (1) The faith faculty: through the mundane path, the mind becomes purified, bright, unsullied, free from secondary afflictions, attaining immovable abiding. After this, seeking direct realization of the truths, one cultivates the preparatory practices. In order to permanently sever the latent tendencies, and in order to attain their antidotes, one arouses predominant faith. (2) The exertion faculty: depending on the faith faculty, one progresses with valor, operating together with faith. (3) The mindfulness faculty: depending on the exertion faculty, one has clear non-forgetting, operating together with it. (4) The concentration faculty: depending on the mindfulness faculty, the mind abides in a single object, operating together with it. (5) The wisdom faculty: depending on the concentration faculty, one discerns and selects among dharmas, operating together with it.
 
-Through the cultivation of the path, practitioners who are ordinary beings first direct their attention toward the operative consciousnesses and cultivate calm abiding and insight. Before seeing the truths, one cannot penetrate the *ālaya-vijñāna* with its seeds. After entering the path of seeing, whether as a śrāvaka, pratyekabuddha, or bodhisattva, one penetrates the dharma-realm and thereby also penetrates the *ālaya-vijñāna*. At that point, one observes the totality of one's own internal defilement.
+**The five powers** (bala), as extensively explained in the sūtras: They are identical to the faith faculty and so forth. Through being well cultivated and extensively cultivated, one is no longer confused by the opposing dharmas of faithlessness and so forth, and can furthermore counteract the confusing dharmas. Because they are unconquerable, they are called "powers."
 
-The practitioner, because the *ālaya-vijñāna* is the realm of all conceptual elaboration, gathers all those conditioned activities into the *ālaya-vijñāna* as a single mass, a single heap, a single aggregate. Having done so, through the wisdom that takes suchness (*tathatā*) as its object, by cultivating and repeatedly cultivating, the basis is transformed (*āśraya-parivṛtti*). Without interval, one should know that the *ālaya-vijñāna* has been severed. By this severance, all defilement has been severed.
+**The seven factors of awakening** (sapta-bodhyaṅga), as extensively explained in the sūtras: (1) The mindfulness factor of awakening: through the mundane path, having obtained well-prepared powers and with the path of seeing imminent, through having previously cultivated the mundane mindfulness factor of awakening, one induces the supramundane, effortless, non-discriminating clarity regarding the truths and non-forgetting of the truths. (2) The dharma-investigation factor of awakening: through the previously induced effortless non-discrimination, depending on mindfulness and operating together with mindfulness, one has understanding of and awakening to the truths. All the remaining factors of awakening likewise, through the previously induced effortless non-discrimination, depend on the preceding factor and operate together with it. This should be understood throughout. The distinctions among them are: (3) the exertion factor of awakening, meaning mental courage regarding the truths; (4) the joy factor of awakening, meaning mental delight regarding the truths; (5) the ease factor of awakening, meaning bodily and mental fitness within the true truths; (6) the concentration factor of awakening, meaning the mind abiding in a single object within the true truths; (7) the equanimity factor of awakening, meaning mental equipoise, mental uprightness, and mental non-agitation within the true truths.
 
-This transformation of the basis (*āśraya-parivṛtti*) is opposed in nature to the *ālaya-vijñāna*: the *ālaya-vijñāna* is impermanent and has the character of appropriation; the transformation is permanent and has no character of appropriation. The *ālaya-vijñāna* is accompanied by heaviness (*dauṣṭhulya*); the ultimate transformation is utterly free from all heaviness. The *ālaya-vijñāna* is the cause of affliction-arising and the cause of non-arising of the noble path; the transformation is the cause of affliction-non-arising and the cause of arising of the noble path.
+As also stated in the sūtras, "Therein one further well cultivates the support of calm," and so forth in detail. *Support of calm* means the support of calmness in the desire realm. *Support of freedom from desire* means the support of freedom from desire in the form and formless realms. *Support of cessation* means the support of the complete, remainderless permanent severance of the aggregates, bases, and elements already obtained. *Tending toward relinquishment* means the non-continuation of the aggregates, bases, and elements in the future.
 
-When the *ālaya-vijñāna* is severed, one relinquishes two kinds of appropriation: future appropriation (because the cause of future suffering is severed) and present appropriation (because the cause of all present defilement is severed). The body, though still present, is like an illusion. Only the conditions of remaining lifespan sustain it. Therefore the Buddha said: "At that time, one experiences only body-limit feeling and life-limit feeling."
-
-#### The Four-Fold Analysis of Mind and *Ālaya-vijñāna*
-
-**Question:** If one possesses the *ālaya-vijñāna*, does one also possess the operative consciousnesses? If one possesses the operative consciousnesses, does one also possess the *ālaya-vijñāna*?
-
-**Answer:** This should be analyzed in four positions:
-
-1. One possesses the *ālaya-vijñāna* but not the operative consciousnesses: those in dreamless sleep, in fainting, in the attainment of the thoughtless absorption, in the attainment of cessation, and those born in the thoughtless heaven.
-2. One possesses the operative consciousnesses but not the *ālaya-vijñāna*: arhats, pratyekabuddhas, non-regressing bodhisattvas, and tathāgatas who are in states with mind.
-3. One possesses both: all other beings in states with mind.
-4. One possesses neither: arhats, pratyekabuddhas, non-regressing bodhisattvas, and tathāgatas who have entered the attainment of cessation, or who abide in the nirvāṇa-realm without remainder.
-
-#### Supreme Determination on the Differentiation of Mind
-
-The differentiation of mind should be known through the following verse:
-
-> By the power of support and object,
-> The differentiation of mind is established.
-> Further, by seven modes of activity,
-> The hard-to-know aspects should be understood.
-
-The differentiation of mind is established through the power of the support (*āśraya*, i.e., the sense-faculties) and the power of the object (*ālambana*). By the power of support, eye-consciousness through mental consciousness are established. By the power of the object, form-consciousness through dharma-consciousness are established, and further blue-consciousness, yellow-consciousness, through pain-consciousness and pleasure-consciousness.
-
-Further, seven modes of activity reveal the hard-to-know differentiations of mind:
-
-1. The imperceptible, long-continuing differentiation of the vessel world.
-2. The differentiation of multiple objects.
-3. The differentiation of coexistence.
-4. The differentiation of the rapid alternation of antidote and affliction.
-5. The differentiation of habitual tendencies.
-6. The differentiation of continuation into rebirth.
-7. The differentiation of the liberated mind.
-
-#### Bondage of Mind
-
-As the verse says:
-
-> Lacking autonomy over objects,
-> Abiding in a defiled support,
-> Turning according to the power of conditions:
-> The bondage of mind should be known.
-
-Mind is said to be bound for three reasons: (1) it lacks autonomy over its objects, (2) it abides in a defiled support, and (3) it turns according to the power of conditions.
-
-#### Scattering and Settling of Mind
-
-Scattering of mind is of six kinds: (1) scattering through attention, (2) external scattering, (3) internal scattering, (4) scattering through characteristics, (5) scattering through heaviness, (6) natural scattering.
-
-Settling of mind is of fifteen kinds, from the initial settling through the complete, sovereign, dynamic, still, supremely still, most supremely still, faith-based, decisive, image-based, reality-based, settling with over-estimation, settling without over-estimation, through the settling with threefold contamination.
-
-#### Supreme Determination on Mental Factors
-
-As the verse says:
-
-> Dependent on cognizing multiple objects,
-> Each arises performing its own function.
-> Mental factors should not be further questioned:
-> They turn in relation to similar objects.
-
-Mental factors (*caitasika*) arise dependent on the eight consciousnesses that cognize multiple objects, each performing its own specific function. They are designated "mental factors" because they depend on mind and are associated with mind.
-
-The five omnipresent mental factors perform these functions: attention (*manaskāra*) directs the mind; contact (*sparśa*) is the threefold conjunction that discriminates; feeling (*vedanā*) experiences the agreeable, disagreeable, or neutral condition; perception (*saṃjñā*) ascertains the distinguishing marks of the condition; and volition (*cetanā*) creates the activities of merit, demerit, or neither.
-
-#### Supreme Determination on Form
-
-As the verse says:
-
-> In the upper realms, no smell or taste;
-> Great elements and derived form are found as appropriate.
-> Atoms have no self-nature;
-> Seven things are not ultimately real.
-
-In the form and formless realms above the desire realm, smell and taste do not exist. The four great elements and their derived forms exist in each realm only to the extent that they are actually found there. Atoms (*paramāṇu*) are merely conceptual designations and have no real self-nature.
-
-Seven things lack ultimate reality: (1) manifest form (*vijñapti-rūpa*), (2) shape, (3) shadow, (4) echo, (5) tangible derived form, (6) disciplinary form, (7) non-disciplinary form.
-
-Furthermore:
-
-> Atoms combine inseparably;
-> Good and evil have no natural self-nature.
-> Beyond the three characteristics, no other form exists;
-> Form pertaining to the dharma-base is of twelve kinds.
-
-The twelve kinds of form pertaining to the dharma-base (*dharma-āyatana-paryāpanna-rūpa*) include: (1) image form, (2) form produced by accomplishment, (3) invisible form, (4) non-resistant form, (5) form not born from real great elements, (6) form belonging to the mind, (7) worldly form, (8) inconceivable form, (9) worldly concentration-result form, (10) supramundane concentration-result form, (11) form of one's own and lower realms, (12) inconceivable form of buddhas' and bodhisattvas' autonomous transformation.
-
-#### Supreme Determination on Formations Not Associated with Mind
-
-As the verse says:
-
-> Know that non-associated formations
-> Are all provisionally designated as existent.
-> Provisional existence is of six kinds;
-> Each has two faults.
-
-All formations not associated with mind (*citta-viprayukta-saṃskāra*) are provisionally existent (*prajñapti-sat*). Six kinds of discourse indicate provisional existence:
-
-1. **Discourse requiring attribution to a possessor:** For example, "arising" must be attributed to a possessor (whose arising?), as in "the arising of form," "the arising of feeling, perception, formations, consciousness."
-2. **Discourse remote from both 'this' and 'that':** Language that neither describes 'this' by 'this' nor 'that' by 'that' always pertains to provisional entities.
-3. **Discourse of collective designation:** For example, designating "I" based on form, feeling, perception, formations, and consciousness; or designating "house" based on the arrangement of external materials.
-4. **Discourse of aggregation:** Language applied to the combination of many things in one designation.
-5. **Discourse not pervading all:** For example, the word "house" applies in some cases but not in others (not to a village, a pavilion, etc.).
-6. **Discourse of impermanence:** For example, when a pot breaks, the word "pot" is abandoned and the word "shards" arises.
-
-All formations not associated with mind are proven to be merely provisional by two kinds of fault: (1) fault of cause, and (2) fault of substance. Fault of cause: if arising is said to be the cause of arising, then there is no separate fruit for it to produce. Fault of substance: if arising is itself a substance that arises from another, then it should not be called "that which produces."
-
-#### Supreme Determination on Causes
-
-As the verse says:
-
-> Three faults show that five of the six causes are untenable;
-> The characteristics of cause: in brief, bondage and combination.
-> By the distinctions of characteristics, basis, and differentiation,
-> Multiple kinds of cause are established.
-
-Certain non-Buddhist and Abhidharma schools posit six kinds of cause: (1) simultaneous cause (*sahabhū-hetu*), (2) homogeneous cause (*sabhāga-hetu*), (3) universal cause (*sarvatraga-hetu*), (4) associated cause (*samprayukta-hetu*), (5) maturation cause (*vipāka-hetu*), (6) efficient cause (*kāraṇa-hetu*). Except for the maturation cause, the other five are untenable due to three faults: the fault of redundancy, the fault of indeterminacy, and the fault of empty designation.
-
-The correct establishment of causes recognizes two: (1) the cause characterized by bondage (*bandhana-lakṣaṇa-hetu*), referring to afflictive latent tendencies, spoken of with respect to generating future existence; and (2) the cause characterized by combination (*sāmagrī-lakṣaṇa-hetu*), referring to the combination of causes and conditions that generate phenomena in the present.
-
-**The characteristics of causation** are: When by means of something as prior condition, something as foundation, and something as combination, various dharmas either arise, are obtained, are established, are accomplished, or perform their function, then that which serves as prior condition, foundation, and combination is said to be their cause.
-
-**Fifteen bases of causal dependence (*hetu-nimitta-āśraya*):** (1) language, (2) reception, (3) habitual tendency, (4) moistened seed, (5) immediately preceding cessation, (6) object, (7) sense-faculty, (8) function, (9) personal effort, (10) true seeing, (11) conformity, (12) distinctive capacity, (13) combination, (14) obstruction, (15) non-obstruction.
-
-**Differentiation:** Ten causes, four conditions, five fruits.
-
-The **ten causes** are: (1) spoken-of cause (*abhilāpya-hetu*), (2) observing cause (*apekṣā-hetu*), (3) leading cause (*ākarṣaṇa-hetu*), (4) generative cause (*janana-hetu*), (5) supporting cause (*upastambha-hetu*), (6) developing cause (*abhinirvartana-hetu*), (7) determining cause (*pratiniyama-hetu*), (8) co-operative cause (*sahakāri-hetu*), (9) contrary cause (*viruddha-hetu*), (10) non-contrary cause (*aviruddha-hetu*).
-
-The **four conditions** are: (1) causal condition (*hetu-pratyaya*), i.e., the seeds; (2) immediately preceding condition (*samanantara-pratyaya*), i.e., the immediately preceding cessation of a consciousness from which the next consciousness necessarily arises; (3) object condition (*ālambana-pratyaya*), i.e., the objects of mind and mental factors; (4) dominant condition (*adhipati-pratyaya*), i.e., all other supporting conditions.
-
-The **five fruits** are: (1) maturation fruit (*vipāka-phala*), (2) outflow fruit (*niṣyanda-phala*), (3) separation fruit (*visaṃyoga-phala*), (4) person-produced fruit (*puruṣakāra-phala*), (5) dominant fruit (*adhipati-phala*).
-
-The treatise then provides detailed establishment of each of the ten causes in terms of the fifteen bases, and the four conditions in terms of the bases, and the five fruits in terms of the bases.
-
-**Seven characteristics of causation:** (1) Impermanent dharmas alone are causes; no permanent dharma can be a cause. (2) An impermanent dharma, when acting as a cause for another impermanent dharma, serves as the cause of another nature, not of its own nature, and also serves as the cause of its own later nature, not of the same moment. (3) When serving as a cause, it must be already arisen and not yet ceased, not un-arisen or already ceased. (4) When already arisen and not yet ceased, it must obtain the other conditions, not fail to obtain them. (5) When obtaining the other conditions, it must undergo transformation, not remain unchanged. (6) When undergoing transformation, it must have the appropriate capacity, not have lost its capacity. (7) When having the capacity, it must be suitable and concordant, not unsuitable and discordant.
-
-#### Supreme Determination on Unconditioned Dharmas
-
-As the verse says:
-
-> Because it is the object of mind,
-> Because it is the object of purification,
-> Because of four kinds of separation:
-> Eight unconditioned dharmas are established.
-
-Space as unconditioned is established because, as an object of mind, it resembles permanence, since the mind that takes it as object and its object-realm do not vary over time. Suchness (*tathatā*) is established as the object of purification, because at the time of purification, the nature of its object remains ever thus. The remaining four unconditioned dharmas are established through four kinds of separation: (1) separation through the absence of conditions, (2) ultimate separation through analytical elimination of afflictions, (3) temporary separation from suffering and pleasure, and (4) temporary separation of mind and mental factors.
-
-#### Supreme Determination on Realms
-
-As the verse says:
-
-> The three realms should be known
-> Through twelve aspects of differentiation,
-> As what is to be treated and what treats:
-> Only the seeds are suppressed.
-
-The three realms of desire, form, and formlessness are differentiated through twelve aspects: (1) variety, (2) destinies, (3) accompaniment by suffering, pleasure, or neutral feeling, (4) difficulty and ease, (5) purity and impurity of place and body, (6) modes of enjoyment, (7) superiority and inferiority of wholesome roots, (8) admixture with evil conduct, (9) thickness and thinness of heaviness, (10) modes of birth, (11) modes of obtaining a body, (12) modes of speech.
-
-The desire realm is what is to be treated; the form realm treats it. The form realm is what is to be treated; the formless realm treats it. Lower grounds are treated by upper grounds. However, this treatment only suppresses the seeds, making them weak; it does not permanently destroy them, since they can arise again.
-
-As the verse says:
-
-> The dharma-king, the saltiness of the ocean,
-> Longevity in evil destinies, and multiple worlds sharing one designation:
-> Each has two causal reasons.
-
-Why is Yama, king of the ghosts, called a "dharma-king"? For two reasons: (1) he benefits those beings by causing them to recall their past actions and reproach their former evil deeds, and (2) he prevents them from creating further evil karma among the hell-wardens, so they can swiftly escape.
-
-Why is the water of the great ocean all salty? For two reasons: (1) through the superior merit of water-born beings, other beings are prevented from entering, and (2) through the demerit of land-born beings, they are unable to enter and take the precious jewels.
-
-Why do beings in the hells and among animals sometimes have very long lifespans, while beings in the desire realm's good destinies do not? For two reasons: (1) wholesome dharmas in the desire realm require deliberate effort to arise, and (2) unwholesome dharmas arise spontaneously without deliberation.
-
-Why are the many worlds up to the Akaniṣṭha heaven called "one world system" only up to the Brahma-world? For two reasons: (1) they are formed and destroyed together, and (2) they constitute the assembly.
+**The eight noble path factors** (āryāṣṭāṅga-mārga), as extensively explained in the sūtras: (1) **Right view**: the purity of view when one attains the factors of awakening in the path of seeing, together with the purity of view when one establishes the subsequently-attained factors of awakening in the path of cultivation; combining these two is called right view. (2) **Right thought**: depending on right view and operating together with it: thought of renunciation, thought of non-ill-will, thought of non-harmfulness. In the path of cultivation, continuously attending to and reflecting on the truths, in correspondence with uncontaminated attention, causing the mind to enter and deeply enter, seeking and deeply seeking, presently seeking, comprehending, reckoning, observing, reflecting, and having the nature of reflection. (3) **Right speech**: in the path of cultivation, depending on right thought, through continuous uncontaminated attention and reflection on the truths, one obtains four kinds of verbal karma subsumed under precepts beloved of the noble ones: not delighting in departure from and delighting in departure from, eliminating various forms of separation, purified, guarded, not acting in departure from action, not engaging, not violating, not transgressing, as a bridge, as a raft, distant from and not transgressing, and not transgressing in various ways. (4) **Right action**: in the path of cultivation, through continuous uncontaminated attention and reflection on the truths, one obtains three kinds of bodily karma subsumed under precepts beloved of the noble ones: not delighting in departure from and delighting in departure from, eliminating various forms of separation, as explained in detail above. (5) **Right livelihood**: in the path of cultivation, through reflection on the truths and so forth, one distances oneself from the evil dharmas of wrong livelihood and what it produces, subsumed under precepts beloved of the noble ones, as explained in detail above. (6) **Right effort**: in the path of cultivation, through reflection on the truths and so forth, within the cultivation of the foundations of mindfulness, right exertions, bases of spiritual power, faculties, and powers: desire, right exertion, effort, valor, fitness, unconquerability, the mind's right arousal, and the nature of continuous diligence. (7) **Right mindfulness**: in the path of cultivation, through reflection on the truths and so forth, whether depending on the path of śamatha, the path of vipaśyanā, or the combined path, within the cultivation of the dharma-investigation, exertion, joy, ease, concentration, and equanimity factors of awakening: mindfulness, right mindfulness, recollection, all forms of mindfulness, non-forgetfulness, the mind's clarity, and the nature of not losing, supremely not losing, and supremely not losing dharmas. (8) **Right concentration**: in the path of cultivation, through reflection on the truths and so forth, further depending on the three paths and with right mindfulness collected within one's cultivation: abiding, peacefully abiding, closely abiding, evenly abiding, not being confused, not being scattered, rightly collected, the mind of śamatha abiding in a single object. These path factors should be understood as arising sequentially, each later one depending on and corresponding to the preceding ones.
 
 ---
 
-## Fascicle 19
+Furthermore, the verse states:
 
-### Chapter 11: Compendium of Supreme Determinations (Continued, Part 3)
+> Knowledge and gates of liberation,
+> Modes of practice, and calming and observing.
 
-#### Supreme Determination on Affliction-Defilement
+**The treatise states: Knowledge** refers to ten kinds of knowledge, as extensively explained in the sūtras. (1) **Dharma-knowledge** (dharma-jñāna): uncontaminated knowledge regarding the objects and meanings of what is known, which can be commonly understood and directly perceived. (2) **Consequential knowledge** (anvaya-jñāna): uncontaminated knowledge regarding the objects and meanings of what is known, which cannot be commonly understood and is not directly perceived. (3) **Knowledge of others' minds** (para-citta-jñāna): the knowledge born of cultivation, as a fruit of cultivation, that can know the minds and mental factors of others; and the sublime knowledge of the tathāgatas that knows all sentient beings' inclinations, dispositions, and latent tendencies for the purpose of instruction and guidance. (4) **Conventional knowledge** (saṃvṛti-jñāna): mundane wisdom. Depending on this, the Tathāgata teaches the sublime Dharma to sentient beings in accord with their inclinations and latent tendencies. (5) **Knowledge of suffering** (duḥkha-jñāna): within conditioned factors with outflows, reflecting on impermanence, suffering, emptiness, and non-self; whether knowledge or vision, clarity, awakening, and the nature of the wisdom of discerning observation. (6) **Knowledge of arising** (samudaya-jñāna): within the causes of conditioned factors with outflows, reflecting on cause, arising, production, and condition; whether knowledge or vision; the rest is as before. (7) **Knowledge of cessation** (nirodha-jñāna): within the cessation of conditioned factors with outflows, reflecting on cessation, calm, sublimity, and escape; whether knowledge or vision; the rest is as before. (8) **Knowledge of the path** (mārga-jñāna): within the uncontaminated path that can sever conditioned factors with outflows, reflecting on path, suchness, practice, and deliverance; whether knowledge or vision; the rest is as before. (9) **Knowledge of exhaustion** (kṣaya-jñāna): suffering has been known, arising has been severed, cessation has been realized, the path has been cultivated; whether taking exhaustion as its object or for the purpose of exhaustion; whether knowledge or vision; the rest is as before. (10) **Knowledge of non-arising** (anutpāda-jñāna): suffering has been known and need not be known again, arising has been severed and need not be severed again, cessation has been realized and need not be realized again, the path has been cultivated and need not be cultivated again; whether taking non-arising as its object or for the purpose of non-arising; whether knowledge or vision; the rest is as before.
 
-The four afflictions always associated with the mentation (*manas*) pervade all states and co-arise with all tainted wholesome and other minds without contradiction. They are all innate (not arising from discriminative analysis), are of the morally indeterminate-but-obstructive (*nivṛta-avyākṛta*) category, and are severed all at once by the vajra-like concentration (*vajropama-samādhi*) at the very end of the path.
+**Gates of liberation** (vimokṣa-mukha) refers to three gates of liberation: (1) the gate of liberation of emptiness, (2) the gate of liberation of signlessness, (3) the gate of liberation of wishlessness.
 
-These four are: (1) ignorance (*avidyā*), (2) view of the self-collection (*satkāya-dṛṣṭi*), (3) conceit (*māna*), and (4) self-love (*ātma-sneha*).
+**Emptiness** is of two kinds: (1) what is known, (2) knowledge. What is known means: within dharmas that are falsely imagined regarding sentient beings, and within dharmas that are falsely imagined regarding dharmas, the non-existence of both these imagined natures, as well as the existence of non-self in what remains. Within dharmas, the imagined nature is non-existent, which is the nature of the existence of non-self. Within dharmas, the nature of the existence of non-self is the non-existence of the imagined nature. Precisely within this, the nature of the non-duality of existence and non-existence is the non-discriminating object-domain. Knowledge means knowing that object-domain in accord with reality.
 
-**Twenty modes of affliction-manifestation (*paryavasthāna*),** including: (1) manifestation according to desire (for householders), (2) manifestation against desire (for renunciants), (3) without discernment (under bad teachers), (4) with discernment (under good teachers), (5) mutually predominant (for those of predominant craving, etc.), (6) all equal (for those of balanced dispositions), (7) thin (for those of thin dust), (8) external-gate manifestation (for those not yet free from desire), (9) internal-gate manifestation (for those freed from desire by worldly means), (10) predominant manifestation (for ordinary beings), (11) manifestation through loss of mindfulness (for those in training), (12) manifestation through discrimination (for those firmly attached), (13) innate manifestation (for those not firmly attached), (14) manifestation through examination (for those fond of examining), (15) involuntary manifestation (for those asleep), (16) voluntary manifestation (for those awake), (17) irremediable manifestation (for those without the nature of nirvāṇa), (18) remediable manifestation (for those with the nature of nirvāṇa), (19) manifestation through grasping at characteristics, (20) manifestation without grasping at characteristics.
+**Signlessness** is also of two kinds: (1) what is known, (2) knowledge. What is known means: precisely the empty object-domain of what is known, because in this object-domain all characteristics are not operative. Knowledge is as previously explained.
 
-**Twenty conditions for affliction,** including: pleasure, suffering, neutral feeling, desire, thought, contact, previous habituation, latent tendencies, not associating with good friends, not hearing the correct dharma, improper attention, non-faith, laziness, forgetfulness, scattering, non-discernment, heedlessness, the state of being an ordinary person, separation from desire, and rebirth.
+**Wishlessness** is also of two kinds: (1) what is known, (2) knowledge. What is known means: the characteristics and appearances of conditioned factors that arise through inversion due to the absence of knowledge. Knowledge means knowing that object-domain with aversion and understanding.
 
-**Twenty kinds of latent tendency,** **twenty kinds of affliction-objects,** and **twenty kinds of heaviness (*dauṣṭhulya*)** are also enumerated in detail. [These follow the same structural pattern as the twenty modes of manifestation and are presented systematically.]
+The emptiness practice means: within conditioned factors, a self cannot be found; and within characteristics, conventionally discriminated dharmas cannot be found. The signlessness practice means: precisely within conditioned factors, the non-self nature of sentient beings can be found; and within characteristics, the non-self nature of conventionally discriminated dharmas can be found; and within cessation, the practices of cessation, calm, sublimity, and escape. The wishlessness practice means: impermanence, suffering, impurity, like a disease, like a tumor, like an arrow, and the practices of cause, arising, production, and condition.
 
-#### Supreme Determination on Karma-Defilement
+Taking the wisdom-cognized empty path and practicing path, suchness, practice, and deliverance: this is also an emptiness practice. Taking the wisdom-cognized signless path and practicing path, suchness, practice, and deliverance: this is also a signlessness practice. Taking the wisdom-cognized wishless path and practicing path, suchness, practice, and deliverance: this is also a wishlessness practice.
 
-As the verse says:
+If without distinction they are collectively called emptiness, signlessness, and wishlessness, this comprehends the wisdom born of hearing, reflection, and cultivation, both mundane and supramundane, as should be known. If they are called the samādhis of emptiness, signlessness, and wishlessness, this is exclusively the wisdom born of cultivation, comprehending both mundane and supramundane, as should be known. If they are called the gates of liberation of emptiness, signlessness, and wishlessness, this is exclusively supramundane, as should be known.
 
-> Karma is volition and what is done with volition;
-> Its distinctions are thirteen kinds.
-> Its fruits are six, in three phases;
-> Karma-certainty is of five kinds.
+**Modes of practice** (pratipatti) refers to four kinds, as extensively explained in the sūtras. (1) **Painful practice with slow penetration**: for those of dull faculties who have not attained the happiness of abiding in the present life, the path and practice for the exhaustion of all outflows. (2) **Painful practice with swift penetration**: for those of sharp faculties; the rest is as before. (3) **Pleasant practice with slow penetration**: for those of dull faculties who have attained the happiness of abiding in the present life, the path and practice for the exhaustion of all outflows. (4) **Pleasant practice with swift penetration**: for those of sharp faculties; the rest is as before.
 
-In brief, karma is of two kinds: volition (*cetanā*) and what is done with volition (*cetayitvā*). These have thirteen subdivisions: body-karma, speech-karma, mind-karma; disciplinary karma, non-disciplinary karma, neither; meritorious karma, non-meritorious karma, imperturbable karma; black karma with black result, white karma with white result, mixed karma with mixed result, and karma that is neither black nor white with no result, which puts an end to all karma.
+**Traces** (pratipada) refers to four dharma-traces, as extensively explained in the sūtras. (1) **The trace of non-attachment**: because it can maintain the morality aggregate, it is called a dharma-meaning trace. For those who have not yet received it, it causes them to receive it; for those who have already received it, it causes them to guard, increase, and expand it. As with non-attachment, (2) the trace of non-hatred is likewise. (3) **The trace of right mindfulness**: because it can maintain the concentration aggregate, it is called a dharma-meaning trace. For what has not yet arisen, it causes it to arise; for what has already arisen, it causes it to increase and expand. (4) **The trace of right concentration**: because it can maintain the wisdom aggregate, the liberation aggregate, and the knowledge-and-vision-of-liberation aggregate, it is called a dharma-meaning trace. For what has not yet arisen or been realized, it causes it to arise and be realized; for what has already arisen and been realized, it causes it to increase and expand.
 
-Karma has six fruits (desirable, undesirable, pure, maturation, outflow, and dominant) and three phases (action phase, habitual-tendency phase, and fruit phase). Karma-certainty is of five kinds: certainty of present-life result, certainty of next-life result, certainty of later-life result, certainty of receiving a result, and certainty of performing the action.
+**Calming** (śamatha) means: when practicing correctly within the dharmas heard and reflected upon, through attention to the object-domain of the mental image of concentration, and through attaining peaceful concentration, one settles the mind internally.
 
-Karma ripens in four orders of priority: first the heaviest, then the nearest, then the most habituated, then the earliest performed.
-
-Karma becomes wholesome or unwholesome in dependence on two roots: wholesome roots and unwholesome roots. The differentiation of wholesome and unwholesome karma should be understood through nine factors: (1) cause and field, (2) the object, (3) the means, (4) the support, (5) the mental attitude, (6) the aspiration, (7) the accompaniment, (8) repeated practice, (9) the number of persons involved.
-
-#### Supreme Determination on Birth-Defilement
-
-As the verse says:
-
-> Death may be definite or indefinite;
-> Premature death has six causes.
-> At the lucid stage, three kinds of mind;
-> The intermediate state may or may not exist.
-
-There are two kinds of death: definite (as in Uttarakuru, where lifespan is fixed) and indefinite (in other places). Premature death arises from six causes: (1) not avoiding imbalance, (2) loss of mindfulness, (3) mental anger and resentment, (4) exhaustion of lifespan, (5) exhaustion of karma, (6) exhaustion of merit.
-
-At the time of death, during the lucid phase, three kinds of mind may arise: wholesome, unwholesome, or neutral. When the lucid phase passes into the non-lucid phase, only neutral mind remains.
-
-After death, there may or may not be an intermediate state (*antarā-bhava*): for those about to be reborn in the form realm, there is an intermediate state; for those about to be reborn in the formless realm, there is no intermediate state.
-
-Dependent on the intermediate state, with the place of rebirth as its object, a defiled mind arises and causes the continuity of existence. Rebirth occurs in the four modes of birth and across the three realms and five destinies.
-
-#### Supreme Determination on Truths
-
-As the verse says:
-
-> Know that conventional truth
-> Is meaning understood through intention, and speech.
-> The object of purification, its nature,
-> And the means: these are called ultimate truth.
-
-All speech and the meaning obtained through the intention caused by speech are called conventional truth. The object of purification (the four noble truths and suchness), the nature of purification (the truth of cessation), and the means of purification (the truth of the path) are called ultimate truth.
-
-The four truths are encompassed by defilement and purification: two pertain to the defiled side (suffering as the fruit, origination as the cause) and two to the pure side (cessation as the fruit, the path as the cause). Like disease, the cause of disease, the cure, and the cause of the cure, the four truths are established.
-
-Each of the four truths has four characteristics and four contemplation-aspects. The truths have the functions of full understanding (*parijñā*), abandonment (*prahāṇa*), direct realization (*sākṣātkriyā*), and cultivation (*bhāvanā*). The first three are the fruits; cultivation is the cause.
-
-Conventional and ultimate truth are both called "truth" because: in the case of conventional truth, the cognition of worldly beings accords with it without conflict, by the nature of things; in the case of ultimate truth, those who have seen the truths verify it without conflict, as it truly is. Therefore the Bhagavān said: "All noble ones take this as truth; hence it is called noble truth."
-
-#### Supreme Determination on Meditative Bases
-
-As the verse says:
-
-> Know the seven meditative bases
-> Through three kinds of support-nature.
-> Skill therein is of two kinds;
-> The four-fold analysis and other topics are explained in detail.
-
-The seven kinds of meditative base (*samāpatti*) serve three kinds of support: (1) as the support for the exhaustion of defilements, (2) as the support for the generation of virtues, (3) as the support for present happiness.
-
-Two kinds of skill: (1) skill in *samādhi*, and (2) skill in *samāpatti*. These are analyzed in a four-fold scheme: one may be skilled in *samādhi* but not *samāpatti*, or the reverse, or both, or neither.
-
-Various aspects of concentration are then treated in question-and-answer format: how one abides in concentration, how one emerges from it, the modes of practice, the signs of concentration, the objects, the characteristics of tranquility (*śamatha*), the modes of apprehension and relinquishment, and the conditions of increase and decrease.
-
-#### Supreme Determination on the Four Absorptions
-
-As the verse says:
-
-> The number of absorptions, their obstructions and branches,
-> Their detailed establishment,
-> Their removal of suffering and agitation:
-> Each successive one surpasses the former.
-
-Why are there exactly four absorptions and no more? Because the transcendence of suffering and pleasure is complete by the fourth.
-
-**Obstructions of the first absorption (five):** (1) craving, aversion, and harmful thought, (2) suffering, (3) worry, (4) transgression of moral discipline, (5) scattering.
-
-**Obstructions of the second absorption (five):** (1) craving for the first absorption, (2) applied and sustained thought, (3) suffering, (4) restlessness, (5) inferiority of the concentration.
-
-**Obstructions of the third absorption (four):** (1) craving for the second absorption, (2) joy, (3) elation, (4) inferiority of the concentration.
-
-**Obstructions of the fourth absorption (five):** (1) inhalation and exhalation, (2) craving for the third absorption, (3) pleasure, (4) attention to pleasure, (5) inferiority of the concentration.
-
-**Branches of the absorptions:** The first has five (applied thought, sustained thought, joy, pleasure, one-pointedness). The second has four (inner clarity, joy, pleasure, one-pointedness). The third has five (mindfulness, clear comprehension, equanimity, pleasure, one-pointedness). The fourth has four (purity of equanimity, purity of mindfulness, neither-pleasure-nor-suffering, one-pointedness).
-
-The second absorption surpasses the first through the perfection of concentration. The third surpasses the second through the perfection of benefit. The fourth surpasses the third through the perfection of purity.
-
-**The preliminary concentration (*sāmantaka*)** of the first absorption alone can exhaust the defilements, not the others. The preliminary of the first absorption is of two kinds: worldly and supramundane. The other preliminaries are worldly only.
-
-**Eight attainments relinquish eight things:** Relinquishing speech, applied thought, joy, and pleasure leads to the four absorption attainments. Relinquishing the perceptions of form, infinite space, infinite consciousness, and nothingness leads to the four formless attainments.
-
-**Retreat from concentration** arises through multiple causes, including: physical imbalance, encounter with excellent objects, receiving honors, being criticized, conceit, over-estimation, failure to attend to the practice, lack of mastery, predominance of one's own afflictions, and exhaustion of lifespan, merit, or karma.
-
-Among those with dull faculties and strong afflictions, retreat is swift and regaining concentration is slow. Among those with sharp faculties and weak afflictions, retreat is slow and regaining is swift. [The other two combinations follow accordingly.] Those with truly sharp faculties never retreat at all.
-
-#### Supreme Determination on Awakening Factors
-
-As the verse says:
-
-> Based on the two vehicles and the great vehicle,
-> Through twenty-seven aspects of correct endeavor,
-> The establishment of the awakening factors should be known.
-
-The awakening factors are established based on the two vehicles (śrāvaka and pratyekabuddha) and the great vehicle (bodhisattva), through twenty-seven kinds of correct endeavor. These include: binding to the object of correct observation, relinquishing defilement and gathering purity, training and harmonizing the inner mind, generating supramundane dharmas, maintaining them without interruption, directly realizing the truth, and many others specific to the bodhisattva path (such as maturing sentient beings, accumulating merit, generating eloquence, and establishing beings in nirvāṇa).
-
-**The four foundations of mindfulness (*smṛty-upasthāna*) in detail:**
-
-Body, feeling, mind, and dharmas each have three aspects: for example, the body may be naturally impure (internal organs), apparently clean (the skin), or impure through transformation (a corpse). Feeling has three aspects: painful, pleasant, and neutral. Mind has three aspects corresponding to the three types of feeling. Dharmas have three aspects: dark, white, and mixed.
-
-The observation of these foundations involves the use of images (*pratibimba*): one observes an image that is similar to the object, classified as the object of the three kinds of wisdom (wisdom born of hearing, thinking, and cultivation). Through the power of mindfulness, one abides without confusion regarding the teachings heard.
-
-**Nine obstructions to the foundations of mindfulness:** (1) non-renunciation, (2) non-attention, (3) secondary afflictions of calm and insight, (4) sinking, (5) inability to endure, (6) contentment with little, (7) forgetting instructions, (8) transgressing discipline, (9) abandoning the yoke of practice.
-
-**Two kinds of attention** in cultivating the foundations: non-lax attention and non-defiled attention. The expression "ardently" in the sūtra indicates the first; "with clear comprehension and mindfulness, removing worldly craving and grief" indicates the second, which removes three kinds of defilement: (1) regret arising from moral transgression (obstructing initial concentration), (2) inner torpor (causing loss of the object after concentration is attained), (3) external scattering (attachment to worldly fame and gain after attaining higher dharmas).
-
-**The practice of the paired path** for overcoming sinking and restlessness is explained with reference to the *Bhikṣuṇī Sūtra* and the *Sūtra on Grasping One's Own Mental Sign*. When the mind sinks, one should contemplate a slightly pleasant, pure sign. When the mind is restless, one should gather the mind inward. Through alternation of these two, one severs the secondary afflictions of sinking and restlessness and attains correct concentration.
-
-The passage from the *Quail Sūtra* is cited: the quail represents the practitioner's mind. Its unfit range represents contemplating desirable objects. Being seized by the hawk represents being seized by craving. The quail's lament represents regret. The temporary release represents the temporary cessation of craving. The clod of earth represents the five aggregates of clinging. The great field represents the contemplation of impermanence. The burrow represents the contemplation of suchness. Calling the hawk represents the attention of examination. The hawk's swift approach represents craving about to manifest. Entering the burrow represents contemplating suchness. The hawk harming itself represents the cutting of latent tendencies.
-
-This paired path also exhausts three kinds of craving: craving for companions, craving for gain, and craving for future existence.
-
-The foundations of mindfulness are also cultivated to counteract over-estimation, to counteract the defiled absorption that is the basis of relishing, and to counteract the four inversions (grasping the impermanent as permanent, the suffering as pleasant, the selfless as self, the impure as pure).
-
-Three mental orientations for cultivation: when walking through a village, the mind tends toward renunciation; when dwelling in a busy place, the mind tends toward seclusion; when dwelling in a quiet room, the mind tends toward nirvāṇa.
+**Observing** (vipaśyanā) means: when practicing correctly within the dharmas heard and reflected upon, through attention to the object-domain of the mental image of concentration, and through attaining peaceful concentration, one discerns and selects among dharmas.
 
 ---
 
-## Fascicle 20
+Furthermore, the verse states:
 
-### Chapter 11: Compendium of Supreme Determinations (Continued, Part 4)
+> Dwelling places and reliances,
+> Generation of the aspiration and compassion,
+> Practices, penetration,
+> Stages, and the pāramitās.
 
-#### Supreme Determination on Persons
+**The treatise states: Dwelling places** refers to four dwelling places, as extensively explained in the sūtras. (1) **The dwelling place of wisdom**: the wisdom of the world that correctly observes skillful means, for the purpose of establishing the supramundane knowledge that realizes the truths. (2) **The dwelling place of truth**: the supramundane wisdom already obtained through realization of the truths, for the purpose of establishing the severance of inversions based on real phenomena. (3) **The dwelling place of relinquishment**: the severance of inversions based on real phenomena, for the purpose of establishing the complete cessation of all remaining afflictions. (4) **The dwelling place of peace**: the peace of all remaining afflictions, for the purpose of establishing the non-arising of all suffering.
 
-As the verse says:
+**Reliances** refers to four kinds of reliance, as extensively explained in the sūtras. (1) **Rely on the Dharma, not on persons**: if a dharma has been spoken by the Tathāgata or spoken by disciples, one should learn and follow the twelve divisions of the teaching; one should not follow and learn the conduct practiced by persons. (2) **Rely on meaning, not on words**: if a dharma is not composed of ornamental words and elegant phrases by rhetoricians, but only manifests, independently fulfills, and is pure, bright, and complete in the holy life, one should respectfully understand such dharmas; one should not rely on the elegant words and phrases of rhetoricians that can manifest an inverted holy life or fail to manifest the holy life. (3) **Rely on sūtras of definitive meaning, not on sūtras of provisional meaning**: regarding the teachings of the Tathāgata that resemble the profound, that correspond to emptiness, and that accord with dependent arising, one should not mistakenly grasp the superficial literal meaning, nor should one abide in the view-grasping of one's own internal convictions. One should diligently investigate and seek out sūtras of definitive meaning. (4) **Rely on wisdom, not on consciousness**: one should not merely be satisfied with having heard and generate knowledge without further cultivating practice in accord with the Dharma. Rather, for the sake of exhausting all outflows, one should diligently seek the wisdom of inner realization that directly knows the true truths.
 
-> Through distinctions of faculties and such,
-> Five sets of twos are established.
-> Persons are provisionally designated by five factors;
-> Completeness is established through three things.
+**Generation of the aspiration** refers to the bodhisattvas' generation of the aspiration for awakening (bodhicitta-utpāda). When bodhisattvas who abide in the dharma-nature of bodhisattvas, wishing to benefit all sentient beings in the world-systems of the ten directions, through the force of strong causal conditions corresponding to that practice, make a great vow regarding anuttarā samyaksaṃbodhi and receive the method of generating the aspiration, declaring: "I shall certainly realize anuttarā samyaksaṃbodhi, in order to liberate all sentient beings of the ten directions from all afflictions and from all sufferings and difficulties."
 
-Through distinctions of faculties, five sets of twos are established: two faculties give rise to two kinds of attention; two kinds of attention give rise to two kinds of cultivation; two kinds of cultivation give rise to two kinds of conduct; two kinds of conduct give rise to two kinds of persons.
+This received generation of the aspiration is of two kinds: (1) conventional generation of the aspiration, (2) generation of the aspiration through realization of the dharma-nature.
 
-Persons are provisionally designated by five factors: (1) spiritual lineage (*gotra*), (2) mode of entry, (3) training, (4) attainment, (5) faults and virtues.
+Conventional generation of the aspiration means: suppose there is a person who, standing reverently before a wise one with an elevated intention, makes a vow saying: "Venerable, may you bear witness!" or "Noble one, may you bear witness!" or "Upādhyāya! I, named such-and-such, from this day forth generate the aspiration for anuttarā samyaksaṃbodhi, for the sake of benefiting all sentient beings. From now on, all my practices of giving, morality, patience, diligence, meditation, and wisdom are all for the sake of realizing anuttarā samyaksaṃbodhi. I now go forth in harmony with the bodhisattva mahāsattvas. May you bear witness that I am a bodhisattva." A second and third time likewise.
 
-Three things constitute completeness: (1) completeness of faculties (the immovable type), (2) completeness of concentration (attaining the cessation attainment), (3) completeness of fruit (arhatship).
+Generation of the aspiration through realization of the dharma-nature means: suppose there is a person who has passed beyond the first incalculable kalpa (asaṃkhyeya), has realized the first bodhisattva stage of Extreme Joy (pramuditā-bhūmi), has entered the bodhisattva's definitive stage of non-arising, has come to know in accord with reality the supreme awakening and the means to awakening, has realized that they themselves are approaching and closely approaching the great fruit of awakening, and through understanding the complete equality of self and others has attained the intention of the Great Self. Having reached the bodhisattva path of not abiding in either saṃsāra or nirvāṇa, they have attained the vast intention. Through all this, regarding the great awakening, their vow is irreversible. This is called generation of the aspiration through realization of the dharma-nature.
 
-#### Supreme Determination on Fruits
+**Compassion** refers to: having thus generated the aspiration, the bodhisattva, regarding all sentient beings in the world-systems of the ten directions, whether beings suffering three kinds of regression, or beings with the determinate sufferings of the five destinies, or beings with four kinds of extreme suffering, or beings with six kinds of severe suffering upon suffering, or beings with three kinds of characteristic suffering upon suffering, performs the practice of liberating them from suffering, with the nature of non-harmfulness.
 
-As the verse says:
-
-> Attaining the transformation of the basis, non-arising,
-> Two reasons why fruit has no regression,
-> Three reasons why cessation is permanent,
-> Three fruits and three reasons for the Buddha's prediction.
-
-By attaining the transformation of the basis (*āśraya-parivṛtti*), the afflictions do not arise; this transformation is called "cessation." Fruit has no regression for two reasons: (1) it is unreasonable that one who has not permanently destroyed the seeds of affliction should attain arhatship, and (2) one who has permanently destroyed the seeds of affliction cannot have afflictions arise again, since their seed-cause is absent.
-
-Cessation is permanent for three reasons: (1) it is free from conceptual elaboration, and whatever is conceptual elaboration is seen to be impermanent; (2) it is revealed by purified suchness, like the malleability of refined gold; (3) the non-arising nature of afflictions does not differ between earlier and later.
-
-Three fruits receive the Buddha's prediction for three reasons: (1) the stream-enterer receives prediction based on attainment of the four verified purities of the path of seeing; (2) the once-returner receives prediction based on joy, having begun to attain the fundamental absorption and experienced some joy; (3) the non-returner receives prediction based on recollection, having attained the fundamental absorption and directly seeing the assemblies of gods conversing with Brahmā, and recollecting that the virtues of their own vehicle are not yet complete.
-
-#### Supreme Determination on Virtues
-
-As the verse says:
-
-> The establishment of virtues
-> Is through seventeen kinds of predominance.
-> Their distinctions are boundless
-> Because of the antidotes and what they antidote.
-
-Virtues are established through seventeen kinds of predominant power:
-
-1. Through the predominance of compassion for sentient beings: the four immeasurables (*apramāṇa*).
-2. Through the predominance of the purification of six obstructions: the liberations (*vimokṣa*), bases of mastery (*abhibhv-āyatana*), and totalities (*kṛtsnāyatana*).
-3. Through the predominance of knowing the right time to go: the quality of non-contention (*araṇā*).
-4. Through the predominance of investigating the knowable: the knowledge of aspiration (*praṇidhi-jñāna*).
-5. Through the predominance of verbal instruction: the four analytical knowledges (*pratisaṃvid*).
-6. Through the predominance of skill in six areas: the six superknowledges (*abhijñā*).
-7. Through the predominance of others' faith: the marks and signs.
-8. Through the predominance of purification of three obstructions: the four kinds of complete purity.
-9. Through the predominance of answering all questions: the powers (*bala*).
-10. Through the predominance of defeating all opposing theories: the fearlessnesses (*vaiśāradya*).
-11. Through the predominance of impartiality toward one's assembly: the three kinds of non-guardedness.
-12. Through the predominance of training one's retinue: the three foundations of mindfulness.
-13. Through the predominance of manifesting omniscient activity at all times: the permanent uprooting of habitual tendencies.
-14. Through the predominance of not missing the right time for those to be trained: never-forgetting dharma.
-15. Through the predominance of surveying the world six times day and night: great compassion.
-16. Through the predominance of surpassing śrāvakas and pratyekabuddhas: the eighteen unshared buddha-dharmas.
-17. Through the predominance of accomplishing all the activities of the tathāgatas: omniscient wisdom of all modes.
-
-These virtues have boundless distinctions because of the various antidotes and what they antidote.
-
-The virtues should be contemplated in terms of: meaning, benefit, suffering, mental attention, abiding, difficulty, characteristics, and the special and non-special.
-
-**Contemplation of meaning:** The meaning of the perfection of wisdom (*prajñāpāramitā*) is summarized in five purposes: (1) generating respect for the speaker, (2) gathering the assembly, (3) generating respect for the verbal teaching, (4) narrating the subject matter, (5) generating much activity regarding the true meaning.
-
-All dharmas have three kinds of meaning: the superimposed meaning, the superimposed-upon meaning, and the meaning of dharma-nature. Just as form has three aspects (the superimposed form, the superimposed-upon form, and the dharma-nature of form), so for all dharmas.
-
-There is also the three-wheel mode of discourse: according to conventional truth, one speaks of agent, instrument, and action. For example, the giver, the act of giving, and the recipient.
-
-Four kinds of doctrinal discourse: (1) discourse on distinction, (2) discourse on establishment, (3) discourse on non-difference, and (4) discourse on non-function. These encompass the full range of the Buddha's teaching methods.
-
-Two kinds of immeasurable meaning, three kinds of signless meaning, three kinds of the meaning of apprehension, five kinds of incorrect apprehension, four kinds of verbal teaching, two kinds of what emptiness antidotes, two kinds of perfection practice (worldly with apprehension, and supramundane without apprehension).
-
-The self-nature of the perfection of wisdom has three aspects: (1) its support (*āśraya*), which is the mind of awakening; (2) its object (*ālambana*), which is dharmas such as form; (3) its mode (*ākāra*), which is twofold: worldly (contemplating impermanence, suffering, emptiness, no-self, like disease, like a boil, etc.) and supramundane (the mode conjoined with non-apprehension).
-
-Three kinds of excellent accumulation of the perfections: (1) with the intention conjoined with omniscient knowledge, dedicating merit to all sentient beings for supreme perfect awakening; (2) through the perfections, abiding in the true limit (*bhūta-koṭi*); (3) abiding in the true limit without realizing it prematurely.
-
-**The inconceivability of the mind:** The mind is inconceivable because of its support, its object, and the fact that in which it abides: all of these are without self-nature. If they are without self-nature, they are pure, and purity too is inconceivable.
-
-**Three causes of mind's wandering:** (1) through proximity (holding the support at the time of receiving a result), (2) through objects (experiencing various objects and engaging in various activities), (3) through establishment (the beginningless habitual perfuming of false imagination).
-
-#### Supreme Determination on the Great Vehicle
-
-As the verse says:
-
-> Spiritual lineage, the Tathāgata's teaching,
-> Many buddhas and the one vehicle:
-> By five, ten, six, and six kinds of reasoning, respectively.
-
-**Five reasons establishing the differentiation of spiritual lineage (*gotra*):** (1) the differentiation of all realms of sentient beings is observable, (2) a being without any faculty is unreasonable, (3) the analogy of transferable class (like caste) is inapplicable, (4) the analogy of transferable substance (like gold becoming iron) is inapplicable, (5) the assertion that one without the nirvāṇa-nature in this life might have it in another is unreasonable.
-
-**Ten reasons proving that the Mahāyāna teaching is the Buddha's word:** (1) it was not previously predicted that another would speak it, (2) it cannot be known to be from another, (3) it accomplishes much, (4) the obstructions are extremely heavy, (5) it is not the domain of discursive thought, (6) it is attained through supreme awakening, (7) without it, there would be the fault of no third vehicle, (8) without it, there would be no omniscient one, (9) taking it as object and reflecting properly antidotes all afflictions, (10) it should not be taken literally.
-
-**Six reasons proving that many tathāgatas can appear simultaneously:** (1) innumerable beings simultaneously generate the aspiration for great awakening, (2) innumerable beings simultaneously cultivate the requisites of awakening, (3) mutual obstruction is unreasonable, (4) simultaneous completion and emergence is reasonable, (5) sequential emergence alone is unreasonable, (6) ultimate non-accomplishment would follow.
-
-**Six reasons why the Tathāgata taught the one vehicle (*ekayāna*):** (1) speaking of the non-differentiated aspect of those very dharmas, (2) speaking of the non-discriminating mode of practice, (3) the equality of person-selflessness and dharma-selflessness, (4) the equality of liberation, (5) skillful abiding through transformation, (6) the ultimate nature of practice.
-
-All tathāgatas are equal in their capacity for all activities. Their fruits, the purification of buddha-lands, the liberation-body, and the dharma-body are equal, inconceivable, and unsurpassed for all buddhas.
-
-Based on the unconditioned dharma-body, though without deliberate effort, through the power of prior vows, all the tathāgatas' buddha-activities arise spontaneously, like a practitioner emerging from the cessation attainment. These buddha-activities are of an inexhaustible nature, neither of the character of cyclic existence nor of nirvāṇa.
-
-#### The Three Baskets
-
-**Question:** What is the Sūtra-piṭaka? What is the Vinaya-piṭaka? What is the Abhidharma-piṭaka (Mātṛkā)?
-
-**Answer:**
-
-The **Sūtra-piṭaka** (*sūtra-piṭaka*) is where the Bhagavān exclusively disclosed dharmas based on the compendium of topics. These topics are of three levels: four topics, nine topics, and twenty-nine topics.
-
-The four topics are: (1) the topic of hearing, (2) the topic of refuge, (3) the topic of training, (4) the topic of awakening.
-
-The nine topics are: (1) the topic of provisionally designated sentient beings, (2) the topic of their enjoyments, (3) the topic of their arising, (4) the topic of their continued existence after arising, (5) the topic of their defilement and purification, (6) the topic of their various distinctions, (7) the topic of the speaker, (8) the topic of the dharma spoken, (9) the topic of the assembly.
-
-The twenty-nine topics are distributed between the defiled side (four topics on the aggregates, their sequential turning, the establishment of beings' conceptions as causes of subsequent turning, and the establishment of dharma-conceptions as causes of subsequent turning) and the pure side (twenty-five topics including settling on the object, exertion therein, settling of mind, present happiness, the object and means for transcending all suffering, three kinds of full understanding, the basis of cultivation, realization, practice, its stabilization, its mode, its object, skill in observing what is abandoned and what is not, scattering, non-scattering, the basis of non-scattering, unwearied cultivation, the benefits of cultivation, its stabilization, the assemblage of the noble, what the noble assemblage abandons, true penetration, realization of nirvāṇa, the worldly right view obtained in the well-taught dharma that surpasses all external right views, and the regression that comes from not cultivating this).
-
-The **Vinaya-piṭaka** (*vinaya-piṭaka*) is where the Bhagavān taught the rules of individual liberation (*prātimokṣa*) for śrāvakas and bodhisattvas, along with detailed explanations. The bodhisattva's individual liberation is summarized in seven aspects: (1) declaring the manner of receiving the discipline, (2) declaring the matters that constitute defeat, (3) declaring the matters of transgression, (4) declaring the nature of transgression, (5) declaring the nature of non-transgression, (6) declaring the manner of emergence from transgression, (7) declaring the manner of relinquishing the discipline.
-
-The **Mātṛkā** (*Abhidharma-piṭaka*) is where the Bhagavān disclosed and analyzed dharmas through eleven aspects: (1) the conventional-truth aspect, (2) the ultimate-truth aspect, (3) the object-aspect of the factors of awakening, (4) the mode-aspect, (5) the self-nature aspect, (6) the fruit-aspect, (7) the experience-and-disclosure aspect, (8) the obstruction-aspect, (9) the accordance-aspect, (10) the fault-aspect, (11) the praise-aspect.
-
-The mode-aspect includes eight kinds of examination: (1) examination of truth, (2) examination of establishment, (3) examination of faults, (4) examination of virtues, (5) examination of doctrinal approach, (6) examination of cyclic existence, (7) examination of reasoning, (8) examination of the concise and the extensive.
-
-The reasoning-aspect includes four kinds of reasoning: (1) reasoning of dependence (*apekṣā-yukti*), (2) reasoning of function (*kārya-karaṇa-yukti*), (3) reasoning of proof (*upapatti-sādhana-yukti*), (4) reasoning of the nature of things (*dharmatā-yukti*).
-
-The reasoning of proof has two kinds: pure and impure. Pure proof has five aspects: (1) directly perceived, (2) based on what is directly perceived, (3) drawing analogies of the same class, (4) established, (5) pure verbal testimony. Impure proof has seven aspects: (1) partially similar, (2) partially dissimilar, (3) entirely similar, (4) entirely dissimilar, (5) drawing analogies of a different class, (6) unestablished, (7) impure verbal testimony.
-
-Five aspects identify a true omniscient one: (1) the fame of an omniscient one appearing in the world is current, (2) he possesses the thirty-two marks of a great being, (3) he possesses the ten powers and resolves all beings' doubts, (4) he claims the four fearlessnesses without being defeated by any opponent's argument and can refute all external theories, (5) in his dharma-vinaya, the noble eightfold path and the four fruits of the renunciant are found.
-
-#### Summary of the Sūtras
-
-As the verse says:
-
-> Characteristics and cessation,
-> The means without degeneration,
-> The fruits of both, and distinctions:
-> These are the summary meaning of the sūtras.
-
-The summary meaning of the sūtras has five aspects: (1) characteristics, (2) cessation, (3) the means without degeneration, (4) the fruits of both, and (5) the distinctions among types of quiescence. The five kinds of quiescence are: quiescence of entanglements, worldly quiescence of separation from desire, quiescence of the lower fetters, quiescence of the upper fetters, and quiescence of the basis.
-
-As the verse in the sūtra states:
-
-> "Monks who are beautiful, quiescent, free from defilements,
-> Free from desire, free from bondage,
-> Without appropriation, in nirvāṇa,
-> Bearing their final body, defeating Māra's armies."
-
-#### Summary of the Yoga Path
-
-As the final verse says:
-
-> In brief, the yoga path
-> Takes the correctly heard dharma as its object.
-> Calm abiding and insight,
-> Based on images, lead to accomplishment.
-
-In brief, the yoga path should be known as follows: the correctly heard dharma is its object, calm abiding (*śamatha*) and insight (*vipaśyanā*) are its essence, and it relies on images (*pratibimba*) and on actual accomplishment (*siddhi*).
-
-As the Bhagavān said: "There are five dharmas that encompass all the grounds of yoga for all yoga practitioners: (1) retention (*dhāraṇā*), (2) abiding (*sthiti*), (3) illumination (*āloka*), (4) mirror (*ādarśa*), and (5) transformation of the basis (*āśraya-parivṛtti*)."
-
-The correctly heard dharma is retention. The object is abiding. Calm abiding and insight are illumination. The image is the mirror. Actual accomplishment is the transformation of the basis.
-
----
-
-*End of the Xiǎnyáng Shèngjiào Lùn, Taishō No. 1602, in twenty fascicles.*
+**Practices** refers to ten kinds of dharma-practice, as extensively explained in the sūtras. (1) Regarding the dharmas of the bodhisattva piṭaka, whether much or little, with respect and reverence, the dharma-practice of copying. (2) With offering materials, whether inferior or superior, the dharma-practice of making offerings. (3) Having copied them oneself, out of compassion, the dharma-practice of giving them to others. (4) When another person generates the intention and with respect and reverence, using a wonderful voice to proclaim and read aloud, the dharma-practice of listening attentively out of veneration. (5) Generating pure faith and understanding with a respectful and serious mind, the dharma-practice of reading and perusing. (6) In order to cultivate practice in accord with the Dharma, having received it from a teacher, the dharma-practice of reciting. (7) Having recited it, in order to firmly maintain it, the dharma-practice of rehearsing with a broad and wonderful voice. (8) Out of compassion for others, transmitting it to them and, as appropriate in detail or in brief, the dharma-practice of explaining and expounding. (9) Dwelling alone in solitude, thoroughly and carefully investigating and in accord with principle observing and examining, the dharma-practice of reflection. (10) As one has reflected, cultivating śamatha and vipaśyanā, in order to enter into and in order to cause all the sought meanings to be accomplished, the dharma-practice of practice.

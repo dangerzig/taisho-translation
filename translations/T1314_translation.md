@@ -1,0 +1,34 @@
+# 佛說救面然餓鬼陀羅尼神呪經
+## The Buddha's Teaching: Dhāraṇī Divine Mantra Sūtra for Rescuing the Burning-Face Hungry Ghost
+
+Taishō Tripiṭaka No. 1314
+
+Translated from the Chinese. Tang dynasty, translated by Śikṣānanda (實叉難陀).
+
+---
+
+At that time, the World-Honored One was at the Nyagrodha Saṃghārāma in the city of Kapilavastu, together with many bhikṣus, bodhisattvas, and innumerable beings surrounding him on all sides, as he taught the Dharma.
+
+At that time, Ānanda was dwelling alone in a quiet place, concentrating his mind in contemplation. During that very night, after the third watch, he saw a hungry ghost named Burning-Face. Standing before Ānanda, it said to him: "Three days from now your life will end, and you will be born among the hungry ghosts." When Ānanda heard these words, his heart was filled with terror. He asked the hungry ghost: "What method can I employ to be freed from this suffering?" Then the hungry ghost replied to Ānanda: "Tomorrow morning, if you are able to give food to hungry ghosts as numerous as hundreds of thousands of nayutas of Ganges-sand numbers, and also to hundreds of thousands of brahmins and sages, giving each one bushel of food and drink by the measure of Magadha, and furthermore make offerings to the Three Jewels on my behalf, then your lifespan will be increased, and I shall be freed from the suffering of the hungry ghosts and born in the heavens."
+
+When Ānanda saw this Burning-Face hungry ghost, emaciated, withered, scorched, extremely ugly, with fire blazing from its face, throat like the point of a needle, hair tangled and disheveled, nails and claws long and sharp, its body as if bearing a heavy burden, and heard these inauspicious words, he was greatly terrified. Every hair on his body stood on end. He immediately rose from his seat and went swiftly to where the Buddha was. He prostrated with all five limbs touching the ground, bowed at the Buddha's feet, his body and mind trembling, and addressed the Buddha: "Save me, World-Honored One! Save me, Sugata! In three days my life will come to an end. Last night I saw the Burning-Face hungry ghost, who said to me: 'In three days your life will certainly end, and you will be born among the hungry ghosts.' I asked: 'By what means can I be freed from this suffering?' The hungry ghost replied: 'If you can give food and drink to hundreds of thousands of nayutas of Ganges-sand-numbered hungry ghosts, and to hundreds of thousands of brahmins and sages, your lifespan will be increased.' World-Honored One! How can I now be freed from this suffering?"
+
+At that time, the World-Honored One addressed Ānanda: "Do not be afraid! There is a special skillful means by which you can give food to these hungry ghosts, brahmins, and sages. Do not be troubled."
+
+The Buddha addressed Ānanda: "There is a dhāraṇī called All-Merit-Radiance of Immeasurable Majestic Power. If anyone recites this dhāraṇī, they will have thereby given to koṭi-nayuta hundreds of thousands of Ganges-sand-numbered hungry ghosts, and to sixty-eight koṭi-nayuta hundreds of thousands of brahmins and sages, and before each one there will be food amounting to four hu and nine bushels by the measure of Magadha."
+
+The Buddha addressed Ānanda: "In a former life, when I was a brahmin, I received this dhāraṇī from Avalokiteśvara Bodhisattva and from the Tathāgata of Sovereignty over Worldly Merit and Power. Through the power of this dhāraṇī, I was able to fully provide food to innumerable hungry ghosts, brahmins, and sages. Because I gave food to these hungry ghosts, I abandoned that body and was born in the heavens. Ānanda! Receive and uphold this dhāraṇī now for your own protection."
+
+He then spoke the mantra:
+
+*Namaḥ sarva-tathāgatāvalokite saṃbhara saṃbhara hūṃ.*
+
+The Buddha said: "Ānanda! If one wishes to perform this food-giving method, first take food and drink and place it in a clean vessel. Recite this dhāraṇī mantra and empower the food seven times. Standing inside the door, extend the arm outside, and place the vessel on the clean ground. Snap the fingers seven times. Having performed this giving, in the four directions there will be hungry ghosts as numerous as hundreds of thousands of koṭi-nayutas of Ganges sands, and before each hungry ghost there will be food amounting to four hu and nine bushels by the measure of Magadha. All these ghosts will be completely satisfied. Having eaten this food, they will all abandon their ghostly bodies and be born in the heavens."
+
+He further said: "Ānanda! If any bhikṣu, bhikṣuṇī, upāsaka, or upāsikā is able to constantly recite this dhāraṇī and offer food, they will be endowed with immeasurable merit and their life will be extended. It will be equivalent to the merit of making offerings to hundreds of thousands of koṭis of tathāgatas. Their complexion will be bright and pure, their majestic power and memory strong. All non-human beings, bhūta-ghosts, yakṣas, rākṣasas, and hungry ghosts will all fear this person and will not bear to look upon them. This person will have accomplished and perfected great strength and diligence."
+
+He further said: "Ānanda! If one wishes to give food to the brahmins and sages, take food and drink and fill a bowl. Recite this dhāraṇī mantra and empower the food seven times, then pour it into flowing water. One will thereby have fully offered celestial food to innumerable koṭi hundreds of thousands of Ganges-sand-numbered brahmins and sages. When those brahmins and sages have eaten this food, their faculties will be complete, they will be endowed with perfection and auspiciousness, and each will make a vow praising the giver: 'May the one who gave this food attain purity of mind and swiftly realize the majestic virtue of Brahmā. May they constantly cultivate pure conduct and accomplish the merit of making offerings to hundreds of thousands of koṭis of Ganges-sand-numbered tathāgatas. May they always be victorious over all enemies.'
+
+"If any bhikṣu, bhikṣuṇī, upāsaka, or upāsikā wishes to make offerings to the Three Jewels, they should prepare incense, flowers, food, and drink. Recite this dhāraṇī mantra and empower the food and the incense and flowers twenty-one times, then present them to the Three Jewels. These good men and good women will have accomplished the offering of celestial delicacies of supreme flavor and the unsurpassed offering to the Buddha, Dharma, and Saṃgha throughout the ten directions. They will have honored and praised the Three Jewels of all tathāgata-lands. The buddhas will remember them and praise them, and the devas will protect them."
+
+The Buddha said: "Go now, Ānanda! Protect yourself. And broadly teach this for all sentient beings, enabling them to accomplish and perfect immeasurable merit. In every world where they are born, they will constantly encounter hundreds of thousands of koṭis of buddhas."

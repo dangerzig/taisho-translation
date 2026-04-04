@@ -1,9 +1,9 @@
 # 人本欲生經
-## 人本欲生經
+## Sūtra on the Origin of Beings' Desire for Rebirth
 
 Taishō Tripiṭaka No. 0014
 
-Translated from the Chinese. 後漢 安世高譯
+Translated from the Chinese. Later Han dynasty, translated by An Shigao (安世高)
 
 ---
 
@@ -105,13 +105,13 @@ The Buddha then said: "Some, Ānanda, view feeling as the self. Others do not vi
 
 "Some, Ānanda, who are practicing the path, take these impermanent phenomena of feeling and view them as the self. Others, Ānanda, who are practicing the path, dispersing themselves among pleasant, painful, and neither-pleasant-nor-painful feelings, view the self through their own perceptions. Thus, Ānanda, through causal conditions it is not appropriate to make feeling into the self or to view the self in feeling.
 
-"For those, Ānanda, who do not take feeling as the self but take the body as the dharma that experiences feeling — one should address them: 'If, Venerable friend, there were no experience of feeling and nothing that experiences, could this still exist?' At that time, Ānanda, a bhikkhu who does not reckon feeling as the self — should this dharma of experiencing feeling still be regarded as the self?"
+"For those, Ānanda, who do not take feeling as the self but take the body as the dharma that experiences feeling — one should address them: 'If, Venerable friend, there were no experience of feeling and nothing that experiences, could this still exist?' At that time, Ānanda, a bhikṣu who does not reckon feeling as the self — should this dharma of experiencing feeling still be regarded as the self?"
 
 Ānanda said: "No."
 
 "Thus, Ānanda, through these causal conditions it is also not appropriate, nor should it be permitted: that the body, though taking feeling to be absent, is regarded as the self, with the body as merely the dharma that experiences feeling.
 
-"For those, Ānanda, who neither take feeling as the self, nor see feeling as not-self, nor see the body as experiencing feeling, nor see the dharma of feeling and take it as the self — but rather think 'I,' without being aware that this body is the self — one should address them: 'You who entirely reckon the self as something that does not experience feeling — could a self still exist?' At that time, a bhikkhu for whom feeling is not the self, the body also does not experience feeling, the dharma of feeling is also not the self — the self would be only a body that is unaware. When observing the self thus, could a self still exist?"
+"For those, Ānanda, who neither take feeling as the self, nor see feeling as not-self, nor see the body as experiencing feeling, nor see the dharma of feeling and take it as the self — but rather think 'I,' without being aware that this body is the self — one should address them: 'You who entirely reckon the self as something that does not experience feeling — could a self still exist?' At that time, a bhikṣu for whom feeling is not the self, the body also does not experience feeling, the dharma of feeling is also not the self — the self would be only a body that is unaware. When observing the self thus, could a self still exist?"
 
 Ānanda said: "No."
 
@@ -121,7 +121,7 @@ The Buddha then said: "Some, Ānanda, view feeling as the self. Others do not vi
 
 The Buddha told Ānanda: "Hear this, receive this, receive it carefully, receive it deeply, hold it in mind — I will now explain it." Thus did the Venerable Ānanda hear from the Buddha.
 
-The Buddha then said: "There are bhikkhus, Ānanda, who do not make feeling into the self, do not see feeling as the self, do not take the body as the experiencer, do not reckon the dharma of feeling as the self, do not view self-view as the self, and do not proceed from any notion of 'there is a self,' nor, having viewed this, regard it as the self through self-views. Having thus seen, one no longer brings about rebirth in the world. Having no longer taken up the world, one no longer grasps to bring about the world — one no longer sorrows. Having no longer any sorrow, one attains the unconditioned and crosses over the world. One then knows for oneself: 'It is exhausted; birth, old age, sickness, death, and sorrow are finished; the practice is fulfilled; what needed to be done has been done; one will not return to existence in the world.'
+The Buddha then said: "There are bhikṣus, Ānanda, who do not make feeling into the self, do not see feeling as the self, do not take the body as the experiencer, do not reckon the dharma of feeling as the self, do not view self-view as the self, and do not proceed from any notion of 'there is a self,' nor, having viewed this, regard it as the self through self-views. Having thus seen, one no longer brings about rebirth in the world. Having no longer taken up the world, one no longer grasps to bring about the world — one no longer sorrows. Having no longer any sorrow, one attains the unconditioned and crosses over the world. One then knows for oneself: 'It is exhausted; birth, old age, sickness, death, and sorrow are finished; the practice is fulfilled; what needed to be done has been done; one will not return to existence in the world.'
 
 "Up to this point, Ānanda, one who is practicing the path does not take feeling as the self and employs skillful means, and also does not view self-views as the self. Through how many causal conditions, Ānanda, does one who is practicing the path take form as the self?"
 

@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 1407
 
-Translated from the Chinese. Song Dynasty, translated by Dharmabhadra (法賢)
+Translated from the Chinese. Song dynasty, translated by Dharmabhadra (法賢)
 
 ---
 

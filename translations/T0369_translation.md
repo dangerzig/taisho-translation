@@ -1,11 +1,7 @@
-Here is the translation:
-
----
-
 # 阿彌陀佛說呪
 ## Dhāraṇī Spoken by Amitābha Buddha
 
-Taishō Tripiṭaka No. 369
+Taishō Tripiṭaka No. 0369
 
 Translated from the Chinese. Translator unknown (失譯)
 

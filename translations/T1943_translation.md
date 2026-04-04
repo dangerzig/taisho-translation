@@ -1,5 +1,3 @@
----
-
 # 略法華三昧補助儀
 ## Abbreviated Supplementary Rite for the Lotus Samādhi
 

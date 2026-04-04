@@ -1,25 +1,25 @@
 # 善生子經
-## 善生子經
+## The Sūtra of Siṅgāla's Son
 
 Taishō Tripiṭaka No. 0017
 
-Translated from the Chinese. 西晉 支法度譯
+Translated by Zhī Fǎdù of the Western Jin
 
 ---
 
 ## Fascicle 1
 
-### The Sūtra of Siṃgāla's Son, Spoken by the Buddha
+### The Sūtra of Siṅgāla's Son, Spoken by the Buddha
 
 Thus have I heard.
 
-At one time, the Blessed One was dwelling at Rājagṛha on Gṛdhrakūṭa Mountain. At that time, the householder Siṃgāla was gravely ill and commanded his son: "After I have passed away, you must perform the rite of reverence to the six directions." Thereupon Siṃgāla passed away in due course. His son reverently attended to the funeral rites and made offerings; when the funeral was completed, he rose early one morning, bathed, put on new clothes, went to the water's edge, and bowed in reverence to the six directions, saying: "I humbly and respectfully bow to those born in the eastern direction; may they likewise show respect to me." He proceeded in the same manner to the south, west, north, above, and below, reciting the same words in each direction.
+At one time, the Blessed One was dwelling at Rājagṛha on Gṛdhrakūṭa Mountain. At that time, the householder Siṅgāla was gravely ill and commanded his son: "After I have passed away, you must perform the rite of reverence to the six directions." Thereupon Siṅgāla passed away in due course. His son reverently attended to the funeral rites and made offerings; when the funeral was completed, he thereupon rose early, bathed, put on new clothes, went to the water's edge, and bowed in reverence to the six directions, saying: "I humbly and respectfully bow to those born in the eastern direction; may they likewise show respect to me." He proceeded in the same manner to the south, west, north, above, and below, reciting the same words in each direction.
 
-At that time, the Buddha in the early morning had put on his robes and taken his bowl and was about to enter the city when he saw Siṃgāla's son bowing in reverence to the six directions at the water's edge in this manner. The Blessed One then approached and asked: "Son of the householder! Why do you do this? I have heard that you rise early, bathe, put on new clothes, go to the water's edge, bow in reverence to the six directions, declare 'I humbly and respectfully bow to all the directions,' and then bathe again. Whose teacher's practice is this that you follow in such reverence, Siṃgāla's son?"
+At that time, the Buddha in the early morning had put on his robes and taken his bowl and was about to enter the city when he saw Siṅgāla's son bowing in reverence to the six directions at the water's edge in this manner. The Blessed One then approached and asked: "Son of the householder! What are you doing? I have recently heard that you always rise early, bathe, put on new clothes, go to the water's edge, bow in reverence to the six directions, declare 'I humbly and respectfully bow to all the directions,' and then bathe again. Whose teacher's practice is this that you follow in such reverence, son of Siṅgāla?"
 
-Siṃgāla's son replied: "When my father was on the verge of death, he previously gave this command; therefore I follow it. I have not received this from any teacher."
+Siṅgāla's son replied: "When my father was on the verge of death, he previously gave this command; therefore I follow it. I have not received this from any teacher."
 
-The Blessed One responded: "Son of the householder! What your father spoke of was not these six physical directions. Moreover, if one merely performs this outward display of facing the six directions out of desire, but has four kinds of defiled and evil conduct without being able to repent of them, then at death the spirit will be reborn in an evil realm or in hell. There are four things that bring trouble upon a person; one should know and recognize them. What are the four? First, delight in killing living beings; second, delight in theft; third, engaging in sexual misconduct; fourth, delight in false speech." The Buddha expressed this meaning in verse:
+The Blessed One responded: "Son of the householder! What your father spoke of was not these six physical directions. Moreover, if one merely desires to sit and face the six directions, but has four kinds of defiled and evil conduct without being able to repent of them, then at the death of the body the spirit will be reborn in an evil realm or in hell. There are four things that bring trouble upon a person; one should know and recognize them. What are the four? First, delight in killing living beings; second, delight in theft; third, engaging in sexual misconduct; fourth, delight in false speech." The Buddha expressed this meaning in verse:
 
 > Killing living beings and theft,
 > Deception and false speech,
@@ -50,7 +50,7 @@ The Blessed One responded: "Son of the householder! What your father spoke of wa
 
 "Gambling has six transformations one should know. What are the six? In winning, enmity arises; in losing, one is afflicted at heart; friends are grieved by it; enemies rejoice at it; there is the worry of imprisonment and misfortune; and people in general regard one with suspicion. When one possesses this evil, one's affairs are ruined; wealth not yet acquired cannot be obtained; wealth already obtained is depleted; and accumulated stores are exhausted.
 
-"Fondness for entertainment has six transformations one should know. What are the six? The mind is fixed on dancing; the mind is fixed on singing; the mind is fixed on string instruments; the mind is fixed on percussion; the mind is fixed on drums; the mind is fixed on those performers. When one possesses this evil, one's affairs are ruined; wealth not yet acquired cannot be obtained; wealth already obtained is depleted; and accumulated stores are exhausted.
+"Fondness for entertainment has six transformations one should know. What are the six? The mind is fixed on dancing; the mind is fixed on singing; the mind is fixed on string instruments; the mind is fixed on rhythm; the mind is fixed on drums; the mind is fixed on those performers. When one possesses this evil, one's affairs are ruined; wealth not yet acquired cannot be obtained; wealth already obtained is depleted; and accumulated stores are exhausted.
 
 "Evil companions have six transformations one should know. What are the six? One grows accustomed to drunkenness and confusion; one grows accustomed to stupor and disorder; one grows accustomed to licentiousness and self-indulgence; one grows accustomed to frequenting taverns; one grows accustomed to base persons; one grows accustomed to coarse speech. When one possesses this evil, one's affairs are ruined; wealth not yet acquired cannot be obtained; wealth already obtained is depleted; and accumulated stores are exhausted.
 
@@ -73,8 +73,8 @@ The Blessed One responded: "Son of the householder! What your father spoke of wa
 >
 > Liquor obstructs the use of wealth;
 > Its benefit is small, but the thirst it brings is great;
-> It stirs up illness and debt,
-> Creates disorder, and endangers health and the body.
+> It is a diseased water that stirs up debt,
+> Creates disorder, and endangers the body with illness.
 >
 > Some form friendships through liquor,
 > Some transgress the law through liquor;
@@ -89,7 +89,7 @@ The Blessed One responded: "Son of the householder! What your father spoke of wa
 > Through all of heaven's cold and heat,
 > Like grass that does not prize itself,
 > If one works diligently at one's livelihood,
-> Yet that very profit will be spent away.
+> Yet that very profit is thereby lost.
 >
 > But if one can endure cold and heat,
 > Like grass that does not prize itself,
@@ -111,9 +111,9 @@ The Blessed One responded: "Son of the householder! What your father spoke of wa
 > Among one's kin, one becomes the highest,
 > Like a sovereign presiding over the multitude.
 
-"Furthermore, son of the householder, there are four who have the appearance of friends but are not true friends; one should know and recognize them. What are the four? First, those who take things of a different kind from what they offer; second, those who speak with flattery; third, those who show affection only to one's face; fourth, those who give evil instruction." He expressed this meaning in verse:
+"Furthermore, son of the householder, there are four who have the appearance of friends but are not true friends; one should know and recognize them. What are the four? First, those who take others' possessions; second, those who speak with flattery; third, those who show affection only to one's face; fourth, those who give evil instruction." He expressed this meaning in verse:
 
-> Friends who take things under false pretenses,
+> Friends who take others' possessions,
 > Who speak fair and pleasing words,
 > Who express flattering affection face to face,
 > Whose evil teaching brings mutual danger and harm:
@@ -122,7 +122,7 @@ The Blessed One responded: "Son of the householder! What your father spoke of wa
 > Having recognized them, one should keep far away,
 > As one leaves a rough and difficult road.
 
-"Friends who take things of a different kind should be known by four things. What are the four? They greedily take others' possessions; they give little while hoping to receive much; they associate out of fear; they associate for the sake of profit." He expressed this meaning in verse:
+"Friends who take others' possessions should be known by four things. What are the four? They greedily take others' possessions; they give little while hoping to receive much; they associate out of fear; they associate for the sake of profit." He expressed this meaning in verse:
 
 > Taking another's possessions,
 > Giving little while desiring much,
@@ -144,12 +144,12 @@ The Blessed One responded: "Son of the householder! What your father spoke of wa
 > Having recognized them, one should keep far away,
 > As one leaves a rough and difficult road.
 
-"Friends who show affection only to one's face should be known by four things. What are the four? They speak of others' past failings; they secretly seek out future faults; what they give is of no worth; and they wish misfortune upon others." He expressed this meaning in verse:
+"Friends who show affection only to one's face should be known by four things. What are the four? They speak of others' past failings; they secretly seek out future faults; what they give is of no value; and they wish misfortune upon others." He expressed this meaning in verse:
 
 > Doing what should not be done,
 > Creating false speech to one's detriment,
 > Giving gifts of no value,
-> Wishing harm upon others and praying for their distress:
+> Wishing harm upon others for their own sake:
 > These have the appearance of friends but are not true friends;
 > The wise do not befriend them.
 > Having recognized them, one should keep far away,
@@ -227,16 +227,16 @@ The Blessed One responded: "Son of the householder! What your father spoke of wa
 
 "The north direction is like a friend in the presence of a companion. Therefore friends should, through five things, properly revere, properly support, and properly give peace to their companions. What are the five? Respecting them with a pure and sincere heart; not harboring resentment toward them; not entertaining affections for another; sharing delicacies and pleasures from time to time; and not setting aside deep kindness and affection. Companions in turn should, through five things, receive and protect their friends. What are the five? When one is fearful, bringing one to safety; when one is given to idle wandering and indulgence, repeatedly admonishing; keeping private matters confidential; the longer one makes offerings, the greater the excellence; and speaking loyally with patience. This is the twofold relationship of the north: when this is done as one wishes, in accord with the laws established by the ancient sages and the proper conduct of friendship, a man of worth will grow and prosper, and the wholesome Dharma will not decline.
 
-"The downward direction is like a master in the presence of servants and employees. Therefore masters should, through five things, properly revere, properly support, and properly give peace to their servants and employees. What are the five? Assigning tasks according to their capacity; providing clothing and food at proper times; sharing delicacies and pleasures from time to time; instructing them in the practice of fasting from time to time; and allowing them to rest when they are ill. Servants and employees in turn should serve their masters through ten things. What are the ten? Performing tasks well; completing things well; receiving what is entrusted with careful attention; retiring at night; rising early; in all matters striving to learn; working diligently and with effort; not being disrespectful when the household is poor; not departing when resources are exhausted; and when going out, declaring, "The master of our household is intelligent and wise." This is the twofold relationship of the downward direction: when this is done as one wishes, in accord with the laws established by the ancient sages and the proper conduct between master and employee, a man of worth will grow and prosper, and the wholesome Dharma will not decline.
+"The downward direction is like the eldest son in the presence of servants and employees. Therefore the eldest son should, through five things, properly revere, properly support, and properly give peace to servants and employees. What are the five? Assigning tasks according to their capacity; providing clothing and food at proper times; sharing delicacies and pleasures from time to time; instructing them in the practice of fasting from time to time; and allowing them to rest when they are ill. Servants and employees in turn should serve the eldest son through ten things. What are the ten? Performing tasks well; completing things well; receiving what is entrusted with careful attention; retiring at night; rising early; in all matters striving to learn; working diligently and with effort; not being disrespectful when the household is poor; not departing when resources are exhausted; and when going out, declaring, 'The eldest son of our household is intelligent and wise.' This is the twofold relationship of the downward direction: when this is done as one wishes, in accord with the laws established by the ancient sages and the proper conduct between the eldest son and his employees, a man of worth will grow and prosper, and the wholesome Dharma will not decline.
 
 "The upward direction is like the lay person who makes offerings in the presence of śramaṇas and brāhmaṇas. Therefore when such persons come to a household, the householder should, through five things, properly revere, properly support, and properly give peace to the śramaṇas and brāhmaṇas. What are the five? Opening the door and awaiting them; going out to welcome and greet them when they arrive; providing furniture and mats for them; protecting and preserving the treasury of scriptures and the Dharma; and offering clean and pure food. Through these things one makes offerings to śramaṇas and brāhmaṇas. Śramaṇas and brāhmaṇas in turn should respond to the household that makes offerings through five things. What are the five? Teaching and instructing them so as to perfect their right faith; teaching and instructing them so as to perfect their conduct of the precepts; teaching and instructing them so as to perfect their breadth of learning; teaching and instructing them so as to perfect their generosity; and teaching and instructing them so as to perfect their wisdom. This is the twofold relationship of the upward direction: when this is done as one wishes, in accord with the laws established by the ancient sages and the proper conduct between householders and śramaṇas and brāhmaṇas, a man of worth will grow and prosper, and the wholesome Dharma will not decline." He expressed this meaning in verse:
 
 > The east is for father and mother;
 > The south is proper for teacher and instruction;
-> The west is for one's children and wife;
+> The west is for one's wife;
 > Friends are positioned to the north;
-> Servants and employees face downward;
-> Śramaṇas and brāhmaṇas face upward.
+> Servants and employees below;
+> Śramaṇas and brāhmaṇas above.
 > One should practice these forms of reverence,
 > As this is also proper conduct for a householder.
 >
@@ -265,7 +265,7 @@ The Blessed One responded: "Son of the householder! What your father spoke of wa
 > Guiding others with the spirit of friendship,
 > Sharing and bestowing food and drink upon one another:
 >
-> Coming, going, and coming again—
+> Coming, going, and coming again,
 > In this way, one's name suffers no diminishment.
 > One who can cultivate and guard oneself
 > Is counted as wise among householders.
@@ -278,13 +278,13 @@ The Blessed One responded: "Son of the householder! What your father spoke of wa
 > When one seeks and obtains wealth,
 > One should always divide it into four parts:
 > One part for clothing and food,
-> Two parts for seeking profit from the principal,
-> Set one part aside as a reserve
+> Two as capital for seeking profit,
+> Store one away as a reserve
 > That can provide rescue in times of hardship.
 >
 > The four livelihoods of farming, trade, raising cattle, and keeping sheep;
-> The fifth is carefully managing and maintaining the household;
-> The sixth is taking a wife and establishing one's home.
+> The fifth is carefully managing the household;
+> The sixth is to take a wife in marriage.
 > When things are done in this way, wealth accumulates,
 > Increasing day by day without end.
 >
@@ -308,6 +308,4 @@ The Blessed One responded: "Son of the householder! What your father spoke of wa
 > At ease in assembly with one's kinsfolk,
 > Like Śakra dwelling in his celestial palace.
 
-Thereupon, having heard the teaching of the Blessed One, Siṃgāla's son prostrated himself at the Buddha's feet, rose and circumambulated him three times, joyfully took refuge, and received the precepts from the Buddha.
-
-
+Thereupon, having heard the teaching of the Blessed One, Siṅgāla's son prostrated himself at the Buddha's feet, rose and circumambulated him three times, joyfully took refuge, and received the precepts from the Buddha.

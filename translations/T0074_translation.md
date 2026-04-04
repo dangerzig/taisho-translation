@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 0074
 
-Translated from the Chinese. Song dynasty, translated by Fatian (法天)
+Translated from the Chinese. Song dynasty, translated by Dharmadeva (法天)
 
 ---
 

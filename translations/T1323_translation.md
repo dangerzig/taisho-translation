@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 1323
 
-Translated from the Chinese. Tang Dynasty, translated by Amoghavajra (不空)
+Translated from the Chinese. Tang dynasty, translated by Amoghavajra (不空)
 
 ---
 

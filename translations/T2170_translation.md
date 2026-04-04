@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 2170
 
-Compiled during the Tang Dynasty by Enchin (圓珍) of Japan
+Compiled during the Tang dynasty by Enchin (圓珍) of Japan
 
 ---
 

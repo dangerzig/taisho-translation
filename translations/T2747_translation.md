@@ -1,5 +1,3 @@
----
-
 # 挾註波羅蜜多心經
 ## Heart Sūtra of the Perfection of Wisdom with Interlinear Annotations
 

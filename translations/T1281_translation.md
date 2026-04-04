@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 1281
 
-Translated from the Chinese. Tang Dynasty, translated by Ratnacinta (寶思惟)
+Translated from the Chinese. Tang dynasty, translated by Ratnacinta (寶思惟)
 
 ---
 

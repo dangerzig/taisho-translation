@@ -1,7 +1,7 @@
 # 佛說無上處經
 ## Sūtra on the Supreme Abodes, Spoken by the Buddha
 
-Taishō Tripiṭaka No. 800
+Taishō Tripiṭaka No. 0800
 
 Translated from the Chinese. Translator unknown (失譯)
 

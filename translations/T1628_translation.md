@@ -1,11 +1,9 @@
-# Nyāyadvāra: Gateway to Correct Reasoning
-## 因明正理門論本
+# 因明正理門論本
+## Nyāyadvāratārkasāstra (Gateway to Correct Reasoning)
 
 Taishō Tripiṭaka No. 1628
 
-Sanskrit: *Nyāyadvāratārkasāstra*
-
-By Dignāga (*Chén-nà*, 陳那). Translated from the Chinese by Xuanzang (玄奘), Tang dynasty.
+Composed by Dignāga (陳那). Translated from the Chinese. Tang dynasty, translated by Xuanzang (玄奘)
 
 ---
 

@@ -1,13 +1,11 @@
 # 恒水經
-## 恒水經
+## Sūtra of the Gaṅgā Waters
 
 Taishō Tripiṭaka No. 0033
 
-Translated from the Chinese. 西晉 法炬譯
+Translated from the Chinese. Western Jin dynasty, translated by Fǎjù (法炬)
 
 ---
-
-## Fascicle 1: Sūtra of the Gaṅgā Waters, Spoken by the Buddha
 
 Thus have I heard:
 

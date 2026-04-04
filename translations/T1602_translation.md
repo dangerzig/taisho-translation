@@ -1,9 +1,9 @@
-# Xiǎnyáng Shèngjiào Lùn (Compendium of the Ascertainment of the Noble Teaching)
-## 顯揚聖教論
+# 顯揚聖教論
+## Xiǎnyáng Shèngjiào Lùn (Compendium of the Ascertainment of the Noble Teaching)
 
-Taishō Tripiṭaka No. 1602, 20 fascicles
+Taishō Tripiṭaka No. 1602
 
-By Asaṅga (無著菩薩). Translated from the Sanskrit by Xuánzàng (玄奘), Tang dynasty.
+Composed by Asaṅga (無著). Translated from the Chinese. Tang dynasty, translated by Xuanzang (玄奘)
 
 ---
 

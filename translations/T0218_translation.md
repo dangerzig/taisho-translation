@@ -1,7 +1,7 @@
 # 灌頂王喻經
 ## Sūtra on the Simile of the Consecrated King
 
-Taishō Tripiṭaka No. 218
+Taishō Tripiṭaka No. 0218
 
 Translated from the Chinese. Song dynasty, translated by Dānapāla (施護) et al.
 

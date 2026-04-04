@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 0071
 
-Translated from the Chinese. Eastern Jin, translated by Zhu Tanwulan
+Translated from the Chinese. Eastern Jin, translated by Zhu Tanwulan (竺曇無蘭)
 
 ---
 

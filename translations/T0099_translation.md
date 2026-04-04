@@ -1,9 +1,9 @@
-# Saṃyuktāgama (Connected Discourses)
-## 雜阿含經
+# 雜阿含經
+## Saṃyuktāgama (Connected Discourses)
 
-Taishō Tripiṭaka No. 99
+Taishō Tripiṭaka No. 0099
 
-Translated from the Chinese. Guṇabhadra (求那跋陀羅), Liu Song dynasty.
+Translated from the Chinese. Liu Song dynasty, translated by Guṇabhadra (求那跋陀羅)
 
 ---
 

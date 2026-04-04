@@ -1,9 +1,9 @@
 # 佛開解梵志阿颰經
-## 佛開解梵志阿颰經
+## Sūtra on the Buddha Enlightening the Brāhmaṇa Abat
 
 Taishō Tripiṭaka No. 0020
 
-Translated from the Chinese. 吳 支謙譯
+Translated from the Chinese. Wu dynasty, translated by Zhī Qiān (支謙)
 
 ---
 

@@ -1,0 +1,36 @@
+# 佛說佛十力經
+## Sūtra of the Ten Powers of the Buddha, Spoken by the Buddha
+
+Taishō Tripiṭaka No. 0781
+
+Translated from the Chinese. Song dynasty, translated by Dānapāla (施護) and others
+
+---
+
+Thus have I heard:
+
+At one time the Buddha was in the land of Śrāvastī, in the Jeta Grove of Anāthapiṇḍada, together with an assembly of bhikṣus.
+
+At that time the Buddha addressed the bhikṣus: "You should know that the Tathāgata, Worthy One, Perfectly Awakened One possesses ten kinds of power. Endowed with these powers, he is able to know the vast and superior places. In the midst of the great assembly he roars the lion's roar and turns the wondrous Brahmā-wheel. What are these ten?
+
+"The Tathāgata truly knows all that is possible as it truly is, and truly knows all that is impossible as it truly is. Because he truly knows, this is the Tathāgata's first power: the wisdom-power of knowing what is possible and impossible. The Tathāgata, Worthy One, Perfectly Awakened One, endowed with this power, is able to know the vast and superior places. In the midst of the great assembly he roars the lion's roar and turns the wondrous Brahmā-wheel.
+
+"Furthermore, the Tathāgata truly knows all the actions and deeds performed by all sentient beings in the past, future, and present, whether their circumstances, their places, their causes, or their results. Because he truly knows, this is the Tathāgata's second power: the wisdom-power of knowing karma. The Tathāgata, Worthy One, Perfectly Awakened One, endowed with this power, is able to know the vast and superior places. In the midst of the great assembly he roars the lion's roar and turns the wondrous Brahmā-wheel.
+
+"Furthermore, the Tathāgata truly knows all the dhyānas, liberations, samādhis, and samāpattis, whether defiled or pure, and all the stages of concentration. Because he truly knows, this is the Tathāgata's third power: the wisdom-power of knowing concentration. The Tathāgata, Worthy One, Perfectly Awakened One, endowed with this power, is able to know the vast and superior places. In the midst of the great assembly he roars the lion's roar and turns the wondrous Brahmā-wheel.
+
+"Furthermore, the Tathāgata truly knows the various kinds of faculties of all sentient beings, whether their own or others'. Because he truly knows, this is the Tathāgata's fourth power: the wisdom-power of knowing faculties. The Tathāgata, Worthy One, Perfectly Awakened One, endowed with this power, is able to know the vast and superior places. In the midst of the great assembly he roars the lion's roar and turns the wondrous Brahmā-wheel.
+
+"Furthermore, the Tathāgata truly knows the various dispositions of all sentient beings. Because he truly knows, this is the Tathāgata's fifth power: the wisdom-power of knowing dispositions. The Tathāgata, Worthy One, Perfectly Awakened One, endowed with this power, is able to know the vast and superior places. In the midst of the great assembly he roars the lion's roar and turns the wondrous Brahmā-wheel.
+
+"Furthermore, the Tathāgata truly knows the various realms and innumerable natures of the elements. Because he truly knows, this is the Tathāgata's sixth power: the wisdom-power of knowing the nature of elements. The Tathāgata, Worthy One, Perfectly Awakened One, endowed with this power, is able to know the vast and superior places. In the midst of the great assembly he roars the lion's roar and turns the wondrous Brahmā-wheel.
+
+"Furthermore, the Tathāgata truly knows all the paths that lead to every destination. Because he truly knows, this is the Tathāgata's seventh power: the wisdom-power of knowing the paths to all destinations. The Tathāgata, Worthy One, Perfectly Awakened One, endowed with this power, is able to know the vast and superior places. In the midst of the great assembly he roars the lion's roar and turns the wondrous Brahmā-wheel.
+
+"Furthermore, the Tathāgata recollects innumerable kinds of past abodes, namely one life, two lives, three, four, five lives, or ten, twenty, up to a hundred lives, a thousand lives, innumerable hundreds of thousands of lives, through hundreds of thousands of kalpas of formation and destruction, and all such events of formation and destruction. 'In those existences, wherever I was born among sentient beings, such was my name, such was my clan, such was my lineage, such were my food and drink, such were my joys and sorrows, such was the length or brevity of my lifespan. When my life ended, I was born in such-and-such a place. Dying here, I was born there; dying there, I was born here.' All such events, circumstances, conditions, places, and directions, of innumerable kinds, the Tathāgata recollects the past abodes and truly knows them. Because he truly knows, this is the Tathāgata's eighth power: the wisdom-power of recollecting past abodes. The Tathāgata, Worthy One, Perfectly Awakened One, endowed with this power, is able to know the vast and superior places. In the midst of the great assembly he roars the lion's roar and turns the wondrous Brahmā-wheel.
+
+"Furthermore, the Tathāgata's pure divine eye, surpassing the human eye, observes and sees all sentient beings in the world at the time of their birth and the time of their death, whether beautiful or ugly, noble or lowly, whether born in wholesome destinies or born in evil destinies, and truly knows and sees the karma they have performed. If sentient beings have performed unwholesome deeds of body, speech, and mind, slandering the noble and wise, giving rise to wrong views, and accumulating wrong views and unwholesome karma as causes, then by those conditions, when their bodies perish and their lives end, they fall into the evil destinies and are born in the hells. If sentient beings have performed wholesome deeds of body, speech, and mind, not slandering the noble and wise, giving rise to right views, and accumulating right views and wholesome karma as causes, then by those conditions, when their bodies perish and their lives end, they are born in the wholesome destinies among the devas. All such matters the Tathāgata truly knows. Because he truly knows, this is the Tathāgata's ninth power: the wisdom-power of the divine eye. The Tathāgata, Worthy One, Perfectly Awakened One, endowed with this power, is able to know the vast and superior places. In the midst of the great assembly he roars the lion's roar and turns the wondrous Brahmā-wheel.
+
+"Furthermore, all the Tathāgata's outflows have been exhausted. The outflows do not increase. His mind is well-liberated and his wisdom is well-liberated. He sees such dharmas, and through wisdom realizes and certifies his own fruit: 'My births are ended, the holy life has been established, what was to be done has been done, I will not receive another existence.' All this the Tathāgata truly knows. Because he truly knows, this is the Tathāgata's tenth power: the wisdom-power of the exhaustion of outflows. The Tathāgata, Worthy One, Perfectly Awakened One, endowed with this power, is able to know the vast and superior places. In the midst of the great assembly he roars the lion's roar and turns the wondrous Brahmā-wheel."
+
+When the Buddha had spoken this sūtra, all the bhikṣus, hearing what the Buddha had taught, were greatly filled with joy. They received it with faith and practiced accordingly.

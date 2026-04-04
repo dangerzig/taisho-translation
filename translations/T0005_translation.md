@@ -1,9 +1,9 @@
 # 佛般泥洹經
-## 佛般泥洹經
+## Sūtra of the Buddha's Parinirvāṇa
 
 Taishō Tripiṭaka No. 0005
 
-Translated from the Chinese. 西晉 白法祖譯
+Translated from the Chinese. Western Jin dynasty, translated by Bó Fǎzǔ (白法祖)
 
 ---
 

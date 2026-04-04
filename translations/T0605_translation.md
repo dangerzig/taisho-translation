@@ -1,7 +1,7 @@
 # 禪行法想經
 ## Sūtra on Dharma Perceptions in Dhyāna Practice
 
-Taishō Tripiṭaka No. 605
+Taishō Tripiṭaka No. 0605
 
 Translated from the Chinese. Later Han, translated by An Shigao (安世高)
 

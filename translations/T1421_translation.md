@@ -1,9 +1,9 @@
-# The Five-Part Vinaya of the Mahisasaka School
-## 彌沙塞部和醯五分律
+# 彌沙塞部和醯五分律
+## The Five-Part Vinaya of the Mahīśāsaka School
 
-Taisho Tripitaka No. 1421
+Taishō Tripiṭaka No. 1421
 
-Translated from the Chinese of Buddhajiva and Zhu Daosheng, Liu Song dynasty.
+Translated from the Chinese. Liu Song dynasty, translated by Buddhajīva (佛陀什) and Zhu Daosheng (竺道生)
 
 ---
 

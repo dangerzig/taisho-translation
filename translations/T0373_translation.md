@@ -1,7 +1,7 @@
 # 後出阿彌陀佛偈
 ## Later Verses on Amitābha Buddha
 
-Taishō Tripiṭaka No. 373
+Taishō Tripiṭaka No. 0373
 
 Translated from the Chinese. Translator unknown (失譯)
 

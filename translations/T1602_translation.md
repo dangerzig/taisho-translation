@@ -2111,3 +2111,266 @@ One should now ask them: what is your preference? Are the affairs of prosperity 
 Thus, because of the sun and others being the agents, and because of pure and impure karma being the agents, it is unreasonable. Therefore this thesis is not a reasoned statement.
 
 **Conclusion**: Thus these sixteen kinds of heterodox treatises, when investigated through two approaches and pursued through correct reasoning, are in every case and in every respect unreasonable.
+
+---
+
+## Fascicle 11
+
+### Chapter on Gathering the Meaning of Purity, Part Seven
+
+**The many kinds of treatise-dharmas** (śāstra-dharma): the summary verse says:
+
+> The substance of a treatise, the place of a treatise, the basis of a treatise, the embellishments of a treatise,
+> Falling into defeat in a treatise, escape from a treatise, and the dharmas most productive in a treatise.
+
+**The treatise says**: There are seven kinds of treatise-dharmas: (1) the substance of a treatise (vāda-svabhāva), (2) the place of a treatise (vāda-sthāna), (3) the basis of a treatise (vāda-āśraya), (4) the embellishments of a treatise (vāda-alaṃkāra), (5) falling into defeat in a treatise (vāda-nigraha-sthāna), (6) escape from a treatise (vāda-niḥsaraṇa), and (7) the dharmas most productive in a treatise (vāda-bahukāra-dharma).
+
+#### 1. The substance of a treatise
+
+This furthermore has six kinds: (1) ordinary discourse (jalpa), (2) popular discourse, (3) contentious discourse (vivāda), (4) slanderous discourse, (5) discourse in accord with the correct (samyak-kathā), and (6) instructive discourse.
+
+**Ordinary discourse** refers to all speech, sounds of speech, and expressions of speech.
+
+**Popular discourse** refers to discourse and discussion that the world delights in hearing.
+
+**Contentious discourse** refers to disputes that arise in dependence on desires, evil conduct, or views.
+
+Regarding desires: when one's own desires are forcibly seized by others, or when one forcibly seizes others' desires, or when the desires belonging to beings loved by oneself and others are mutually invaded, whether pertaining to song, dance, play, laughter, and such activities, or pertaining to courtesans, servants, and such, whether for watching or for enjoyment. In such various affairs of desire, those who have not separated from desire and who are presently defiled by the craving of the desire realm, because of tenacious clinging, because of bondage, because of addiction, and because of covetous love, become enraged, display threats, and engage in mutual combat and contention: different contention, contrary contention, and hostile contentious discourse.
+
+Regarding evil conduct: when one's own evil deeds of body and speech are censured by others, or when the evil deeds of body and speech done by others are censured by oneself, or when the evil deeds of body and speech done by beings loved by oneself and others are mutually censured. In such affairs, those who have done or not done various evil deeds, who are gripped by intense desire, aversion, and delusion, because of tenacious clinging, because of appropriation, and because of covetous love, mutually become enraged, and with defiled minds display threats, combat, and contention: different contention, contrary contention, and hostile contentious discourse.
+
+Regarding views: views arising from the view of a personal self, eternalism and annihilationism, no-cause, wrong cause, the Sāṃkhya non-Buddhists, and other kinds of evil views. In such views, when one's own position is refuted and denied by others, or when one refutes and denies the position held by others, or in order to cause others to abandon the views they hold, or in order to appropriate views not yet held. In such affairs, those who have not separated from desire, as before through hostile contentious discourse. This is called contentious discourse.
+
+**Slanderous discourse** refers to mutually enraged persons who, with defiled minds, marshal threats and mutually slander each other: whether through coarse speech, false speech, or frivolous speech. And in the context of incorrectly expounded dharma and vinaya, whether one proclaims that dharma to sentient beings, or evaluates and adjudicates, or instructs and admonishes, and so forth, all are called slanderous discourse. Why? Because they deny the true characteristic, because they lead to evil destinies, and because the effort expended is futile and without benefit. Therefore this discourse is called slanderous discourse.
+
+**Discourse in accord with the correct** refers to the context of the well-expounded dharma and vinaya, whether one proclaims the correct Dharma to sentient beings, or evaluates and adjudicates, or instructs and admonishes, in order to sever the doubts that arise in sentient beings, in order to skillfully penetrate the profound meaning, and in order to bring wisdom and insight to ultimate purity. All of these are called discourse in accord with the correct. Why? Because it accords with correct practice and accords with correct meaning. Therefore this discourse is called discourse in accord with the correct.
+
+**Instructive discourse** refers to discourse within the discourse in accord with the correct, in which, for the purpose of cultivating the superior training in mind (adhicitta-śikṣā) and the superior training in wisdom (adhiprajñā-śikṣā), all instruction is given: for those whose minds are not yet settled, to cause their minds to become settled; for those whose minds are already settled, to cause their minds to become liberated; for those who have not yet attained true knowledge, to awaken and cause them to attain it; for those who have already attained true knowledge, to cause them to bring it to fullness. This is called instructive discourse. Why? Because it clearly and thoroughly instructs sentient beings. Therefore this discourse is called instructive discourse.
+
+**Question**: When one truly examines these six kinds of discourse, how many are true and capable of bringing about benefit, and should be cultivated? How many are untrue and capable of bringing about harm, and should be abandoned?
+
+**Answer**: The last two discourses are true, bring about benefit, and should be cultivated. The middle two discourses are untrue, bring about harm, and should be abandoned. The first two should be analyzed case by case.
+
+#### 2. The place of a treatise
+
+One should know that there are also six kinds: (1) before a king, (2) before a judge, (3) within a great assembly, (4) before those who well understand the Dharma and its meaning, (5) before śramaṇas and brāhmaṇas, and (6) before those who delight in the Dharma and its meaning.
+
+#### 3. The basis of a treatise
+
+There are ten kinds: the thesis to be established (sādhya) has two kinds, and the means of establishment (sādhana) has eight kinds.
+
+**The two kinds of thesis to be established**: (1) own-nature (svabhāva) and (2) differentiation (viśeṣa) to be established.
+
+*Own-nature* means establishing the existent as existent and the non-existent as non-existent.
+
+*Differentiation to be established* means establishing that which has a superior as having a superior, that which has no superior as having no superior, the permanent as permanent, the impermanent as impermanent. Likewise with form and formlessness, the visible and the invisible, the resistant and the non-resistant, the defiled and the undefiled, the conditioned and the unconditioned, and so forth through immeasurable gates of differentiated meaning. This is called the differentiation to be established.
+
+**The eight kinds of means of establishment**: (1) establishing the thesis (pratijñā), (2) stating the reason (hetu), (3) citing the example (dṛṣṭānta), (4) homogeneous instances (sādharmya), (5) heterogeneous instances (vaidharmya), (6) direct perception (pratyakṣa), (7) inference (anumāna), and (8) authoritative teaching (āptāgama).
+
+**Establishing the thesis** means that, based on the two kinds of thesis to be established, one individually accepts what is acknowledged by one's own school, whether contained in the school's teaching, or established through one's own argumentation, or heard from another. This is done either to establish one's own school, or to reveal faults in the other's school, or to subdue arrogance, or to crush and overwhelm, or out of compassion for sentient beings.
+
+**Stating the reason** means that, in order to establish the thesis, one states the logical reason (hetu) based on the cited example, homogeneous and heterogeneous instances, direct perception, inference, and authoritative teaching.
+
+**Citing the example** means that, also to establish the thesis, one cites as an analogy commonly familiar and easily understood dharmas of the world upon which the reason depends.
+
+**Homogeneous instances** refer to those that are mutually similar in appearance and connection, whether currently observed or previously seen. These are of four kinds: (1) similar in own-substance, (2) similar in function, (3) similar in dharma, and (4) similar in cause and effect.
+
+*Similar in own-substance* means their appearances are mutually similar.
+
+*Similar in function* means their activities are mutually similar.
+
+*Similar in dharma* means the different dharma-gates upon their own substance are mutually similar in succession. For example, the dharma of impermanence is similar to the dharma of suffering; the dharma of suffering to the dharma of non-self; the dharma of non-self to the dharma of arising; the dharma of arising to the dharma of aging; the dharma of aging to the dharma of death. Likewise with form and formlessness, the visible and the invisible, the resistant and the non-resistant, the defiled and the undefiled, the conditioned and the unconditioned, and so forth through immeasurable dharma-gates that are mutually similar in their differentiations. This is called similarity in dharma.
+
+*Similar in cause and effect* means their cause-and-effect relations of establishing and being established are mutually similar. This is called homogeneous instances.
+
+**Heterogeneous instances** refer to dharmas that, following their different meanings, are mutually dissimilar. These are also of four kinds, which should be understood as the reverse of the above.
+
+**Direct perception** (pratyakṣa) has three kinds of characteristics: (1) the characteristic of being not non-perceptible, (2) the characteristic of not being the product of mental construction, and (3) the characteristic of not being perceived through error.
+
+*The characteristic of being not non-perceptible* furthermore has four aspects: when the sense-faculties are unimpaired and when mental attention is present, perception arises through (i) homogeneous arising, (ii) heterogeneous arising, (iii) the absence of obstruction, and (iv) not being extremely distant.
+
+*Homogeneous arising* means that the sense-faculties of the desire realm perceive objects of the desire realm, and the sense-faculties of the higher realms perceive objects of the higher realms, having arisen and come into being. This is called homogeneous arising.
+
+*Heterogeneous arising* means that the sense-faculties of the higher realms perceive objects of the lower realms, having arisen and so forth. This is called heterogeneous arising.
+
+*The absence of obstruction* furthermore has four kinds: (i) not obstructed by covering, (ii) not obstructed by concealment, (iii) not obstructed by overshadowing, and (iv) not obstructed by bewilderment.
+
+*Obstructed by covering* means obstructed and blocked by darkness, the darkness of ignorance, or impure form.
+
+*Obstructed by concealment* means concealed by the power of herbs, the power of mantras, or the power of supernatural abilities.
+
+*Obstructed by overshadowing* means what cannot be perceived because a small thing is overshadowed by many things, or food and drink overshadowed by poison, or the tip of a hair overshadowed by other coarse things, and so forth in immeasurable and limitless instances. For example, a small light cannot be perceived when overshadowed by a great light, as starlight and moonlight are overshadowed by sunlight. Furthermore, the antidote overshadows and makes the object of counteraction imperceptible, as the contemplation of impurity overshadows the characteristic of purity, the contemplation of impermanence, suffering, and non-self overshadows the characteristics of permanence, pleasure, and self, and the power of the signless contemplation overshadows all signs.
+
+*Obstructed by bewilderment* means what is produced by illusion and magical transformation, differences in appearance, or similarity, or internally produced conditions such as dizziness, fainting, dreams, confusion, intoxication, heedlessness, and madness. Such things are called bewilderment-obstruction.
+
+If not obstructed by these four kinds of obstruction, it is called the absence of obstruction.
+
+*Not extremely distant* means not of three kinds of extreme distance: (i) extreme distance in location, (ii) extreme distance in time, and (iii) extreme distance in analysis.
+
+This is collectively called being not non-perceptible. Because it is not non-perceptible, it is called direct perception.
+
+*The characteristic of not being the product of mental construction* furthermore has two kinds: (1) the object serving as the basis for immediate apprehension, and (2) the object serving as the basis for apprehension of a constructed domain.
+
+*The object serving as the basis for immediate apprehension* means an object that can serve as the basis for apprehension that succeeds upon mere contact. Just as a skilled physician administers medicine to a patient, complete in color, fragrance, taste, and texture, possessing great potency and mature efficacy. One should know that the color, fragrance, taste, and texture of this medicine are objects serving as the basis for immediate apprehension. The great potency and mature efficacy of the medicine, while the illness has not yet been cured, are the product of mental construction; when the illness is cured, they are not the product of mental construction. Such is the object serving as the basis for immediate apprehension.
+
+*The object serving as the basis for apprehension of a constructed domain* means an object that can serve as the basis for the apprehension of a constructed domain. For instance, when a yogic practitioner (yogin) mentally constructs the earth element, water element, fire element, and wind element through imaginative thinking, if with regard to the earth element one constructs the understanding of water, then based on the earth-perception one establishes the water-perception. If with regard to the earth element one constructs the understanding of fire and wind, then based on the earth-perception one establishes the fire and wind perceptions. Here, the earth-perception is the constructed domain, and the earth element is the object serving as the basis for the apprehension of the constructed domain. As with the earth-perception, so too with the water, fire, and wind perceptions, as appropriate. This is called the object serving as the basis for apprehension of a constructed domain.
+
+Here, the object serving as the basis for apprehension of a constructed domain is not the product of mental construction; the elements of earth and so forth as understood through imaginative construction are. When the understanding has not yet been achieved, it is called established through mental construction. When the understanding is achieved, it is no longer mental construction. This is called not being the product of mental construction. Because it is not the product of mental construction, it is called direct perception.
+
+*The characteristic of not being perceived through error* should be known as having either five kinds or seven kinds.
+
+The five kinds mean not being perceived through the five kinds of error. The five kinds of error are: (1) error of perception (saṃjñā-viparyāsa), (2) error of number, (3) error of shape, (4) error of color, and (5) error of function.
+
+The seven kinds mean not being perceived through the seven kinds of error. The seven kinds of error are the five above plus two further pervasive errors, making seven. The two errors are: (1) error of mind (citta-viparyāsa) and (2) error of view (dṛṣṭi-viparyāsa).
+
+*Error of perception* means giving rise to a perception of something that does not have that characteristic. For example, seeing a mirage and a thirsty deer and giving rise to the perception of water.
+
+*Error of number* means the conceit of superiority regarding a large number when the actual number is small. For example, a person with an eye disease, at the locus of one moon, sees multiple moon-images.
+
+*Error of shape* means the conceit of superiority regarding one shape when the actual shape is another. For example, seeing the form of a wheel in a whirling torch.
+
+*Error of color* means the conceit of superiority regarding one displayed color when the actual color is another. For example, a person with jaundice whose eye-faculty is damaged sees everything as yellow.
+
+*Error of function* means the conceit of superiority regarding there being function when there is no function. For example, holding a spinning scroll and running, one sees the trees rushing by.
+
+*Error of mind* means the mind takes delight in the five kinds of erroneously perceived objects.
+
+*Error of view* means one accepts, proclaims, establishes, prizes, and tenaciously clings to false conceptions regarding the five kinds of erroneously perceived objects.
+
+If not perceived through such errors, it is called direct perception.
+
+**Question**: To whom does such direct perception belong?
+
+**Answer**: Briefly stated, it belongs to four kinds: (1) direct perception through the material sense-faculties (indriya-pratyakṣa), (2) direct perception through mental reception (mānasa-pratyakṣa), (3) worldly direct perception (laukika-pratyakṣa), and (4) purified direct perception (viśuddha-pratyakṣa).
+
+*Direct perception through the material sense-faculties* refers to the domain of the five sense-faculties of form, with the characteristics of direct perception as previously explained.
+
+*Direct perception through mental reception* refers to the domain of the mental faculty, with the characteristics of direct perception as previously explained.
+
+*Worldly direct perception* is the collective name for the previous two kinds.
+
+*Purified direct perception* means that worldly direct perception is also purified direct perception in some cases. There is purified direct perception that is not worldly direct perception, namely, the supramundane wisdom (lokottara-jñāna) that, regarding its domain, knows the existent as existent, the non-existent as non-existent, that which has a superior as having a superior, and that which has no superior as having no superior. Because it is not shared with the world, it is called purified direct perception.
+
+**Inference** (anumāna) refers to the domain inferred through investigation together with deliberation. This is of five kinds: (1) by characteristic (liṅga), (2) by substance (svabhāva), (3) by function (karman), (4) by dharma, and (5) by cause and effect.
+
+*Inference by characteristic* means that, following whatever appearances and connections exist, whether presently observed or previously seen, one infers the domain. For example, seeing a banner, one infers the presence of a chariot; seeing smoke, one infers the presence of fire. Likewise, by the king one infers the kingdom; by the husband one infers the wife; by horns and a hump one infers a cow. By soft form, black hair, lightness of step, and beautiful complexion one infers that someone is young; by a wrinkled face and white hair one infers that someone is old. By one who bears the distinctive marks of one's own school, one infers the path or the secular. By one who delights in seeing the noble ones, delights in hearing the correct Dharma, and is far from arrogance, one infers a person of correct faith. By one who thinks well what should be thought, speaks well what should be spoken, and does well what should be done, one infers an intelligent person. By compassion, loving speech, courage, delight in giving, and the ability to skillfully interpret the profound meaning, one infers a bodhisattva. By agitation, lightness of movement, sporting, singing, and laughing, one infers that someone has not separated from desire. By deportment that is constantly quiescent, one infers separation from desire. By possessing the subtle marks and signs of the Tathāgata, the excellence of wisdom, quiescence, practice, and eloquence, one infers a tathāgata, a worthy one of correct and complete awakening, possessing all-knowledge. Seeing the appearance of someone in youth, one infers what will be the case in old age. Such instances are called inference by characteristic.
+
+*Inference by substance* means that, because one directly perceives the own-substance of a thing, one infers by analogy the non-perceived substance of that thing. Or one directly perceives one portion of the own-substance and infers the rest. For example, by the present one infers the past and future; or by the past one infers the future; or by what is near in the present one infers what is distant in the present. Furthermore, regarding affairs of clothing, food, adornments, and vehicles, by observing the characteristics of gain and loss in a small portion, one infers the whole. Also, by the maturation of one portion one infers the maturation of the rest. Such instances are called inference by substance.
+
+*Inference by function* means that one infers the basis of an action through its function. For example, seeing a distant object that is motionless with birds perched upon it, and such, one infers it is a tree stump. If there is movement and such, one infers it is a person. If one sees wide and long footprints, one infers an elephant; if the body drags along the ground, one infers a snake. If one hears neighing, one infers a horse; roaring, a lion; bellowing, a bull-king. Seeing infers the eye; hearing infers the ear; smelling infers the nose; tasting infers the tongue; touching infers the body; cognizing infers the mind. By a staff probing water, resistance to the staff infers earth. Seeing lush and moist grasses and trees with green leaves and stems, one infers the presence of water. Seeing hot ashes, one infers the presence of fire. Seeing grasses and trees swaying, one infers the presence of wind. Seeing closed eyes, holding a staff, stumbling, and losing the way, one infers blindness. Speaking loudly and inclining the ear, one infers deafness. By deeds performed, one infers correct faith, intelligence, bodhisattva-nature, or whether one has or has not separated from desire, and the Tathāgata, as previously described.
+
+*Inference by dharma* means that among all dharmas that are mutually connected, by one one infers the rest. For example, because something belongs to impermanence, one infers it is characterized by suffering. Because it belongs to suffering, one infers emptiness and non-self. Because it belongs to arising, one infers the dharma of aging. Because it belongs to aging, one infers the dharma of death. Because it belongs to having form, being visible, and being resistant, one infers the existence of location and shape. Because it belongs to the defiled, one infers suffering. Because it belongs to the undefiled, one infers the absence of suffering. Because it belongs to the conditioned, one infers the dharmas of arising, abiding, change, and cessation. Because it belongs to the unconditioned, one infers the reverse. Such instances are called inference by dharma.
+
+*Inference by cause and effect* means inferring cause and effect from each other. For example, seeing a person traveling, one infers they will reach a destination; seeing that they have reached a destination, one infers they first traveled. Seeing a person who serves a king in accordance with the Dharma, one infers they will obtain great rank and emolument; seeing great rank and emolument, one infers they previously served the king in accordance with the Dharma. Seeing a person who performs wholesome actions well, one infers they will certainly obtain great wealth; seeing great wealth, one infers they previously performed wholesome actions well. Seeing good or evil conduct, one infers future prosperity or decline; seeing prosperity or decline, one infers past good or evil conduct. Seeing an abundance of food and drink, one infers satiety; seeing satiety, one infers an abundance of food. Seeing a person who eats immoderately, one infers illness; seeing illness, one infers immoderate eating. Seeing that someone has dhyāna, one infers separation from desire; seeing separation from desire, one infers dhyāna. Seeing the cultivation of the path, one infers the certain attainment of the four fruits of the śramaṇa; seeing the attainment of the four fruits of the śramaṇa, one infers the cultivation of the path. Such instances should be known. This is called inference by cause and effect.
+
+This is collectively called inference.
+
+**Authoritative teaching** (āptāgama) refers to the verbal teaching established by an omniscient person, or the Dharma heard from that person and practiced in accord with the Dharma. This is of three kinds: (1) included in sacred words (buddhavacana), (2) counteracting defilement, and (3) not contradicting the characteristics of dharmas.
+
+*Included in sacred words* means the sūtra-teachings proclaimed by the Tathāgata and his disciples, transmitted and circulated in succession down to the present, not contradicting the correct Dharma and not contradicting the correct meaning.
+
+*Counteracting defilement* means that when one skillfully cultivates and practices based on this dharma, one is able to permanently tame and subdue desire, aversion, delusion, and all other afflictions and secondary afflictions.
+
+*Not contradicting the characteristics of dharmas* means the reverse of contradicting the characteristics of dharmas. This is called not contradicting the characteristics of dharmas.
+
+What is meant by contradicting the characteristics of dharmas? It means falsely augmenting what has no characteristic into having a characteristic, such as maintaining the existence of a self, a being, a life-force, one who is born, and so forth, or permanence or annihilation, form or formlessness, and such. Or it means reducing what has characteristics to having no characteristics. Or it means establishing the determinate as indeterminate. For example, although all formations are impermanent, all that is defiled is by nature suffering, and all dharmas are non-self, one falsely establishes that some are permanent and some impermanent, some are suffering and some are not, some have a self and some do not. Or regarding what the Buddha has established as undeclared matters, one makes a one-sided declaration and furthermore seeks to establish a declaration. Or it means establishing the indeterminate as determinate, such as maintaining that all pleasant feelings are latently accompanied by desire, all painful feelings by aversion, all feelings of neither-pleasure-nor-pain by delusion, that all pleasure and pain are defiled, or that deliberate action produces only the result of suffering, and so forth. Or it means establishing difference within the undifferentiated characteristics of dharmas with characteristics, or establishing non-difference within the differentiated. For example, based on the differentiated characteristics of conditioned dharmas, one also establishes differentiations for unconditioned dharmas; based on the undifferentiated characteristics of unconditioned dharmas, one also does not establish differentiations for conditioned dharmas. As with conditioned and unconditioned, so too with form and formlessness, the visible and the invisible, the resistant and the non-resistant, the defiled and the undefiled, and so forth, as appropriate. Furthermore, it means establishing the characteristics of cause and effect regarding dharmas with characteristics in a manner that does not accord with correct reason, such as establishing that good conduct produces undesirable fruits, that evil conduct produces desirable fruits, that practicing wrong conduct within an incorrectly expounded dharma and vinaya can produce purity, or that practicing correct conduct within the Buddha's well-expounded dharma and vinaya does not produce purity. Furthermore, it means establishing defilement as purity and purity as defilement, establishing what has unreal characteristics through conventional language as truly real, and establishing what has truly real characteristics through conventional language as unreal, such as establishing ultimate meaning through verbal proliferation regarding dharmas that are forever beyond verbal expression. Such instances are called contradicting the characteristics of dharmas.
+
+The reverse of these contradictions is called not contradicting. This is called authoritative teaching.
+
+**Question**: If all dharmas are established by the natural constitution of their own-characteristics and the differentiations of their own meanings, for what reason are the two kinds of thesis to be established further posited?
+
+**Answer**: In order to generate faith and understanding in others, not in order to generate the characteristics and appearance of dharmas.
+
+**Question**: Why is the thesis stated first when one wishes to establish the thesis to be established?
+
+**Answer**: In order to first display the meaning that one cherishes.
+
+**Question**: Why is the reason stated next?
+
+**Answer**: In order to reveal the determinate reasoning that depends on directly perceived dharmas, so that one does not abandon the meaning of the established thesis.
+
+**Question**: Why is the example cited next?
+
+**Answer**: In order to display the directly perceived dharma upon which the establishing reasoning depends.
+
+**Question**: Why are homogeneous and heterogeneous instances, direct perception, inference, and authoritative teaching stated afterward?
+
+**Answer**: In order to reveal the cognition of whether the reason and example are contradictory or non-contradictory. Furthermore, being contradictory is due to two causes: (1) being indeterminate, and (2) being the same as what is to be established. Being non-contradictory is also due to two causes: (1) being determinate, and (2) being different from what is to be established. Among these, what is contradictory cannot serve as a valid means of knowledge (pramāṇa) for establishing the thesis, and therefore is not called a valid means of knowledge. What is non-contradictory can serve as a correct valid means of knowledge for establishing the thesis, and therefore is called a valid means of knowledge.
+
+This is called the basis of a treatise.
+
+#### 4. The embellishments of a treatise
+
+There are five kinds: (1) skill in both one's own and others' school, (2) completeness of verbal capacities, (3) fearlessness, (4) gravity and composure, and (5) being worthy of offerings.
+
+**Skill in both one's own and others' school** means that someone who deeply cherishes this correct dharma and vinaya has read, recited, received, upheld, correctly heard, carefully considered, and maturely practiced the fundamental treatises of one's own school, having mastered, articulated, and understood them. Furthermore, regarding the other's dharma and vinaya, without cherishing or delighting in it, one has read, recited, received, upheld, heard, and considered the fundamental treatises of their school and is maturely familiar with them without practicing them, yet has mastered, articulated, and understood them. This is called skill in both one's own and others' school.
+
+**Completeness of verbal capacities** means that someone has a complete voice that does not commit vocal faults. The voice has five virtues: (1) not vulgar, (2) easy to understand, (3) powerful and clear, (4) coherent, and (5) good in meaning.
+
+*Not vulgar* means free from the crude and rustic expressions of border regions.
+
+*Easy to understand* means commonly established in the world and not peculiar speech.
+
+*Powerful and clear* means that the words establishing meaning are skillfully composed, powerful, and vigorous for the sake of accomplishing that meaning.
+
+*Coherent* means that the meritorious dharma-meanings of what precedes and follows are mutually consistent.
+
+*Good in meaning* means capable of bringing about worldly and supramundane benefit, without inversion.
+
+Furthermore, a debater with these qualities, through nine further kinds of differentiated characteristics, has completeness of verbal capacities: (1) not confused, (2) not coarse, (3) clear and intelligible, (4) measured, (5) corresponding to the meaning, (6) timely, (7) determinate, (8) manifest, and (9) continuous. Together with the foregoing, these are collectively called completeness of verbal capacities.
+
+**Fearlessness** means that someone, when situated before many assemblies, different assemblies, great assemblies, superior assemblies, truthful assemblies, and virtuous assemblies, has a mind without inferiority or timidity, a body without trembling or sweating, a face without the appearance of fear, a voice without wavering or quivering, and speech without hesitancy or weakness. Such qualities are called fearlessness.
+
+**Gravity and composure** means that someone is by nature not hostile or violent, the face does not change, and the body does not become agitated. Such qualities are called gravity and composure.
+
+**Being worthy of offerings** means that someone is by nature good and pleasing, by nature does not trouble others, constantly abides in the ground of good and pleasing conduct, speaks in accordance with others' minds, speaks at the right time and truthfully, benefits both self and others and is capable of bringing about meaningful benefit, uses gentle words as toward a close friend. This is called being worthy of offerings.
+
+If one engages in discourse based on these five embellishments, one should know that there are furthermore twenty-seven kinds of praiseworthy merits. What are the twenty-seven?
+
+(1) Respected by the assembly. (2) One's words are necessarily believed and accepted. (3) In the great assembly, one's fearlessness increases further. (4) One deeply understands the faults and weaknesses of the other's school. (5) One understands the determinate virtues of one's own school. (6) One is without biased attachment. (7) Regarding the treatise one has accepted, one's feelings are without partiality. (8) Regarding one's own correct dharma and vinaya, no one can lead one astray. (9) Regarding what others say, one can swiftly comprehend. (10) Regarding what others say, one can swiftly grasp. (11) Regarding what others say, one can swiftly understand the line of reasoning. (12) One can, through verbal virtuosity, subdue the great assembly. (13) One can please and generate faith in those who understand logic and treatises. (14) One can skillfully explain the meaning, sentences, and words. (15) The body does not become weary. (16) The mind does not become weary. (17) Speech does not become halting. (18) Eloquence is inexhaustible. (19) The body does not become haggard. (20) Memory is without lapse. (21) The mind is without damage. (22) The throat is without damage. (23) Whatever one utters is clear and easy to understand. (24) One well protects one's own mind from anger. (25) One well attunes the other's mind so that it is without resentment. (26) One causes the opposing debater's mind to give rise to pure faith. (27) In all one's conduct, one does not incur enmity; one's vast renown spreads throughout the ten directions, and the world proclaims: "This is a great Dharma-teacher, counted among the great teachers."
+
+Just as those who enjoy sensual pleasures adorn themselves with ornaments of maṇi gems, pearls, lapis lazuli, and other jewels such as earrings and bracelets, and their majestic virtue blazes with radiant light, so too does a debater adorn himself with these twenty-seven praiseworthy merits interspersed with the five embellishments of a treatise, and his majestic virtue blazes with radiant light. Therefore these are called the embellishments of a treatise.
+
+#### 5. Falling into defeat in a treatise
+
+There are three kinds: (1) conceding defeat, (2) being silenced, and (3) faulty speech.
+
+**Conceding defeat** means that the proponent, with thirteen kinds of concessive phrases, concedes to the opponent and abandons the discourse. What are the thirteen kinds of phrases? The proponent concedes to the opponent, saying: "My thesis is not good; your thesis is good. My observation is not good; your observation is good. My thesis has no reason; your thesis has reason. My thesis has no force; your thesis has force. My thesis is defeated; your thesis is established. My eloquence extends only to this point; beyond this, after further careful deliberation, I shall speak to you. Let us set this matter aside; I shall say no more." With such thirteen kinds of phrases, one concedes to the opponent and abandons the discourse. Because one abandons the discourse, one should know one is crushed, defeated by the other, ranked below the other, and subdued. Therefore conceding defeat is called a position of falling into defeat.
+
+**Being silenced** means that the proponent is subdued by the opponent. In such cases, one either takes refuge in other matters as a skillful expedient to withdraw, or introduces extraneous speech, or displays fury, or displays anger, or displays arrogance, or reveals the other's concealed faults, or displays malice, or displays impatience, or displays distrust, or falls silent, or falls into distress, or shrugs the shoulders and hangs the head, or sinks into thought with words exhausted.
+
+*Taking refuge in other matters as a skillful expedient to withdraw* means abandoning the previously established position and taking refuge in another thesis; abandoning the previous reason, example, homogeneous and heterogeneous instances, direct perception, inference, and authoritative teaching, and taking refuge in other reasons through authoritative teaching.
+
+*Introducing extraneous speech* means abandoning the topic under discussion and speaking about food and drink, kings and ministers, bandits and robbers, roads, entertainers, and obscenities, taking refuge in external matters and abandoning the original position.
+
+*Displaying fury* means using coarse language to expel the opponent. *Displaying anger* means using hostile and retaliatory language to blame the opponent. *Displaying arrogance* means using words denigrating the opponent's clan and low birth. *Revealing the other's concealed faults* means using words that expose the opponent's hidden evil conduct. *Displaying malice* means using cruel, hostile language to revile the opponent. *Displaying impatience* means issuing hostile words to intimidate the opponent. *Displaying distrust* means using words about broken precepts to slander the opponent.
+
+*Falling silent* means the verbal activity comes to a complete stop. *Falling into distress* means the mental activity burns with anxiety. *Shrugging the shoulders and hanging the head* means the courageous bodily activity suddenly wilts. *Sinking into thought with words exhausted* means both talent and eloquence are exhausted.
+
+These thirteen kinds of situations constitute being silenced. The first two involve deceptive and evasive conduct; the middle seven involve initiating wrong conduct; the last four indicate the exhaustion of all capacity. This is called being silenced, a position of falling into defeat.
+
+**Faulty speech** means the proponent has nine kinds of faults, and therefore it is called faulty speech. What are the nine? (1) Confused, (2) coarse, (3) unclear, (4) without proper measure, (5) not corresponding to the meaning, (6) untimely, (7) indeterminate, (8) not manifest, and (9) discontinuous.
+
+*Confused* means abandoning the topic and speaking in mixed and different ways. *Coarse* means enraged, abrupt, and violent, with hasty and hurried words. *Unclear* means that neither the assembly nor the opponent can comprehend the dharma or meaning. *Without proper measure* means the words for the meaning being expressed are either redundant or deficient. *Not corresponding to the meaning* is of ten kinds: (i) meaningless, (ii) contradicting the meaning, (iii) damaging the reasoning, (iv) being equal to what is to be established, (v) inviting the collection of problematic objections, (vi) failing to achieve benefit, (vii) the meaning having no order, (viii) the meaning being indeterminate, (ix) establishing what is already established, and (x) conforming to unreasonable and evil treatises. *Untimely* means what should be said first and last is spoken out of order. *Indeterminate* means establishing and then destroying, destroying and then establishing, shifting rapidly so as to be difficult to understand. *Not manifest* means committing faults against the science of grammar and responding without understanding, or first using classical language and then colloquial language, or the reverse. *Discontinuous* means the words are cut off in the middle.
+
+Whenever discourse commits these nine faults, it is called faulty speech.
+
+#### 6. Escape from a treatise
+
+This means the proponent engages in three kinds of observation before initiating or abandoning a discourse. What are the three kinds of observation? (1) Observing merits and faults, (2) observing the assembly, and (3) observing skill and lack of skill.
+
+**Observing merits and faults**: when a proponent is about to establish a thesis, one should observe as follows: "By establishing this thesis, will I not damage myself, damage others, or damage both? Will it not produce offenses in the present life, future lives, or both? Will it not give rise to all the sorrows and sufferings of body and mind? Will it not cause the taking up of weapons and staves, quarreling, scolding, contention, deceitful speech, and false speech? Will various unwholesome dharmas not arise and increase? Will it not fail to benefit and bring happiness to myself and others? Will it not fail to benefit and bring happiness to the many? Will it not lack compassion for the world? Will it not cause gods and humans to be without benefit, without meaning, and without happiness?"
+
+When the proponent observes in this way, if one knows that the thesis one would establish would damage oneself through causing gods and humans to be without benefit and happiness, one should deliberate and not establish the thesis. If one truly knows that the thesis would not damage oneself through being able to lead gods and humans to benefit and happiness, one should deliberate and establish the thesis. This is called the first characteristic of escape from a treatise.
+
+**Observing the assembly**: the proponent should observe the currently present assembly. Are they attached or unattached? Are there worthy and upright persons or not? Are there those who can skillfully understand or not? When observing in this way, if one knows the assembly has attachments and is not unattached, consists only of unworthy persons without worthy ones, and consists only of those who do not skillfully understand without those who do, one should deliberate that within this assembly one should not establish a thesis. If one knows the assembly is without attachment and not attached, consists only of worthy and upright persons without unworthy ones, and consists only of those who skillfully understand without those who do not, one should deliberate that within this assembly one should establish a thesis. This is called the second characteristic of escape from a treatise.
+
+**Observing skill and lack of skill**: the proponent should observe one's own skill and lack of skill. "Regarding the substance of a treatise, the place, the basis, the embellishments, defeat, and escape, am I skilled or unskilled? Do I have the power to establish my own thesis and subdue the other's thesis, and to escape from the position of defeat, or not?" When observing in this way, if one knows that one is unskilled and not skillfully informed, and that one lacks power and ability, one should deliberate that one should not establish a thesis with the opponent. If one knows that one is skilled and not unskilled, and has power and not lack of power, one should deliberate that one should establish a thesis with the opponent. This is called the third characteristic of escape from a treatise.
+
+#### 7. The dharmas most productive in a treatise
+
+There are three kinds of dharmas most productive in the established thesis: (1) skill in both one's own and others' school, (2) fearlessness, and (3) eloquence.
+
+**Question**: Why are these three dharmas called the most productive in the established thesis?
+
+**Answer**: Because of being skilled in both one's own and others' school, one is able to initiate discourse regarding all dharmas. Because of fearlessness, one is able to initiate discourse in all assemblies. Because of eloquence, one is able to skillfully respond to all questions and challenges. Therefore these three are called the dharmas most productive in the established thesis.

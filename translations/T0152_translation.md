@@ -1,9 +1,9 @@
-# Collection of the Six Perfections
-## 六度集經
+# 六度集經
+## Collection of the Six Perfections
 
-Taishō Tripiṭaka No. 152, 8 fascicles
+Taishō Tripiṭaka No. 0152
 
-Translated from the Chinese. Translator: Kang Senghui, Wu dynasty.
+Translated from the Chinese. Wu dynasty, translated by Kang Senghui (康僧會)
 
 ---
 

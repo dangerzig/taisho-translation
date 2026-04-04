@@ -1,9 +1,9 @@
-# Prajñāpradīpa (Lamp of Wisdom Commentary)
-## 般若燈論釋
+# 般若燈論釋
+## Prajñāpradīpa (Lamp of Wisdom Commentary)
 
-Taishō Tripiṭaka No. 1566, 15 fascicles
+Taishō Tripiṭaka No. 1566
 
-By Bhāviveka (清辯 / 分別明菩薩). Translated from the Sanskrit by Prabhākaramitra (波羅頗蜜多羅), Tang dynasty.
+Composed by Bhāviveka (清辯). Translated from the Chinese. Tang dynasty, translated by Prabhākaramitra (波羅頗蜜多羅)
 
 ---
 

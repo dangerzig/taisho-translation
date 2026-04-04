@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 1327
 
-Translated from the Chinese. Eastern Jin, translated by Dharmarakṣa (曇無蘭)
+Translated from the Chinese. Eastern Jin, translated by Tan Wulan (曇無蘭)
 
 ---
 

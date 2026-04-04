@@ -1,9 +1,9 @@
 # 佛為海龍王說法印經
 ## Sūtra of the Dharma Seal Spoken by the Buddha for the Sea Dragon King
 
-Taishō Tripiṭaka No. 599
+Taishō Tripiṭaka No. 0599
 
-Translated from the Chinese. Tang Dynasty, translated by Yijing (義淨)
+Translated from the Chinese. Tang dynasty, translated by Yijing (義淨)
 
 ---
 

@@ -1,9 +1,9 @@
 # 大毘盧遮那略要速疾門五支念誦法
 ## The Five-Limb Recitation Method of the Abbreviated Essential and Swift Gate of Mahāvairocana
 
-Taishō Tripiṭaka No. 858
+Taishō Tripiṭaka No. 0858
 
-Translated from the Chinese. Tang Dynasty, translator unknown.
+Translated from the Chinese. Tang dynasty, translator unknown
 
 ---
 

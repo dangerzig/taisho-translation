@@ -1,13 +1,11 @@
 # 法海經
-## 法海經
+## Sūtra of the Dharma Ocean
 
 Taishō Tripiṭaka No. 0034
 
-Translated from the Chinese. 西晉 法炬譯
+Translated from the Chinese. Western Jin dynasty, translated by Fǎjù (法炬)
 
 ---
-
-## Fascicle 1
 
 Thus have I heard:
 

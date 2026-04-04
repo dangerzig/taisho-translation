@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 777
 
-Translated from the Chinese. Western Jin, translated by Bái Fǎzǔ (白法祖)
+Translated from the Chinese. Western Jin, translated by Bái Fǎzǔ
 
 ---
 

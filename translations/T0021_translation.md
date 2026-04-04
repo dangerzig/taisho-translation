@@ -1,9 +1,9 @@
 # 梵網六十二見經
-## 梵網六十二見經
+## Sūtra on the Brahmā Net of Sixty-Two Views
 
 Taishō Tripiṭaka No. 0021
 
-Translated from the Chinese. 吳 支謙譯
+Translated from the Chinese. Wu dynasty, translated by Zhī Qiān (支謙)
 
 ---
 

@@ -1,0 +1,60 @@
+# 齋經
+## Sūtra on Observance Days
+
+Taishō Tripiṭaka No. 0087
+
+Translated from the Chinese. Wu dynasty, translated by Zhī Qiān (支謙)
+
+---
+
+Thus have I heard:
+
+At one time, the Buddha was in the city of Śrāvastī, in the eastern part of the city, at the hall of the chief minister's household. The chief minister's mother was named Vihārā. She rose early, bathed, put on colorful garments, and together with her daughters-in-law came forth, prostrated at the Buddha's feet, and sat to one side. The Buddha asked Vihārā: "Why have you bathed so early?" She replied: "I wish together with my daughters-in-law to receive the observance precepts." The Buddha said: "There are three grades of observance. Which observance do you desire?" Vihārā knelt and said: "I pray you will tell us what the three observances are."
+
+The Buddha said: "The first is the cowherd's observance, the second is the Nirgrantha observance, and the third is the Buddhist observance.
+
+"The cowherd's observance is like a cowherd who seeks good water and grass to water and feed his cattle, and in the evening returns home thinking of which field has abundant pasture, waiting for dawn to go there again. If a man or woman of good family has received the observance precepts but their mind dwells on household affairs, profitable enterprises, and possessions, and they think of fine food and drink to nourish their bodies: this is like the cowherd's mentality. One does not obtain great merit, and it is not great wisdom.
+
+"The Nirgrantha observance is this: on the fifteenth day of the month, the time of the observance, they prostrate on the ground and receive the observance precepts, bowing to all the spirits within a radius of ten yojanas and saying: 'Today I observe the fast. I dare not do evil. I claim no household; that and this are not my kin. Wife, children, servants, and slaves are not mine; I am not their master.' Yet their practice values the letter over the substance, without true sincerity of heart. When the next day comes, everything remains as before. Observing the fast in this manner, one does not obtain great merit, and it is not great wisdom.
+
+"The Buddhist observance is this: on the six monthly observance days, a disciple of the path receives the eight precepts. What are the eight?
+
+"The first precept: for the entirety of one day and one night, one maintains a mind like that of a noble one, without any thought of killing, compassionate toward all sentient beings. One must not harm even crawling insects, must not use knife or staff, but think only of bringing peace and benefit, never again to kill. Like the pure precept, one trains with unified mind.
+
+"The second precept: for the entirety of one day and one night, one maintains a mind like that of a noble one, without any thought of covetous taking, reflecting on generosity. One should give with joy, give with one's own hands, give with purity, give with reverence, give without expectation, setting aside all miserliness and greed. Like the pure precept, one trains with unified mind.
+
+"The third precept: for one day and one night, one maintains a mind like that of a noble one, without any lustful thought. One does not think of the bedroom, cultivating the brahma conduct, without any depraved desires, the mind not craving physical beauty. Like the pure precept, one trains with unified mind.
+
+"The fourth precept: for one day and one night, one maintains a mind like that of a noble one, without any thought of false speech, reflecting on truthfulness, speaking calmly and deliberately, not engaging in deceit, with mind and speech in accord. Like the pure precept, one trains with unified mind.
+
+"The fifth precept: for one day and one night, one maintains a mind like that of a noble one. One does not drink intoxicants, does not become drunk, does not become confused or disordered, does not lose one's purpose, setting aside the mind of heedlessness. Like the pure precept, one trains with unified mind.
+
+"The sixth precept: for one day and one night, one maintains a mind like that of a noble one, without any thought of seeking comfort. One does not wear flower garlands or perfumes, does not apply cosmetics or powders, does not engage in singing, dancing, or theatrical entertainment. Like the pure precept, one trains with unified mind.
+
+"The seventh precept: for one day and one night, one maintains a mind like that of a noble one, without any thought of seeking comfort. One does not sleep on fine beds, using only low beds and grass mats, setting aside drowsiness and sleep, reflecting on the sūtras and the path. Like the pure precept, one trains with unified mind.
+
+"The eighth precept: for one day and one night, one maintains a mind like that of a noble one, observing the Dharma by eating at the proper time, eating little to restrain the body. After midday one does not eat again. Like the pure precept, one trains with unified mind."
+
+The Buddha told Vihārā: "On observance days, one should practice five contemplations. What are the five?
+
+"First, one should contemplate the Buddha. The Buddha is a Tathāgata, a Worthy One, one of right and universal awakening, perfect in wisdom and conduct, a Well-Gone One, the Father of the World, an Unsurpassed One, the Master of the Dharma, the Teacher of Gods and Humans, honored as the Buddha. One who contemplates the Buddha in this way: all foolishness, evil thoughts, and habits of anger are entirely removed. Wholesome thoughts arise of themselves, and one reflects with joy on the Buddha's work. It is like washing one's hair with sesame oil and cleansing powder, removing all dirt and impurities. One who contemplates the Buddha during the observance attains purity such as this, and all who see such a person cannot help but have faith.
+
+"Second, one should contemplate the Dharma. The Dharma taught by the Buddha consists of the thirty-seven factors of awakening, complete and unblemished. One should reflect on it without forgetting. One should know that this Dharma is the light of the world. One who contemplates the Dharma in this way: all foolishness, evil thoughts, and habits of anger are entirely removed. Wholesome thoughts arise of themselves, and one reflects with joy on the work of the Dharma. It is like washing one's body with sesame oil and cleansing powder, removing all dirt and impurities. One who contemplates the Dharma during the observance attains purity such as this, and all who see such a person cannot help but have faith.
+
+"Third, one should contemplate the Saṃgha, honoring and relying on them, receiving the teaching of wisdom. The disciples of the Buddha: among them are those who have received and those who have realized the fruit of stream-entry; there are those who have received and those who have realized the fruit of once-returning; there are those who have received and those who have realized the fruit of non-returning; there are those who have received and those who have realized the fruit of arhatship. These are the four pairs and eight types of noble persons, all complete in morality, concentration, wisdom, liberation, and the knowledge and vision of liberation. As sacred virtues with perfected practice, they are worthy of joined palms above and below heaven: honored ones and fields of merit. One who contemplates the Saṃgha in this way: all foolishness, evil thoughts, and habits of anger are entirely removed. Joyful thoughts arise of themselves, and one delights in the work of the Saṃgha. It is like washing a garment with pure ash, removing all dirt and stains. One who contemplates the Saṃgha during the observance attains virtue such as this, and all who see such a person cannot help but have faith.
+
+"Fourth, one should contemplate the precepts. Having received the Buddha's precepts, one maintains them wholeheartedly, neither lacking nor transgressing, neither wavering nor forgetting, well established with careful protection, upheld by the wise, with nothing afterward to regret. One does not act with expectation but is able to teach others equally. One who contemplates the precepts in this way: all foolishness, evil thoughts, and habits of anger are entirely removed. Joyful thoughts arise of themselves, and one delights in the work of upholding the precepts. It is like polishing a mirror, removing the tarnish until it shines brightly. One who contemplates the precepts during the observance attains purity such as this, and all who see such a person cannot help but have faith.
+
+"Fifth, one should contemplate the heavens: the first is the Heaven of the Four Great Kings, the second is the Trāyastriṃśa Heaven, the Yāma Heaven, the Tuṣita Heaven, the Nirmāṇarati Heaven, and the Paranirmitavaśavartin Heaven. One should reflect: 'Because I have faith, precepts, learning, generosity, and wisdom, when my body dies my spirit will ascend to the heavens. May I not lose faith, precepts, learning, generosity, and wisdom.' One who contemplates the heavens in this way: all foolishness, evil thoughts, and habits of anger are entirely removed. Joyful thoughts arise of themselves, and one delights in the work of the heavens. It is like a precious jewel that is constantly polished until it shines. One who contemplates the heavens during the observance attains purity such as this.
+
+"Upholding the eight precepts and practicing the five contemplations constitutes the Buddhist observance. Partaking of heavenly virtue, one extinguishes evil and cultivates good, and afterward is reborn in the heavens, ultimately attaining nirvāṇa. Therefore the wise person exerts their own effort, sends forth the mind, and creates merit.
+
+"Thus, Vihārā! The merit and blessings of the observance have far-reaching renown. Consider all the sixteen great nations under heaven: if all sixteen nations were filled with treasures beyond counting, this would not equal one day of receiving the Buddhist observance. If one were to compare that merit, then the sixteen nations would amount to a single bean.
+
+"The heavens extend far and wide beyond what words can describe. Fifty years in the human world equal one day and one night in the first heaven. The Heaven of the Four Kings has a lifespan of five hundred years, equal to nine million years in the human world. The Buddhist observance enables rebirth in this heaven. One hundred human years equal one day and one night in the Trāyastriṃśa Heaven, where the lifespan is one thousand years, equal to thirty-six million years in the human world. Two hundred human years equal one day and one night in the Yāma Heaven, where the lifespan is two thousand years, equal to one hundred fifty-two million years in the human world. Four hundred human years equal one day and one night in the Tuṣita Heaven, where the lifespan is four thousand years, equal to six hundred eight million years in the human world. Eight hundred human years equal one day and one night in the Nirmāṇarati Heaven, where the lifespan is eight thousand years, equal to two billion three hundred forty million years in the human world. One thousand six hundred human years equal one day and one night in the Paranirmitavaśavartin Heaven, where the lifespan is sixteen thousand years, equal to nine billion two hundred sixteen million years in the human world.
+
+"If a person has faith, precepts, learning, generosity, and wisdom, and observes the Buddhist observance, when their life ends their spirit will be reborn in any of these six heavens, peaceful, comfortable, and happy. The good deeds involved are so abundant that I have spoken of only a small portion. When ordinary people practice goodness, their soul ascends to heaven and receives immeasurable blessings."
+
+Vihārā, having heard the Buddha's words, was delighted and said: "Excellent! Excellent, World-Honored One! The merit and virtue of the observance are exceedingly wonderful and immeasurable. I pray to receive the Buddha's precepts. From now on, I will observe the six monthly observance days, exerting all my effort to create merit until death."
+
+The Buddha having spoken this sūtra, all were delighted and received the teaching.

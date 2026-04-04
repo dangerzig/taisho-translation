@@ -1,7 +1,3 @@
-A note before the translation: T2916 appears in Taishō vol. 85 among questionable and apocryphal texts. It is a Chinese-composed folk religious document of the "chain letter" type (*灵签经*), with no Indian source text. The language is at points garbled from repeated copying, as is typical of this genre.
-
----
-
 # 勸善經
 ## Sūtra on Encouraging Goodness
 

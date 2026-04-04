@@ -1,15 +1,11 @@
 # 海八德經
-## 海八德經
+## Sūtra on the Eight Virtues of the Ocean
 
 Taishō Tripiṭaka No. 0035
 
-Translated from the Chinese. 後秦 鳩摩羅什譯
+Translated from the Chinese. Later Qin dynasty, translated by Kumārajīva (鳩摩羅什)
 
 ---
-
-## Fascicle 1
-
-### The Sūtra on the Eight Virtues of the Ocean, Spoken by the Buddha
 
 Thus have I heard:
 

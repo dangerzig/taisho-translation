@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 0069
 
-Translated from the Chinese. Song dynasty, translated by Faxian (法賢)
+Translated from the Chinese. Song dynasty, translated by Dharmabhadra (法賢)
 
 ---
 

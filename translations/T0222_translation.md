@@ -1,9 +1,9 @@
-# Brilliance Praise Prajñāpāramitā Sūtra
-## 光讚經
+# 光讚經
+## Brilliance Praise Prajñāpāramitā Sūtra
 
-Taishō Tripiṭaka No. 222, 10 fascicles
+Taishō Tripiṭaka No. 0222
 
-Translated from the Chinese. Dharmarakṣa (竺法護), Western Jin dynasty.
+Translated from the Chinese. Western Jin dynasty, translated by Dharmarakṣa (竺法護)
 
 ---
 

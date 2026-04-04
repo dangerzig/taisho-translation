@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 0070
 
-Translated from the Chinese. Western Jin, translated by Faju
+Translated from the Chinese. Western Jin, translated by Fǎjù (法炬)
 
 ---
 

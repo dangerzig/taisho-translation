@@ -1,11 +1,7 @@
-Now I have the style. Let me compose the translation.
-
----
-
 # 佛說枯樹經
 ## Sūtra on the Withered Tree, Spoken by the Buddha
 
-Taishō Tripiṭaka No. 806
+Taishō Tripiṭaka No. 0806
 
 Translated from the Chinese. Translator unknown (失譯)
 

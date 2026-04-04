@@ -1,9 +1,9 @@
 # 佛說無量功德陀羅尼經
 ## Sūtra of the Dhāraṇī of Immeasurable Merit Spoken by the Buddha
 
-Taishō Tripiṭaka No. 934
+Taishō Tripiṭaka No. 0934
 
-Translated from the Chinese. Song Dynasty, translated by Dharmabhadra (法賢)
+Translated from the Chinese. Song dynasty, translated by Dharmabhadra (法賢)
 
 ---
 

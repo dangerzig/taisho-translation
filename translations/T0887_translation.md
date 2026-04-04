@@ -1,9 +1,9 @@
-# Sūtra of the Supreme Yoga Great Teaching King of Non-Dual Equality
-## 無二平等最上瑜伽大教王經
+# 無二平等最上瑜伽大教王經
+## Sūtra of the Supreme Yoga Great Teaching King of Non-Dual Equality
 
-Taishō Tripiṭaka No. 887, 6 fascicles
+Taishō Tripiṭaka No. 0887
 
-Translated from the Chinese. Translator: Shihu (Dānapāla), Song dynasty.
+Translated from the Chinese. Song dynasty, translated by Dānapāla (施護)
 
 ---
 

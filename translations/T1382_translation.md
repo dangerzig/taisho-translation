@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 1382
 
-Translated from the Chinese. Song Dynasty, translated by Fǎxián (法賢)
+Translated from the Chinese. Song dynasty, translated by Dharmabhadra (法賢)
 
 ---
 

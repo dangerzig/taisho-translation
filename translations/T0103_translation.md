@@ -1,0 +1,20 @@
+# 佛說聖法印經
+## Sūtra on the Sacred Dharma Seal Spoken by the Buddha
+
+Taishō Tripiṭaka No. 0103
+
+Translated from the Chinese. Western Jin dynasty, translated by Dharmarakṣa (竺法護)
+
+---
+
+Thus have I heard:
+
+At one time, the Buddha was in the city of Śrāvastī, in the Jetavana, the garden of Anāthapiṇḍada. At that time, the Buddha addressed the bhikṣus: "Listen!" The bhikṣus replied: "We accept your teaching."
+
+The Buddha said: "I shall teach you the sacred Dharma seal, the proper deportment, and the practice that manifests pure conduct. Listen carefully and reflect well upon it."
+
+The Buddha said: "Bhikṣus! Suppose there were someone who taught non-seeking of emptiness, non-use of signlessness, and wished to arouse and bring about the meditative attainment of non-conceit: this would be impossible. But suppose there were someone who delights in the dharma of emptiness, aspires to signlessness, and arouses and brings about the essential goal, eliminating the mind of conceit and arrogance: the meditative attainment of this can indeed be achieved, in accordance with the aspiration of the path, with universal vision. Why is this? Because one who delights in emptiness, wishes to attain signlessness, and is free from the conceit of arrogance can achieve all wisdom-practices.
+
+"What is the sacred Dharma seal for bhikṣus? The sacred Dharma seal is that which one trains in, up to the attainment of pure vision. Suppose a bhikṣu dwells in a secluded place, sitting beneath a tree in an empty and quiet spot, and understands that form is impermanent, seeing that form is fundamentally without substance. Having understood impermanence, one understands that all reaches emptiness and is without substance; all is illusory, without self, without desire. The mind then comes to rest, naturally becomes pure, and attains liberation. This is called emptiness. Yet one has not yet abandoned the conceit of arrogance, nor attained the pure meditative vision. Nevertheless, one attains the gentle and compliant concentration. At that time one immediately sees the removal of all perceptions of form, perceptions of sound, perceptions of smell. For this reason it is called the attainment of signlessness. Therefore it is called the state without desire. Yet one has not yet eliminated the conceit of arrogance, nor reached the meditative attainment of pure vision. The mind continues to abide in gentle and compliant concentration, and therein one sees the removal of all craving, aversion, and delusion. Therefore this is called the concentration of desirelessness. Yet one has not yet eliminated the conceit of arrogance, nor reached the meditative attainment of pure vision. The mind then reflects: 'From where does this self arise and cease?' Through contemplation one understands: 'This self arises from habitual attachment to pleasure, from discriminating the various forms of consciousness; all comes from causes and conditions that bring about this activity. From these causes and conditions there arises consciousness.' One further reflects: 'Are these causes and conditions permanent or impermanent?' One further reflects: 'The causes and conditions that combine to produce consciousness are all impermanent, without any root. This consciousness, relying on what is impermanent, gives rise to delusion, and therefore there is the arising of the twelve links of dependent origination. All return to exhaustion, impermanence, suffering, emptiness, destruction, separation, dispassion, and cessation.' One who clearly understands this knows that there is no root, and attains mastery over all that arises and ceases, entering the path of practice. This is what it means to attain the elimination of conceit, the freedom from arrogance and heedlessness, and the meditative attainment that manifests pure conduct. This is called the sacred Dharma seal, the practice of purity from beginning to end, thoroughly and completely."
+
+The Buddha spoke thus. The bhikṣus, having heard, all rejoiced, paid their respects, and departed.

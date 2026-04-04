@@ -1,5 +1,3 @@
----
-
 # 佛說呪小兒經
 ## Sūtra Spoken by the Buddha on Spells for Children
 

@@ -1,9 +1,9 @@
-# Commentary on the Digest of the Four Āgamas
-## 四阿鋡暮抄解
+# 四阿鋡暮抄解
+## Commentary on the Digest of the Four Āgamas
 
 Taishō Tripiṭaka No. 1505
 
-Attributed to Vasubhadra (婆素跋陀). Translated from the Chinese by Saṃghabhūti and Zhu Fonian (竺佛念), Eastern Jin dynasty.
+Attributed to Vasubhadra (婆素跋陀). Translated from the Chinese. Eastern Jin dynasty, translated by Saṃghabhūti (僧伽跋提) and Zhu Fonian (竺佛念)
 
 ---
 

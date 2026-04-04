@@ -1,9 +1,9 @@
 # 佛說婆羅門避死經
-## Sūtra Spoken by the Buddha on the Brahmin Who Sought to Avoid Death
+## Sūtra of the Brahmins Who Sought to Avoid Death
 
-Taishō Tripiṭaka No. 131
+Taishō Tripiṭaka No. 0131
 
-Translated from the Chinese. Eastern Han, translated by An Shigao (安世高)
+Translated from the Chinese. Later Han dynasty, translated by An Shigao (安世高)
 
 ---
 

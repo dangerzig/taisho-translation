@@ -1,7 +1,7 @@
 # 佛說十一想思念如來經
-## Sūtra on the Eleven Contemplations for Mindfulness of the Tathāgata, Spoken by the Buddha
+## Sūtra on the Eleven Contemplations for Mindfulness of the Tathāgata
 
-Taishō Tripiṭaka No. 138
+Taishō Tripiṭaka No. 0138
 
 Translated from the Chinese. Liu Song dynasty, translated by Guṇabhadra (求那跋陀羅)
 

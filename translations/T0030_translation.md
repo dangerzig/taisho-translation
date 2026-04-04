@@ -1,15 +1,11 @@
 # 薩鉢多酥哩踰捺野經
-## 薩鉢多酥哩踰捺野經
+## Sūtra of the Seven Suns
 
 Taishō Tripiṭaka No. 0030
 
-Translated from the Chinese. 宋 法賢譯
+Translated from the Chinese. Song dynasty, translated by Dharmabhadra (法賢)
 
 ---
-
-## Fascicle 1
-
-### The Sūtra of Saptasūryodaya Spoken by the Buddha
 
 Thus have I heard:
 

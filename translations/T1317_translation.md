@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 1317
 
-Translated from the Chinese. Tang Dynasty, translated by Śikṣānanda (實叉難陀)
+Translated from the Chinese. Tang dynasty, translated by Śikṣānanda (實叉難陀)
 
 ---
 

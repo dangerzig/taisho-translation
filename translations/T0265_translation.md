@@ -1,5 +1,4 @@
 # Saddharma-puṇḍarīka Sūtra Excerpt
-## 薩曇分陀利經
 
 Taishō Tripiṭaka No. 265
 
@@ -28,7 +27,7 @@ Then Śākyamuni Buddha spoke of innumerable asaṃkhyeya kalpas, and again of i
 
 "When I was practicing the bodhisattva path, I sought the *Saddharma-puṇḍarīka Sūtra* and gave it to others. In all my seeking, whether for food, clothing, the seven treasures, wife, or children, I never had the slightest thought of attachment.
 
-"When I was a king in a world of exceedingly long life, I established the crown prince as ruler and abandoned affairs of state. Beating a drum and ringing a bell, I offered myself, declaring: 'Who wishes to take me as a slave? I seek the *Saddharma-puṇḍarīka Sūtra* and wish to make offerings.' At that time, a brahmin said to me: 'Come and be my slave. I have the *Saddharma-puṇḍarīka Sūtra*.' I then followed the brahmin, single-mindedly serving as a slave: drawing water, sweeping floors, gathering flowers and fruit, and providing food for the brahmin, for a thousand years without rest."
+"When I was a king in a world of exceedingly long life, I established the crown prince as ruler and abandoned affairs of state. Beating a drum and ringing a bell, I offered myself, declaring: 'Who wishes to take me as a slave? I seek the *Saddharma-puṇḍarīka Sūtra* and wish to make offerings.' At that time, a brāhmaṇa said to me: 'Come and be my slave. I have the *Saddharma-puṇḍarīka Sūtra*.' I then followed the brāhmaṇa, single-mindedly serving as a slave: drawing water, sweeping floors, gathering flowers and fruit, and providing food for the brāhmaṇa, for a thousand years without rest."
 
 The Buddha then spoke in verse:
 
@@ -38,7 +37,7 @@ The Buddha then spoke in verse:
 > For I wish to make offerings,"
 > With a servant's heart and virtuous intent.
 
-The Buddha said: "The king at that time was I myself. The brahmin at that time was Devadatta. Who was it whose kindness enabled me to fulfill the six pāramitās, the thirty-two marks, and the eighty excellent characteristics? It was all through the grace of Devadatta. Devadatta was my good teacher. Through the kindness of this good teacher, I was able to perfect the six pāramitās, the thirty-two marks, and the eighty excellent characteristics, majestic and honored, liberating beings in the ten directions. All this was through the grace of Devadatta. After innumerable asaṃkhyeya kalpas henceforth, Devadatta shall become a buddha named Devarāja, who shall attain the ten powers, the thirty-two marks, and the eighty excellent characteristics. The buddha-land of Devarāja shall be called Devasopāna. Devarāja Buddha shall teach the dharma to beings throughout the entire kalpa without ceasing. In his first turning of the dharma, he shall guide beings as numerous as the sands of the Ganges to attain arhatship, beings as numerous as the sands of the Ganges to attain the path of pratyekabuddha, and beings as numerous as the sands of the Ganges to arouse the aspiration for anuttarā-samyak-saṃbodhi.
+The Buddha said: "The king at that time was I myself. The brāhmaṇa at that time was Devadatta. Who was it whose kindness enabled me to fulfill the six pāramitās, the thirty-two marks, and the eighty excellent characteristics? It was all through the grace of Devadatta. Devadatta was my good teacher. Through the kindness of this good teacher, I was able to perfect the six pāramitās, the thirty-two marks, and the eighty excellent characteristics, majestic and honored, liberating beings in the ten directions. All this was through the grace of Devadatta. After innumerable asaṃkhyeya kalpas henceforth, Devadatta shall become a buddha named Devarāja, who shall attain the ten powers, the thirty-two marks, and the eighty excellent characteristics. The buddha-land of Devarāja shall be called Devasopāna. Devarāja Buddha shall teach the dharma to beings throughout the entire kalpa without ceasing. In his first turning of the dharma, he shall guide beings as numerous as the sands of the Ganges to attain arhatship, beings as numerous as the sands of the Ganges to attain the path of pratyekabuddha, and beings as numerous as the sands of the Ganges to arouse the aspiration for anuttarā-samyak-saṃbodhi.
 
 "At that time, Devarāja Buddha's lifespan shall be twenty kalpas, and after his parinirvāṇa, the dharma shall abide for twenty kalpas. After the parinirvāṇa of Devarāja Buddha, his relics shall not be dispersed. A single stūpa of the seven treasures shall be erected, sixty *li* in breadth and eighty *li* in length. All the people of Jambudvīpa shall go to make offerings at the buddha's relics. At that time, innumerable beings shall attain arhatship, innumerable beings shall arouse the aspiration for pratyekabuddha, and innumerable beings shall arouse the aspiration for anuttarā-samyak-saṃbodhi.
 
@@ -50,7 +49,10 @@ At that moment, Mañjuśrī emerged from the pool of the Nāga King Sāgara, sea
 
 Prajñākūṭa asked Mañjuśrī: "In the pool you entered, how many did you guide? What was the number?"
 
-Mañjuśrī replied: "The number is exceedingly great, beyond anyone's ability to reckon. If I were to speak of it, the mind would not believe it. Let the proof come of itself." At that moment, lotus flowers surged up from the pool, entirely produced by all that had been scattered within the pool. Those who had originally aroused the bodhisattva mind rode flowers in the air, speaking only of Mahāyāna matters. Those who had originally been śrāvakas rode flowers in the air, speaking only of the matter of ending birth and death. Mañjuśrī, seeing the flowers thus, answered Bodhisattva Prajñākūṭa in verse: "By the Venerable One's own discernment, distinguish their number for yourself."
+Mañjuśrī replied: "The number is exceedingly great, beyond anyone's ability to reckon. If I were to speak of it, the mind would not believe it. Let the proof come of itself." At that moment, lotus flowers surged up from the pool, entirely produced by all that had been scattered within the pool. Those who had originally aroused the bodhisattva mind rode flowers in the air, speaking only of Mahāyāna matters. Those who had originally aroused the śrāvaka aspiration rode flowers in the air, speaking only of the matter of ending birth and death. Mañjuśrī, seeing the flowers thus, answered Bodhisattva Prajñākūṭa in verse:
+
+> By the Venerable One's own discernment,
+> Distinguish their number for yourself.
 
 Bodhisattva Prajñākūṭa again asked Mañjuśrī: "What dharma did you teach that you could guide so many?"
 
@@ -74,6 +76,6 @@ The girl asked again: "Was the Buddha's acceptance of my jewel swift or slow?"
 
 They replied: "Exceedingly swift!"
 
-The girl said: "My offering of the jewel to the Buddha was swift, and the Buddha's acceptance of my jewel was also swift. My attainment of buddhahood shall be just as swift." At that instant, the girl's body transformed into that of a bodhisattva. The entire assembly was astonished. She then transformed into a buddha body, complete with all marks and excellent characteristics, together with a buddha-land and disciples, just as a buddha would have.
+The girl said: "My offering of the jewel to the Buddha was slow; the Buddha's acceptance of my jewel was also slow. My attainment of buddhahood now shall be swift." At that instant, the girl's body transformed into that of a bodhisattva. The entire assembly was astonished. She then transformed into a buddha body, complete with all marks and excellent characteristics, together with a buddha-land and disciples, just as a buddha would have.
 
 The entire assembly of gods, nāgas, spirits, and innumerable beings all aroused the aspiration for the supreme, true path. The great trichiliocosm trembled in six ways. Thirty thousand stream-enterers attained the stage of non-retrogression.

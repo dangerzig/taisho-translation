@@ -1,9 +1,9 @@
-# Treatise on the Discrimination of Merits
-## 分別功德論
+# 分別功德論
+## Treatise on the Discrimination of Merits
 
-Taishō Tripiṭaka No. 1507, 5 fascicles
+Taishō Tripiṭaka No. 1507
 
-Translated from the Chinese. Anonymous translator.
+Translated from the Chinese. Translator unknown (失譯)
 
 ---
 

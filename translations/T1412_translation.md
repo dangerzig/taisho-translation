@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 1412
 
-Translated from the Chinese. Song Dynasty, translated by Dānapāla (施護)
+Translated from the Chinese. Song dynasty, translated by Dānapāla (施護)
 
 ---
 

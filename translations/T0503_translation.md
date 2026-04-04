@@ -1,7 +1,7 @@
 # 比丘避女惡名欲自殺經
 ## Sūtra of the Bhikṣu Who, to Avoid an Evil Reputation Concerning a Woman, Desired to Kill Himself
 
-Taishō Tripiṭaka No. 503
+Taishō Tripiṭaka No. 0503
 
 Translated from the Chinese. Western Jin dynasty, translated by Fǎjù (法炬)
 

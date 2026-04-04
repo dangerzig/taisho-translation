@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 1360
 
-Translated from the Chinese. Tang Dynasty, translated by Xuanzang (玄奘)
+Translated from the Chinese. Tang dynasty, translated by Xuanzang (玄奘)
 
 ---
 

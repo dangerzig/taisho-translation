@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 0072
 
-Translated from the Chinese. Translator unknown
+Translated from the Chinese. Translator unknown (失譯)
 
 ---
 

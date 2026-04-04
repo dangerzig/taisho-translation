@@ -1,7 +1,3 @@
-Now let me translate the text. The translator field is blank, so I'll use "Translator unknown (失譯)". The text is a brief list of karmic consequences for disrespecting scriptures (sutras).
-
----
-
 # 大威儀請問
 ## Questions on Great Dignified Conduct
 

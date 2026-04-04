@@ -1,5 +1,3 @@
----
-
 # 烏芻澁明王儀軌梵字
 ## Ritual Manual of Ucchuṣma, Vidyārāja, in Sanskrit Characters
 

@@ -1,0 +1,12 @@
+# 金剛摧碎陀羅尼
+## Vajra-Shattering Dhāraṇī
+
+Taishō Tripiṭaka No. 1416
+
+Translated from the Chinese. Song dynasty, translated by Cixian (慈賢).
+
+---
+
+*[Translator's note: This text consists entirely of a phonetically transcribed Sanskrit dhāraṇī. The Chinese characters serve exclusively as phonograms. Clearly identifiable Sanskrit terms include: namo ratna-trayāya, caṇḍa-vajrapāṇi, mahā-yakṣa-senāpati, tadyathā, oṃ, sphuṭa, sphoṭaya, gṛhṇa, sarva-sattva, bodhaya, saṃbodhaya, sarva-bhūtān, sarva-śatrūn, saṃghaṭaya, sarva-vidyā, vajra, mahā-vajra, apratihata-vajra, amogha-vajra, kuru, chinda, bandha, hana, daha, paca, māraya, prahara, maṇḍala, jvala, hūṃ, phaṭ, and svāhā.]*
+
+*namo ratna-trayāya | namaś-caṇḍa-vajra-pāṇaye mahā-yakṣa-senāpataye | tadyathā oṃ ṭrāṭaya ṭrāṭaya ṭrūṭaya ṭrūṭaya sphuṭa sphuṭa sphoṭaya sphoṭaya gṛhṇa gṛhṇa gṛhṇāpaya gṛhṇāpaya sarva-sattvān bodhaya bodhaya saṃbodhaya saṃbodhaya bhrūṃ saṃbhrūṃ saṃbhrūṃ sarva-bhūtān kuṭa kuṭa saṃkuṭaya saṃkuṭaya sarva-śatrūn ghaṭa ghaṭa saṃghaṭaya saṃghaṭaya sarva-vidyā-vajra-sphoṭa vajra vajra-kaṭa-vajra vajra-maṭa-vajra vajra-matha-vajra vajra-[a]ṭa hāsanīla vajra su-vajraye svāhā | [hī] bhuru-ṇīri-bhuru garṇi ḍhuru-miri ghuru kuru kuru vajra-vijayaye svāhā | kili-kilāya svāhā | kaṭa kaṭa maṭa maṭa raṭa raṭa muṭana-paramuṭanāya svāhā | cāraṇi cāra hara hara māra māra māraya vajra-vicāraṇāya svāhā | chinda chinda mahā-kili-kilāya svāhā | bandha bandha krudha krudha kili-kilāya svāhā | ghuru ghuru caṇḍāle kile-kilāya svāhā | trāsaya trāsaya vajra-kiri-kilāya svāhā | hara hara vajra-dhāraya svāhā | prahara prahara vajra-pra[ba]ndhanāya svāhā | mati-sthira-vajra su-[ti]-sthira-vajra prati-sthira-vajra mahā-vajra apratihata-vajra amogha-vajra ehi-vajra [saṃgha]rāṃ-vajraya svāhā | dhara dhala dhiri dhiri dhuru dhuru sarva-vajra-kula-māvartanāya svāhā | amukhaṃ māraya phaṭ | namaḥ samanta-vajrāṇāṃ sarva-balā-māvarjaya mahā-bale kaṭa-vit-tāle atāle maṇḍala-maye ati-vajra mahā-bala-vi[gara]ṇa-raṇa a[pū]te jvala jvala rati-[ci]ci-[ci]ci yaṃ-gale daha daha tejas[va] te dhīle dhīle bandha bandha mahā-vajra[ka]-jvālaya svāhā | namo ratna-trayāya | namaś-caṇḍa-vajra-pāṇaye mahā-yakṣa-senāpataye | oṃ hara hara vajra-matha matha vajra-dhūna dhūna vajra-paca paca vajra-dhara dhara vajra-dhāraya dhāraya vajra-dhāruṇa dhāruṇa vajra-chinda chinda vajra-bhinda bhinda vajra hūṃ phaṭ | namaś-caṇḍa-vajra-krodhāya huru huru tiṣṭha tiṣṭha bandha bandha hana hana amṛte hūṃ phaṭ*

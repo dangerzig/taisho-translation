@@ -1328,3 +1328,360 @@ Furthermore, **the coarse characteristics** means: regarding all lower grounds, 
 **Realization**: śrāvaka awakening is realized through a teacher. Pratyekabuddha awakening is realized without a teacher, solely aspiring for self-benefit. Unsurpassed, complete, perfect awakening is realized without a teacher, for both self-benefit and the benefit of others.
 
 **Liberation**: the transformation of the basis (āśraya-parāvṛtti) realized by śrāvaka awakening and pratyekabuddha awakening is liberation from the afflictive obstruction, included in the liberation-body. The transformation of the basis realized by unsurpassed, complete, perfect awakening is liberation from all afflictive obstructions and cognitive obstructions, included in both the liberation-body and the dharma-body.
+
+---
+
+## Fascicle 8
+
+### Chapter on Gathering the Meaning of Purity, Part Four
+
+Having thus discriminated hearing, the refuges, and so forth, the next verse says:
+
+> Noble practices, the unsurpassed vehicle, great awakening, and meritorious qualities,
+> Divergent treatises, treatise-dharmas, and explanations: each of these, one should know, has many kinds.
+
+**The treatise says**: The many kinds of noble practices (āryācāra) refer to four noble practices: (1) the practice of reaching the other shore (pāramitā), (2) the practice of the factors of awakening (bodhipakṣa), (3) the practice of supernatural powers (abhijñā), and (4) the practice of maturing sentient beings.
+
+**The practice of reaching the other shore** refers to the ten pāramitās as previously explained. This is called the practice of reaching the other shore.
+
+**The practice of the factors of awakening** refers to the four foundations of mindfulness (smṛtyupasthāna) and so forth, all thirty-seven factors of awakening (bodhipakṣa-dharma) as previously explained, together with the four investigations (paryeṣaṇā) and the four comprehensive knowledges in accord with reality (yathābhūta-parijñāna). This is called the practice of the factors of awakening.
+
+**The practice of supernatural powers** refers to the six supernatural powers (abhijñā) as previously explained. This is called the practice of supernatural powers.
+
+**The practice of maturing sentient beings** refers to the two kinds of immeasurables as previously explained: (1) the immeasurable of those to be disciplined and (2) the immeasurable of means of discipline. Furthermore, there are six aspects of maturation: (1) the substance of maturation itself, (2) those who are matured, (3) the differentiations of maturation, (4) the means of maturation, (5) those who are capable of maturing, and (6) the characteristics of those already matured. This is called the practice of maturing sentient beings.
+
+**The many kinds of the unsurpassed vehicle** (anuttara-yāna) refer to five aspects of the Great Vehicle (mahāyāna): (1) the seed (bīja), (2) entering (avatāra), (3) the sequence (krama), (4) correct practice (samyak-pratipatti), and (5) the fruit of correct practice. These correspond, in their respective order, to the chapter on lineage (gotra), the chapter on generating the aspiration (cittotpāda), the chapter on stages (vihāra), and the remaining chapters together with the two chapters on establishing great awakening, all within the Bodhisattva Grounds (Bodhisattvabhūmi).
+
+**The many kinds of great awakening** (mahābodhi) refer to five aspects of great awakening: (1) self-nature (svabhāva), (2) function (kāritra), (3) skillful means (upāya), (4) turning (pravṛtti), and (5) cessation (nirodha).
+
+**Self-nature** refers to the transformation of the basis (āśraya-parāvṛtti) that surpasses anything attained by śrāvakas and pratyekabuddhas. This has four aspects: (1) the basis for arising, (2) the basis for non-arising, (3) the fruit of thoroughly observing the knowable, and (4) the pure characteristic of the dharma-realm (dharmadhātu).
+
+*The basis for arising* means that the supramundane path within the continuum of a buddha arises in dependence on this transformation of the basis, and could not arise without it. If it could arise apart from this transformation of the basis, it should have already arisen before the transformation.
+
+*The basis for non-arising* means that all afflictions (kleśa) and their habitual tendencies (vāsanā), in dependence on this transformation of the basis, no longer arise. If this were not so, then before the transformation of the basis, when all conditions converge, all afflictions and their habitual tendencies should already have been capable of permanent non-arising, which is not the case.
+
+*The fruit of thoroughly observing the knowable* means that this transformation of the basis is the fruit of having thoroughly penetrated the true limit (bhūtakoṭi) of the knowable and the true suchness (tathatā) of the knowable. If this were not so, the self-substance of buddhas would require further knowing and further elimination.
+
+*The pure characteristic of the dharma-realm* means that this transformation of the basis, being free from all characteristics, is revealed as the supremely pure dharma-realm. If this were not so, it would be an impermanent and conceivable dharma. Yet this transformation of the basis has the characteristic of permanence and is revealed as inconceivable and non-dual.
+
+**The inconceivable nature** of this transformation of the basis furthermore has five aspects: (1) self-nature, (2) location, (3) abiding, (4) identity and difference, and (5) establishment of activity.
+
+*Self-nature*: this transformation of the basis is identical with form yet apart from form: inconceivable. Likewise, it is identical with feeling, perception, formations, and consciousness yet apart from feeling, perception, formations, and consciousness: inconceivable. Whether identical with or apart from the earth element, water element, fire element, and wind element: inconceivable. Whether identical with or apart from the eye base, ear base, nose base, tongue base, body base, and mind base: inconceivable. Whether existent or non-existent and so forth: inconceivable.
+
+*Location*: this transformation of the basis, whether in the desire realm or apart from the desire realm: inconceivable. Whether in the form or formless realms or apart from the form or formless realms: inconceivable. Whether among humans or among gods, whether present or apart: inconceivable. Whether in the world-systems of the ten directions or apart from them: inconceivable.
+
+*Abiding*: this transformation of the basis abides in such-and-such an appearance and blissful abiding: an inconceivable abiding. It abides in such-and-such an appearance of śamatha: an inconceivable abiding. Whether abiding with mind or abiding without mind: an inconceivable abiding. Such-and-such an appearance of noble abiding: an inconceivable abiding. Such-and-such an appearance of divine abiding and brahmā abiding: inconceivable.
+
+*Identity and difference*: all buddhas abide together in the single undefiled realm (anāsrava-dhātu). Whether they are identical or different: inconceivable.
+
+*Establishment of activity*: all buddha-tathāgatas, equal in nature, equal in wisdom, power, and majestic virtue, abiding in the undefiled realm in dependence on the transformation of the basis, for the benefit of all sentient beings, establish such-and-such activities for the benefit of sentient beings: inconceivable. Furthermore, this is inconceivable for two reasons: (1) because its meaning transcends verbal expression, surpassing the path of language, it is inconceivable; (2) because its meaning is supramundane and without worldly comparison, it is inconceivable.
+
+**Function** (kāritra): briefly stated, ten kinds of sovereign mastery (vaśitā) constitute the function. What are the ten? (1) Sovereign mastery over lifespan (āyur-vaśitā), (2) sovereign mastery over mind (citta-vaśitā), (3) sovereign mastery over requisites (pariṣkāra-vaśitā), (4) sovereign mastery over action (karma-vaśitā), (5) sovereign mastery over birth (upapatti-vaśitā), (6) sovereign mastery over aspiration (praṇidhāna-vaśitā), (7) sovereign mastery over resolve (adhimukti-vaśitā), (8) sovereign mastery over miraculous transformation (ṛddhi-vaśitā), (9) sovereign mastery over knowledge (jñāna-vaśitā), and (10) sovereign mastery over the Dharma (dharma-vaśitā).
+
+**Skillful means** (upāya): briefly stated, four kinds of transformation (nirmāṇa) constitute the skillful means. (1) In order to mature those not yet matured, the buddha manifests the transformative appearances of the practices carried out by bodhisattvas. (2) In order to liberate those already matured, in the great trichiliocosm (trisāhasra-mahāsāhasra-lokadhātu), in one hundred koṭis of Jambudvīpas simultaneously, he manifests the transformative appearances of the Tathāgata. (3) As a skillful means of gathering and supporting, he manifests the transformative appearances of śrāvakas. (4) For those sentient beings who are to be disciplined by such means, he displays the transformative appearances of all pratyekabuddhas. The Blessed One, the Buddha, in these four kinds of transformative dharmas, performs unobstructed activity throughout the world-systems of the ten directions.
+
+**Turning** (pravṛtti) has two kinds: (1) temporary turning and (2) ultimate turning.
+
+*Temporary turning* means that as long as sentient beings are not yet matured and not yet liberated, the transformative turning of the buddha-tathāgatas does not cease.
+
+*Ultimate turning* means that, like the inexhaustible and inconceivable majestic virtue and bright turning of all buddhas, it performs beneficial deeds for sentient beings, flowing on without cessation.
+
+**Cessation** (nirodha) has two kinds: (1) temporary cessation and (2) ultimate cessation.
+
+*Temporary cessation* means that for those sentient beings who are already matured and already liberated, the buddha-tathāgatas temporarily manifest the appearance of entering parinirvāṇa; this is not the ultimate cessation.
+
+*Ultimate cessation* means the complete and permanent exhaustion of all afflictions, their habitual tendencies, and the suffering that serves as their basis.
+
+**The many kinds of meritorious qualities** (guṇa): the summary verse says:
+
+> The extraordinary and the non-extraordinary,
+> Impartial mind and benefiting others,
+> Repaying kindness and joyful praise,
+> Unfailing skillful practice.
+
+**The treatise says**: **The extraordinary** (viśeṣa) means that when bodhisattvas cultivate and study the unsurpassed, complete, perfect awakening vehicle, there are five extraordinary dharmas. What are the five? (1) They give rise to affection for all sentient beings without cause or condition. (2) Solely for the benefit of sentient beings, they constantly dwell in saṃsāra and endure great suffering. (3) For sentient beings with many afflictions who are difficult to discipline, they skillfully comprehend the means of discipline. (4) They are able to awaken and enter the true meaning that is extremely difficult to understand. (5) They are endowed with inconceivable majestic virtue. Since these five dharmas are not shared by other sentient beings, they are called extraordinary.
+
+**The non-extraordinary** (aviśeṣa) means that when bodhisattvas cultivate and study the unsurpassed, complete, perfect awakening vehicle, there are five non-extraordinary dharmas. Because bodhisattva-mahāsattvas accomplish these five dharmas, the five extraordinary dharmas become manifest and accomplished. What are the five?
+
+(1) Because bodhisattvas take the suffering that is the cause of benefiting others as their own happiness, they constantly and universally undertake the suffering that is the cause of benefiting others. This is the first non-extraordinary dharma.
+
+(2) Although bodhisattvas thoroughly understand the faults of saṃsāra and the merits of nirvāṇa, they take as their own happiness the bringing of all sentient beings to ultimate purity. Therefore, through the dominant force of purifying sentient beings, bodhisattvas constantly vow to undertake and practice the dharmas of dwelling in saṃsāra. This is the second non-extraordinary dharma.
+
+(3) Although bodhisattvas thoroughly understand the taste of the bliss of quiescence, they take as their own happiness the bringing of all sentient beings to ultimate purity. Therefore, through the dominant force of purifying sentient beings, bodhisattvas constantly and diligently employ skillful means to teach the Dharma. This is the third non-extraordinary dharma.
+
+(4) Although bodhisattvas have already accumulated the roots of goodness of the six pāramitās, they take as their own happiness the bringing of all sentient beings to ultimate purity. Therefore, through the dominant force of purifying sentient beings, they give with pure intention and do not expect the maturation of the fruit of giving in return. This is the fourth non-extraordinary dharma.
+
+(5) Because bodhisattvas take the benefiting of others as their own self-benefit, they constantly appear to undertake and carry out the deeds of benefiting all sentient beings. This is the fifth non-extraordinary dharma.
+
+Because bodhisattva-mahāsattvas accomplish these five dharmas, the five extraordinary dharmas become manifest and accomplished.
+
+**Impartial mind** (samacitta) means that bodhisattvas have five kinds of impartial mind toward all sentient beings.
+
+(1) When bodhisattva-mahāsattvas first generate the aspiration, just as they give rise to the great vow for the sake of attaining great awakening, so too they give rise to an impartial mind for the benefit of all sentient beings.
+
+(2) Bodhisattva-mahāsattvas give rise to an impartial mind accompanied by compassion toward all sentient beings.
+
+(3) Bodhisattva-mahāsattvas give rise to an impartial mind accompanied by love for all sentient beings as for their only child.
+
+(4) Bodhisattva-mahāsattvas, knowing that the conditioned formations arising from various conditions are imagined sentient-being affairs, comprehend that the dharma-nature (dharmatā) of one sentient being is precisely the dharma-nature of all sentient beings, and give rise to an impartial mind accompanied by the knowledge of equal dharma-nature toward all sentient beings.
+
+(5) Bodhisattva-mahāsattvas, just as they perform beneficial deeds for one sentient being, so too they perform beneficial deeds for all sentient beings. Therefore they give rise to an impartial mind accompanied by the wish to perform beneficial deeds toward all sentient beings.
+
+These are the five kinds of impartial mind that bodhisattva-mahāsattvas give rise to toward all sentient beings.
+
+**Benefiting** (arthakṛtyā) means that the bodhisattva-mahāsattvas' performance of all beneficial deeds for sentient beings has five characteristics. What are the five?
+
+(1) For those in harmful and damaging circumstances, they teach the dharma of right livelihood and thereby attract and guide them.
+
+(2) For those who do not follow what is truly beneficial, they teach the dharma of accordance and thereby attract and guide them.
+
+(3) For sentient beings who are without support, suffering, impoverished, and without a protector, they serve as their support and protector and thereby attract and guide them.
+
+(4) They teach the path leading to fortunate destinies and thereby attract and guide them.
+
+(5) They teach the path of the three vehicles leading to nirvāṇa and thereby attract and guide them.
+
+**Repaying kindness** (kṛtajñatā) means that bodhisattva-mahāsattvas, toward sentient beings who have been kind to them, give rise to five kinds of reciprocal benefit. What are the five?
+
+(1) They establish sentient beings and cause them to study their own virtuous qualities.
+
+(2) Through skillful means they establish them and cause them to study the virtuous qualities of others.
+
+(3) For those without support, without a protector, suffering, and impoverished, they serve as their support and protector.
+
+(4) They encourage them to make offerings to the buddha-tathāgatas.
+
+(5) They cause them to copy the Dharma proclaimed by the Buddha, and to receive, uphold, and make offerings to it.
+
+**Joyful praise** (anumodanā) means there are five areas in which bodhisattva-mahāsattvas should constantly rejoice and praise. What are the five?
+
+(1) Encountering the appearance of a buddha in the world and being able to attend upon him.
+
+(2) Constantly hearing from the Tathāgata the Dharma of the bodhisattva treasury (bodhisattvavaipulyapiṭaka) that accords with the six pāramitās.
+
+(3) Being capable of cultivating and practicing the deeds of maturing all sentient beings.
+
+(4) Swiftly realizing unsurpassed, complete, perfect awakening.
+
+(5) After realizing awakening, having a great assembly of bodhisattvas and śrāvakas in harmony.
+
+**Unfailing skillful practice** (amogha-upāya-caryā) means that bodhisattva-mahāsattvas have five kinds of unfailing, skillful, and superior practice for benefiting sentient beings. What are the five?
+
+(1) Bodhisattva-mahāsattvas, toward all sentient beings, have the intention of benefiting and bringing happiness as their foremost concern.
+
+(2) Bodhisattva-mahāsattvas accomplish non-inverted awareness and truly understand deeds of benefiting and bringing happiness as they really are.
+
+(3) Through appropriate skillful means they teach various dharmas, causing sentient beings, according to their capacity, to all become disciplined. Only the Tathāgata can ultimately accomplish this fully.
+
+(4) Bodhisattva-mahāsattvas at all times have minds without weariness or fatigue.
+
+(5) Bodhisattva-mahāsattvas, with impartial great compassion (mahākaruṇā), toward sentient beings of lower, intermediate, and superior capacities, have minds without partiality.
+
+The next summary verse says:
+
+> Non-inverted skillful means, regression and advancement,
+> Simulated and genuine meritorious qualities,
+> And the skillful disciplining of sentient beings.
+
+**The treatise says**: **Non-inverted skillful means** (aviparyasta-upāya) means that bodhisattva-mahāsattvas have five kinds of skillful means that encompass all correct skillful means. What are the five? (1) The skillful means of guarding and protecting (anurakṣaṇa), (2) the skillful means of being without fault (nirdoṣa), (3) the skillful means of the power of discernment (vicāra-bala), (4) the skillful means of pure superior intention (viśuddha-adhyāśaya), and (5) the skillful means of entering the determined (niyāma-avatāra).
+
+*The skillful means of guarding and protecting* means that bodhisattva-mahāsattvas well guard their intelligence: through innate wisdom (sahaja-jñāna) they swiftly apprehend the Dharma. They also well guard their memory: through memory, the Dharma they have apprehended is retained without being lost. They also well guard their wisdom: through wisdom, they thoroughly observe the meaning of the Dharma they have apprehended and penetrate it with correct insight. This is because they keep far from the causes that lead to the regression of intelligence, memory, and wisdom, and because they closely cultivate and practice the causes that accord with the abiding and advancing stages. They also well guard their own minds, through well protecting and guarding the gates of the sense-faculties. They also well guard the minds of others, through correct skillful means of protecting others' minds.
+
+*The skillful means of being without fault* means that bodhisattva-mahāsattvas have non-inverted vigor toward all wholesome dharmas, immeasurable and uninterrupted, dedicated to awakening.
+
+*The skillful means of the power of discernment* pertains to the ground of resolve and practice (adhimukti-caryā-bhūmi).
+
+*The skillful means of pure superior intention* pertains to the ground of pure superior intention (śuddha-adhyāśaya-bhūmi) and the ground of correct practice (samyak-pratipatti-bhūmi).
+
+*The skillful means of entering the determined* pertains to the determined ground (niyata-bhūmi), the ground of determined practice (niyata-caryā-bhūmi), and the ground of reaching the ultimate (niṣṭhāgamana-bhūmi).
+
+These five kinds of skillful means encompass all correct skillful means of bodhisattvas.
+
+**Regression** (hāni) means that bodhisattvas have five dharmas leading to regression. (1) Not respecting the correct Dharma and its teachers. (2) Heedlessness and laziness. (3) Habituating oneself to afflictions. (4) Habituating oneself to unwholesome actions. (5) Comparing oneself with other bodhisattvas, giving rise to the conceit of superiority and inferiority, and giving rise to the conceit of superiority with respect to inverted dharmas.
+
+**Advancement** (viśeṣa) means that bodhisattvas have five dharmas leading to advancement, which are, in their respective order, the reversal of the above five dark dharmas.
+
+**Simulated meritorious qualities** (pratirūpaka-guṇa) means that bodhisattvas have five kinds of simulated meritorious qualities that are in reality faults. (1) Toward sentient beings who are violent, wicked, and who violate the precepts, they use this as a reason to cause them harm. (2) They fraudulently display the appearance of complete deportment. (3) Through worldly embellished compositions and the treatises of non-Buddhist teachings and their corresponding dharmas, they gain inclusion among the wise and intelligent. (4) They cultivate and practice giving and other wholesome deeds that involve transgression. (5) They proclaim and establish a simulated correct Dharma and cause it to spread widely.
+
+**Genuine meritorious qualities** (bhūta-guṇa) means that bodhisattvas have five kinds of genuine meritorious qualities. (1) Toward sentient beings who are violent, wicked, and who violate the precepts, they use this as a reason to give rise to intensified compassion. (2) They are naturally endowed with complete deportment. (3) Through the pure and true teachings and realization proclaimed by the Tathāgata, they gain inclusion among the wise and intelligent. (4) They cultivate and practice giving and other wholesome deeds that are without transgression. (5) They reveal the correct Dharma and counter the simulated version.
+
+**Skillful disciplining of sentient beings** (vinaya) means that bodhisattvas, in ten areas, without inversion, discipline the sentient beings to be transformed.
+
+(1) In the area of separating from unwholesome actions.
+(2) In the area of separating from sensual desire.
+(3) In the area of non-transgression, and of emerging from transgressions already committed.
+(4) In the area of guarding and protecting all the gates of the sense-faculties.
+(5) In the area of abiding with clear knowing (samprajāna).
+(6) In the area of separating from commotion and bustle.
+(7) In the area of being far removed from all unwholesome discursive thoughts (vitarka).
+(8) In the area of separating from obstructions.
+(9) In the area of separating from the fetters of afflictions (kleśa-paryavasthāna).
+(10) In the area of separating from the coarse heaviness of the affliction class.
+
+The next summary verse says:
+
+> The prediction of bodhisattvas,
+> Falling within the determined number,
+> What must definitely be done and what should always be done,
+> And the supreme dharmas: these should be known.
+
+**The treatise says**: **The prediction of bodhisattvas** (vyākaraṇa) means that bodhisattvas, at six stages, receive from the tathāgatas the prediction of unsurpassed, complete, perfect awakening.
+
+(1) At the stage of abiding in the lineage, before generating the aspiration for awakening.
+(2) After having generated the aspiration for awakening.
+(3) While dwelling in manifest presence (pratyakṣa).
+(4) While dwelling in non-manifest presence (aparokṣa).
+(5) With a time limit: stating that within such-and-such a time one will realize unsurpassed, complete, perfect awakening.
+(6) Without a time limit: without specifying a definite time.
+
+**Falling within the determined number** (niyāma-patita) means that bodhisattvas have three positions of falling within determination.
+
+(1) *Determination by lineage* (gotra-niyāma): bodhisattvas who abide at the stage of the lineage already fall within the determined number of bodhisattvas. Why? Because bodhisattvas who possess the lineage, if they encounter favorable conditions, are necessarily capable of realizing anuttarā samyaksaṃbodhi.
+
+(2) *Determination by generating the aspiration* (cittotpāda-niyāma): bodhisattvas who have generated the determined mind toward anuttarā samyaksaṃbodhi will, until they realize unsurpassed, complete, perfect awakening, never regress.
+
+(3) *Determination of unfailing practice* (amogha-caryā-niyāma): bodhisattvas who have attained sovereign mastery, whatever bodhisattva practices they wish to cultivate and carry out, none will be in vain. Based on this final determined position, the Tathāgata bestows upon bodhisattvas the prediction of falling within determination.
+
+**What must definitely be done** (niyata-karaṇīya) means that bodhisattvas, in five areas, must definitely act; if they do not, they will certainly be incapable of realizing unsurpassed, complete, perfect awakening. What are the five?
+
+(1) Generating the aspiration for awakening (bodhicittotpāda).
+(2) Giving rise to compassion toward all sentient beings.
+(3) Courageous and vigorous exertion.
+(4) Cultivating and practicing skillful means in the five sciences (pañca-vidyā).
+(5) Having a mind without weariness or fatigue.
+
+**What should always be done** (sadā-karaṇīya) means that bodhisattvas, in five areas, should always cultivate and act.
+
+(1) One should always cultivate and practice the conduct of non-heedlessness (apramāda).
+(2) For sentient beings without support, without a protector, and who are suffering, one should serve as their support and protector.
+(3) One should always cultivate and practice the conduct of making offerings to buddhas.
+(4) One should always fully understand error and non-error.
+(5) In all actions, whether moving or dwelling, in all mental attentions (manaskāra), one should always cultivate and act with the mind of great awakening (bodhicitta) as the foremost guide.
+
+**The supreme dharmas** (agrya-dharma) means that bodhisattvas, with regard to ten kinds of concordant supreme dharmas, should uphold and establish them as the most excellent. What are the ten?
+
+(1) The bodhisattva lineage (gotra) is the most extraordinary among all lineages.
+(2) The initial generation of the aspiration for awakening (bodhicittotpāda) is the most extraordinary among all correct vows.
+(3) Diligent prajñā is the most extraordinary among all pāramitās.
+(4) Loving speech (priyavāditā) is the most extraordinary among all means of gathering (saṃgraha-vastu).
+(5) The Tathāgata is the most extraordinary among all sentient beings.
+(6) Compassion (karuṇā) is the most extraordinary among all immeasurables (apramāṇa).
+(7) The fourth dhyāna is the most extraordinary among all dhyānas.
+(8) The emptiness samādhi (śūnyatā-samādhi) is the most extraordinary among the three samādhis.
+(9) The attainment of cessation (nirodha-samāpatti) is the most extraordinary among the nine sequential attainments (anupūrva-samāpatti).
+(10) Purified skillful means (pariśuddha-upāya-kauśalya) is the most extraordinary among all skillful means.
+
+The next summary verse says:
+
+> The various establishments and institutions,
+> Investigation of all dharmas,
+> Comprehensive knowledge in accord with reality,
+> And the various immeasurables,
+> Proclamation of the fruit and its benefits,
+> The nature of the Great Vehicle and its encompassment,
+> The ten things to know about bodhisattvas,
+> And the establishment of their names and titles.
+
+**The treatise says**: **The various establishments and institutions** (vyavasthāpana) refer to the four kinds of establishment and institution of bodhisattvas. Only tathāgatas and bodhisattvas are able to correctly establish and institute these; no other being, whether god, human, śramaṇa, or brāhmaṇa, is able to establish and institute them, unless they have stolen the Buddha's Dharma and placed it within their own treatises. What are the four?
+
+(1) **The establishment of the Dharma** (dharma-vyavasthāpana): the sequential compilation, sequential arrangement, and sequential composition of the twelve divisions of teaching beginning with the sūtras. This is called the establishment of the Dharma.
+
+(2) **The establishment of the truths** (satya-vyavasthāpana): one may establish one truth, since there is only one by the meaning of non-deception, without a second. Or one may establish two truths: (i) conventional truth (saṃvṛti-satya) and (ii) ultimate truth (paramārtha-satya). Or three truths: (i) the truth of characteristics (lakṣaṇa), (ii) the truth of designations (prajñapti), and (iii) the truth of function (kriyā). Or four truths: (i) the truth of suffering (duḥkha), (ii) the truth of the origin (samudaya), (iii) the truth of cessation (nirodha), and (iv) the truth of the path (mārga). Or five truths: (i) the truth of the cause, (ii) the truth of the fruit, (iii) the truth of what can know, (iv) the truth of what is known, and (v) the truth of non-duality. Or six truths: (i) the truth of the real, (ii) the truth of the false, (iii) the truth of what should be known, (iv) the truth of what should be abandoned, (v) the truth of what should be realized, and (vi) the truth of what should be cultivated. Or seven truths: (i) the truth of relishing, (ii) the truth of danger, (iii) the truth of escape, (iv) the truth of dharma-nature, (v) the truth of resolve, (vi) noble truth, and (vii) ignoble truth. Or eight truths: (i) the truth of the suffering of formations, (ii) the truth of the suffering of decay, (iii) the truth of the suffering of suffering, (iv) the truth of continued flowing, (v) the truth of the cessation of flowing, (vi) the truth of defilement, (vii) the truth of purification, and (viii) the truth of correct skillful means. Or nine truths: (i) the truth of impermanence, (ii) the truth of suffering, (iii) the truth of emptiness, (iv) the truth of non-self, (v) the truth of craving for existence, (vi) the truth of craving for non-existence, (vii) the truth of the means of eliminating those, (viii) the truth of nirvāṇa with remainder, and (ix) the truth of nirvāṇa without remainder. Or ten truths: (i) the truth of oppressive suffering, (ii) the truth of the suffering of inadequate enjoyment, (iii) the truth of the suffering of the contrariety of realm-natures, (iv) the truth of the suffering of the destruction of what is loved, (v) the truth of the suffering of coarse heaviness, (vi) the truth of action (karma), (vii) the truth of affliction, (viii) the truth of hearing the correct Dharma and attending with proper mental engagement, (ix) the truth of correct view, and (x) the truth of the fruit of correct view. This is called the bodhisattvas' establishment of the truths. If extensively discriminated, the kinds are immeasurable.
+
+(3) **The establishment of reasonings** (yukti-vyavasthāpana): there are four kinds of reasoning: (i) the reasoning of dependence (apekṣā-yukti), (ii) the reasoning of function (kārya-karaṇa-yukti), (iii) the reasoning of proof (upapatti-sādhana-yukti), and (iv) the reasoning of the nature of dharmas (dharmatā-yukti). This is called the establishment of reasonings.
+
+(4) **The establishment of vehicles** (yāna-vyavasthāpana): the śrāvaka, pratyekabuddha, and unsurpassed great vehicles each have seven kinds of establishment.
+
+*The seven establishments of the śrāvaka vehicle*: (i) non-inverted wisdom regarding the four noble truths, (ii) the basis of this wisdom, (iii) the object of this wisdom, (iv) the companions of this wisdom, (v) the activity of this wisdom, (vi) the provisions that assist this wisdom, and (vii) the fruit realized by this wisdom. As with the śrāvaka vehicle, so too the seven establishments of the pratyekabuddha vehicle.
+
+*The seven establishments of the unsurpassed great vehicle*: (i) the wisdom of non-discriminating (nirvikalpa-jñāna), which takes as its object the suchness of all dharmas that transcends verbal expression and is the impartial escape, (ii) the basis of this wisdom, (iii) the object of this wisdom, (iv) the companions of this wisdom, (v) the activity of this wisdom, (vi) the provisions that assist this wisdom, and (vii) the fruit realized by this wisdom. This is called the seven establishments of the three vehicles.
+
+Thus the buddhas and bodhisattvas of the three times all employ these four correct establishments and institutions, without increase or decrease.
+
+**Investigation of all dharmas** (sarva-dharma-paryeṣaṇā) means that bodhisattvas, in order to realize comprehensive knowledge in accord with reality concerning all dharmas, initiate the four investigations, as previously explained.
+
+**Comprehensive knowledge in accord with reality** (yathābhūta-parijñāna) means that bodhisattvas initiate the four kinds of comprehensive knowledge in accord with reality concerning all dharmas, as previously explained.
+
+**The various immeasurables** (apramāṇa) mean that bodhisattvas, in dependence on five immeasurables, are able to initiate all skillful activities. What are the five? (1) The immeasurable of the realm of sentient beings (sattva-dhātu), (2) the immeasurable of world-systems (loka-dhātu), (3) the immeasurable of the dharma-realm (dharma-dhātu), (4) the immeasurable of the realm of those to be disciplined (vineya-dhātu), and (5) the immeasurable of the realm of means of discipline (vinaya-upāya-dhātu).
+
+**The immeasurable of the realm of sentient beings** refers to sixty-four kinds of sentient-being assemblies: (1) hell-beings, (2) animals, (3) hungry ghosts, (4) gods, (5) humans, (6) kṣatriyas, (7) brāhmaṇas, (8) vaiśyas, (9) śūdras, (10) women, (11) men, (12) those who are neither male nor female, (13) those of lower capacity, (14) those of intermediate capacity, (15) those of superior capacity, (16) householders, (17) renunciants, (18) practitioners of austerities, (19) those with moral restraint, (20) those without moral restraint, (21) those with neither restraint nor non-restraint, (22) those who have already separated from desire, (23) those who have not yet separated from desire, (24) those of the determined-for-wrong class (mithyātva-niyata-rāśi), (25) those of the determined-for-right class (samyaktva-niyata-rāśi), (26) those of the undetermined class (aniyata-rāśi), (27) bhikṣus, (28) bhikṣuṇīs, (29) śikṣamāṇās, (30) śrāmaṇeras, (31) śrāmaṇerīs, (32) upāsakas, (33) upāsikās, (34) those who practice samādhi, (35) those who recite the sūtras, (36) those who attend the sick, (37) elders, (38) middle-aged, (39) the young, (40) ācāryas, (41) upādhyāyas, (42) those who dwell together, (43) those who dwell nearby, (44) guests, (45) those who oversee saṅgha affairs, (46) those who delight in material gain, (47) those who delight in respect, (48) those who delight in solitude, (49) those of great learning, (50) those who possess wisdom, (51) those of great merit, (52) those who practice in accordance with the Dharma, (53) holders of the sūtra collection, (54) holders of the vinaya collection, (55) holders of the mātṛkā collection, (56) ordinary beings (pṛthagjana), (57) those who have seen the truth (darśana-mārga), (58) learners (śaikṣa), (59) non-learners (aśaikṣa), (60) śrāvakas, (61) pratyekabuddhas, (62) bodhisattvas, (63) wheel-turning sage-kings (cakravartin), and (64) tathāgatas. If distinguished by the difference of individual continua, they are immeasurable and limitless.
+
+**The immeasurable of world-systems** refers to the immeasurable world-systems of the ten directions, with immeasurable differences in names. Just as this world-system is called Sahā, and the brahmā lord of this world is called the Lord of Sahā, so too there are immeasurable such differences.
+
+**The immeasurable of the dharma-realm** refers to wholesome dharmas, unwholesome dharmas, and neutral dharmas, and such other gates of differentiation that are immeasurable.
+
+**The immeasurable of the realm of those to be disciplined**: one may establish one kind of those to be disciplined, namely, among all sentient beings, those who can be disciplined form one class. Or two kinds: (i) those fully bound and (ii) those not fully bound. Or three kinds: (i) those of dull faculties, (ii) those of intermediate faculties, and (iii) those of keen faculties. Or four kinds: (i) kṣatriyas, (ii) brāhmaṇas, (iii) vaiśyas, and (iv) śūdras. Or five kinds: (i) those of the conduct of desire, (ii) those of the conduct of aversion, (iii) those of the conduct of delusion, (iv) those of the conduct of pride, and (v) those of the conduct of discursive thought. Or six kinds: (i) householders, (ii) renunciants, (iii) matured, (iv) not yet matured, (v) liberated, and (vi) not yet liberated. Or seven kinds: (i) those who are faithful and respectful; (ii) those who are contemptuous; (iii) those who are neutral; (iv) those who are disciplined by extensive teaching; (v) those who are opened to wisdom through brief instruction; (vi) those who must be constantly disciplined; (vii) those who are guided according to circumstance, meaning that when encountering such-and-such conditions they transform accordingly. Or eight kinds, namely the eight assemblies (aṣṭa-parṣad), from the kṣatriya assembly through the brahmā assembly. Or nine kinds: (i) those to be transformed by the Tathāgata, (ii) those to be transformed by śrāvakas, (iii) those to be transformed by pratyekabuddhas, (iv) those to be transformed by bodhisattvas, (v) those difficult to discipline, (vi) those easy to discipline, (vii) those disciplined through gentle speech, (viii) those disciplined through reproach and expulsion, and (ix) those disciplined from afar or from near. Or ten kinds: (i) hell-beings, (ii) animals, (iii) hungry ghosts, (iv) gods of the desire realm, (v) humans, (vi) beings in the intermediate existence (antarā-bhava), (vii) beings in the form realm, (viii) beings in the formless realm, (ix) beings with perception and without perception, and (x) beings with neither perception nor non-perception. Thus, in brief, there are fifty-five kinds; if distinguished by the difference of individual continua, they are immeasurable.
+
+**Question**: What is the difference between the immeasurable of the realm of sentient beings and the immeasurable of the realm of those to be disciplined?
+
+**Answer**: The realm of sentient beings refers, without distinction, to all sentient beings, whether they possess the lineage or lack the lineage. The realm of those to be disciplined refers only to those who possess the lineage, in their various stage-distinctions.
+
+The immeasurable of the realm of means of discipline has been explained previously. This too, when discriminated in detail, has immeasurable kinds.
+
+**Question**: Why are only these five immeasurables briefly stated?
+
+**Answer**: Because bodhisattva-mahāsattvas are exclusively devoted to cultivating the practice of benefiting sentient beings, the immeasurable of the realm of sentient beings is established first. Because these sentient beings can receive transformation depending on their location, the immeasurable of world-systems is established second. Because these sentient beings in many world-systems undergo the differentiation of defilement and purification through various dharmas, the immeasurable of the dharma-realm is established third. In order to observe which sentient beings are ultimately capable of liberation from suffering, the immeasurable of the realm of those to be disciplined is established fourth. In order to establish whatever skillful means can cause sentient beings to realize liberation, the immeasurable of the realm of means of discipline is established fifth. Therefore, bodhisattva-mahāsattvas, in dependence on these five immeasurables, are able to initiate all skillful activities.
+
+**The proclamation of the fruit and its benefits** (phala-anuśaṃsa-deśanā) means that when bodhisattva-mahāsattvas proclaim the correct Dharma to sentient beings, there are five kinds of vast fruit and benefit. What are the five?
+
+(1) Some sentient beings, at the time of hearing the correct Dharma proclaimed, become free from dust and stain, and the Dharma-eye (dharma-cakṣus) arises in them with regard to all dharmas.
+
+(2) Some sentient beings, at the very time the correct Dharma is being proclaimed, attain the exhaustion of all outflows (āsravakṣaya).
+
+(3) Some sentient beings, because of the proclamation of this Dharma, generate the aspiration for unsurpassed, complete, perfect awakening.
+
+(4) Some sentient beings, upon hearing this Dharma proclaimed, immediately attain the supreme Dharma-forbearance (dharma-kṣānti) of a bodhisattva.
+
+(5) Some sentient beings, after hearing the correct Dharma proclaimed by the Buddha and the bodhisattvas, receive, uphold, and practice it, and in turn proclaim it to others, causing the eye of the correct Dharma to long endure without perishing.
+
+These are the five kinds of vast fruit and benefit of proclamation.
+
+**The nature of the Great Vehicle** (mahāyānatva) means that the bodhisattva vehicle, because it accords with seven kinds of greatness (mahattva), is called the Great Vehicle. What are the seven?
+
+(1) *Greatness of Dharma* (dharma-mahattva): among the twelve divisions of teaching, the vaipulya teaching encompassed in the bodhisattva collection.
+
+(2) *Greatness of generating the aspiration* (cittotpāda-mahattva): having already generated the aspiration for unsurpassed, complete, perfect awakening.
+
+(3) *Greatness of resolve* (adhimukti-mahattva): giving rise to superior faith and understanding with regard to the greatness of Dharma described above.
+
+(4) *Greatness of superior intention* (adhyāśaya-mahattva): having already surpassed the ground of resolve and practice and entered the ground of pure superior intention.
+
+(5) *Greatness of provisions* (saṃbhāra-mahattva): having already accomplished the two great provisions of merit and wisdom, and thereby being able to realize unsurpassed, complete, perfect awakening.
+
+(6) *Greatness of time* (kāla-mahattva): being able to realize unsurpassed, complete, perfect awakening over the time of three great incalculable kalpas (asaṃkhyeya).
+
+(7) *Greatness of fulfillment* (saṃpatti-mahattva): namely, unsurpassed, complete, perfect awakening itself. The self-substance of this fulfilled awakening, compared to any other fulfillment, has no equal; how much less could anything surpass it!
+
+Among these, the first six, from greatness of Dharma through greatness of time, are the causes of the greatness of fulfillment. The single greatness of fulfillment is the fruit of the preceding six.
+
+**Encompassment** (saṃgraha) means that eight kinds of dharma are able to completely encompass the entire Great Vehicle.
+
+(1) The teaching of the bodhisattva collection (bodhisattva-piṭaka).
+(2) Within the bodhisattva collection, the teaching that reveals the true meaning of all dharmas.
+(3) Within the bodhisattva collection, the teaching that reveals the inconceivable, most excellent, vast, and profoundly majestic virtues of all buddhas and bodhisattvas.
+(4) Proper hearing of the above (śravaṇa).
+(5) First engaging in proper reflection (cintā), tending toward superior intention.
+(6) Having attained superior intention, entering the initial stages of practice (bhāvanā).
+(7) Through entering practice first, accomplishing the fruit of practice.
+(8) Through the accomplishment of the fruit of practice, ultimate escape.
+
+Through such cultivation and study, bodhisattva-mahāsattvas realize unsurpassed, complete, perfect awakening.
+
+**The ten things to know about bodhisattvas** (daśa-bodhisattva-jñeya) means that such bodhisattvas, who through cultivation and study are able to realize unsurpassed, complete, perfect awakening, briefly have ten aspects.
+
+(1) Abiding in the lineage (gotra-sthita).
+(2) Having entered (avatīrṇa).
+(3) Of impure superior intention (aśuddha-adhyāśaya).
+(4) Of pure superior intention (śuddha-adhyāśaya).
+(5) Not yet matured (aparipakva).
+(6) Already matured (paripakva).
+(7) Not yet determined (aniyata).
+(8) Already determined (niyata).
+(9) Bound by one more life (eka-jāti-pratibaddha).
+(10) Dwelling in the final existence (carama-bhavika).
+
+Among these, the bodhisattva who abides in the lineage, when through skillful means of cultivation they generate the aspiration for awakening, is called "having entered." Having entered, until one has not yet entered the ground of pure superior intention, one is called "of impure superior intention"; if one has entered it, one is called "of pure superior intention." The bodhisattva of pure superior intention, until one has not yet entered the ground of reaching the ultimate, is called "not yet matured"; if one has entered it, one is called "already matured." Among those not yet matured, until one has not yet entered the ground of determined practice, one is called "not yet determined"; if one has entered it, one is called "already determined." Among those already matured, there are furthermore two kinds: (i) "bound by one more life," meaning that after this life, without interval, one will realize anuttarā samyaksaṃbodhi; (ii) "dwelling in the final existence," meaning that in this very life one realizes unsurpassed, complete, perfect awakening. Thus, from abiding in the lineage through unsurpassed, complete, perfect awakening, the ten kinds of bodhisattvas as described above completely encompass all bodhisattvas. The bodhisattva training grounds as described above completely encompass all training grounds of bodhisattvas.
+
+**The establishment of names and titles** (nāma-saṃketa-vyavasthāpana) means that bodhisattvas, without distinction, have many names according to their qualities. They are called bodhisattva (bodhisattva), mahāsattva (mahāsattva), "accomplished in the wisdom of awakening," "supreme bright illumination," "offspring of the most excellent," "support of the most excellent," "emissary of the most excellent," "sprout of the most excellent." They are also called "the valiant," "supreme preceptor," "caravan leader" (sārthavāha), "one endowed with great renown," "one accomplished in compassion," "one of great merit," "one rich in sovereign mastery," and "great Dharma-teacher." Thus, throughout the limitless world-systems of the ten directions, in dependence on the immeasurable differences of inner qualities, innumerable names and titles are established.
+
+Among these, if bodhisattvas proclaim themselves to be bodhisattvas yet do not diligently cultivate and practice all the training grounds of bodhisattvas, one should know that these are simulated bodhisattvas, not genuine bodhisattvas. If bodhisattvas proclaim themselves to be bodhisattvas and also diligently cultivate the training grounds of bodhisattvas, one should know that these are genuine bodhisattvas.

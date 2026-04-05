@@ -1,0 +1,35 @@
+# Record of the Meaning of the Avataṃsaka Sūtra, Fascicle One
+
+## *Huáyán Jīng Yìjì Juàn Dìyī* (華嚴經義記卷第一)
+
+Taishō 2756
+
+Composed by Huìguāng (*Huìguāng*, 慧光) of the Later Wei dynasty.
+
+*Note: Huìguāng (468-537) was a prominent Dilun (*Dìlùn*, 地論) school master and vinaya expert. This is a fragment of his commentary on the Avataṃsaka Sūtra (*Huáyán Jīng*, 華嚴經), specifically on the "Tathāgata's Light and Awakening" chapter. Only this partial fascicle survives.*
+
+The chapter on the Tathāgata's Light and Awakening (*Rúlái Guāngmíng Jué Pǐn*, 如來光明覺品) clarifies that the Tathāgata's mental activity of teaching and conversion, and his wisdom-practice, are unobstructed, like radiance. Because this awakens (*jué*, 覺) those with the appropriate conditions, it is called "awakening."
+
+Within this chapter, the emitting of the characteristic-wheel light, extending through the ten stages with the emission of light from between the eyebrows: this reveals that, according to the Tathāgata's own inherent wisdom-practice, the positions differ as the practitioners differ. The separate names of the bodhisattvas reveal the distinctions in their practices, karmic merit, and stages.
+
+Within what this light illuminates: first it clarifies that the true characteristic (*shíjì xiàng*, 實際相) of the world-systems is revealed. Next it clarifies the buddhas, because the true characteristic is internally illuminated, and therefore the buddhas are clarified next. Because true awakening gives rise to conditions, the bodhisattvas are clarified. This means: the vessel-world (*qì shìjiān*, 器世間) comes first, the wisdom-right-awakening-world (*zhì zhèngjué shìjiān*, 智正覺世間) is in the middle, and the sentient-being-world (*zhòngshēng shìjiān*, 眾生世間) is last, because this reveals the initial manifestation of the inner aspect of the characteristics of accumulation and cultivation.
+
+Afterward: first the individual bodhisattvas are clarified, then the individual world-systems, and finally the buddhas. This reveals the final aspect of accumulation, the achievement of the full and complete characteristics of cultivation.
+
+Among these bodhisattvas, the first to be named is Mañjuśrī (*Wénshū*, 文殊), because at the beginning one realizes the true-nature prajñā (*zhēnxìng bōruò*, 真性波若), the fundamental wondrous wisdom (*gēnběn miàohuì*, 根本妙惠).
+
+Next comes Awakening-Head (*Juéshǒu*, 覺首), because internally bright and externally clear, he is called Awakening-Head. Since he possesses the illumination of awakened contemplation, he is able to accumulate the myriad practices. Having the merit of resources and assistance, he is called Wealth-Head (*Cáishǒu*, 財首). Since he possesses the practices of accumulation and assistance, he is able to benefit without limit, producing supreme benefit that transcends the world; therefore he is called Jewel-Head (*Bǎoshǒu*, 寶首). Having resources and benefit without limit, he is able to benefit himself and others, his virtue being fully equipped; therefore he is called Virtue-Head (*Déshǒu*, 德首). Being fully equipped in virtue, if it were not for the discerning prajñā of skillful means, comprehending without remainder, he would not be able to skillfully understand conditions; therefore he is next called Eye-Head (*Mùshǒu*, 目首). Having the ability to understand conditions without delusion, he is able to accomplish the merit of daily renewal; therefore he is next called Vigor-Head (*Jīngjìn Shǒu*, 精進首). Having the merit of daily renewal, there are no dharmas not accumulated; therefore he is next called Dharma-Head (*Fǎshǒu*, 法首). Having fully accumulated all dharmas, the true fusion blazes with radiant illumination without obstruction; therefore he is next called Wisdom-Head (*Zhìshǒu*, 智首). Having radiant illumination without obstruction, his way is complete and full, harmoniously compliant and gentle; therefore he is next called Worthy-Head (*Xiánshǒu*, 賢首).
+
+Why are they all called "Head" (*shǒu*, 首)? This is to clarify that within worldly cultivation and accumulation, these are the foremost, hence the name "Head." Because worldly practice is exhaustively complete in them, they are called "Head." Also, because they are at the beginning of the cultivation and accumulation of the true way, they are called "Head."
+
+Within this section, the light first illuminates the three-thousand world-system and finally extends to a hundred thousand billion world-systems. This is to clarify that at the beginning of aspiration, the self-characteristic understanding is itself characteristic. Also, this proceeds from near to far.
+
+Furthermore, the reason all are said to be "in the eastern direction" is the same as the previous explanation. Also, the reason each direction has one great bodhisattva is to clarify the causal practice of the inherent nature within skillful means. Each having a retinue of bodhisattvas clarifies that no practice is not encompassed. Each coming to this place clarifies the complete entry into the inherent fruit-practice.
+
+Mañjuśrī being the head clarifies that the beginning arises from the wondrous reality (*miào shí*, 妙實). The reason it ends with Worthy-Head is to clarify that although this practice is deep and vast, its completion is in the worldly; hence "Worthy-Head." However, practice does not stand alone; it must rely on objects and conditions to arise. Therefore it is said to begin with the golden color and end with the color of the true realm.
+
+Since there is a true accord with the mind, one attains the arising from the center of true awakening. Therefore it says, "In the presence of the buddhas, they purely cultivated the holy life." The reason Immovable Wisdom (*Bùdòng Zhì*, 不動智) is clarified first is to reveal the beginning from the true root. Ending with Subduing Enemies (*Fúyuàn*, 伏怨) also clarifies that completion is in the worldly; because the definitive separation has not yet been revealed, it is called "subduing enemies."
+
+The reason all are spoken by Mañjuśrī himself without being asked: this is to clarify that wondrous eloquence arises from within and does not rely on external conditions. It also clarifies the unsolicited friend. If one speaks in terms of those who benefit, this chapter clarifies the practice of seeking to hear the dharma. The next chapter clarifies the practice of seeking to teach the dharma.
+
+If one discusses the sequential order of the arising of conditioned practice and accumulation: because the wondrous reality responds to skillful means, it says "Mañjuśrī speaks." Since skillful means accords with reality, the merit of skillful means, upon maturation, returns to the root and responds to reality. Therefore the next chapter, the Difficult Chapter (*Nán Pǐn*, 難品), has Mañjuśrī revealing the questions and the bodhisattvas answering, then the bodhisattvas asking and Mañjuśrī answering again. This is to clarify that when virtue matures, it returns to the root; therefore the bodhisattvas ask. Because the root encompasses all virtues, the true reality is completely revealed; this is called the answer.

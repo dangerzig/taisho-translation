@@ -5,3 +5,8 @@ logs/
 *.tmp.*
 .DS_Store
 bdk-pdfs/
+sat_html/
+review_log*.txt
+review_worker_*.txt
+parallel_review_log.txt
+.parallel-prompt.md

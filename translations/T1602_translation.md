@@ -5213,3 +5213,244 @@ For counteracting the concentration that is the support of relishing, as the sū
 For counteracting the inversions, as the sūtra says: "there is not the slightest grasping in the world"; because the inversions have been severed, one no longer grasps at the slightest of the five appropriated aggregates as permanent, as pleasant, as self, or as pure.
 
 Also, one cultivates the foundations of mindfulness through three kinds of mental approach: (1) when walking through the village, the mind approaches emergence; (2) when dwelling in turmoil, the mind approaches solitude; and (3) when residing in a quiet chamber, the mind approaches nirvāṇa. Also: approaching emergence from the destinies of birth and death; approaching separation from afflictions; and delighting in cessation, the mind approaches nirvāṇa.
+
+---
+
+## Fascicle 20
+
+### Chapter 11: Division of Superior Determination (continued)
+
+#### Superior Determination of Persons
+
+Thus the determination of the limbs of awakening has been stated. The superior determination of persons (pudgala) shall now be stated. The verse says:
+
+> Through the differentiation of faculties and the rest,
+> Five pairs of "only two" are established.
+> Provisional designation has five causes, as should be known;
+> Through three matters, completeness is established.
+
+The treatise says: One should know that through the differentiation of faculties and the rest, five kinds of "only two" are established. As the sūtra says: "Because one takes only two faculties as conditions, only two kinds of attention can be known. Because one takes only two kinds of attention as conditions, only two kinds of cultivation can be known. Because one takes only two kinds of cultivation as conditions, only two kinds of practice can be known. Because one takes only two kinds of practice as conditions, only two kinds of persons can be known." "Practice" here refers to habitual impressions induced by cultivation.
+
+Also, the provisional designation of persons should be known through five kinds of cause: (1) through lineage (gotra): those who can be saved and those who cannot. (2) Through entering: the vehicle of śrāvakas and the rest. (3) Through training: the learner (śaikṣa) and the non-learner (aśaikṣa). (4) Through attainment: those who dwell in the four fruits and the three paths. (5) Through faults and virtues: those with and without obstructions, those fully fettered and not fully fettered.
+
+Also, through three matters, three kinds of completeness are established: (1) Completeness of faculties: the immovable dharma (akopya-dharma). (2) Completeness of concentration: attainment of the cessation attainment. (3) Completeness of fruit: the arhat.
+
+#### Determination of Fruit-Topics
+
+Thus the determination of persons has been stated. The determination of fruit-topics (phala-vastu) shall now be stated. The verse says:
+
+> Realizing the transformation of the basis, non-arising,
+> Through two causes the fruit has no regression.
+> Through three causes, cessation is permanent.
+> Three fruits, three causes, and the prediction.
+
+The treatise says: Because one realizes the transformation of the basis (āśraya-parāvṛtti), the afflictions do not arise. One should know that the transformation of the basis is called "cessation" (prahāṇa). Also, through two kinds of cause, the fruit has no regression: if one has not yet permanently destroyed the seeds of affliction and realizes arhatship, this is not reasonable; and if one has already permanently destroyed the seeds of affliction, then the afflictions must certainly not arise, because the causal seed is absent.
+
+Also, through three causes, cessation is of a permanent nature: (1) because it is free from conceptual elaboration (niṣprapañca), since in direct experience, conceptual elaboration is of an impermanent nature; (2) because it is revealed by the pure suchness, like the pliable quality of refined gold; and (3) because the nature of non-arising of afflictions is without difference between before and after.
+
+Also, three kinds of fruit are predicted by the Tathāgata through three causes: (1) The prediction of the purity of realization: the fruit of stream-entry (srota-āpatti-phala), because one has attained the four purities of realization (abhisampratyaya-prasāda) through the path of seeing. (2) The prediction of the abode of joy: the fruit of once-returning (sakṛdāgāmi-phala), because one is about to attain the root concentration and has already received a small portion of joy. (3) The prediction through recollection: the fruit of non-returning (anāgāmi-phala), because one has already attained the root concentration and directly sees the assembly of devas engaging in discourse with the Brahmā assembly, and because one recollects that the virtuous qualities of one's own vehicle are not yet complete.
+
+#### Determination of Virtuous Qualities
+
+Thus the determination of fruit-topics has been stated. The determination of virtuous qualities (guṇa) shall now be stated. The verse says:
+
+> The establishment of the virtuous qualities
+> Is through seventeen kinds of dominant power.
+> Their differentiations are boundless,
+> Because of the antidote and the counteracted obstacles.
+
+The treatise says: One should know that virtuous qualities are established through seventeen kinds of dominant power. (1) Through the dominant power of compassion for sentient beings: the four immeasurables (apramāṇa). (2) Through the dominant power of purifying six obstacles: the liberations (vimokṣa), stations of mastery (abhibhvāyatana), and totalities (kṛtsnāyatana). Herein, the liberations serve as the method, and through the rest they are completed. The six obstacle-purifications are: (a) purification of the obstacle to transformation, through the first two liberations; (b) purification of the obstacle to the supreme pleasant abiding in the present life, through the third liberation, because both pure and impure are purified and made manifest; (c) purification of the obstacle to going and coming, through the fourth liberation; (d) purification of the obstacle to eliciting the noble qualities of non-contention and the like, through the fifth liberation; (e) purification of the defilements and the obstacle of existence, through the sixth and seventh liberations; (f) purification of the obstacle to the supreme abiding in tranquility, through the eighth liberation. (3) Through the dominant power of knowing the right time to go: the quality of non-contention (araṇā). (4) Through the dominant power of examining the objects of knowledge: the knowledge of aspiration (praṇidhi-jñāna). (5) Through the dominant power of verbal teaching: the unhindered knowledges (pratisaṃvid). (6) Through the dominant power of skill in six domains: the six superknowledges (abhijñā). The six domains of skill are: (a) skill in attraction; (b) skill in carefully listening to speech, through which one refutes and subdues others' arguments and expounds the correct Dharma; (c) skill in inclinations and latent tendencies; (d) skill in approaching; (e) skill in departing; and (f) skill in liberation. (7) Through the dominant power of others' faith: the marks and minor marks (lakṣaṇānuvyañjana). (8) Through the dominant power of purifying three obstacles: the four kinds of universal purity. The three obstacles are: the obstacle of the support, the obstacle of the object-domain, and the obstacle of the mind and wisdom. (9) Through the dominant power of answering all questions: the powers (bala). (10) Through the dominant power of defeating all opposing arguments: the fearlessnesses (vaiśāradya). (11) Through the dominant power of impartiality toward the assembly gathered: the non-guardings (arakṣya). (12) Through the dominant power of gathering and training the assembly of disciples: the foundations of mindfulness (smṛtyupasthāna). (13) Through the dominant power of manifesting the deeds of an omniscient one at all times: the permanent removal of habitual impressions. (14) Through the dominant power of not missing the right time for those to be trained: the dharma of never forgetting (amuṣitasmṛtitā). (15) Through the dominant power of observing the world six times day and night: the great compassion (mahākaruṇā). (16) Through the dominant power of surpassing śrāvakas and pratyekabuddhas: the dharmas exclusive to the Buddha (āveṇika-buddha-dharma). (17) Through the dominant power of accomplishing all the deeds of the tathāgatas: the omniscient knowledge of all aspects (sarvākāra-jñāna).
+
+Also, because these virtuous qualities differentiate through the antidote and the counteracted obstacles, one should know their differentiations are boundless.
+
+Furthermore, the verse says:
+
+> Thinking about meaning, pleasure, suffering,
+> Attention and abiding,
+> Difficulty and characteristics,
+> The special and the non-special.
+
+The treatise says: Regarding those virtuous qualities, whether counteracted or antidote, one should think about them all. How should one think? In terms of meaning, pleasure, suffering, attention, abiding, difficulty, characteristics, and the special and the non-special.
+
+**Thinking about meaning** refers to the sentences included in the meaning of the pāramitā of wisdom (prajñāpāramitā). There are five kinds of purposive meaning: (1) the meaning of generating respect toward the speaker; (2) the meaning of gathering the assembly; (3) the meaning of generating reverence toward the verbal teaching; (4) the meaning of narrating the affair; and (5) the meaning of generating much activity toward the teaching of the true meaning.
+
+Also, all dharmas have three kinds of meaning: (1) the meaning of that which is superimposed; (2) the meaning of that upon which superimposition occurs; and (3) the meaning of the dharma-nature. Just as form has three kinds (superimposed form, the basis of superimposition, and the dharma-nature of form), so should it be known for all categories.
+
+Furthermore, dharmas are proclaimed through three-wheel (trimaṇḍala) modes of reasoning: depending on the mode of conventional truth, one proclaims the agent, the instrument, and the action. For example, the giver, the act of giving, and the recipient of the gift: the one who performs the giving, that by which one gives, and the one who receives the gift. This should be known for all categories.
+
+Furthermore, there are four kinds of reasoned discourse in verbal teaching: (1) the discourse of differentiation; (2) the discourse of establishment; (3) the discourse of non-difference; and (4) the discourse of non-function. **The discourse of differentiation** refers to the differentiation of the natures of form up to omniscient knowledge. **The discourse of establishment** refers to five kinds of establishment: (a) establishment of entering; (b) establishment of instruction; (c) establishment of training; (d) establishment of attainment; and (e) establishment of faults and virtues. **The discourse of non-difference** has six kinds: (a) non-difference of the existent and non-existent, namely form and the emptiness of form, and so on for all categories; (b) mutual non-difference, namely the aggregates viewed in relation to each other, and so on; (c) temporal non-difference, namely viewing the middle and later periods from the perspective of the earlier period, and so on; (d) personal non-difference, namely sentient beings viewed in relation to each other; (e) non-difference of the obstruction and the antidote, namely permanence and impermanence up to saṃsāra and cessation; and (f) non-difference of verbal expression, namely name-bodies and the rest. **The discourse of non-function** refers to the purity of the three wheels: in all situations, no agent can be truly found, no instrument and no action exist; no person can speak, no dharma can be spoken; no person can train, no dharma can be trained in; no person can realize, no dharma can be realized; no person can abide in faults or virtues, nor is there anything in which to abide; no grasping, no dharma. All is like this.
+
+Furthermore, there are two kinds of immeasurable meaning: (1) the immeasurable arising of inquiries and discussions; and (2) the immeasurable dedication to non-apprehension.
+
+Also, in order to counteract three kinds of abode, it is said that one should not abide in the meaning of form, up to not abiding in the meaning of any dharma. The three kinds of abode are: (1) the abode of attachment; (2) the abode of following along; and (3) the abode of conceptual-elaboration wisdom-conduct.
+
+Furthermore, there are three kinds of signlessness (animitta): (1) signlessness due to the absence of substance; (2) signlessness due to not being that substance; and (3) signlessness due to non-manifestation. Just as with signlessness, so too with non-nature, non-self-substance, non-arising, non-ceasing, non-grasping, non-performing, and non-appropriation, as should be known.
+
+Furthermore, there are three kinds of apprehension (upalambha): (1) apprehension of the thing; (2) apprehension of apprehension; and (3) apprehension of non-apprehension. Just as with apprehension, so too with grasping, performing, conceptual elaboration, seizing, views, and speculative constructs, as should be known.
+
+Furthermore, there are three kinds of apprehension: (1) apprehension of self-substance; (2) apprehension of non-separation; and (3) apprehension of non-analysis. Furthermore, there are three kinds of non-apprehension (anupalambha): (1) non-apprehension of self-substance; (2) non-apprehension through separation; and (3) non-apprehension through analysis. Just as with non-apprehension, so too with emptiness, non-grasping, non-performing, non-conceptual-elaboration, non-seizing, non-views, and non-speculative-constructs, as should be known. Furthermore, there are three kinds of non-apprehension: (1) non-apprehension of the existent nature; (2) non-apprehension of that substance; and (3) non-apprehension of non-manifestation. "Non-apprehension" means that when one investigates dharmas, one does not see their own-nature. It is not that there is absolutely nothing whatsoever obtained. Rather, at the time when there is non-apprehension of the imagined self-nature (parikalpita-svabhāva), one also does not observe the own-characteristic of the other-dependent (paratantra).
+
+Also, as the sūtra says, "because of being associated with non-apprehension": if there is non-apprehension, is there association? A fourfold analysis should be made. (1) There may be non-apprehension without association: when someone has no apprehension whatsoever regarding a vast affair. (2) There may be association without non-apprehension: when one cultivates wholesome dharmas through the worldly path. (3) There may be both non-apprehension and association: when one cultivates wholesome dharmas through the supramundane path. (4) There may be neither non-apprehension nor association: when defiled or indeterminate dharmas are manifestly present.
+
+Furthermore, there are five kinds of incorrect apprehension: (1) incorrect apprehension of the person (pudgala); (2) incorrect apprehension of dharmas; (3) incorrect apprehension through transformation; (4) incorrect apprehension through diminution; and (5) incorrect apprehension through differentiation.
+
+Furthermore, there are four kinds of verbal teaching: (1) the words are definite but the meaning is not definite; (2) the meaning is definite but the words are not definite; (3) both words and meaning are definite; and (4) neither words nor meaning are definite.
+
+Furthermore, there are two kinds of counteracted: (1) the counteracted of the gates of liberation (vimokṣa-mukha), namely discriminative characteristics and aspirations; and (2) the counteracted of the pāramitās, namely miserliness, transgression of precepts, anger, laziness, scattering, and wrong wisdom.
+
+Furthermore, there are two kinds of counteracted by emptiness: the manifest activity of sixteen kinds of wrong perception, and fourteen kinds of characteristic-bondage.
+
+Furthermore, there are two kinds of pāramitā practice: worldly practice with apprehension, and supramundane practice without apprehension. Also, the worldly pāramitā practice is merely a semblance and not the real thing. Just as with "semblance," so too with "poisonous," "obstructed," and "without skillful means," as should be known. One should know that the supramundane pāramitā practice is the opposite of this.
+
+Furthermore, if one states briefly the own-substance meaning of the pāramitā of wisdom, it should be known through three characteristics: (1) the characteristic of the support (āśraya); (2) the characteristic of the object-domain; and (3) the characteristic of the mode (ākāra). The characteristic of the support is the aspiration for awakening (bodhicitta). The characteristic of the object-domain is form and other dharmas. The characteristic of the mode has two kinds: worldly and supramundane. The worldly mode refers to practices such as impermanence, suffering, emptiness, non-self, like an illness, like an abscess, and so forth. The supramundane mode refers to the practice associated with non-apprehension.
+
+Furthermore, there are three kinds of well-accumulated cultivation of the pāramitās: (1) with the attention associated with omniscient knowledge, together with all sentient beings, one dedicates toward anuttarā-samyak-saṃbodhi; (2) through the pāramitās one abides in reality (bhūta-koṭi); and (3) one does not realize reality.
+
+Furthermore, as the statement says, "because this mind is inconceivable": for what cause is it inconceivable? Because the support on which this mind rests, the object-domain it takes, and the condition through which the mind abides are all without inherent nature. If they are without nature, this is precisely purity, which is also inconceivable; and this inconceivability is so because of whether it has nature or not, and because of whether it is the same as or different from that mind.
+
+Also, the modes of all conceptual elaboration cause the mind to wander through three conditions: (1) through intimacy, meaning that at the time of receiving retribution, one appropriates and holds the support; (2) through the object-domain, meaning that one experiences various objects and engages in various activities; and (3) through establishment, meaning the habitual impression of false imagination from beginningless time.
+
+Furthermore, there are four kinds of discrimination: (1) discrimination; (2) non-discrimination; (3) dual discrimination; and (4) non-dual discrimination.
+
+Furthermore, there are four kinds of non-discrimination: (1) non-discrimination through foolishness; (2) non-discrimination of the non-sentient; (3) non-discrimination through non-function; and (4) non-discrimination through the dharma-nature.
+
+Furthermore, there are two kinds of verbal teaching: conventional verbal teaching and ultimate verbal teaching. Conventional verbal teaching refers to the two modes of differentiation and establishment. Ultimate verbal teaching refers to the two modes of non-difference and non-function.
+
+Furthermore, within ultimate truth, what cannot be expressed in words should be known to have three kinds of characteristics in verbal expression: (1) the characteristic of characteristics; (2) the characteristic of defilement; and (3) the characteristic of purity.
+
+Also, dharmas are directly realized through three kinds of thorough-knowledge characteristics. The three characteristics are: (1) provisional designation (prajñapti); (2) discernment (vijñapti); and (3) that which is merely their measure. What do bodhisattvas and the rest take as pleasure? The benefit of sentient beings is their pleasure. What do they take as suffering? The harming of sentient beings is their suffering. What do they take as attention? Thinking about the welfare of all sentient beings is their attention. What do they take as abiding? Abiding in non-discrimination is their abiding.
+
+**Twelve difficult affairs of the bodhisattva-mahāsattva** that wise bodhisattvas should understand: (1) Whether to punish or abandon sentient beings who transgress the rules of conduct is a difficult affair. (2) To skillfully engage in activities that involve suffering and affliction while guarding one's own mind against arousing afflictions is a difficult affair. (3) When immeasurable sentient beings present themselves requesting one's existing possessions that are not rightful wealth is a difficult affair. (4) When the bodhisattva has only one body but immeasurable sentient beings' tasks simultaneously present themselves requesting assistance is a difficult affair. (5) To dwell in a place of heedlessness, whether in the worldly lovable and excellent concentrations or being born in heaven, while keeping the mind tamed is a difficult affair. (6) To constantly seek to perform beneficial deeds for sentient beings universally, yet to be without power or ability for these deeds, is a difficult affair. (7) Whether to teach or abandon foolish, deceitful, and stubborn sentient beings is a difficult affair. (8) To constantly see the great faults of saṃsāra, yet for the benefit of sentient beings not to abandon it, is a difficult affair. (9) Before realizing the superior pure intention (adhyāśaya), to mostly lose mindfulness at the time of death is a difficult affair. (10) Before realizing the superior pure intention, when others come requesting the most precious and beloved things, is a difficult affair. (11) When sentient beings of various views and various desires present themselves, whether to instruct or abandon them is a difficult affair. (12) To constantly practice the most extreme non-heedless conduct, yet not to completely sever all afflictions, is a difficult affair.
+
+When bodhisattvas encounter such difficult affairs, they should observe their weight, establish skillful means as appropriate, discriminate among persons, make effort to gather and accept according to conditions, make correct aspirations, control the mind against indulgence, abide in the mind with intense observation, not give rise to weariness while patiently enduring, release the mind through compassion, generate blazing vigor, or think about skillful expedient means. Through such correct antidotal skill, the bodhisattva-mahāsattva, though encountering such difficult affairs right before them, is without fear and can properly free themselves.
+
+**Five characteristics of a true bodhisattva:** Through accomplishing these, one is counted among the bodhisattvas. What are the five? (1) Compassion for sentient beings; (2) constantly speaking loving words; (3) courageous determination in action; (4) open-handedly bestowing gifts; and (5) ability to skillfully analyze profound meaning. *Compassion* has two aspects: (a) aspiration: the bodhisattva gives rise to the intention of benefit and the intention of ease toward sentient beings; (b) correct conduct: the bodhisattva, toward sentient beings, according to their desires and capacities, employs bodily and verbal karma to attract and transform them. *Loving words* means joyfully comforting and proclaiming benevolent virtues. *Courageous determination* means majestic fearlessness and the accomplishment of superior power. *Open-handed giving* means that the bodhisattva practices vast and undefiled giving. *Skillfully analyzing profound meaning* means that the bodhisattva well arouses the correct expedient wisdom of the four unhindered knowledges.
+
+Furthermore, there are five kinds of special and five kinds of non-special bodhisattva characteristics, as stated previously in the chapter on gathering the meaning of purity.
+
+#### Superior Determination Dependent on the Great Vehicle
+
+Also, within the topic of virtuous qualities, the superior determination dependent on the Great Vehicle shall now be stated. The verse says:
+
+> Lineage, the Tathāgata's teaching,
+> Many buddhas and the one vehicle,
+> Through five, ten, six, and six kinds
+> Of reasoning respectively.
+
+The treatise says: The differentiation of lineage, the verbal teaching of the Great Vehicle being the Tathāgata's teaching, the simultaneous appearance of many buddhas at one time, and the nature of the one vehicle (ekayāna): these should be known through, respectively, five, ten, six, and six kinds of reasoning.
+
+**Five kinds of reasoning for the differentiation of lineage:**
+
+Question: How does one know the differentiation of lineage through five kinds of reasoning?
+
+Answer: (1) Because the differentiation of all realms is observable. (2) Because the existence of beings without faculties is unreasonable. (3) Because the analogy of similar classes is unreasonable. (4) Because the analogy of dissimilar classes is unreasonable. (5) Because it is unreasonable that only in the present life one is not a being destined for nirvāṇa.
+
+How is the differentiation of all realms observable? The Buddha has taught that the realm of sentient beings has many varieties, that there is not merely one realm of sentient beings: there are inferior and superior realms, realms of beings of the lineage destined for nirvāṇa through the vehicle of śrāvakas and the rest, and realms of beings of the lineage not destined for nirvāṇa.
+
+How is the existence of beings without faculties unreasonable? One cannot say that by this reasoning there should also be sentient beings without any faculties. Why? Because those without faculties, like external earth and the rest, are not sentient beings.
+
+How is the analogy of similar classes unreasonable? One should not say that just as the class of kṣatriyas and non-kṣatriyas can change, and the destiny-nature of hell-beings and non-hell-beings can change, so too should the lineage of those destined and not destined for nirvāṇa be changeable. Why? Because kṣatriyas and the rest, and hell-beings and the rest, possess the realm-nature of all classes and all destinies. But the two lineages of destined and not-destined for nirvāṇa are mutually contradictory. If they did not possess those realm-natures, they should be permanently unable to change. Therefore the analogy of similar classes is unreasonable.
+
+How is the analogy of dissimilar classes unreasonable? One should not say that just as in such-and-such places, the natures of gold, silver, copper, iron, salt, and other substances may exist at first and then not exist, or not exist at first and then exist, so too should the lineage destined for nirvāṇa be possible to first exist and then not exist, or first not exist and then exist. Why? If this reasoning held, the roots of goodness leading to liberation would be empty and fruitless. Therefore the analogy of dissimilar classes is also unreasonable.
+
+How is it unreasonable that only in the present life one is not destined for nirvāṇa? One should not say that although in the present life one is not destined for nirvāṇa, in another life one can be transformed into one destined for nirvāṇa. Why? Because there is no dharma of the nirvāṇa-lineage. Moreover, if in this life one has already accumulated the roots of goodness leading to liberation, why is one not called one destined for nirvāṇa? If in this life one has not at all accumulated the roots of goodness leading to liberation, how can one attain nirvāṇa in a future life? Therefore, there certainly exist sentient beings of the lineage not destined for nirvāṇa.
+
+**Ten kinds of reasoning that the verbal teaching of the Great Vehicle is the Buddha's teaching:**
+
+Question: How should one know that the verbal teaching of the Great Vehicle is spoken by the Buddha?
+
+Answer: Through ten kinds of cause: (1) because it was not previously predicted [that it would be fabricated by others]; (2) because it cannot be known today [by non-buddhas]; (3) because there is much to be accomplished by it; (4) because the obstructions are extremely heavy; (5) because it is not the domain of investigation and examination, for if one has not first heard it, one cannot conceive and calculate in this way, and therefore to say it was spoken by someone else is unreasonable; (6) because of realizing great awakening, since if one has not yet become a buddha, being able to speak the Buddha's teaching is unreasonable; (7) because of the fault of there being no third vehicle; (8) because if this did not exist, there would be no omniscient one, constituting a fault; (9) because by taking this as the object-domain and thinking about it in accordance with reason, one counteracts all afflictions; and (10) because one should not take the meaning of those teachings according to the words.
+
+**Six kinds of reasoning that many tathāgatas appear in the world simultaneously:**
+
+Question: How should one know that many tathāgatas appear in the world at one time?
+
+Answer: Through six causes: (1) because immeasurable sentient beings simultaneously making the great aspiration for awakening is observably the case; (2) because immeasurable sentient beings simultaneously cultivating the means and provisions for awakening is observably the case; (3) because mutual obstruction is unreasonable; (4) because when the provisions for awakening are simultaneously complete, simultaneous appearance in the world is reasonable; (5) because sequential appearance is unreasonable; (6) because ultimate non-accomplishment is unreasonable.
+
+**Six kinds of reasoning for the Tathāgata's proclamation of the one vehicle:**
+
+Question: For what reason does the Tathāgata proclaim the one vehicle?
+
+Answer: Through six causes: (1) because those very dharmas are spoken in terms of their non-differentiated characteristic; (2) because they are spoken in terms of the non-discriminative mode; (3) because of the equality of the selflessness of beings and the selflessness of dharmas; (4) because of the equality of liberation, since for those who seek differentially, the object-domain of counteraction through the dharma-nature of conceptual elaboration regarding the affair of defilement is not contradictory; (5) because of the well-transformed abiding; and (6) because of the ultimate completion of practice.
+
+Furthermore, the verse says:
+
+> The wondrous capacities of the buddhas,
+> Their fruits, the purity of lands,
+> Liberation and the Dharma body,
+> Are equal, inconceivable, and unsurpassed.
+
+The treatise says: All tathāgatas have equal capacity in all deeds. Also, the fruits of that capacity, the purity of the buddha-lands, the liberation body (vimukti-kāya), and the Dharma body (dharma-kāya) are all equal among all buddhas, all inconceivable, and all without superior, as should be known.
+
+Furthermore, the verse says:
+
+> Though without effort or exertion,
+> Drawn by the power of prior aspirations,
+> Depending on the unconditioned, they arise;
+> Their deeds have the characteristic of non-duality.
+
+The treatise says: Depending on the unconditioned Dharma body, though without effort or exertion, drawn by the power of their original aspirations (pūrva-praṇidhāna), the deeds of all tathāgatas spontaneously arise, like a practitioner emerging from the attainment of cessation. Also, these buddha-deeds that arise should be known as having the characteristic of inexhaustibility: they are neither of the characteristic of saṃsāra nor of the characteristic of nirvāṇa.
+
+#### The Three Baskets
+
+What is the Sūtra-piṭaka? What is the Vinaya-piṭaka? What is the Mātṛkā-piṭaka (Abhidharma)? The verse says:
+
+> Proclaiming the dharmas of the topics of affairs,
+> The individual liberation and its analysis,
+> The eleven characteristics of dharmas:
+> These are the sūtra, vinaya, and mātṛkā baskets.
+
+The treatise says: The Buddha-Bhagavats, depending solely on the compendium of topics (vastu-saṃgraha), make dharmas clearly known. This is called the Sūtra-piṭaka.
+
+Question: What is the compendium of topics?
+
+Answer: Four topics, nine topics, and twenty-nine topics. What are the four topics? (1) The topic of hearing; (2) the topic of taking refuge; (3) the topic of training; and (4) the topic of awakening. The nine topics are: (1) the topic of the provisionally designated sentient being; (2) the topic of what that being enjoys; (3) the topic of that being's arising; (4) the topic of that being's continued abiding after arising; (5) the topic of that being's defilement and purity; (6) the topic of that being's manifold differentiations; (7) the topic of the speaker; (8) the topic of the dharma spoken; and (9) the topic of the assembly. The twenty-nine topics are: within the Sūtra that Comprehensively Gathers the Nine Topics, depending on the category of defilement, four topics are stated: (1) the topic of gathering the formations; (2) the topic of sequential turning within this; (3) the topic of the cause of turning after establishing the perception of sentient beings within this; and (4) the topic of the cause of turning after establishing the perception of dharmas within this. Also, depending on the category of purity, twenty-five topics are stated: (1) the topic of abiding in the object-domain; (2) the topic of diligent effort therein; (3) the topic of mental abiding; (4) the topic of the pleasant abiding in the present life; (5) the topic of the object-domain method for emerging from all suffering; (6) the topic of thorough knowledge thereof (this has three kinds: thorough knowledge of the basis of inversion, thorough knowledge of the basis of wrong conduct toward external beings depending on the perception of sentient beings, and thorough knowledge of the basis of internal freedom from the conceit of superiority); (7) the topic of the basis for cultivation; (8) the topic of direct realization; (9) the topic of practice; (10) the topic of the firmness thereof; (11) the topic of the mode thereof; (12) the topic of the object-domain thereof; (13) the topic of skill in observing what has been severed and what has not; (14) the topic of scattering therein; (15) the topic of non-scattering therein; (16) the topic of the basis for non-scattering; (17) the topic of tireless method and non-separation in practice; (18) the topic of the benefit of practice; (19) the topic of the firmness thereof; (20) the topic of gathering the noble category; (21) the topic of what is to be distanced from in the noble category; (22) the topic of true penetration; (23) the topic of realizing nirvāṇa; (24) the topic of the worldly right view obtained in the well-spoken Dharma and Vinaya that surpasses all external right views; and (25) the topic of the decline from not practicing this. This is called "decline" because of not practicing within the well-spoken Dharma and Vinaya, not because of the fault of wrong views.
+
+Furthermore, the Buddha-Bhagavat spoke to the śrāvakas and bodhisattvas the individual liberation (prātimokṣa) and extensively analyzed the dharmas associated with the individual liberation. This is called the Vinaya-piṭaka. Herein, the bodhisattva individual liberation should be known as summarized through seven aspects: (1) the proclamation of the rules for receiving and maintaining; (2) the proclamation of the affairs of pārājika offenses; (3) the proclamation of the affairs of transgressions; (4) the proclamation of the substance of transgressions; (5) the proclamation of the substance of non-offenses; (6) the proclamation of emergence from transgressions; and (7) the proclamation of the relinquishment of the discipline.
+
+Furthermore, the Buddha-Bhagavat, through eleven kinds of characteristics, clearly analyzed, differentiated, and revealed dharmas. This is called the Mātṛkā-piṭaka. What are the eleven kinds of characteristics? (1) The characteristic of conventional truth; (2) the characteristic of ultimate truth; (3) the object-domain characteristic of the dharmas of the factors of awakening (bodhipakṣa-dharma); (4) the mode characteristic thereof; (5) the own-substance characteristic thereof; (6) the characteristic of attaining the fruit thereof; (7) the characteristic of experiencing and making manifest thereof; (8) the characteristic of the dharmas that obstruct this; (9) the characteristic of the dharmas that accord with this; (10) the characteristic of faults therein; and (11) the characteristic of praise therein.
+
+The characteristic of conventional truth should be known as proclaiming persons, proclaiming the imagined self-nature, and proclaiming the characteristics of the functions, instruments, and the like of dharmas. The characteristic of ultimate truth should be known as proclaiming the characteristics of the seven kinds of suchness and the dharmas of the factors of awakening. The object-domain characteristic should be known as proclaiming all kinds of objects of knowledge.
+
+The mode characteristic should be known as proclaiming eight kinds of observational mode. What are the eight? (1) Observing the mode of truth; (2) observing the mode of establishment; (3) observing the mode of faults; (4) observing the mode of virtues; (5) observing the mode of reasoning; (6) observing the mode of cyclic existence; (7) observing the mode of reason; and (8) observing the mode of expansion and condensation. "Truth" refers to suchness. "Establishment" refers to the establishment of persons, the establishment of the imagined self-nature, and the establishment of definitive, analytical, evasive, and setting-aside discourse and debate. "Faults" refers to the various defilements taught by the Buddha, with their manifold faults. "Virtues" refers to the various pure dharmas taught by the Buddha, with their manifold benefits. "Reasoning" has six kinds of modes, as stated in the chapter on the compendium of topics. "Cyclic existence" refers to the three times, the three conditioned characteristics, and the four conditions. "Reason" refers to four kinds of reason: (a) the reason of dependence (apekṣā-yukti); (b) the reason of function (kārya-kāraṇa-yukti); (c) the reason of evidence (upapatti-sādhanā-yukti); and (d) the reason of the nature of dharmas (dharmatā-yukti).
+
+If through various causes and conditions the formations arise and are accordingly revealed, this is called the reason of dependence. If through various causes and conditions dharmas are attained and completed, and if, once arisen, they are able to perform their function, this is called the reason of function. If through various causes and conditions the meaning that has been stated, propounded, and indicated is established and correctly understood, this is called the reason of evidence. This further has, in brief, two kinds: pure and impure. The pure is through five aspects; the impure is through seven aspects. The five aspects of purity are: (1) the aspect of what is directly perceived (pratyakṣa); (2) the aspect dependent on what is directly perceived; (3) the aspect of drawing analogies of the same class; (4) the aspect of establishment; and (5) the aspect of well-purified verbal teaching. Herein, the impermanence of all formations, the suffering of all formations, and the selflessness of all dharmas are what is directly perceived in the world. Such and similar are called the aspect of what is directly perceived. The momentariness of all formations, the existence of future lives, and the non-destruction of pure and impure karma are dependent on the direct perception of gross impermanence, the direct perception of the manifold differentiation of karmic activity among sentient beings, and the direct perception of the pure and impure karma of sentient beings experiencing pleasure and suffering. Through this direct perception, one infers by analogy what is not directly seen. This is called the aspect dependent on what is directly perceived. Drawing from the characteristics of arising and ceasing commonly known and experienced by the world regarding internal and external formations, drawing from the characteristics of suffering of birth and the rest commonly known and experienced by the world, drawing from the characteristics of non-sovereignty commonly known and experienced by the world, and drawing from the characteristics of flourishing and decline commonly known and experienced by the world regarding external things: such and similar are called the aspect of drawing analogies of the same class. The aspect of what is directly perceived and the aspect of drawing analogies of the same class, because these two are definitively one-sided regarding what is to be established, should be known as precisely the aspect of establishment. Verbal teachings spoken by an omniscient one, such as "nirvāṇa is tranquil" and the like, are called the aspect of well-purified verbal teaching. Herein, there are five aspects that can indicate a true omniscient one. What are the five? (1) The true reputation of an omniscient one appearing in the world is spread throughout the world. (2) They possess the thirty-two marks of a great person. (3) They accomplish the ten powers and sever the net of doubts of all sentient beings. (4) They declare themselves to possess the four fearlessnesses, are not overcome by any opposing argument, and are able to defeat all external arguments. (5) Within their Dharma and Vinaya, the noble eightfold path and the four fruits of the ascetic are to be found. Thus, through appearance, wondrous marks, severing doubt, refutation and establishment, and path and fruit: through these five aspects one indicates a true omniscient one. Thus, within the reason of evidence, through direct perception, inference, analogy, establishment, and authoritative teaching: through these five aspects it is called pure.
+
+The seven aspects of impurity are: (1) the aspect of partial similar-class findings; (2) the aspect of partial dissimilar-class findings; (3) the aspect of complete similar-class findings; (4) the aspect of complete dissimilar-class findings; (5) the aspect of drawing dissimilar-class analogies; (6) the aspect of non-establishment; and (7) the aspect of impure verbal teaching. The cognizability of all dharmas by mind-consciousness is called the aspect of complete similar-class findings. Whether in characteristics, self-substance, function, dharma, cause, or fruit, the aspects of sameness and difference, or partial sameness and partial difference, are called the aspect of partial similar-and-dissimilar-class findings. Definitively mutual difference is called the aspect of complete dissimilar-class findings. If, together with the analogy, there is a partial similar-class finding and a complete dissimilar-class finding, then because the meaning to be established is not determined, it is called non-establishment. If, together with the analogy, there is a partial dissimilar-class finding and a complete similar-class finding, then because the meaning to be established is not determined, this too is called non-establishment. Because of non-establishment, it is called an impure observation of reason. Because this observation is impure, it should not be practiced. The aspect of impure verbal teaching refers to verbal teachings that are impure in their own nature, as should be known.
+
+The reason of the nature of dharmas means: whether or not tathāgatas appear in the world, the dharma-nature and dharma-realm abide and do not change. This is called the reason of the nature of dharmas. "Expansion and condensation" means that one first states a dharma in a single sentence, then subsequently, through immeasurable sentences, one progressively analyzes, differentiates, and makes manifest until the ultimate.
+
+The own-substance characteristic refers to the factors of awakening, such as the four foundations of mindfulness and the rest, which take and practice and take as conditions. This is called the own-substance characteristic. The characteristic of attaining the fruit refers to the fruit of the severance of worldly and supramundane afflictions, and the worldly and supramundane virtuous qualities that are elicited. This is called the characteristic of attaining the fruit.
+
+The characteristic of experiencing and making manifest refers to: through the wisdom of liberation, one experiences the characteristic of the fruit obtained, and extensively reveals and explains its characteristics to others. This is called the characteristic of experiencing and making manifest.
+
+The characteristic of the dharmas that obstruct refers to: whatever defiled dharmas are able to obstruct one when cultivating the dharmas of the factors of awakening. This is called the characteristic of the dharmas that obstruct. The characteristic of the dharmas that accord refers to: whatever dharmas are able to accord with and greatly assist the dharmas of the factors of awakening. This is called the characteristic of the dharmas that accord.
+
+The characteristic of faults refers to the various faults of whatever is able to obstruct. This is called the characteristic of faults.
+
+The characteristic of praise refers to the various virtues of whatever accords. This is called the characteristic of praise.
+
+In all situations, when the Buddha-Bhagavats reveal, analyze, differentiate, and explain dharmas through these eleven kinds of characteristics, this is called the Mātṛkā.
+
+Furthermore, the verse says:
+
+> Characteristics, cessation,
+> The method of non-loss,
+> The two fruits thereof and differentiation:
+> These are the brief meaning of the sūtras.
+
+The treatise says: One should know that the meaning of the sūtras, stated briefly, has five kinds: (1) characteristics; (2) cessation; (3) the method of non-loss; (4) the two fruits thereof; and (5) differentiation of characteristics and the rest. These five, stated briefly, are as in the Supriya-sūtra (善生經). The Buddha told Supriya: "Son of good family! The two kinds of affairs that are both excellent" is the excellent characteristic. Cessation has two kinds: cessation of the grasping of desires and cessation of the grasping of the basis of affairs. This statement additionally displays two kinds of non-loss methods. The two kinds of non-loss methods are: "shaving the head and beard, up to taking up the homeless life," and "exhausting all defilements, up to realizing 'my births are ended,'" and so on extensively. The two fruits thereof are the fruits of the non-loss methods. The differentiation of the tranquil nature refers to five kinds of differentiation of tranquility: (1) tranquility from the fetters; (2) worldly tranquility from the abandonment of desire; (3) tranquility from the fetters pertaining to the lower realms; (4) tranquility from the fetters pertaining to the upper realms; and (5) tranquility from the basis of affairs. To display this, in that sūtra the verse (gāthā) says:
+
+> "O monks, it is excellent! Tranquil and free of defilements,
+> Free from desire and free from bondage,
+> Without appropriation, in nirvāṇa,
+> Bearing the final body, having defeated Māra's armies."
+
+Furthermore, the verse says:
+
+> Briefly stated, the yoga path
+> Takes the correctly heard Dharma as its object,
+> With calming and insight
+> Depending on the image for accomplishment.
+
+The treatise says: If one briefly states the yoga path, one should know that it is included in much hearing (bahuśruta): taking the correct Dharma as the object-domain, with calming (śamatha) and insight (vipaśyanā) as the own-substance, depending on the image (pratibimba) and depending on the accomplishment of the affair. As the Bhagavat said: "There are five dharmas that gather all the stages of all yoga practitioners, namely: retention (dhāraṇa), abiding (sthāna), illumination (āloka), mirror (ādarśa), and transformation of the basis (āśraya-parāvṛtti)." One should know that hearing the correct Dharma is retention, the object-domain is abiding, calming and insight are illumination, the image is the mirror, and the accomplishment of the affair is the transformation of the basis.

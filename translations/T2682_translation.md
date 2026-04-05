@@ -3636,7 +3636,7 @@ The passages on this are very numerous. I excerpt ten in brief:
 
 1. The lower fascicle of the *Sūtra on Divination of the Retribution of Good and Evil Karma* says: "If a person wishes to be born in the present pure land of a buddha in another region, that person should recite the name of that world's buddha with focused intent and undistracted mind. Contemplating as described above, one will certainly attain birth in that buddha's pure land and will see one's wholesome roots increase, quickly bringing about the fruits of the shallow and the deep."
 
-Yet all of these passages say uniformly: "single-mindedly and exclusively recollect the Buddha of Immeasurable Life."
+2. Yet all of these passages say uniformly: "single-mindedly and exclusively recollect the Buddha of Immeasurable Life."
 
 3. Among the Forty-eight Vows, there is one vow made specifically concerning the gate of buddha-recollection: "Even with as few as ten recollections, if one is not born there, may I not attain perfect awakening."
 

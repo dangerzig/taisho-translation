@@ -4185,3 +4185,379 @@ Furthermore, the verse says:
 > And the ultimate awakening arise.
 
 The treatise says: After the sixteen aspects of wisdom, one further cultivates. First, the wisdom of comprehensive revulsion focusing on one's own mind arises: this is called warmth (*uṣmagata*). From this upward, the wisdom of discriminating the truths arises: this is called the summit (*mūrdhan*). From this upward, the wisdom of certainty arises: this is called acceptance (*kṣānti*). From this further upward, the wisdom of ultimate awakening arises: this is called the worldly supreme dharma (*laukikāgra-dharma*).
+
+---
+
+## Fascicle 17
+
+### Chapter on Establishing Direct Realization, Chapter 8, Part 1 (continued)
+
+The treatise says: Having thus obtained the wholesome roots of warmth and the rest, one should know that from this point one enters direct realization. The verse says:
+
+> From this, without effort,
+> Liberation-wisdom in three minds:
+> One hundred and twelve
+> Afflictions severed, subsumed under ten.
+
+The treatise says: From this point, without interval and without effort, the wisdom of the three minds of liberation from the latent tendencies (*anuśaya*) abandoned by the path of seeing arises: (1) the wisdom focusing on the elimination of the convention of sentient beings internally; (2) the wisdom focusing on the elimination of the convention of dharmas internally; (3) the wisdom focusing on the comprehensive elimination of the conventions of all sentient beings and dharmas. Here, the first two are dharma-wisdom (*dharma-jñāna*); the third is type-wisdom (*anvaya-jñāna*). These three wisdoms can sever one hundred and twelve afflictions, and these afflictions are subsumed under ten kinds.
+
+The one hundred and twelve afflictions are: those abandoned by seeing the truth of suffering and the rest in the desire realm, each having ten kinds; those abandoned by seeing the truth of suffering and the rest in the form and formless realms, each having nine kinds, namely each excluding hatred. Thus they are called the one hundred and twelve afflictions. What are the ten afflictions they are subsumed under? The five of the nature of views and the five not of the nature of views, as previously stated.
+
+Furthermore, the verse says:
+
+> This realizes the factors of awakening:
+> Six kinds of pure wisdom-characteristics.
+> Because the practice is non-conceptual,
+> They are established following what is accomplished.
+
+The treatise says: One should know this wisdom is the true realization of the awakening factors, not the preliminary stage. It is also the characteristics of six kinds of pure wisdom: dharma-wisdom, type-wisdom, wisdom of suffering, wisdom of the origin, wisdom of cessation, and wisdom of the path. Because this wisdom is non-conceptual, the six wisdom-characteristics are established only following what is accomplished, not through differentiation of the practice itself, as one should know.
+
+Furthermore, the verse says:
+
+> The bodhisattva at this stage,
+> Through the power of previously cultivated supreme causes,
+> Regarding the suffering of self and others,
+> Gives rise to an equanimous mind-nature.
+
+The treatise says: Bodhisattvas at this stage of direct realization, through the power of previously cultivated supreme provisions, give rise to five kinds of equanimous mind regarding the suffering in one's own and others' continuum: (1) equanimity regarding coarse heaviness; (2) equanimity regarding non-self; (3) equanimity regarding the effort of severance; (4) equanimity regarding effort free from relishing; (5) equanimity regarding the direct realization of all bodhisattvas.
+
+Furthermore, the verse says:
+
+> This is the great-self disposition,
+> Without obtaining regarding the [imagined] self-nature.
+> The expansive disposition should be known:
+> Non-conceptual regarding the two natures.
+
+The treatise says: One should know this equanimous mind-nature is the great-self disposition (*mahātma-āśaya*) and the expansive disposition (*vipula-āśaya*), because there is no obtaining regarding the imagined self-nature. Regarding the faults and merits of the two natures, contaminated and uncontaminated, there is also no obtaining, because of non-conceptuality.
+
+Furthermore, the verse says:
+
+> Next, above, the sixteen aspects:
+> Pure mundane wisdom.
+> Counteracting realms and grounds:
+> The ultimate accomplishment of the task.
+
+The treatise says: Above this direct realization of the truths, within the path of cultivation, there are sixteen aspects of mundane and supramundane pure wisdom arising. Namely, regarding the truth of suffering bound to the desire realm, two wisdoms arise: (1) the wisdom of examining through direct realization; (2) the wisdom of certainty through direct realization. Regarding the truth of suffering bound to the form and formless realms, there are likewise two wisdoms. As there are four wisdoms for the truth of suffering, so too for the truths of origin, cessation, and the path, each has four wisdoms. Thus there are a total of sixteen kinds of wisdom.
+
+Furthermore, this wisdom of direct realization, if obtained by śrāvakas and the rest, counteracts the defilements of the three realms of desire, form, and formlessness. If obtained by bodhisattvas, it counteracts the obstacles of the ten stages. Thus one should know the accomplishment of all tasks is ultimate, namely the ultimate transformation of the basis, which is also the ultimate of the wisdom of direct realization, also called the ultimate direct realization.
+
+Furthermore, the verse says:
+
+> The differentiations of this direct realization
+> Are either six or eighteen.
+> The characteristics and benefits are numerous,
+> Following what is stated in the sūtras and treatises.
+
+The treatise says: One should know the differentiations of direct realization further have six kinds: (1) the direct realization of reflection (*cintā-abhisamaya*); (2) the direct realization of faith (*śraddhā-abhisamaya*); (3) the direct realization of morality (*śīla-abhisamaya*); (4) the direct realization of truth through the wisdom of direct realization (*abhisamaya-jñāna-satya-abhisamaya*); (5) the direct realization of truth through the marginal wisdom of direct realization (*abhisamayāntika-jñāna-satya-abhisamaya*); (6) the ultimate direct realization (*niṣṭhā-abhisamaya*).
+
+Question: What is the substance of the direct realization of reflection? Answer: The supreme wisdom born of reflection, or the factors of awakening that accompany it.
+
+Question: What is the substance of the direct realization of faith? Answer: The supreme mundane and supramundane pure faith focusing on the Three Jewels, or the factors of awakening that accompany it.
+
+Question: What is the substance of the direct realization of morality? Answer: The bodily and verbal conduct beloved of the noble ones, or the factors of awakening that accompany it.
+
+Question: What is the substance of the direct realization of truth through the wisdom of direct realization? Answer: The noble wisdom focusing on the non-established truths (*anabhilapya-satya*), or the factors of awakening that accompany it.
+
+Question: What is the substance of the direct realization of truth through the marginal wisdom? Answer: The noble wisdom focusing on the established truths, or the factors of awakening that accompany it.
+
+Question: What is the substance of the ultimate direct realization? Answer: The wisdoms of exhaustion (*kṣaya-jñāna*) and non-arising (*anutpāda-jñāna*), or the factors of awakening that accompany them.
+
+Also, the differentiations of this direct realization have eighteen kinds: the direct realization of the wisdom born of hearing, the direct realization of the wisdom born of reflection, the direct realization of the wisdom born of cultivation, the direct realization of the wisdom of the aids to penetration, the direct realization of the path of seeing, the direct realization of the path of cultivation, the direct realization of the ultimate path, the direct realization of impure conventional wisdom, the direct realization of pure conventional wisdom, the direct realization of ultimate wisdom, the direct realization of impure conceptually differentiated wisdom, the direct realization of pure conceptually differentiated wisdom, the direct realization of pure non-conceptual wisdom, the direct realization of the wisdom preliminary to accomplishing the task, the direct realization of the wisdom of accomplishing the task, the direct realization of the wisdom subsequent to accomplishing the task, the direct realization of śrāvaka wisdom and the rest, and the direct realization of bodhisattva wisdom and the rest.
+
+Furthermore, the characteristics and benefits of this direct realization are of many kinds, following the various sūtras and treatises, as one should know.
+
+Question: What are the characteristics of the direct realization of reflection? Answer: One who has accomplished the direct realization of reflection can correctly understand that all formations are impermanent, all formations are suffering, all dharmas are without self, and nirvāṇa is quiescence. Though still in the stage of ordinary beings, one can already thus definitely understand everything; no śramaṇas, brāhmaṇas, devas, māras, Brahmā, or any in the world can by any means lead one astray from the Dharma.
+
+Question: What are the characteristics of the direct realization of faith? Answer: One who has accomplished the direct realization of faith, whether in the stage of ordinary beings or the stage of the noble, whether in the present life or in future lives, will never declare that in another assembly there is a different great teacher, a different well-taught Dharma, or a different saṃgha of correct practice.
+
+Question: What are the characteristics of the direct realization of morality? Answer: One who has accomplished the direct realization of morality will never, even for the sake of an animal, deliberately take its life, take what is not given, engage in sexual misconduct, knowingly speak falsely, or drink liquor and spirits that lead to heedlessness.
+
+Question: What are the characteristics of the direct realization of truth through the wisdom of direct realization? Answer: One who has accomplished this will never rely on wrong views to initiate actions, nor give rise to doubt or confusion regarding what one has personally realized, nor cling to any birth-place and conceive of auspicious signs of conduct as purifying, nor slander the three vehicles, nor create karma leading to the evil destinies. How much less could one commit the uninterrupted karmas of killing one's father, killing one's mother, and the rest. One will never take an eighth existence.
+
+Question: What are the characteristics of the direct realization of truth through the marginal wisdom? Answer: One who has accomplished this will never cower or fear when others challenge what one has personally realized.
+
+Question: What are the characteristics of the ultimate direct realization? Answer: One who has accomplished this will never fall into the five kinds of offenses, never deliberately take a sentient being's life, take what is not given, engage in sexual impurity or non-brahmacarya, deliberately speak falsely, accumulate wealth and enjoy sensual desires. One will never fear matters that cannot be stated. One will never conceive that suffering and pleasure are self-made, other-made, both self-and-other-made, or neither self-nor-other-made, arising without cause. All such things are the characteristics of direct realization; one should know these are also the benefits of direct realization. Following the sūtras and treatises, they are extensively stated as before.
+
+### Chapter on Establishing Yoga, Chapter 9
+
+The treatise says: Previously it was said that the bodhisattva at this stage had the power of previously cultivated causes and the rest. What is the power of previously cultivated causes? The verse says:
+
+> The yoga of the prajñāpāramitā:
+> The samāpatti is non-conceptual,
+> Regarding all things and all kinds,
+> Because it is without any conceptuality.
+
+The treatise says: Depending on samāpatti, one generates the supreme practice of the yoga of the perfection of wisdom (*prajñāpāramitā*). This very correct wisdom is able to reach the other shore, being the most supreme skillful means of great awakening; therefore it is called yoga. The samāpatti upon which it depends is without conceptuality, being non-conceptual regarding all dharmas and all kinds.
+
+What are "all things" and "all kinds"? The verse says:
+
+> All things and all kinds:
+> Three characteristics and three spheres,
+> Namely name-characteristics, defilement-purity,
+> And neither, of two types.
+
+The treatise says: "All things" means the three spheres (*maṇḍala*): (1) the known object; (2) the knowing wisdom; (3) the knower. "All kinds" means the three characteristics: (1) name-characteristics; (2) defilement-purity; (3) neither. "Names" means the twelve kinds such as conventional designation and the rest. "Name-characteristics" means intrinsic and shared characteristics. "Defilement" means defiled dharmas. "Purity" means wholesome dharmas. "Neither" means unobscured and indeterminate dharmas.
+
+Furthermore, regarding this non-conceptuality, with respect to what dharmas is non-conceptuality spoken of? The verse says:
+
+> Regarding dharmas and the emptiness of dharmas,
+> Without two kinds of discursive elaboration:
+> Non-conceptuality is without regression.
+> Beyond this is unreasonable.
+
+The treatise says: Dharmas and the emptiness of dharmas are both without two kinds of discursive elaboration; therefore it is called non-conceptual. What are the two? Existence and non-existence. Why? Form is not existent, because the imagined characteristic is absent. Nor is it nonexistent, because the matter upon which the convention depends exists. The emptiness of form is also not existent, because what the imagined characteristic reveals is absent. Nor is it nonexistent, because the selflessness of dharmas, which is revealed, exists. As with form and the emptiness of form, so for all remaining dharmas and the emptiness of all dharmas, one should know likewise. Apart from dharmas and the emptiness of dharmas, there is no further domain to be obtained; therefore only the non-conceptuality of the two is stated. It is not the case that non-conceptuality has a further non-conceptuality, for that would have the fault of infinite regress, because beyond this there is no further knowable domain.
+
+Furthermore, the verse says:
+
+> If there is absolutely nothing apprehended,
+> There is no wisdom and no reaching the other shore.
+> Both are accomplished through apprehending the inexpressible.
+> It serves as an accordance, not as something useless.
+
+The treatise says: If there is no conceptuality of the two kinds, then there is no apprehension. With absolutely no apprehension, even the substance of wisdom would be nonexistent, let alone reaching the other shore. Therefore there must be apprehension of the inexpressible characteristic (*nirabhilāpya-lakṣaṇa*). Through this apprehension, wisdom and reaching the other shore are both accomplished. Why? This noble wisdom, though it does not apprehend the nature of the characteristic as verbally expressed, nevertheless apprehends the nature of the inexpressible characteristic.
+
+Question: If this noble wisdom does not apprehend the nature of the characteristic as verbally expressed, the proclamation of the correct Dharma should be useless.
+
+Answer: Not so. It serves as an accordance. Why? In order to accord with the apprehension of the inexpressible characteristic, the Tathāgata proclaims the correct Dharma.
+
+### Chapter on Establishing the Inconceivable, Chapter 10
+
+The treatise says: One must first reflect in order to enter direct realization. Therefore one should avoid thinking about the inconceivable and instead engage in skillful reflection. What are the inconceivable matters? The verse says:
+
+> Nine matters are inconceivable,
+> Depending on five bases.
+> There are five kinds of reasons;
+> Merit and fault each have three kinds.
+
+The treatise says: Nine kinds of matters are inconceivable: (1) the self; (2) sentient beings; (3) the world; (4) karmic retribution; (5) the domain of meditators; (6) the domain of the buddhas; (7) the fourteen indeterminate matters; (8) non-correct Dharma; (9) everything drawn and embraced by the afflictions.
+
+If one thinks about these nine matters, one necessarily depends on five kinds of bases to engage in thinking: (1) views; (2) tolerance; (3) investigation; (4) gain; (5) distraction. Depending on views, one thinks about the self and sentient beings. Depending on tolerance, one thinks about the world. Depending on investigation, one thinks about karmic retribution, the domain of meditators, the domain of the buddhas, and the fourteen indeterminate matters. Depending on gain, one thinks about non-correct Dharma. Depending on distraction, one thinks about everything drawn and embraced by the afflictions.
+
+Question: For what reason should these nine matters not be thought about?
+
+Answer: For five reasons. (1) The self and sentient beings have no intrinsic characteristics; therefore they should not be thought about. (2) The world has the characteristic of being presently established; therefore it should not be thought about. (3) Karmic retribution and the two domains have the characteristic of profound depth; therefore they should not be thought about. (4) The indeterminate matters have the characteristic of being not definitely one; therefore they should not be thought about. (5) Non-correct Dharma and everything drawn by the afflictions have the characteristic of leading to what is without benefit; therefore they should not be thought about.
+
+If one thinks about these matters, one should know it draws three kinds of faults: (1) the fault of giving rise to mental confusion; (2) the fault of generating demerit; (3) the fault of not obtaining wholesome [dharmas]. If one does not think about them, three kinds of merits are drawn; the opposite should be known.
+
+Furthermore, the verse says:
+
+> One should not think about or determine
+> The inconceivable: know this through four causes.
+> Not definitely one, profoundly deep,
+> Leading to what is without benefit, and abiding in its own nature.
+
+The treatise says: Also, briefly stated, through four causes one should not oneself think about inconceivable matters, nor should one determine them for others. (1) The self and sentient beings, whether existent or nonexistent, are not definitely one; therefore they cannot be thought about or determined. (2) Karmic retribution and the two domains are all profoundly deep; therefore they cannot be thought about or determined. (3) The world, the indeterminate matters, non-correct Dharma, and everything drawn by the afflictions lead to what is without benefit; therefore they cannot be thought about or determined. (4) Suchness (*tathatā*) regarding dharmas such as formations is neither identical with nor separate from them; its characteristic abides in its own nature; therefore it cannot be thought about or determined.
+
+Furthermore, the verse says:
+
+> One should not think about whether the self exists or not,
+> Because two faults are established.
+> Regarding others also, two faults:
+> One should not think about identity or difference.
+
+The treatise says: One should not think about whether the self exists or does not exist. Why? Because two faults are established. If one thinks it exists, one incurs the fault of the superimposing grasping upon what is not truly existent. If one thinks it does not exist, one incurs the fault of the deprecating grasping upon what is conventionally existent. Regarding other sentient beings, if one grasps identity or difference, two faults also arise. If one grasps identity, there is the fault of the multiplicity of sentient beings. If one grasps difference, there is the fault of not being the six sense-bases.
+
+Furthermore, the verse says:
+
+> Though the two do not depend on views,
+> Because they are established, one should not think about them.
+> Not thinking about how they arise:
+> Three faults follow.
+
+The treatise says: The world of sentient beings and the receptacle-world, these two, though not dependent on views, should also not be thought about. Why? Because they are commonly known as presently established characteristics.
+
+Question: Why should one not think about how these things arise in this way and not otherwise?
+
+Answer: If one thinks in this way, either one says "it is exactly thus," or "it is different from thus," or "there is no 'thus' at all." These three faults follow.
+
+Furthermore, the verse says:
+
+> Good destinies and evil destinies,
+> The two agents are indeterminate.
+> Past wholesome and unwholesome karma,
+> Their circumstances and matters are hard to conceive.
+
+The treatise says: Regarding karmic retribution, one should not conceive that those who cultivate merit definitely go to the good destinies and those who commit evil definitely go to the evil destinies, because this is indeterminate. Also, the wholesome and unwholesome karma of past lives, whether regarding the circumstances, the matters, the causes, or the retribution, is inconceivable.
+
+Furthermore, the verse says:
+
+> Suchness, the uncontaminated nature,
+> The accomplishment of meaningful tasks:
+> The meditator and the Tathāgata:
+> Without simile, and through sovereignty.
+
+The treatise says: In the two domains of the meditator and the Buddha, suchness and the uncontaminated nature are both inconceivable. Also, the accomplishment of meaningful tasks by the buddhas and the rest, namely the work of benefiting sentient beings, is also inconceivable. Why? Because there is no simile: in the entire world there is no small matter that can serve as a simile for the profoundly deep two domains. Also, through sovereignty: the Tathāgata and the rest, having internally realized the sovereignty of mind, give rise to their accomplished tasks. Everything in the world that is not seen apart from the combination of causes and conditions [cannot serve as comparison].
+
+Furthermore, the verse says:
+
+> What the non-Buddhists proclaim,
+> Leading to what is without benefit,
+> Unreasonable, remote from the four bases:
+> The indeterminate should not be thought about.
+
+The treatise says: All indeterminate matters should not be thought about: because they are proclaimed by the wrong non-Buddhist teachers; because they lead to what is without benefit; because they are not in accordance with correct principle; because they are remote from the four bases of correct thinking, namely the basis of thinking about causes, the basis of thinking about fruits, the basis of thinking about defilement, and the basis of thinking about purity.
+
+Furthermore, as previously stated, thinking about these matters has three kinds of faults. How do they occur? The verse says:
+
+> Exerting effort in the wrong place,
+> Slandering the great self,
+> Not cultivating pure wholesome [dharmas]:
+> Therefore the three faults are established.
+
+The treatise says: Through exerting effort in the wrong place, the fault of mental confusion arises. Through slandering the supreme merits of meditators and the Buddha World-Honored One, the fault of generating demerit arises. Through not generating pure wholesome dharmas, the fault of not obtaining the wholesome arises.
+
+Furthermore, the verse says:
+
+> Departing from the inconceivable,
+> Thinking about what is conceivable:
+> Endowed with eight kinds of merits,
+> One should think in accordance with principle.
+
+The treatise says: Because forcibly thinking about inconceivable matters has such faults, one should depart from them. One should think in accordance with principle about what is conceivable. If one thinks in this way, one is endowed with eight merits. What are the eight? Being able to well understand the dark and the great statements; thinking based on meaning and not depending on written words; relying partially on pure faith for faith-understanding; relying partially on wisdom for discerning observation; firm thinking; careful and true thinking; constantly diligent thinking; and within one's thinking being able to reach the ultimate without laxity or regression.
+
+Furthermore, the verse says:
+
+> What the buddhas have proclaimed
+> Does not contradict thorough knowledge and the rest.
+> Through five causes and two causes,
+> One should not think about these.
+
+The treatise says: Through five causes, one should not delight in thinking about the inconceivable: because the buddhas have so proclaimed, and because it does not contradict the thorough knowledge, abandonment, realization, and cultivation of the four truths. Also, briefly through two causes: teaching and realization. "Teaching" means what the buddhas have proclaimed. "Realization" means the thorough knowledge of suffering and the rest.
+
+### Chapter on the Division of Superior Determination, Chapter 11, Part 1
+
+The treatise says: Having thus departed from the inconceivable and engaged in skillful thinking, regarding the nine topics one should, through ten aspects, give rise to various kinds of supreme determination. What are the ten? The verse says:
+
+> Number, characteristic, difference, existence, location,
+> Limit, arising,
+> Conception, skillful knowledge, and subsumption and the rest:
+> The topics of superior determination.
+
+The treatise says: The ten aspects are: (1) number; (2) characteristic; (3) difference; (4) existence; (5) location; (6) limit; (7) arising; (8) conception; (9) skillful knowledge; (10) subsumption and the rest. Here, "number" means: the number of form is fifteen, and so forth. "Characteristic" means: conventional characteristic, intrinsic characteristic, and shared characteristic. Here, "matter" is also called "characteristic," because it is what is characterized. "Name" is also called "characteristic." "Association" is also called "characteristic," because both are the instrument of characterization: as when one knows there is heat through association with fire and its color. Likewise, "sentient being" is also called "characteristic," because it is the characterizer. "Apprehension" is also called "characteristic," because it is the substance of characterization. "Difference" means differentiations such as material and immaterial, visible and invisible, and so forth. "Existence" means: conventional existence, real existence, and ultimate existence. "Location" means: the four great elements mutually abide in the same location with each other and with derived form. Also, form, mind, and the rest share the same location. Also, depending on a desire-realm body, the mind of the form realm and the rest mutually abide in succession. "Limit" means: form extends up to the form realm and to atoms as its limit; pleasant feeling extends up to the third dhyāna as its limit, and so forth. "Arising" means: through such causes and conditions, such dharmas arise, as with generated momentum and the rest. "Conception" means: phrase-confusion and the rest. "Skillful knowledge" means: skillful knowledge of the aggregates and the rest. "Subsumption and the rest" means: subsumption, association, dependence, conditioning, and questioning discourse. Such questioning discourse further has many kinds: one-line, congruent-anterior, congruent-posterior, tetralemma, and indeterminate. One who can well understand these is called skilled in questioning and recording.
+
+Furthermore, regarding all topics one should give rise to various kinds of supreme determination. The determination of mind-topics shall first be stated. The verse says:
+
+> The nature of mind has two kinds:
+> Ripened and active.
+> The first is the ālaya-vijñāna,
+> With seeds of two kinds, as one should know.
+
+The treatise says: Briefly stated, the nature of mind has two kinds: (1) the ripened mind (*vipāka-citta*); (2) the active mind (*pravṛtti-citta*). The ripened mind is the ālaya-vijñāna (storehouse consciousness), also called the consciousness of all seeds (*sarva-bījaka-vijñāna*). This further has two kinds, as one should know: (1) proof; (2) establishment.
+
+**How is it proven?** The verse says:
+
+> Appropriation, initial [arising], clarity,
+> Seeds, functions, bodily feeling,
+> The mindless samāpattis, and death:
+> Without [this consciousness], none would be reasonable.
+
+The treatise says: The ālaya-vijñāna is definitively proven to exist through eight kinds of characteristics. If there were no ālaya-vijñāna: (1) the support of appropriation (*upādāna*) should not be obtainable; (2) the initial arising [of consciousness] should definitely not be obtainable; (3) clarity of arising should not be obtainable; (4) the seeds of dharmas should not be obtainable; (5) the four kinds of function should not be obtainable; (6) various kinds of bodily feeling should not be obtainable; (7) the two mindless samāpattis should not be obtainable; (8) consciousness at the time of death should not be obtainable.
+
+Question: Why, if there were no ālaya-vijñāna, would the support of appropriation not be obtainable?
+
+Answer: Through five reasons. (1) The ālaya-vijñāna arises through prior karmic causes, while the active consciousnesses of the eye and the rest arise through present conditional causes. As the sūtra says: "Through the power of faculty, object, and mental attention, the active consciousnesses arise," and so forth extensively. This is the first reason. (2) The six consciousness-groups can be wholesome or unwholesome. This is the second reason. (3) A single-flavored ripened indeterminate consciousness subsumed under the six consciousness-groups definitely cannot be obtained. This is the third reason. (4) The six consciousness-groups each turn based on separate supports; if whichever support is the basis for whichever consciousness's turning, then that support should have appropriation while the rest would not. This is unreasonable. Even if one grants that it can appropriate, this is also unreasonable, because consciousness is absent [from those other supports]. This is the fourth reason. (5) The support should incur the fault of repeated appropriation. Why? Because eye-consciousness sometimes turns and sometimes does not, and likewise for the other consciousnesses. This is the fifth reason. Thus, because of arising from prior karmic causes and present conditional causes, because of being wholesome and unwholesome, because a single-flavored [ripened consciousness] cannot be obtained, because of separate supports, and because of the fault of repeated appropriation, [without the ālaya-vijñāna] this is unreasonable.
+
+Question: Why would the initial arising not be obtainable?
+
+Answer: Suppose someone argues: "If there is an ālaya-vijñāna, there should be two consciousnesses arising simultaneously." One should reply: "You generate a faulty conception where there is no fault, because it is possible for two consciousnesses to turn simultaneously." Why? If there is one who simultaneously wishes to see, and so forth up to wishes to cognize, it is unreasonable that only a single separate consciousness arises first. Why? At that time, mental attention is without differentiation, the faculties and objects are unimpaired and present; for what reason would the consciousnesses not turn simultaneously?
+
+Question: Why would clarity of arising not be obtainable?
+
+Answer: If one definitively maintains that consciousnesses do not arise simultaneously, then the clear consciousness accompanying the eye and other consciousnesses that operates on the same object should not be obtainable. Why? When a recollection arises focusing on a past object, at that time an unclear consciousness is presently active, not a consciousness operating on a present object. It is possible for a consciousness operating on present objects to have such an unclear characteristic; therefore one should accept that the consciousnesses turn simultaneously. Otherwise, one should accept that the sixth consciousness lacks the nature of clarity, which would be faulty.
+
+Question: Why would seeds not be obtainable?
+
+Answer: Because the six active consciousness-groups are each separately different. Why? These six active consciousnesses arise as unwholesome immediately after wholesome, and wholesome arises immediately after unwholesome. Immediately after both, indeterminate arises. After the inferior realm, the middle realm arises; after the middle realm, the superior realm arises. Likewise, after the superior realm, and so forth down to the inferior realm arising. Immediately after the contaminated, the uncontaminated arises; immediately after the uncontaminated, the contaminated arises. Immediately after the mundane, the supramundane arises; immediately after the supramundane, the mundane arises. It is unreasonable that such a characteristic should serve as the seed-substance. Also, those consciousnesses are interrupted for long periods, yet the continuity persists over a long time flowing without ceasing. Therefore, that the active consciousnesses can maintain seeds is unreasonable.
+
+Question: Why would functions not be obtainable?
+
+Answer: If there is no simultaneous arising of consciousnesses, it is unreasonable for functions to turn simultaneously. Why? Briefly stated, functions are of four kinds: (1) the function of cognizing the receptacle; (2) the function of cognizing the support; (3) the function of cognizing the self; (4) the function of cognizing objects. These four kinds of cognitive functions are perceivable simultaneously moment by moment. It is not possible for a single consciousness in a single moment to have such differentiated functions. Therefore there must be simultaneous arising of consciousnesses.
+
+Question: Why, without the ālaya-vijñāna, would bodily feeling not be obtainable?
+
+Answer: If there is one who, whether through correct or incorrect mental engagement, engages in various kinds of investigation, whether the mind is in samādhi or not in samādhi, bodily feelings arise that are not singular but manifold. Without this consciousness, such bodily feelings should not be obtainable. Since they are presently obtainable, the ālaya-vijñāna definitely exists.
+
+Question: Why, without the ālaya-vijñāna, would the mindless samāpattis not be obtainable?
+
+Answer: As the Bhagavān said: "When one enters the attainment of non-perception and the attainment of cessation, one should know that at that time consciousness does not depart from the body." Without this consciousness, at that time consciousness should depart from the body. If consciousness departs from the body, one should die; this would not be called being in samāpatti.
+
+Question: Why, without the ālaya-vijñāna, would consciousness at the time of death not be obtainable?
+
+Answer: When one is on the verge of death, consciousness gradually departs from either the upper or lower parts of the body, and cold touch gradually appears. Since the mental consciousness (*mano-vijñāna*) sometimes does not turn, one knows that only the ālaya-vijñāna can appropriate and maintain the body. When this consciousness departs, cold touch is perceivable in those body-parts, and the body is without feeling or reception. The mental consciousness is not like this. Therefore, without this consciousness, it is unreasonable.
+
+Thus the reasoning proving the ālaya-vijñāna has been stated. **How is it established?** The verse says:
+
+> Object-domain, associated factors,
+> Mutual causation of two kinds,
+> Co-occurrence with consciousnesses and the rest,
+> Defilement and purification.
+
+The treatise says: Briefly stated, this consciousness is established through five kinds of characteristics: (1) the characteristic of the object-domain; (2) the characteristic of the associated factors; (3) the characteristic of mutual causation; (4) the characteristic of co-occurrence; (5) the characteristic of defilement and purification. One should know that the first four characteristics establish the process of transmigration, and the last characteristic establishes the process of cessation.
+
+Question: How is the characteristic of the object-domain established?
+
+Answer: Briefly stated, this consciousness turns by cognizing two kinds of object-domains: (1) by cognizing the internal appropriation (*upādāna*); (2) by cognizing the external undifferentiated characteristic of the receptacle (*bhājana*). Cognizing the internal appropriation means cognizing the habitual tendencies of the false grasping of the imagined self-nature, as well as the material faculties and their physical supports. In the form realm, if in the formless realm, there are only the habitual tendencies of false grasping as appropriation. Cognizing the external undifferentiated characteristic of the receptacle means: depending on and conditioned by the ālaya-vijñāna that internally appropriates, at all times without interruption, the characteristic of the receptacle-world [is cognized]. Like a lamp-flame that internally appropriates the wick and oil while externally emitting light: so the ālaya-vijñāna internally focuses on the appropriated domain and externally focuses on the receptacle-world domain. The principle of its arising should be known likewise. Also, this consciousness cognizes its domain subtly; even the worldly wise find it difficult to comprehend. Also, this consciousness cognizes its domain without interruption and without change, from the first moment of appropriation up to the end of life, with a single flavor of cognition flowing on. Also, this consciousness, regarding its cognized domain, arises and ceases moment by moment; one should know it flows in a moment-by-moment continuity, neither permanent nor singular. Also, in the desire realm this consciousness focuses on a narrow appropriated domain; in the form realm, on a vast appropriated domain; in the formless realm, at the base of infinite space and infinite consciousness, on an immeasurable appropriated domain; at the base of nothing whatsoever, on a subtle appropriated domain; at the base of neither-perception-nor-non-perception, on an extremely subtle appropriated domain. Thus, through cognizing the two kinds of object-domain, through subtly cognizing the object-domain, through similarly cognizing, through momentarily cognizing, through cognizing the narrow appropriated object-domain, through cognizing the vast appropriated object-domain, through cognizing the immeasurable appropriated object-domain, through cognizing the subtle appropriated object-domain, and through cognizing the extremely subtle appropriated object-domain: this is the establishment of the characteristic of the ālaya-vijñāna's object-domain.
+
+Question: How is the characteristic of the associated factors established?
+
+Answer: This ālaya-vijñāna is constantly associated with the five omnipresent mental factors (*sarvatraga-caitta*): attention (*manaskāra*), contact (*sparśa*), feeling (*vedanā*), perception (*saṃjñā*), and volition (*cetanā*). These five dharmas are also subsumed under the ripened, are extremely subtle, and even the worldly wise find them difficult to comprehend. These mental factors also constantly turn in a single-flavored focus on the domain. Also, the feeling associated with this consciousness is exclusively neither-painful-nor-pleasant, subsumed under the indeterminate. One should know that the mode of practice of the remaining mental factors is likewise. Thus, through association with the omnipresent mental factors, through association with a single-flavored ripened nature, through association with the extremely subtle, through constantly arising in a single-flavored focus on the domain, through association with neither-painful-nor-pleasant, and through association with the exclusively indeterminate: this is the establishment of the characteristic of the ālaya-vijñāna's associated factors.
+
+Question: How is the characteristic of mutual causation established?
+
+Answer: The ālaya-vijñāna serves as two kinds of cause for the active consciousnesses: (1) the cause of seed-generation; (2) the cause of being the support. The cause of seed-generation means: whenever wholesome, unwholesome, or indeterminate active consciousnesses arise, all arise because of the seeds of the ālaya-vijñāna. The cause of being the support means: because the material faculties appropriated by the ālaya-vijñāna serve as the support, the five consciousness-groups turn, but not without appropriation. Also, because this consciousness exists, the mental faculty exists; because this mental faculty serves as the support, the mental consciousness arises. Just as the five consciousness-groups turn depending on the five material faculties of the eye and the rest, and not without the five faculties, so too the mental consciousness, not without the mental faculty.
+
+Furthermore, the active consciousnesses serve as two kinds of cause for the ālaya-vijñāna: (1) nourishing its seeds in the present life; (2) planting its seeds for future lives. Nourishing its seeds in the present life means: depending on the ālaya-vijñāna, as such-and-such wholesome, unwholesome, or indeterminate active consciousnesses arise, being of one support and arising and ceasing together, they thus perfume this consciousness. Because of this serving as cause and condition, subsequent active consciousnesses of wholesome, unwholesome, or indeterminate nature turn, and turn with increase, and turn blazingly, and turn clearly, and come to arise. Planting its seeds for future lives means: the class of those habitual tendencies can draw and plant the future, namely this very ripened ālaya-vijñāna. Thus, through the cause of seeds, the cause of support, nourishing seeds, and planting seeds: this is the establishment of the characteristic of the mutual causation of the ālaya-vijñāna and the active consciousnesses.
+
+Question: How is the characteristic of co-occurrence established?
+
+Answer: The ālaya-vijñāna sometimes at one time co-arises with only one active consciousness, namely the mental faculty (*manas*). Why? Because this mental faculty is constantly associated with the view of self, self-conceit, and the rest, with the mode of practice of exaltation; whether in a position with mind or without mind, it constantly co-arises with this consciousness. Also, this mental faculty constantly takes the ālaya-vijñāna as its object, and with the mode of practice of grasping "self" and the conceit of exaltation, it arises.
+
+Also, at one time this consciousness co-arises with two active consciousnesses: the mental faculty and the mental consciousness. At one time, with three active consciousnesses: when any one of the five sense-consciousness-groups arises, the previous two plus this one. At one time, with four: when any two of the five arise, the previous two plus these two. And so forth, at one time up to seven active consciousnesses co-arising: when all five sense-consciousness-groups arise together, the previous two plus these five.
+
+Furthermore, as previously stated, the mental consciousness arises depending on the defiled mental faculty (*kliṣṭa-manas*). While the mental faculty has not ceased, one is bound by the characteristic-apprehension and cannot attain liberation. When the mental faculty ceases, one is liberated from the characteristic-bondage.
+
+Also, the mental consciousness can focus on other domains and on its own domain. Focusing on other domains means: either collectively or individually, focusing on the domains of the five sense-consciousness-groups. Focusing on its own domain means: focusing on the dharma-domain.
+
+Furthermore, the ālaya-vijñāna sometimes at one time co-turns with painful feeling, pleasant feeling, and neither-painful-nor-pleasant feeling. These feelings, being associated with the active consciousnesses and arising depending on the active consciousnesses, are generated from the seeds of this consciousness.
+
+Also, in the human destiny, in the desire-realm devas, and in a portion of the hungry ghost and animal destinies, the innate neither-painful-nor-pleasant feeling co-turns simultaneously with the mixed and continuous feelings of pain, pleasure, and neither-pain-nor-pleasure associated with the active consciousness-groups. In the hell destiny, being overshadowed by others, the neither-painful-nor-pleasant feeling co-turns with the purely painful, unmixed, continuous feeling associated with the active consciousnesses. One should know that because this feeling is overshadowed, its characteristic is difficult to discern. As in the hells it exclusively co-turns with painful feeling, so in the lower three dhyāna grounds it exclusively co-turns with pleasant feeling, and from the fourth dhyāna ground up to the peak of existence it exclusively co-turns with neither-painful-nor-pleasant feeling.
+
+Furthermore, the ālaya-vijñāna at one time co-turns with the wholesome, unwholesome, and indeterminate mental factors associated with the active consciousnesses. Thus the ālaya-vijñāna co-turns with the active consciousnesses simultaneously, and also co-turns with adventitious feelings and adventitious wholesome, unwholesome, and indeterminate mental factors. Yet it should not be said to be associated with them. Why? Because it does not turn focusing on the same object as them. Just as eye-consciousness, though it co-turns with the eye, is nevertheless not associated with it. This is likewise; because it partially resembles those dharmas, it can serve as a simile. The principle of the simile should be understood in this way.
+
+Also, just as mind and mental factors, though there is no difference in the substance and meaning of a mental factor, nevertheless, because their characteristics are different, they co-turn in a single body without contradiction: so too this consciousness and the active consciousnesses co-turn, one should know, without contradiction.
+
+Also, just as depending on a torrent, many waves of various kinds arise simultaneously without contradiction; and just as depending on the surface of a clean mirror, various reflections arise simultaneously without contradiction: so too depending on the ālaya-vijñāna, there are many active consciousnesses; one should know they arise simultaneously without contradiction.
+
+Also, just as a single eye-consciousness at one time, regarding a single object-domain, apprehends only a single kind of undifferentiated color, or at one time suddenly apprehends multiple and various colors: as with eye-consciousness regarding form, so up to body-consciousness regarding touch, at one time regarding a single object-domain, it either apprehends one characteristic or suddenly apprehends many kinds of object-characteristics. So too the discriminating mental consciousness at one time either apprehends one domain or suddenly apprehends numerous domains; one should know this is also without contradiction.
+
+Furthermore, as previously stated, the mental faculty constantly co-turns with this consciousness. At all times, until it is severed, one should know it is constantly associated with four kinds of afflictions that arise spontaneously together with it: the view of the embodied self (*satkāya-dṛṣṭi*), self-conceit (*asmimāna*), self-craving (*ātma-sneha*), and ignorance (*avidyā*). These four afflictions, whether in the concentrated state or not, should be known as constantly active; they do not contradict the wholesome and the rest, and are of the nature of obscured-indeterminate (*nivṛtāvyākṛta*).
+
+Thus, through co-turning with the active consciousnesses, through co-turning with various feelings, through co-turning with wholesome and the rest: this is the establishment of the characteristic of the ālaya-vijñāna's co-occurrence.
+
+Question: How is the characteristic of the ālaya-vijñāna's defilement and purification established?
+
+Answer: Briefly stated, the ālaya-vijñāna should be known as the root of all defiled dharmas. Why? This ālaya-vijñāna is also the root of the arising of the world of sentient beings, being able to generate the faculties, the physical supports of the faculties, and the active consciousnesses. It is also the root of the arising of the receptacle-world, being able to generate the receptacle-world. Also, this consciousness is the root of the mutual arising of all sentient beings, because all sentient beings mutually serve as dominant conditions (*adhipati-pratyaya*). Why? There is no sentient being who, upon seeing, hearing, and the rest of another sentient being, does not experience suffering, pleasure, and the rest. For this reason, one should know that the world of sentient beings mutually serves as dominant conditions.
+
+Furthermore, because the ālaya-vijñāna possesses all seeds, in the present life it is the substance of the truth of suffering, the cause of the arising of the truth of suffering in future lives, and also the cause of the arising of the truth of the origin in the present life. Thus, because it is the root of the arising of the world of sentient beings, the root of the arising of the receptacle-world, the substance of the truth of suffering in the present life, able to generate the truth of suffering in the future, and able to generate the truth of the origin in the present: one should know the ālaya-vijñāna is the root of all defilement.
+
+Furthermore, the wholesome root seeds of the aids to liberation (*mokṣa-bhāgīya*) and the aids to penetration (*nirvedhabhāgīya*) maintained by the ālaya-vijñāna are not causes of the truth of the origin, because the wholesome roots of the aids to liberation and the rest oppose transmigration. The remaining mundane wholesome roots, because they arise through this, turn increasingly bright. Why? Through this condition, the seeds of their own class that are embraced become increasingly capable, increasingly powerful, and the seeds grow and become established. Through these seeds, those wholesome dharmas arise with increasing brightness. Also, they can bring about increasingly excellent and lovable ripened results in future lives.
+
+Also, depending on this ālaya-vijñāna of all seeds, the Bhagavān said: "The eye-element, form-element, eye-consciousness-element, up to the mental-element, dharma-element, mental-consciousness-element." Because within the ālaya-vijñāna there are various elements. Also, as the sūtra says, using the simile of a cluster of vibhītaka nuts, because within the ālaya-vijñāna there are manifold elements.
+
+Therefore one should know: this very ālaya-vijñāna, the root of defilement, through the cultivation of wholesome dharmas, can be transformed and extinguished.
+
+Also, this cultivation of wholesome dharmas: for ordinary beings, through the mental engagement that takes the active consciousnesses as objects and focuses on them, one dwells the mind through skillful means, wishing to enter the first direct realization of the truths. One who has not yet seen the truths cannot, regarding the truths, obtain the Dharma-eye without having penetrated the ālaya-vijñāna of all seeds. After this one who has not yet seen the truths cultivates such practices, one either enters the certainty of the correct nature of the śrāvaka or enters the certainty of the correct nature of the bodhisattva. Having penetrated the entire dharma-realm, one can also penetrate the ālaya-vijñāna. At that time, one comprehensively contemplates one's own individual internal defilements in their totality. Furthermore, one understands that one's own person is externally bound by the bondage of characteristics, and internally bound by the bondage of coarse heaviness.
+
+Also, because this ālaya-vijñāna is the realm of all formations subsumed under discursive elaboration, this practitioner briefly gathers all those formations into the ālaya-vijñāna, making them into one mass, one heap, one aggregate. Having made them into one aggregate, through the wisdom focusing on suchness being cultivated and repeatedly cultivated, the support transforms: the transformation of the basis, without interval, one should know, has severed the ālaya-vijñāna. Through this severance, one should know, all defilement has been severed.
+
+Also, this transformation of the basis, being contrary [to the ālaya-vijñāna], one should know, can counteract the ālaya-vijñāna. Also, the ālaya-vijñāna is impermanent in substance, of the nature of appropriation, while the transformation of the basis is permanent, without the nature of appropriation, because the holy path focusing on the suchness domain is able to transform. Also, the ālaya-vijñāna is accompanied by coarse heaviness; the transformation of the basis ultimately departs from all coarse heaviness. Also, the ālaya-vijñāna is the cause of the arising of afflictions and the non-cause of the arising of the holy path; the transformation of the basis is the cause of the non-arising of afflictions and the cause of the arising of the holy path. This is the establishment of the causal substance, not the substance of a generative cause. Also, the ālaya-vijñāna prevents sovereignty over wholesome, pure, and indeterminate dharmas; the transformation of the basis grants great sovereignty over all wholesome, pure, and indeterminate dharmas.
+
+Furthermore, the characteristic of the severance of this ālaya-vijñāna is as follows: when this ālaya-vijñāna is correctly severed, one relinquishes two kinds of appropriation, and though the body continues, it is like a magical transformation. Why? Because the cause of future suffering has been severed, one relinquishes the appropriation of future existence. Because the cause of all afflictions in the present life has been severed, one relinquishes the appropriation that serves as the support of all present defilement. Because all coarse heaviness has been departed from, only the conditioning of life temporarily sustains it. Because of this, the Buddha-sūtras say: "At that time, one only receives the feeling at the body's edge, the feeling at life's edge," and so forth extensively, "up to in the present life, all that is felt is ultimately extinguished."
+
+Thus, through establishing the root of defilement, through the mental engagement of entering, penetrating, and cultivating, through establishing the transformation of the basis: this is the establishment of the characteristic of the ālaya-vijñāna's defilement and purification.
+
+Having thus established mind, mental faculty, and consciousness through the ultimate principle, following the reasoning herein stated, regarding all mind, mental faculty, and consciousness in the three realms, and all the principles of defilement and purity, one should accordingly illuminate them. If in other places the principles of mind, mental faculty, and consciousness are revealed, this is because of the differentiation of the beings to be trained, and is stated only in dependence on beings to be trained who possess the wisdom of fools, as a skillful means to cause them to easily enter the Dharma.
+
+Question: If one possesses the ālaya-vijñāna, does one also possess the active consciousnesses? If one possesses the active consciousnesses, does one also possess the ālaya-vijñāna?
+
+Answer: This should be answered with a tetralemma: (1) One may possess the ālaya-vijñāna but not the active consciousnesses: those in mindless sleep, those in mindless swoon, those who have entered the attainment of non-perception, those who have entered the attainment of cessation, and those born in the heaven of non-perception. (2) One may possess the active consciousnesses but not the ālaya-vijñāna: arhats, pratyekabuddhas, non-regressing bodhisattvas, and tathāgatas who are in a position with mind. (3) One may possess both: all remaining beings in a position with mind. (4) One may possess neither: arhats, pratyekabuddhas, non-regressing bodhisattvas, and tathāgatas who have entered the attainment of cessation, or who are in the realm of nirvāṇa without remainder.

@@ -2838,3 +2838,451 @@ The Tathāgata, with various wisdoms among all dharmas, well investigates: wheth
 Furthermore, all Buddha-sūtras should be explicated through six aspects: (1) through thoroughly knowing all dharmas; (2) through abandoning evil conduct and the great and small afflictions; (3) through embracing wholesome conduct; (4) through the wisdom that thoroughly knows and penetrates illness and other such conducts; (5) through their fruits; (6) through oneself and others receiving those fruits. Through these six aspects and through the previously established aspects, one should well explicate all Buddha-sūtras. Here, "dharmas" means the aggregates (*skandha*), elements (*dhātu*), sense-bases (*āyatana*), dependent arising (*pratītyasamutpāda*), foundations of mindfulness (*smṛtyupasthāna*), correct exertions (*samyakprahāṇa*), and so forth. "Their fruits" means revulsion (*nirveda*), separation from desire (*virāga*), liberation (*vimukti*), and parinirvāṇa. "Oneself and others receiving those fruits" means "My births are exhausted" and so forth.
 
 Thus, this is the collective name for the Division on Gathering the Meaning of Explication. In this chapter, four aspects of this treatise are revealed: (1) the aspect of supremacy; (2) the aspect of self-substance; (3) the aspect of purity; (4) the aspect of explaining the teaching. Here, the aspect of supremacy is in two verses, the aspect of self-substance is in five verses, the aspect of purity is in two verses, and the aspect of explaining the teaching is in one verse.
+
+---
+
+## Fascicle 14
+
+### Chapter on Establishing Skillful Knowledge, Chapter 3
+
+Furthermore, among the nine topics and so forth that form the substance of this treatise, one should well understand seven kinds of skillful knowledge (*kauśalya*). What are the seven? The verse says:
+
+> In the aggregates, elements, sense-bases,
+> And the dharmas of dependent arising,
+> The possible and impossible, the faculties, and the truths:
+> The topics of skillful knowledge should be understood.
+
+The treatise says: One who abides in the correct Dharma should well comprehend the topics of these seven kinds of skillful knowledge.
+
+Question: Why are only seven kinds of skillful knowledge established?
+
+Answer: Because worldly foolish beings mostly conceive in the following manner. The verse says:
+
+> A "person," a creator and the rest,
+> Without cause the person abides,
+> Transmigrates, performs actions,
+> And two kinds of supremacy.
+
+The treatise says: Through lack of skillful knowledge regarding the aggregates (*skandha*), one grasps the substance of the aggregates as a self, a "person." Through lack of skillful knowledge regarding the elements (*dhātu*), one grasps a creator such as Īśvara and the rest as the cause of the person's arising, or one asserts no cause, claiming the person arises spontaneously by itself, because one does not understand that the person arises from its own seed-causes. Why? Because "element" is a terminological differentiation for capacity, seed, lineage, cause, and so forth. Through lack of skillful knowledge regarding the sense-bases (*āyatana*), one grasps that there is a person who depends on the body and abides therein, apprehending external objects. Through lack of skillful knowledge regarding dependent arising (*pratītyasamutpāda*), one grasps that there is a person who transmigrates through birth and death. Through lack of skillful knowledge regarding the possible and impossible (*sthānāsthāna*), one grasps that there is a person who performs actions. Through lack of skillful knowledge regarding the faculties (*indriya*) and the truths (*satya*), one grasps two kinds of supremacy of a person: supremacy regarding the fruits of desirable and undesirable karmic actions, and supremacy regarding defilement and purity. Through lack of skillful knowledge regarding the two truths of suffering and its origin, one conceives of a supreme agent of defilement. Through lack of skillful knowledge regarding the two truths of cessation and the path, one conceives of a supreme agent of purity. The verse says:
+
+> Regarding the person and so forth arises
+> The conceit of a real self as the abiding support;
+> The transmigrator, the agent,
+> And the various meanings of supremacy;
+> Defilement and purity:
+> Seven kinds of ignorance arise.
+> The antidotes to these, one should know,
+> Comprise the seven kinds of skillful knowledge.
+
+The treatise says: As previously stated in general, the two kinds of supremacy are distinctly revealed as two kinds of ignorance: ignorance of the meaning of supremacy, and ignorance of defilement and purity. Who turns in delusion based on the seven kinds of ignorance regarding the person and the rest? The verse says:
+
+> The falsely conceived self, the person,
+> Depending on the sense-faculties abides,
+> Turns among objects and domains,
+> Experiences the desirable and undesirable,
+> Serves as the support of speech,
+> Is an agent and an experiencer:
+> Through seeing the differentiated aggregates
+> As a whole, one conceives a single person.
+
+The treatise says: One ignorant of the person, through not comprehending the substance of the form aggregate (*rūpa-skandha*), conceives a single self that depends on the five faculties and turns among objects. Through not comprehending the substance of the feeling aggregate (*vedanā-skandha*), one conceives a separate experiencer who experiences all desirable and undesirable matters. Through not comprehending the substance of the perception aggregate (*saṃjñā-skandha*), one separately conceives a self as the support of speech, not knowing that perception is the support of speech. As the Bhagavān said: "In accordance with one's perceptions, speech arises." Through not comprehending the substance of the formations aggregate (*saṃskāra-skandha*), one conceives an agent. Through not comprehending the substance of the consciousness aggregate (*vijñāna-skandha*), one conceives an experiencer apart from mere consciousness, because worldly beings give rise to the notion of an experiencer regarding the substance of the consciousness aggregate. In this manner, the foolish, regarding the intrinsic characteristics of the differentiated aggregates, give rise to one general kind of ignorance about the person, and conceive the person as the self.
+
+Furthermore, regarding the ignorance of the initial cause: the verse says:
+
+> Confused about the initial cause,
+> One conceives a permanent cause or no cause.
+
+The treatise says: Worldly foolish beings, being confused about the initial cause of the person, grasp an unequal cause, asserting a permanently abiding Īśvara, Viṣṇu, prakṛti (*svabhāva*), and other such causes. Or they assert no cause at all, denying the existence of any generative causal substance.
+
+Furthermore, regarding the ignorance of a real self as the abiding support: the verse says:
+
+> The self supports the faculties,
+> Is able to contact and able to experience.
+
+The treatise says: One conceives that the self supports the faculties, is able to contact touches that accord with painful feelings and touches that accord with pleasant feelings, and is able to experience both pleasure and pain.
+
+Furthermore, regarding the ignorance of the transmigrator, the agent, the meaning of supremacy, and defilement and purity, one conceives a separately abiding self that supports a person, and then the verse says:
+
+> In various places of death and birth,
+> One conceives a transmigrator,
+> An agent of dharma and adharma,
+> And supremacy over their fruits.
+> In cultivating wrong practices,
+> One conceives a defiled being;
+> In cultivating correct practices,
+> One falsely conceives a liberated being.
+
+The treatise says: Such an ignorant person, in the various locations of death and birth, conceives a real self that transmigrates through birth and death. This same real self creates the causes of dharma and adharma for future lives. This same real self has sovereign mastery over the enjoyment of those fruits, and so those fruition-dharmas arise. This same real self, depending on fruition-dharmas and cultivating wrong practices, is conceived as a defiled being, and cultivating correct practices, is conceived as a liberated being. The verse says:
+
+> Before the Buddha appeared in the world,
+> Such ignorance turned;
+> Because the Buddha appeared in the world,
+> He taught the seven kinds of skillful knowledge.
+
+The treatise says: This reveals that during such a time, according to the respective circumstances, the ignorance of the non-Buddhist teachers prevails. The cessation and reversal of sentient beings is through these seven kinds of skillful verbal teachings, which are not shared with any of the non-Buddhist teachers.
+
+**Skillful knowledge of the aggregates** (*skandha-kauśalya*): the verse says:
+
+> Knowing the distinction of the worldly and the rest,
+> One can remove the notion of a unity.
+> Identical with, separate from, or liberated from:
+> Sentient beings are not to be found.
+> Multiplicity, summary,
+> Co-occurrence, and differentiated turning,
+> Superimposition and diminishment:
+> Skillful knowledge of the aggregates should be understood.
+
+The treatise says: "The distinction of the worldly and the rest" means the differentiations of the nature of the aggregates such as past and future. As the Bhagavān said: "Whatever form there is, whether past, future, or present, whether internal or external, whether coarse or subtle, whether inferior or superior, whether far or near," and so forth extensively. Through knowing with supreme wisdom in accordance with reality, one abandons the notion of a unity regarding the aggregates. This is cessation and reversal. Also, the person-nature (*pudgala-svabhāva*) is not to be found in the aggregates. Why? Identical with the aggregates, sentient beings are not to be found; separate from the aggregates, sentient beings are also not to be found; liberated from the aggregates, sentient beings are also not to be found. As the Bhagavān asked Senik (Sīnīka): "Do you see the Tathāgata in the form aggregate?" and so forth, "Do you see the Tathāgata in the consciousness aggregate?" Senik answered: "No, Gautama!" And so forth extensively. In that sūtra, it is stated that the person is not to be found, whether collectively or individually, in the form and other aggregates. Here only the brief statement is given: collectively in the five aggregates, it is not to be found.
+
+As already stated, through understanding the differentiated characteristics of form and so forth, and through being able to depart from the superimposing grasping that opposes this, one attains skillful knowledge regarding both the intrinsic and shared characteristics of the aggregates. Furthermore, "aggregate" (*skandha*) means "heap" or "accumulation." To well understand this meaning of accumulation is called skillful knowledge of the aggregates. This meaning of accumulation further has four kinds: the meaning of multiplicity, the meaning of summary, the meaning of co-occurrence and turning, and the meaning of superimposition and diminishment. Here, the self-substance of the aggregates and the benefit of severing their obstacles are revealed. This is skillful knowledge of the aggregates.
+
+**Skillful knowledge of the elements** (*dhātu-kauśalya*): the verse says:
+
+> Seeing the three kinds arise from their causes,
+> Is called skillful knowledge of the elements.
+> From beginningless self-seeds,
+> There are multiple and various arisings.
+> Through this and within this,
+> The apprehender is not to be found.
+> Relying on one's own wisdom, accomplished:
+> One can remove the sense of inferiority.
+
+The treatise says: Through observing that the three dharmas of faculty, object, and consciousness arise from their own causes, this is called skillful knowledge of the elements. Why? Because those dharmas, in beginningless transmigration, arise from their own seeds in multiple arisings and various arisings. One should know that "multiple arisings" is as the sūtra says: "because not a single element." "Various arisings" is as the sūtra says: "because of various elements."
+
+Furthermore, through relying on the faculties with respect to objects, the apprehending self is not to be found. One can then know that what is accomplished relies on one's own establishment, not on Maheśvara and the rest. Therefore, in whatever one wishes to do, one does not give rise to a sense of inferiority, and freely cultivates. Here, the self-substance of skillful knowledge of the elements and the benefit of severing its obstacles are revealed. This is skillful knowledge of the elements.
+
+**Skillful knowledge of the sense-bases** (*āyatana-kauśalya*): the verse says:
+
+> Knowing that contacts and feelings
+> Are the gates of arising for two kinds,
+> Depending on contact:
+> Understand skillful knowledge of the sense-bases.
+> Like "dharma-base" and "deva-base,"
+> Each later one depends on the preceding.
+> Through conventional truth,
+> One understands two kinds of nature.
+
+The treatise says: Through well understanding the substance of the gate of contact-arising, two bases are established: the faculty and the object. In this way, through the meaning of being the source of arising, they are called "bases" (*āyatana*), just as in the world, a place for cultivating wholesome dharmas is called a "dharma-base." Also, through well understanding that all feelings depend on contact, contact is established as their base. In this way, through the meaning of being a dwelling-place, it is called a "base," just as in the world, the dwelling place of a deity's image is called a "deva-base."
+
+Furthermore, when the two dharmas of contact and feeling arise, through conventional truth (*saṃvṛti-satya*) one understands two natures: the contacter and the feeler, since contact is that which contacts and feeling is that which experiences. Here it is revealed that in terms of ultimate truth (*paramārtha-satya*), neither contacter nor feeler can be found, while in terms of conventional truth, both can be found. This is skillful knowledge of the sense-bases.
+
+**Skillful knowledge of dependent arising** (*pratītyasamutpāda-kauśalya*): the verse says:
+
+> Knowing that impermanent causes not yet severed
+> Can generate fruits,
+> In one's own continuum, similarly:
+> This is called skillful knowledge of dependent arising.
+> Sentient beings are not to be found,
+> Yet there is abandoning and continuation.
+> Through comprehending the profundity
+> Of the four kinds of dependent arising.
+
+The treatise says: To well understand that from impermanent causes not yet permanently severed, fruits can be generated, is called skillful knowledge of dependent arising. As the sūtra says: "Because this exists, that exists; because this arises, that arises." In their respective order. Also, to well know that from these causes, in one's own continuum (*saṃtāna*), fruit-dharmas are generated: as the sūtra says: "Not conditioned by another's arising do aging and death and the rest occur." Also, to well know that from similar causes, fruit-dharmas are generated: as the sūtra says: "One who commits unwholesome bodily conduct can bring about unpleasant, disagreeable, unlovely, undesirable ripened bodies. One who commits wholesome conduct can bring about the opposite: pleasant and other such ripened bodies." And so forth.
+
+Furthermore, the continuity of the aggregates itself is what is called "the one who abandons life" and "the one who continues birth"; the person-nature is not to be found. Through well comprehending the four kinds of profound dependent arising: not arising from self, not arising from other, not arising from both self and other, and not arising without cause. Here, the self-substance of dependent arising and the benefit of severing its obstacles are revealed. This is skillful knowledge of dependent arising.
+
+**Skillful knowledge of the possible and impossible** (*sthānāsthāna-kauśalya*): the verse says:
+
+> Not acting, not going to or attaining,
+> Two bodies not turning,
+> Other bodies not turning,
+> The pure-viewed having no residual karma:
+> Not the self's sovereignty over two.
+> Thus the wisdom that knows:
+> Skillful knowledge of the possible and impossible.
+> For one's own fruit, the definite is the "possible";
+> Otherwise, it is called the "impossible."
+
+The treatise says: If one does not see a self that has sovereignty over the two positions of cause and fruit, this is called skillful knowledge of the possible and impossible. That is: not acting, not going to, not attaining, two bodies not turning, other bodies not turning, and the pure-viewed having no residual karma.
+
+How is "not acting"? Because one does not purely perform excellent wholesome conduct; therefore there is no sovereign self. How is "not going to"? Because apart from wholesome conduct one does not go to the good destinies. As the sūtra says: "It is impossible and inconceivable that one who commits unwholesome bodily conduct, and so forth, could be born in the heavens. There is no such possibility," and so forth extensively. How is "not attaining"? Because apart from the wholesome means of the undefiled noble path, one definitely cannot attain the ultimate purity subsumed under the fruits of the path. As the sūtra says: "It is impossible and inconceivable that without permanently severing the five hindrances, and so forth, without cultivating the seven factors of awakening, one could correctly realize the far shore of suffering. There is no such possibility." How is "two bodies not turning"? There is no possibility that neither before nor after could two Tathāgatas appear in the world, and so forth extensively. How is "other bodies not turning"? Apart from a male body, other bodies definitely cannot serve as a wheel-turning king and the rest. As the sūtra says: "It is impossible and inconceivable that a woman could become a wheel-turning holy king," and so forth extensively. How is "the pure-viewed having no residual karma"? As the sūtra says: "It is impossible and inconceivable that a person endowed with the noble view could deliberately take the life of a being, and so forth, or receive an eighth existence. There is no such possibility." If there is such a possibility, it pertains to ordinary beings.
+
+Here, "not acting" means the conceived self has no sovereignty over causes. "Not attaining" pertains to both cause and fruit. "The pure-viewed having no residual karma" is likewise. The rest pertain only to the fruit. Also, "the possible and impossible": what is definite with respect to its own fruit is called "the possible"; one should know that what does not accord is called "the impossible." Through non-inverted wisdom, one is skillful in this. This is skillful knowledge of the possible and impossible. Here, the self-substance of this skillful knowledge and the benefit of severing its obstacles are revealed.
+
+**Skillful knowledge of the faculties** (*indriya-kauśalya*): the verse says:
+
+> Regarding apprehension, arising, abiding,
+> Defilement and purity:
+> The unreasonable self observes the rest
+> As supreme over those fruits.
+> Regarding such means,
+> This is called skillful knowledge of the faculties:
+> Namely, supremacy over apprehension, arising, abiding,
+> Defilement, and purity.
+
+The treatise says: If one does not see a self as having supremacy over apprehension and the rest, this is called skillful knowledge of the faculties. Why? It is not the case that the conceived self, observing other conditions, has sovereign supremacy over apprehension and the rest; rather, those other conditions themselves have supremacy over apprehension and the rest. Therefore, conceiving a self is unreasonable. The faculties having supremacy over apprehension and the rest means: the six faculties of the eye and the rest have supremacy over apprehending the six objects; the two faculties of masculinity and femininity have supremacy over generating the continuity of birth; the single life-faculty has supremacy over the continuity of abiding; the five feeling-faculties have supremacy over defilement; and the eight faculties of faith and the rest have supremacy over purity. Here, the self-substance of skillful knowledge of the faculties and the benefit of severing its obstacles are revealed. This is skillful knowledge of the faculties.
+
+**Skillful knowledge of the truths** (*satya-kauśalya*): the verse says:
+
+> Two intrinsic natures of suffering,
+> Conjunction: unreasonable.
+> Through being without cause and having cause,
+> And five similes:
+> Thus awakening accordingly,
+> One should know skillful knowledge of the truths.
+> Awakening to causes and conditions
+> Of what has never been seen, never been experienced.
+
+The treatise says: Through being able to well observe that a self is unreasonable with respect to the two dharmas of defilement and purity, this is called skillful knowledge of the truths. What are the two? Intrinsic-nature suffering and conjunction with suffering.
+
+How is intrinsic-nature suffering? If the self's intrinsic nature is suffering, is this without cause or with cause? If without cause, one should always be defiled. If with cause, one should first be pure and only afterward become defiled. Therefore it is unreasonable.
+
+How is conjunction with suffering? Drawing five similes, all are unreasonable. Why? If one says suffering conjoins with the self: it should not be like two pieces of wood joining together, because there would be the fault of being unable to separate for liberation. Nor should it be like a sentient being joined with wood, because there would be the fault of liberation [being possible in the wrong way]. Nor should it be like fire joined with firewood, because there would be the fault of destroying the nature [of the self]. Nor should it be like cloth joined with dye, because upon the self-substance, not even a small portion of white purity can be found. Nor should it be like the conjunction of mind and mental factors. Why? The mind is the apprehender, and because it shares the same object with these, they can be called associated; but for the self, this meaning does not apply. Therefore it is unreasonable.
+
+Also, through observing and seeing meanings never before seen and their causes and conditions, and through observing and seeing meanings never before experienced and their causes and conditions, this is called skillful knowledge of the truths. That is, from of old one has never perceived the two truths of suffering and its origin and their causes and conditions, and from of old one has never perceived or experienced the two truths of cessation and the path and their causes and conditions. Here, the self-substance of supramundane wisdom and the benefit of severing its obstacles are revealed. This is skillful knowledge of the truths.
+
+The verse says:
+
+> One should know the skillful knowledges
+> Have twenty-three differentiations,
+> Beginning with "different compilations"
+> And ending with "the most extremely pure."
+
+The treatise says: One should know that the differentiations of skillful knowledge regarding the aggregates and the rest further have twenty-three kinds: (1) skillful knowledge of different compilations; (2) skillful knowledge of the wisdom born of hearing; (3) skillful knowledge of the wisdom born of reflection; (4) skillful knowledge of the wisdom born of cultivation; (5) skillful knowledge of the wisdom of the aids to penetration (*nirvedhabhāgīya*); (6) skillful knowledge of the wisdom of the path of seeing (*darśana-mārga*); (7) skillful knowledge of the wisdom of the path of cultivation (*bhāvanā-mārga*); (8) skillful knowledge of the wisdom of the ultimate path; (9) skillful knowledge of the wisdom of refining the faculties; (10) skillful knowledge of the wisdom of generating supernatural powers; (11) skillful knowledge of impure conventional wisdom; (12) skillful knowledge of pure conventional wisdom; (13) skillful knowledge of ultimate wisdom; (14) skillful knowledge of impure conceptually differentiated wisdom; (15) skillful knowledge of pure conceptually differentiated wisdom; (16) skillful knowledge of pure non-conceptual wisdom; (17) skillful knowledge of the wisdom preliminary to accomplishing the task; (18) skillful knowledge of the wisdom of accomplishing the task; (19) skillful knowledge of the wisdom subsequent to accomplishing the task; (20) skillful knowledge of śrāvaka wisdom; (21) skillful knowledge of pratyekabuddha wisdom; (22) skillful knowledge of bodhisattva wisdom; (23) skillful knowledge of the most extremely pure wisdom.
+
+Here, skillful knowledge of different compilations further has two kinds: (1) skillful knowledge of various compilations, and (2) skillful knowledge of various discourses.
+
+Skillful knowledge of various compilations has eleven kinds: compilation by element, and so forth, up to mutual compilation. *Compilation by element* means the aggregates and the rest are subsumed under their own seeds. *Compilation by characteristic* means the aggregates and the rest are subsumed under their intrinsic and shared characteristics. *Compilation by class* means the aggregates and the rest are subsumed throughout their own class. *Compilation by phase* means the aggregates and the rest are subsumed under the phases of feelings of pleasure and so forth. *Non-separation compilation* means that among the aggregates and the rest, through one dharma all the aggregates and the rest are subsumed, because their retinue is inseparable. *Compilation by time* means the aggregates and the rest are each separately subsumed under past, future, and present. *Compilation by direction* means the aggregates and the rest turn in dependence on direction; whatever arises based on a certain direction is subsumed under that direction. *Complete compilation* means the aggregates and the rest are subsumed under the totality of fifty-eight, eighty-two, and so forth. *Partial compilation* means the aggregates and the rest are each subsumed under separate portions. *Ultimate compilation* means the aggregates and the rest are subsumed under the characteristic of suchness (*tathatā*). *Mutual compilation* means the aggregates and the rest mutually subsume each other.
+
+Skillful knowledge of various discourses means skillful facility in various questions and answers regarding the aggregates and the rest. For example, with one line as the question: should one answer with a congruent anterior sentence, a congruent posterior sentence, a tetralemma (*catuṣkoṭi*), or an indeterminate sentence? For instance, if one asks: "If something is subsumed by element, is it also subsumed by characteristic? And conversely, if subsumed by characteristic, is it also subsumed by element?" One should answer regarding the eye with the tetralemma: (1) there may be element-subsumption without characteristic-subsumption, namely when born in the form realm without obtaining the eye, or having obtained it and then lost it, or when ordinary beings are born in the formless realm; (2) there may be characteristic-subsumption without element-subsumption, namely the final eye of the arhat; (3) there may be both element-subsumption and characteristic-subsumption, namely all remaining positions of having an eye, excluding the above; (4) there may be neither element-subsumption nor characteristic-subsumption, namely the arhat whose eye has been destroyed and lost, or those born in the formless realm, or those who have already seen the truths, or those who have already entered the realm of nirvāṇa without remainder. As with the eye, so for all the rest, one should extensively distinguish as appropriate. As element-compilation is paired with characteristic-compilation, so element-compilation should be paired with all remaining compilations, and so forth with each line being extensively distinguished. Likewise, each remaining compilation paired with each other remaining compilation, excluding those already paired, should all be extensively distinguished through the one-line method as appropriate.
+
+Furthermore: "If a dharma is subsumed under the aggregates, is it also subsumed under the elements? And if subsumed under the elements, is it also subsumed under the aggregates?" This should be answered with a congruent anterior sentence: if subsumed under the aggregates, this dharma is also subsumed under the elements. But there may be element-subsumption without aggregate-subsumption, namely unconditioned dharmas (*asaṃskṛta*). As the aggregates are paired with the elements, so the aggregates should be paired with the sense-bases and up to the truths, and extensively distinguished through the one-line method. As the aggregates with the rest, so the elements paired with the sense-bases and so forth, up to the faculties paired with the truths, should be extensively distinguished.
+
+Here, skillful knowledge of impure conventional wisdom is identical with skillful knowledge of the wisdom of the aids to penetration. Skillful knowledge of pure conventional wisdom is identical with skillful knowledge of the supramundane subsequently-attained mundane wisdom. Skillful knowledge of ultimate wisdom is identical with skillful knowledge of the wisdom of the path of seeing. These three kinds are identical with skillful knowledge of impure conceptually differentiated wisdom, pure conceptually differentiated wisdom, and pure non-conceptual wisdom. These three kinds are identical with skillful knowledge of the wisdom preliminary to accomplishing the task, the wisdom of accomplishing the task, and the wisdom subsequent to accomplishing the task.
+
+Also, the differentiation of the former three kinds: not yet having severed the afflictions, arising but not as the antidote of afflictions; already having severed the afflictions, arising but not as the antidote of afflictions; already having severed the afflictions, arising as the antidote of afflictions. The differentiation of the middle three kinds: these same three kinds are differentiated by having conceptual differentiation and being without conceptual differentiation, and by the nature of conventional and ultimate wisdom. The differentiation of the latter three kinds: these same three kinds reveal the differentiation of the nature of wisdom preliminary to severance, the nature of the wisdom of the correct path of severance, and the nature of wisdom at the time subsequent to that. These nine wisdoms, depending on the differentiation of the person in whose continuum they occur, further establish four kinds, as one should know.
+
+### Chapter on Establishing Impermanence, Chapter 4
+
+Furthermore, as previously stated, if one wishes to correctly cultivate the merits of thorough knowledge (*parijñā*) and the rest, this means thoroughly knowing suffering and the rest. How does one thoroughly know suffering? One thoroughly knows the four aspects of the truth of suffering: impermanence, suffering, emptiness, and non-self. Now, following the sequence, each should be extensively established. Here, regarding establishing impermanence: one should reveal the nature of impermanence and the differentiations of impermanence. What is impermanence? What are its differentiations? The verse says:
+
+> Impermanence means the conditioned,
+> Because it is associated with the three characteristics.
+> The meanings of impermanence, as appropriate,
+> Are of six and eight kinds, as one should know.
+
+The treatise says: The nature of impermanence is the conditioned dharmas (*saṃskṛta-dharma*), because they are associated with the three conditioned characteristics: (1) the characteristic of arising (*utpāda*), (2) the characteristic of ceasing (*vyaya*), (3) the characteristic of abiding-and-change (*sthity-anyathātva*). Also, the differentiations of the meaning of impermanence, as appropriate, are of six or eight kinds, as one should know. What are the six and eight? The verse says:
+
+> Non-existence, destruction, transformation, change,
+> Separation, attainment, and what will be;
+> Momentary, continuity, illness, and so forth,
+> Mind, receptacle, and enjoyment.
+
+The treatise says: The six kinds of impermanence are: (1) impermanence of non-existence (*abhāva*); (2) impermanence of destruction (*vināśa*); (3) impermanence of transformation (*anyathātva*); (4) impermanence of separation (*viyoga*); (5) impermanence of attainment (*lābha*); (6) impermanence of what-will-be (*bhaviṣyat*). The eight kinds of impermanence are: (1) the gate of the momentary (*kṣaṇa*); (2) the gate of continuity (*saṃtati*); (3) the gate of illness (*vyādhi*); (4) the gate of old age (*jarā*); (5) the gate of death (*maraṇa*); (6) the gate of mind (*citta*); (7) the gate of the receptacle (*bhājana*); (8) the gate of enjoyment (*paribhoga*).
+
+Here, the two kinds of momentary and continuity impermanence pervade all domains. The three kinds of illness and the rest apply to internal form. Mental impermanence pertains only to name (*nāma*). The two kinds of receptacle and enjoyment impermanence apply to external form.
+
+Here, impermanence of non-existence means that the nature is always absent; therefore it is called impermanent. The remaining impermanence of change has fifteen kinds. The verse says:
+
+> Change, one should know,
+> Has fifteen kinds of differentiation,
+> Namely, phase and the rest,
+> Pressed by eight conditions.
+> The lower realm possesses all;
+> The middle realm lacks three gates
+> But possesses three kinds of change;
+> The upper realm further lacks the receptacle.
+
+The treatise says: The fifteen kinds of change are: phase-change, and so forth, up to the change of total disappearance. *Phase-change* means from the phase of infancy up to old age, front and back being dissimilar, each phase changing differently. *Appearance-change* means from a wonderful complexion, fresh skin, moist and radiant body, and so forth, changing to an ugly complexion, coarse skin, withered body, and so forth. *Shape-change* means the changes of fatness, thinness, and so forth. *Prosperity-change* means the prosperity of retinue, wealth, morality, views, and so forth; the opposite of this is called the change of decline. *Limb-change* means having been formerly endowed with all limbs and later becoming deficient. *Cold-and-heat change* means in cold weather, shivering and curling up; in heat, stretching out, sweating, and seeking coolness or warmth. *Harm-by-others change* means bodily changes from being struck by hands and feet, bitten by mosquitoes and gadflies, and so forth. *Fatigue-change* means bodily changes from running, jumping, leaping, stamping, and other physical exertions. *Deportment-change* means the changes of gain and loss from the four deportments alternating front and back. *Contact-change* means changes of feeling such as pleasure, pain, and the rest, due to changes in contacts that accord with suffering, pleasure, and the rest. *Defilement-change* means the changes caused by the disturbance and agitation of the great and small afflictions such as craving, hatred, and the rest among the mental factors. *Illness-and-the-rest change* means having formerly been without illness or suffering, and later being oppressed by severe illness, with bodily changes. *Death-change* means having formerly possessed a life-span, and later being empty and without consciousness, the front and back changing. *Lividity-and-the-rest change* means after death, the body's color becoming livid, swelling, rotting, and so forth up to the skeleton. *Total-disappearance change* means at the stage of the skeleton, being burned, destroyed, and scattered apart, so that all kinds are completely unseen.
+
+Furthermore, these fifteen kinds of change are associated with eight conditions. The eight conditions are: (1) accumulation over time; (2) harm by others; (3) diminishment through use; (4) the passing of seasons; (5) burning by fire; (6) destruction by water; (7) drying by wind; (8) conjunction with different conditions. *Accumulation over time* means that through the passage of time, material dharmas, without departing from their original location, naturally decay. *Harm by others* means through various causes and conditions of oppression by others, there are front-and-back changes. *Diminishment through use* means that various objects of enjoyment, being consumed and used by their respective owners, undergo changes of diminishment. *The passing of seasons* means in winter, cold and snow, in summer, heat and rain; groves and medicinal herbs either flourish or wither. *Burning by fire* means great fires raging unchecked, reducing countries, cities, and settlements all to ashes. *Destruction by water* means great floods spreading and overflowing, with neighborhoods, villages, and dwellings all submerged. *Drying by wind* means great winds blowing and gusting, quickly drying damp clothes and wet ground. *Conjunction with different conditions* means when one of much craving encounters conditions of hatred, the entanglement of craving ceases and the entanglement of hatred arises; similarly for one of much hatred or much delusion encountering the conditions of other afflictions. Likewise for the various consciousnesses when different objects appear.
+
+Furthermore, these meanings of impermanence are all present in the desire realm. In the form realm, the three gates of illness, old age, and enjoyment impermanence are absent, but the three kinds of change of contact, defilement, and death are present. As stated for the form realm, one should know that the formless realm is likewise, except that the gate of the receptacle is further absent. The verse says:
+
+> The meaning of non-existence impermanence
+> Is subsumed under the imagined (*parikalpita*);
+> The remaining meanings of impermanence
+> Should be known as the other-dependent (*paratantra*).
+
+The treatise says: The meaning of impermanence subsumed under the meaning of non-existence should be known as subsumed under the imagined characteristic (*parikalpita-lakṣaṇa*). The remaining meanings of impermanence are subsumed under the other-dependent characteristic (*paratantra-lakṣaṇa*). In the thoroughly established characteristic (*pariniṣpanna-lakṣaṇa*), there is no meaning of impermanence.
+
+Thus the differentiations of the meaning of impermanence and their subsumption under the three characteristics have been revealed. Also, as the World-Honored One said: "Whatever is impermanent is all suffering." What is the intent of this? The verse says:
+
+> All that is impermanent is suffering,
+> Because it is mixed with manifold sufferings.
+> Deluded about the nature of dharmas, the foolish
+> Are harmed by what they have attained, yet do not realize it.
+
+The treatise says: The impermanence that is mixed with the suffering of coarse heaviness (*dauṣṭhulya*), this impermanent nature is suffering because it is the suffering of formations (*saṃskāra-duḥkha*), and also suffering because it is the support of the suffering of change (*vipariṇāma-duḥkha*). Therefore the truth of the path is not suffering, because it is not impermanence mixed with the characteristic of suffering. The foolish, deluded about this nature of dharmas, cannot comprehend the meaning of permanence and impermanence, and are furthermore harmed by the impermanence of what they have already attained in the present.
+
+As previously stated, momentary impermanence pervades all. This meaning of impermanence is not directly perceived by the world; therefore it should be established. The verse says:
+
+> Because they are fruits of that mind,
+> Having arisen they naturally cease.
+> Later change can be perceived:
+> Momentary cessation, one should know.
+
+The treatise says: Because all formations (*saṃskāra*) are fruits of the mind, their nature, as soon as it arises, without any separate cause of cessation, naturally decays. Furthermore, because later change can be perceived, one should know that all formations cease moment by moment.
+
+How should one know that all formations are fruits of the mind? The verse says:
+
+> Mind's habituation and supremacy,
+> Meditative transformation and mastery,
+> The arising of mental images: by these principles,
+> And three kinds of sacred teaching.
+
+The treatise says: Through reasoning and sacred teaching, one can know that formations are the fruition-nature of the mind. *Reasoning:* Wholesome and unwholesome dharmas habituate the mind; through the supremacy of the mind's habitual tendencies, formations arise. Also, for those whose minds are purified by removing the obstacles to meditation, all formations transform in accordance with the mind; through the mastery of their mental resolve, various transformations occur. Also, through the mastery of the concentrated mind, in accordance with one's wishes, mental images of the meditative domain arise. This is reasoning.
+
+*Sacred teaching:* Three kinds of sacred words. As the sūtra says: "The mind leads the world; the mind's power protects it. Having arisen following the mind, all freely turn accordingly." Also it says: "Therefore, bhikṣus, you should well concentrate and, in accordance with correct principle, investigate the mind," and so forth extensively. Also it says: "Bhikṣus, you should know that the term 'lord of the city' refers to the entire aggregate of appropriating consciousness (*upādāna-vijñāna-skandha*)." This is sacred teaching.
+
+Question: How should one understand the principle that formations naturally decay?
+
+Answer: Through four kinds of reasoning. The verse says:
+
+> Because the cause of arising is contrary,
+> And there is no cause for abiding or ceasing,
+> And the fault of natural abiding being permanence:
+> One should know they cease spontaneously.
+
+The treatise says: It is not that the cause of arising can destroy formations, because arising and ceasing are mutually contrary. Also, there is no cause of abiding that causes formations to abide; if there necessarily were one, they should become permanent. Since formations do not abide, what need is there for a cause of cessation? Furthermore, a separate cause of cessation is not to be found in its nature. If formations, having arisen, naturally abide, they should be permanently abiding, which is a great fault. Since both having a cause of abiding-and-cessation and natural abiding have faults, one should know that formations spontaneously decay. The verse says:
+
+> It is not water, fire, or wind that destroys,
+> Because they arise and cease together.
+> When the associated [elements] have ceased,
+> They become causes for the arising of subsequent change.
+
+The treatise says: If water, fire, and wind were the causes of cessation, this would be unreasonable, because they arise and cease together. If water and the rest were causes of cessation, then rotted, burned, and dried things should not, after the previous continuity has ceased, give rise to a changed subsequent continuity. Why? Because that which is without substance serving as a cause for that which has substance is unreasonable. However, when water, fire, and wind cease together with the associated things such as rotting and the rest, they can serve as causes for the subsequent arising and change of those things. Apart from this capacity, water and the rest have no further power over them.
+
+Furthermore, if one maintains that the characteristic of cessation is the cause of cessation: is this characteristic of cessation simultaneous with the dharma to be ceased, or not simultaneous? What fault is there in either case? The verse says:
+
+> Contradiction, severance of continuity,
+> Two characteristics becoming characteristicless,
+> Contradiction with worldly direct perception,
+> Non-existent dharma, and other causes.
+
+The treatise says: If the characteristic of cessation and the dharma to be ceased are said to be simultaneous, this is unreasonable, because of the fault of contradiction. If said to be not simultaneous, this is also unreasonable, because of the fault of severing the continuity. Also, if this cause of cessation can destroy the dharma, is its substance cessation or not cessation? If its substance is cessation, then a single dharma would have two characteristics of cessation. If its substance is not cessation, it should be without the characteristic of cessation. Having such faults, this is unreasonable.
+
+Also, because it contradicts worldly direct perception, one should not maintain that cessation is the cause of destruction. Why? The world commonly sees that other dharmas with substance are the causes of destruction; one does not see a cessation-dharma as a cause of cessation. Also, if the cessation-dharma were the cause of cessation: does cessation alone suffice to destroy the dharma, or must it additionally await other factors? Both of these positions have faults. If cessation alone can destroy the dharma, then at the time when cessation exists, the dharma's substance should be utterly nonexistent. If it must additionally await other factors, then those other factors should be the cause of destruction; one should not maintain that cessation is the cause of destruction.
+
+Furthermore, how should one know that all dharmas are momentarily ceasing because later change can be perceived? The verse says:
+
+> It is not the case that bodies, milk, forests, and the rest
+> Were formerly without change,
+> Nor that they were formerly indestructible
+> And only destroyed at the final moment.
+
+The treatise says: All worldly things, whether internal or external, such as bodies, milk, forests, and the rest: at the final moment, change can be perceived. Therefore, it is unreasonable to say that previously their substance was without change. Also, it is not the case that previously there was no destruction and only at the final moment is there destruction, because there is no different cause [at the final moment]. Since previously they do not differ from change and subsequently they do not differ from destruction, and since previously they are not without destruction and subsequently they are not without cessation, one should know that all formations change and cease moment by moment. Therefore the momentary meaning of those dharmas is established.
+
+Having thus established the nature of impermanence, all the permanently abiding dharmas conceived by the wrong discriminations of the non-Buddhist teachers, such as the self (*ātman*), Īśvara, the primal nature (*prakṛti*), atoms (*paramāṇu*), consciousness (*buddhi*), and the rest, are all not established.
+
+How is the permanence of the self not established? The verse says:
+
+> Phases, thoughts, afflictions, and portions:
+> Because of change, it is not permanent.
+> If it had no change,
+> Experiencing, acting, and liberation would be unreasonable.
+
+The treatise says: Because the conceived self has phases of pleasure, pain, and the rest; thoughts of good, evil, and the rest; afflictions of craving, hatred, and the rest; and differentiations of time: therefore it is impermanent. Why? If this conceived self, due to pleasure and the rest, has even the slightest change, it should not be permanent. If it has absolutely no change, it should not be conceived as an experiencer, an agent, or one who attains liberation, because the presence or absence of those dharmas would make no difference to the self.
+
+Furthermore, there is also no Īśvara of permanently abiding nature that can generate the world. Why? The verse says:
+
+> Because the capacity is without [cause],
+> Subsumption and non-subsumption are contradictory,
+> Having use and having no use
+> As cause: faults are established.
+
+The treatise says: The conceived Īśvara has no capacity to generate the world. Why? If this Īśvara's capacity to generate the world has no cause or condition and is naturally present, then why do you not permit that the entire world is naturally present without cause? If this capacity has karma as its cause, why not accept that the entire world has karma as its cause? If this capacity arises from the cause of seeking through effort, why not accept that the entire world arises through the cause of one's own effort?
+
+Also, if Īśvara is subsumed under the world and falls within the world, yet claims to generate the entire world, this is contradictory in principle. If this Īśvara is not subsumed under the world, then it is liberated, and for a liberated dharma to generate the world is unreasonable.
+
+Also, if Īśvara must have a use for generating the world, and apart from generating the world the use is not established, then Īśvara has no sovereignty over this use, and the fault of self-contradiction is established. If this Īśvara generates the world without any need, it should not create the entire world, or else this Īśvara has the fault of a mad fool.
+
+Also, does Īśvara generate the world with Īśvara alone as the cause, or does it also require other causes? If Īśvara's substance alone is the cause, then just as Īśvara's substance has existed from the beginning as permanent, the world should likewise exist and should not need further generation. If it also partly requires other causes, and if those causes have no cause, the entire world should likewise [be without cause]. If they have other causes, then the world likewise arises from other causes; what need is there for Īśvara? Therefore establishing Īśvara has many faults.
+
+Furthermore, maintaining that the primal nature (*prakṛti*) is a permanently abiding cause is unreasonable. Why? The verse says:
+
+> The primal nature having the characteristic of change:
+> Existence and non-existence are both unreasonable.
+> Without difference, it is impermanent;
+> With difference, five faults.
+> Without characteristic and without cause,
+> Not the primal nature; always changing;
+> Formerly without change:
+> The self should always be liberated.
+
+The treatise says: If one maintains that the primal nature is permanent, then it should not be a cause of change. Why? The conceived primal nature neither has the characteristic of change nor lacks the characteristic of change; therefore it is unreasonable. If this primal nature is without difference from the rest of the changes, it should be impermanent. If it differs from them, five faults are established: (1) the fault of being characteristicless, because apart from the characteristic of change, not even a small portion of a separate characteristic of the primal nature can be found; (2) the fault of not being a cause, because the world does not see a permanently abiding dharma as a generative cause; (3) the fault of not being the primal nature, because the world does not see what is not of that kind serving as the nature of that kind; (4) the fault that the permanently abiding primal nature would at all times give rise to change, because it would not await other causes; (5) the fault that before this primal nature has generated change, the self should already be liberated. If so, subsequently change should not arise.
+
+Furthermore, maintaining that atoms (*paramāṇu*) are permanent is unreasonable. Why? The verse says:
+
+> Permanence and creation are both unreasonable,
+> Through two and three causes respectively.
+> Wealth, sentient beings, and supremacy:
+> Atoms are not permanently abiding.
+
+The treatise says: The conceived atoms being permanent in nature and being capable of creation are both unreasonable. How is permanence unreasonable? Through two causes. Is the nature of your atoms permanent because of being subtle, or permanent because of being of a different kind? If because of being subtle, then being subtle and feeble, they should not be permanently abiding. If because of being of a different kind, this characteristic is not to be found; creating earth and other things from what is not earth and the rest is unreasonable.
+
+How is creation unreasonable? Through three causes: (1) through spatial location, (2) through conditions, (3) through self-substance. How is creation unreasonable through spatial location? When coarse things are created from atoms, do they exceed the atoms' extent or not? If they do not exceed, coarse material objects should be like atoms, impossible to apprehend. Furthermore, the world does not see coarse material non-luminous objects occupying the same location; therefore this is unreasonable. If they exceed, then at the excess location the coarse material object is not composed of atoms and should be permanently abiding. If one further maintains that additional atoms arise, then atoms should not be permanently abiding.
+
+How through conditions? If one maintains that the nature of combination (*saṃyoga*) serves as the condition that establishes other things and causes combination, does this combination-nature serve as a condition after it has arisen, or before it has arisen? If after it has arisen, then after the things have combined, not even a slight different combination-nature can be found; therefore this is unreasonable. If before it has arisen, then it has no substance; having no substance serve as a cause is unreasonable.
+
+How through self-substance? When atoms create coarse things, they should not be like a seed producing a sprout, because, like the seed, the atoms would have to be destroyed. They should not be like milk [transforming into curds], because the atoms would have to undergo change. They should not be like a potter, because diligent exertion by atoms cannot be found. Therefore creation is unreasonable.
+
+Although there are no permanently abiding atoms, at the beginning of a kalpa the receptacle-world and objects of enjoyment arise through the supremacy of sentient beings' karma, not through atoms. Therefore the permanent abiding of atoms is unreasonable.
+
+Furthermore, maintaining the existence of a permanent consciousness (*buddhi*) is unreasonable. Why? The verse says:
+
+> Impermanent things serve as its support;
+> It turns in sequential differentiation.
+> Because feelings and the rest differ:
+> One should know consciousness is impermanent.
+
+The treatise says: Eye-consciousness and the other consciousnesses, because they arise depending on the impermanent eye and the rest, because they turn sequentially toward objects of form and the rest, because they turn with manifold and differentiated aspects, and because of the differentiation of phases such as pleasant feelings and so forth, afflictions of craving and so forth, and wholesome thoughts of generosity and so forth: that such turning and change could occur within a single permanent consciousness is unreasonable.
+
+For what reason do worldly sentient beings, while impermanent in nature, not apprehend this, yet while permanence does not exist, variously grasp at it? The verse says:
+
+> Regarding impermanence, lacking knowledge:
+> This is the root of the four inversions.
+> One should know that worldly advancement
+> Causes the power of ignorance to increase further.
+
+The treatise says: Because lacking knowledge regarding impermanence arises, though impermanence truly exists one does not apprehend it, and though permanence truly does not exist, various graspings arise. It is not only ignorance about permanence that serves as the cause: all four inversions have ignorance as their root. Why? Because one does not truly know impermanence, one gives rise to the inversion of permanence regarding impermanent dharmas, the inversion of pleasure regarding suffering, the inversion of purity regarding impurity, and the inversion of self regarding non-self.
+
+Because of this sequential meaning, the Bhagavān said: "Whatever is impermanent is necessarily suffering; whatever is suffering is necessarily non-self." One should know that when through the mundane path one advances upward, without severing ignorance one gradually advances to the higher realms, and the power of ignorance regarding impermanence increases further. Why? Because in the desire realm, the various characteristics of impermanence such as destruction, change, transformation, and separation are presently perceivable, but in the higher realms they are absent.
+
+Furthermore, for what reason does ignorance regarding impermanence arise? The verse says:
+
+> Through heedlessness, laziness,
+> Views, dullness, insufficient provisions,
+> Evil companions, and wrong Dharma:
+> These should be known as the causes of ignorance.
+
+The treatise says: Ignorance regarding impermanence has seven causes: (1) heedlessness (*pramāda*); (2) laziness (*kausīdya*); (3) wrong views; (4) dullness (*moha*); (5) not having greatly accumulated the provisions for awakening (*bodhisaṃbhāra*); (6) evil companions (*pāpa-mitra*); (7) hearing wrong Dharma. Through heedlessness arising from pleasure in objects and pleasure in meditation, one does not truly know impermanence. Even if not heedless, one may be lazy. Even if not lazy, one may have wrong views. Even if without wrong views, one may be dull. Even if not dull, one may not have accumulated the provisions for awakening. Even if one has cultivated the provisions for awakening, one may follow evil companions. Furthermore, from them one hears wrong Dharma; therefore one does not truly know impermanence.
+
+What further cause is there for not understanding impermanence and falsely grasping at permanence? The verse says:
+
+> Improper mental engagement,
+> Recollecting the prior limit and the rest,
+> Similar continuity turning:
+> Regarding the impermanent, one conceives permanence.
+
+The treatise says: Through two causes the grasping at permanence arises: (1) through improper mental engagement (*ayoniśo manaskāra*); (2) through recollecting affairs of the prior limit (*pūrvānta*) and the rest. Because affairs of the prior limit and the rest turn in a similar continuity, one conceives the rest of the world as also permanently abiding.
+
+Furthermore, as previously stated, the three conditioned characteristics are not merely momentary. Why? The verse says:
+
+> At the beginning, end, and middle,
+> One apprehends the three conditioned characteristics.
+
+The treatise says: The three conditioned characteristics are taken within the scope of a single lifetime in a common class (*nikāya-sabhāga*). At the first moment of birth, one apprehends the characteristic of arising. At the final moment of death, one apprehends the characteristic of ceasing. In the interval between the two, during the continuity of abiding, one apprehends the characteristic of abiding-and-change. The three conditioned characteristics should be understood as established in this manner.
+
+The verse says:
+
+> The wisdom that tames through impermanence
+> Should be known to arise from two causes.
+
+The treatise says: The entry of true wisdom regarding impermanence arises from two causes: (1) through the foundations of mindfulness (*smṛtyupasthāna*); (2) through dependent arising (*pratītyasamutpāda*). Through the foundations of mindfulness, one focuses the mind on objects and causes it to abide. Through dependent arising, one penetrates the nature of those dharmas. As the sūtra says: "Seeing the dharma of arising, regarding the foundation of mindfulness of the body," and so forth extensively.
+
+The verse says:
+
+> That seeing is of six kinds,
+> And dependent arising is of four kinds.
+
+The treatise says: The seeing of the impermanent nature should be known as of six kinds: (1) conventional wisdom, namely up to the stage of the aids to penetration; (2) ultimate wisdom, namely up to the stage of the supramundane path; (3) śrāvaka wisdom, namely excluding the meaning of non-existence impermanence; (4) bodhisattva wisdom, namely regarding all meanings of impermanence; (5) impure, namely the wisdom of training in those two; (6) pure, namely the wisdom beyond training in those two.
+
+Also, the dharma of dependent arising should be known as of four kinds of reasoning. What are the four? The verse says:
+
+> From its own seed, therefore not from another;
+> Awaiting conditions, therefore not from self;
+> Without [independent] action, therefore not from both;
+> Having function, therefore not without cause.
+
+The treatise says: Through four kinds of reasoning one enters the impermanent nature. Conditioned dharmas do not arise from another, because they arise from their own seeds. They also do not arise from self, because they await external conditions. They also do not arise from both, because both are without independent action. They also do not arise without cause, because both [seed and condition] have function in generation.

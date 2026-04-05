@@ -536,7 +536,7 @@ Generation of the aspiration through realization of the dharma-nature means: sup
 
 ---
 
-## Fascicle 3
+## Fascicle Three
 
 ### Compendium of Topics, Part Three
 
@@ -708,7 +708,7 @@ Furthermore, the verse states:
 
 ---
 
-## Fascicle 4
+## Fascicle Four
 
 ### Compendium of Topics, Part Four
 
@@ -872,7 +872,7 @@ Furthermore, the verse states:
 
 ---
 
-## Fascicle 5
+## Fascicle Five
 
 ### Chapter on Gathering the Meaning of Purity, Part One
 
@@ -1029,7 +1029,7 @@ Furthermore, through reliance on two kinds of affairs, the sequence is establish
 
 ---
 
-## Fascicle 6
+## Fascicle Six
 
 ### Chapter on Gathering the Meaning of Purity, Part Two
 
@@ -1201,7 +1201,7 @@ Furthermore, for five reasons the gods and others are not places of refuge. What
 
 ---
 
-## Fascicle 7
+## Fascicle Seven
 
 ### Chapter on Gathering the Meaning of Purity, Part Three
 
@@ -1331,7 +1331,7 @@ Furthermore, **the coarse characteristics** means: regarding all lower grounds, 
 
 ---
 
-## Fascicle 8
+## Fascicle Eight
 
 ### Chapter on Gathering the Meaning of Purity, Part Four
 
@@ -1688,7 +1688,7 @@ Among these, if bodhisattvas proclaim themselves to be bodhisattvas yet do not d
 
 ---
 
-## Fascicle 9
+## Fascicle Nine
 
 ### Chapter on Gathering the Meaning of Purity, Part Five
 
@@ -1885,7 +1885,7 @@ Furthermore, if one maintains that the life-force is identical with the body, on
 
 ---
 
-## Fascicle 10
+## Fascicle Ten
 
 ### Chapter on Gathering the Meaning of Purity, Part Six
 
@@ -2114,7 +2114,7 @@ Thus, because of the sun and others being the agents, and because of pure and im
 
 ---
 
-## Fascicle 11
+## Fascicle Eleven
 
 ### Chapter on Gathering the Meaning of Purity, Part Seven
 
@@ -2377,7 +2377,7 @@ There are three kinds of dharmas most productive in the established thesis: (1) 
 
 ---
 
-## Fascicle 12
+## Fascicle Twelve
 
 ### Chapter on Gathering the Meaning of Purity, Part Eight
 
@@ -2611,9 +2611,9 @@ Furthermore, before the householder assembly, one should teach the Dharma based 
 
 ---
 
-## Fascicle 13
+## Fascicle Thirteen
 
-### Chapter on Gathering the Meaning of Purity, Part 9
+### Chapter on Gathering the Meaning of Purity, Part Nine
 
 #### The Listener
 
@@ -2841,7 +2841,7 @@ Thus, this is the collective name for the Division on Gathering the Meaning of E
 
 ---
 
-## Fascicle 14
+## Fascicle Fourteen
 
 ### Chapter on Establishing Skillful Knowledge, Chapter 3
 
@@ -3289,7 +3289,7 @@ The treatise says: Through four kinds of reasoning one enters the impermanent na
 
 ---
 
-## Fascicle 15
+## Fascicle Fifteen
 
 ### Chapter on Establishing Suffering, Chapter 5
 
@@ -3719,7 +3719,7 @@ The treatise says: (1) Wisdom of dharma-abiding (*dharmasthiti-jñāna*): the wi
 
 ---
 
-## Fascicle 16
+## Fascicle Sixteen
 
 ### Chapter on Establishing Emptiness, Chapter 6 (continued)
 
@@ -4018,7 +4018,7 @@ Answer: Depending on a transformation body (*nirmāṇa-kāya*) and abiding ther
 
 Also, the śrāvaka's transformation of the basis is attained through cultivating with aversion toward transmigration. The bodhisattva's transformation of the basis is attained through skillful-means cultivation and through reliance on non-dual wisdom (*advaya-jñāna*). How through skillful-means cultivation? Through uninterruptedly penetrating the dharma-nature, through the vastness of the object, through generating the most supreme diligent effort, through caring for sentient beings, and through comprehending all formations. How through reliance on non-dual wisdom? Through not abiding in either transmigration or cessation: not pursuing transmigration, and caring for sentient beings. For this reason, one should know that the Buddha's wisdom is supreme and unsurpassed. Why? The wisdom of other sentient beings either abides in transmigration or abides in cessation; therefore it is not unsurpassed. Also, the Buddha's wisdom benefits and brings bliss to all sentient beings, well fulfilling both self-benefit and other-benefit; therefore it is supreme and unsurpassed. The wisdom of other sentient beings either only benefits oneself or does not benefit both; therefore it is not unsurpassed. For this reason, the Buddha's wisdom is inconceivable: not abiding in either extreme, it can accomplish the benefit of all sentient beings. Also, it is non-dual, namely with regard to nirvāṇa and non-nirvāṇa and the rest, because its nature is without duality.
 
-### Chapter on Establishing Direct Realization, Chapter 8, Part 1
+### Chapter on Establishing Direct Realization, Chapter 8, Part One
 
 The treatise says: Having thus correctly and diligently understood impermanence, suffering, emptiness, and non-self, what does one wish to contemplate?
 
@@ -4188,9 +4188,9 @@ The treatise says: After the sixteen aspects of wisdom, one further cultivates. 
 
 ---
 
-## Fascicle 17
+## Fascicle Seventeen
 
-### Chapter on Establishing Direct Realization, Chapter 8, Part 1 (continued)
+### Chapter on Establishing Direct Realization, Chapter 8, Part One (continued)
 
 The treatise says: Having thus obtained the wholesome roots of warmth and the rest, one should know that from this point one enters direct realization. The verse says:
 
@@ -4424,7 +4424,7 @@ Furthermore, the verse says:
 
 The treatise says: Through five causes, one should not delight in thinking about the inconceivable: because the buddhas have so proclaimed, and because it does not contradict the thorough knowledge, abandonment, realization, and cultivation of the four truths. Also, briefly through two causes: teaching and realization. "Teaching" means what the buddhas have proclaimed. "Realization" means the thorough knowledge of suffering and the rest.
 
-### Chapter on the Division of Superior Determination, Chapter 11, Part 1
+### Chapter on the Division of Superior Determination, Chapter 11, Part One
 
 The treatise says: Having thus departed from the inconceivable and engaged in skillful thinking, regarding the nine topics one should, through ten aspects, give rise to various kinds of supreme determination. What are the ten? The verse says:
 
@@ -4564,7 +4564,7 @@ Answer: This should be answered with a tetralemma: (1) One may possess the ālay
 
 ---
 
-## Fascicle 18
+## Fascicle Eighteen
 
 ### Chapter 11: Division of Superior Determination (continued)
 
@@ -4785,7 +4785,7 @@ For what cause and condition does this trichiliocosm contain many worlds up to t
 
 ---
 
-## Fascicle 19
+## Fascicle Nineteen
 
 ### Chapter 11: Division of Superior Determination (continued)
 
@@ -5216,7 +5216,7 @@ Also, one cultivates the foundations of mindfulness through three kinds of menta
 
 ---
 
-## Fascicle 20
+## Fascicle Twenty
 
 ### Chapter 11: Division of Superior Determination (continued)
 

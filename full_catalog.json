@@ -1270,6 +1270,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T0128a",
+    "cbeta_id": "T02n0128a",
+    "title_zh": "須摩提女經",
+    "translator": "吳 支謙譯",
+    "juan": 1,
+    "volume": "T02",
+    "xml_pattern": "T02/T02n0128a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0128b",
+    "cbeta_id": "T02n0128b",
+    "title_zh": "須摩提女經",
+    "translator": "吳 支謙譯",
+    "juan": 1,
+    "volume": "T02",
+    "xml_pattern": "T02/T02n0128b_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T0129",
     "cbeta_id": "T02n0129",
     "title_zh": "佛說三摩竭經",
@@ -1297,6 +1317,26 @@
     "juan": 1,
     "volume": "T02",
     "xml_pattern": "T02/T02n0131_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0132a",
+    "cbeta_id": "T02n0132a",
+    "title_zh": "佛說食施獲五福報經",
+    "translator": "失譯",
+    "juan": 1,
+    "volume": "T02",
+    "xml_pattern": "T02/T02n0132a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0132b",
+    "cbeta_id": "T02n0132b",
+    "title_zh": "施食獲五福報經",
+    "translator": "失譯",
+    "juan": 1,
+    "volume": "T02",
+    "xml_pattern": "T02/T02n0132b_*.xml",
     "file_count": 1
   },
   {
@@ -1390,6 +1430,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T0142a",
+    "cbeta_id": "T02n0142a",
+    "title_zh": "佛說玉耶女經",
+    "translator": "失譯",
+    "juan": 1,
+    "volume": "T02",
+    "xml_pattern": "T02/T02n0142a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0142b",
+    "cbeta_id": "T02n0142b",
+    "title_zh": "玉耶女經",
+    "translator": "失譯",
+    "juan": 1,
+    "volume": "T02",
+    "xml_pattern": "T02/T02n0142b_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T0143",
     "cbeta_id": "T02n0143",
     "title_zh": "玉耶經",
@@ -1457,6 +1517,26 @@
     "juan": 1,
     "volume": "T02",
     "xml_pattern": "T02/T02n0149_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0150A",
+    "cbeta_id": "T02n0150A",
+    "title_zh": "七處三觀經",
+    "translator": "後漢 安世高譯",
+    "juan": 1,
+    "volume": "T02",
+    "xml_pattern": "T02/T02n0150A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0150B",
+    "cbeta_id": "T02n0150B",
+    "title_zh": "九橫經",
+    "translator": "後漢 安世高譯",
+    "juan": 1,
+    "volume": "T02",
+    "xml_pattern": "T02/T02n0150B_*.xml",
     "file_count": 1
   },
   {
@@ -1700,6 +1780,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T0175a",
+    "cbeta_id": "T03n0175a",
+    "title_zh": "睒子經",
+    "translator": "西秦 聖堅譯",
+    "juan": 1,
+    "volume": "T03",
+    "xml_pattern": "T03/T03n0175a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0175b",
+    "cbeta_id": "T03n0175b",
+    "title_zh": "佛說睒子經",
+    "translator": "乞伏秦 聖堅譯",
+    "juan": 1,
+    "volume": "T03",
+    "xml_pattern": "T03/T03n0175b_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T0176",
     "cbeta_id": "T03n0176",
     "title_zh": "師子月佛本生經",
@@ -1747,6 +1847,46 @@
     "juan": 1,
     "volume": "T03",
     "xml_pattern": "T03/T03n0180_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0181a",
+    "cbeta_id": "T03n0181a",
+    "title_zh": "九色鹿經",
+    "translator": "吳 支謙譯",
+    "juan": 1,
+    "volume": "T03",
+    "xml_pattern": "T03/T03n0181a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0181b",
+    "cbeta_id": "T03n0181b",
+    "title_zh": "佛說九色鹿經",
+    "translator": "吳 支謙譯",
+    "juan": 1,
+    "volume": "T03",
+    "xml_pattern": "T03/T03n0181b_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0182a",
+    "cbeta_id": "T03n0182a",
+    "title_zh": "鹿母經",
+    "translator": "西晉 竺法護譯",
+    "juan": 1,
+    "volume": "T03",
+    "xml_pattern": "T03/T03n0182a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0182b",
+    "cbeta_id": "T03n0182b",
+    "title_zh": "佛說鹿母經",
+    "translator": "西晉 竺法護譯",
+    "juan": 1,
+    "volume": "T03",
+    "xml_pattern": "T03/T03n0182b_*.xml",
     "file_count": 1
   },
   {
@@ -2297,6 +2437,26 @@
     "juan": 1,
     "volume": "T08",
     "xml_pattern": "T08/T08n0235_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0236a",
+    "cbeta_id": "T08n0236a",
+    "title_zh": "金剛般若波羅蜜經",
+    "translator": "元魏 菩提流支譯",
+    "juan": 1,
+    "volume": "T08",
+    "xml_pattern": "T08/T08n0236a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0236b",
+    "cbeta_id": "T08n0236b",
+    "title_zh": "金剛般若波羅蜜經",
+    "translator": "元魏 菩提流支譯",
+    "juan": 1,
+    "volume": "T08",
+    "xml_pattern": "T08/T08n0236b_*.xml",
     "file_count": 1
   },
   {
@@ -3077,6 +3237,26 @@
     "juan": 1,
     "volume": "T11",
     "xml_pattern": "T11/T11n0314_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0315a",
+    "cbeta_id": "T11n0315a",
+    "title_zh": "佛說普門品經",
+    "translator": "西晉 竺法護譯",
+    "juan": 1,
+    "volume": "T11",
+    "xml_pattern": "T11/T11n0315a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0315b",
+    "cbeta_id": "T11n0315b",
+    "title_zh": "佛說普門品經",
+    "translator": "西晉 竺法護譯",
+    "juan": 1,
+    "volume": "T11",
+    "xml_pattern": "T11/T11n0315b_*.xml",
     "file_count": 1
   },
   {
@@ -4380,6 +4560,66 @@
     "file_count": 2
   },
   {
+    "t_number": "T0446a",
+    "cbeta_id": "T14n0446a",
+    "title_zh": "過去莊嚴劫千佛名經",
+    "translator": "闕譯",
+    "juan": 1,
+    "volume": "T14",
+    "xml_pattern": "T14/T14n0446a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0446b",
+    "cbeta_id": "T14n0446b",
+    "title_zh": "過去莊嚴劫千佛名經",
+    "translator": "失譯",
+    "juan": 1,
+    "volume": "T14",
+    "xml_pattern": "T14/T14n0446b_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0447a",
+    "cbeta_id": "T14n0447a",
+    "title_zh": "現在賢劫千佛名經",
+    "translator": "闕譯",
+    "juan": 1,
+    "volume": "T14",
+    "xml_pattern": "T14/T14n0447a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0447b",
+    "cbeta_id": "T14n0447b",
+    "title_zh": "現在賢劫千佛名經",
+    "translator": "",
+    "juan": 1,
+    "volume": "T14",
+    "xml_pattern": "T14/T14n0447b_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0448a",
+    "cbeta_id": "T14n0448a",
+    "title_zh": "未來星宿劫千佛名經",
+    "translator": "闕譯",
+    "juan": 1,
+    "volume": "T14",
+    "xml_pattern": "T14/T14n0448a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0448b",
+    "cbeta_id": "T14n0448b",
+    "title_zh": "未來星宿劫千佛名經",
+    "translator": "失譯",
+    "juan": 1,
+    "volume": "T14",
+    "xml_pattern": "T14/T14n0448b_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T0449",
     "cbeta_id": "T14n0449",
     "title_zh": "佛說藥師如來本願經",
@@ -4807,6 +5047,26 @@
     "juan": 1,
     "volume": "T14",
     "xml_pattern": "T14/T14n0491_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0492a",
+    "cbeta_id": "T14n0492a",
+    "title_zh": "佛說阿難問事佛吉凶經",
+    "translator": "後漢 安世高譯",
+    "juan": 1,
+    "volume": "T14",
+    "xml_pattern": "T14/T14n0492a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0492b",
+    "cbeta_id": "T14n0492b",
+    "title_zh": "阿難問事佛吉凶經",
+    "translator": "後漢 安世高譯",
+    "juan": 1,
+    "volume": "T14",
+    "xml_pattern": "T14/T14n0492b_*.xml",
     "file_count": 1
   },
   {
@@ -5280,6 +5540,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T0540a",
+    "cbeta_id": "T14n0540a",
+    "title_zh": "佛說樹提伽經",
+    "translator": "劉宋 求那跋陀羅譯",
+    "juan": 1,
+    "volume": "T14",
+    "xml_pattern": "T14/T14n0540a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0540b",
+    "cbeta_id": "T14n0540b",
+    "title_zh": "佛說樹提伽經",
+    "translator": "劉宋 求那跋陀羅譯",
+    "juan": 1,
+    "volume": "T14",
+    "xml_pattern": "T14/T14n0540b_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T0541",
     "cbeta_id": "T14n0541",
     "title_zh": "佛說佛大僧大經",
@@ -5417,6 +5697,26 @@
     "juan": 1,
     "volume": "T14",
     "xml_pattern": "T14/T14n0554_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0555a",
+    "cbeta_id": "T14n0555a",
+    "title_zh": "五母子經",
+    "translator": "吳 支謙譯",
+    "juan": 1,
+    "volume": "T14",
+    "xml_pattern": "T14/T14n0555a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0555b",
+    "cbeta_id": "T14n0555b",
+    "title_zh": "五母子經",
+    "translator": "吳 支謙譯",
+    "juan": 1,
+    "volume": "T14",
+    "xml_pattern": "T14/T14n0555b_*.xml",
     "file_count": 1
   },
   {
@@ -7330,6 +7630,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T0747a",
+    "cbeta_id": "T17n0747a",
+    "title_zh": "佛說罪福報應經",
+    "translator": "劉宋 求那跋陀羅譯",
+    "juan": 1,
+    "volume": "T17",
+    "xml_pattern": "T17/T17n0747a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0747b",
+    "cbeta_id": "T17n0747b",
+    "title_zh": "佛說輪轉五道罪福報應經",
+    "translator": "劉宋 求那跋陀羅譯",
+    "juan": 1,
+    "volume": "T17",
+    "xml_pattern": "T17/T17n0747b_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T0748",
     "cbeta_id": "T17n0748",
     "title_zh": "佛說護淨經",
@@ -7357,6 +7677,26 @@
     "juan": 1,
     "volume": "T17",
     "xml_pattern": "T17/T17n0750_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0751a",
+    "cbeta_id": "T17n0751a",
+    "title_zh": "佛說五無反復經",
+    "translator": "劉宋 沮渠京聲譯",
+    "juan": 1,
+    "volume": "T17",
+    "xml_pattern": "T17/T17n0751a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0751b",
+    "cbeta_id": "T17n0751b",
+    "title_zh": "佛說五無返復經",
+    "translator": "劉宋 沮渠京聲譯",
+    "juan": 1,
+    "volume": "T17",
+    "xml_pattern": "T17/T17n0751b_*.xml",
     "file_count": 1
   },
   {
@@ -7780,6 +8120,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T0794a",
+    "cbeta_id": "T17n0794a",
+    "title_zh": "佛說時非時經",
+    "translator": "西晉 若羅嚴譯",
+    "juan": 1,
+    "volume": "T17",
+    "xml_pattern": "T17/T17n0794a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0794b",
+    "cbeta_id": "T17n0794b",
+    "title_zh": "佛說時非時經",
+    "translator": "西晉 若羅嚴譯",
+    "juan": 1,
+    "volume": "T17",
+    "xml_pattern": "T17/T17n0794b_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T0795",
     "cbeta_id": "T17n0795",
     "title_zh": "佛治身經",
@@ -7797,6 +8157,26 @@
     "juan": 1,
     "volume": "T17",
     "xml_pattern": "T17/T17n0796_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0797a",
+    "cbeta_id": "T17n0797a",
+    "title_zh": "佛說貧窮老公經",
+    "translator": "劉宋 慧簡譯",
+    "juan": 1,
+    "volume": "T17",
+    "xml_pattern": "T17/T17n0797a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0797b",
+    "cbeta_id": "T17n0797b",
+    "title_zh": "佛說貧窮老公經",
+    "translator": "劉宋 慧簡譯",
+    "juan": 1,
+    "volume": "T17",
+    "xml_pattern": "T17/T17n0797b_*.xml",
     "file_count": 1
   },
   {
@@ -8340,6 +8720,26 @@
     "file_count": 3
   },
   {
+    "t_number": "T0852a",
+    "cbeta_id": "T18n0852a",
+    "title_zh": "大毘盧遮那成佛神變加持經蓮華胎藏悲生曼荼羅廣大成就儀軌供養方便會",
+    "translator": "唐 法全撰",
+    "juan": 2,
+    "volume": "T18",
+    "xml_pattern": "T18/T18n0852a_*.xml",
+    "file_count": 2
+  },
+  {
+    "t_number": "T0852b",
+    "cbeta_id": "T18n0852b",
+    "title_zh": "大毘盧舍那成佛神變加持經蓮華胎藏悲生曼荼羅廣大成就儀軌",
+    "translator": "",
+    "juan": 2,
+    "volume": "T18",
+    "xml_pattern": "T18/T18n0852b_*.xml",
+    "file_count": 2
+  },
+  {
     "t_number": "T0853",
     "cbeta_id": "T18n0853",
     "title_zh": "大毘盧遮那成佛神變加持經蓮華胎藏菩提幢標幟普通真言藏廣大成就瑜伽",
@@ -8447,6 +8847,26 @@
     "juan": 1,
     "volume": "T18",
     "xml_pattern": "T18/T18n0863_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0864A",
+    "cbeta_id": "T18n0864A",
+    "title_zh": "大日如來劍印",
+    "translator": "",
+    "juan": 1,
+    "volume": "T18",
+    "xml_pattern": "T18/T18n0864A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0864B",
+    "cbeta_id": "T18n0864B",
+    "title_zh": "胎藏金剛教法名號",
+    "translator": "唐 義操集",
+    "juan": 1,
+    "volume": "T18",
+    "xml_pattern": "T18/T18n0864B_*.xml",
     "file_count": 1
   },
   {
@@ -8730,6 +9150,66 @@
     "file_count": 5
   },
   {
+    "t_number": "T0893a",
+    "cbeta_id": "T18n0893a",
+    "title_zh": "蘇悉地羯羅經",
+    "translator": "唐 輸波迦羅譯",
+    "juan": 3,
+    "volume": "T18",
+    "xml_pattern": "T18/T18n0893a_*.xml",
+    "file_count": 3
+  },
+  {
+    "t_number": "T0893b",
+    "cbeta_id": "T18n0893b",
+    "title_zh": "蘇悉地羯羅經",
+    "translator": "唐 輸波迦羅譯",
+    "juan": 3,
+    "volume": "T18",
+    "xml_pattern": "T18/T18n0893b_*.xml",
+    "file_count": 3
+  },
+  {
+    "t_number": "T0894a",
+    "cbeta_id": "T18n0894a",
+    "title_zh": "蘇悉地羯羅供養法",
+    "translator": "唐 善無畏譯",
+    "juan": 3,
+    "volume": "T18",
+    "xml_pattern": "T18/T18n0894a_*.xml",
+    "file_count": 3
+  },
+  {
+    "t_number": "T0894b",
+    "cbeta_id": "T18n0894b",
+    "title_zh": "蘇悉地羯羅供養法",
+    "translator": "唐 善無畏譯",
+    "juan": 2,
+    "volume": "T18",
+    "xml_pattern": "T18/T18n0894b_*.xml",
+    "file_count": 2
+  },
+  {
+    "t_number": "T0895a",
+    "cbeta_id": "T18n0895a",
+    "title_zh": "蘇婆呼童子請問經",
+    "translator": "唐 輸波迦羅譯",
+    "juan": 3,
+    "volume": "T18",
+    "xml_pattern": "T18/T18n0895a_*.xml",
+    "file_count": 3
+  },
+  {
+    "t_number": "T0895b",
+    "cbeta_id": "T18n0895b",
+    "title_zh": "蘇婆呼童子請問經",
+    "translator": "唐 輸波迦羅譯",
+    "juan": 2,
+    "volume": "T18",
+    "xml_pattern": "T18/T18n0895b_*.xml",
+    "file_count": 2
+  },
+  {
     "t_number": "T0896",
     "cbeta_id": "T18n0896",
     "title_zh": "妙臂菩薩所問經",
@@ -9010,6 +9490,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T0924A",
+    "cbeta_id": "T19n0924A",
+    "title_zh": "藥師如來念誦儀軌",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n0924A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0924B",
+    "cbeta_id": "T19n0924B",
+    "title_zh": "藥師如來念誦儀軌",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n0924B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T0925",
     "cbeta_id": "T19n0925",
     "title_zh": "藥師琉璃光王七佛本願功德經念誦儀軌",
@@ -9200,6 +9700,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T0944A",
+    "cbeta_id": "T19n0944A",
+    "title_zh": "大佛頂如來放光悉怛多鉢怛囉陀羅尼",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n0944A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0944B",
+    "cbeta_id": "T19n0944B",
+    "title_zh": "大佛頂大陀羅尼",
+    "translator": "",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n0944B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T0945",
     "cbeta_id": "T19n0945",
     "title_zh": "大佛頂如來密因修證了義諸菩薩萬行首楞嚴經",
@@ -9288,6 +9808,26 @@
     "volume": "T19",
     "xml_pattern": "T19/T19n0953_*.xml",
     "file_count": 3
+  },
+  {
+    "t_number": "T0954A",
+    "cbeta_id": "T19n0954A",
+    "title_zh": "一字頂輪王念誦儀軌",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n0954A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0954B",
+    "cbeta_id": "T19n0954B",
+    "title_zh": "一字頂輪王念誦儀軌",
+    "translator": "",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n0954B_*.xml",
+    "file_count": 1
   },
   {
     "t_number": "T0955",
@@ -9480,6 +10020,26 @@
     "file_count": 2
   },
   {
+    "t_number": "T0974A",
+    "cbeta_id": "T19n0974A",
+    "title_zh": "最勝佛頂陀羅尼經",
+    "translator": "宋 法天譯",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n0974A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0974B",
+    "cbeta_id": "T19n0974B",
+    "title_zh": "佛頂尊勝陀羅尼",
+    "translator": "",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n0974B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T0975",
     "cbeta_id": "T19n0975",
     "title_zh": "白傘蓋大佛頂王最勝無比大威德金剛無礙大道場陀羅尼念誦法要",
@@ -9558,6 +10118,26 @@
     "volume": "T19",
     "xml_pattern": "T19/T19n0982_*.xml",
     "file_count": 3
+  },
+  {
+    "t_number": "T0983A",
+    "cbeta_id": "T19n0983A",
+    "title_zh": "佛說大孔雀明王畫像壇場儀軌",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n0983A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T0983B",
+    "cbeta_id": "T19n0983B",
+    "title_zh": "孔雀經真言等梵本",
+    "translator": "唐 圓仁請來",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n0983B_*.xml",
+    "file_count": 1
   },
   {
     "t_number": "T0984",
@@ -9770,6 +10350,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1005A",
+    "cbeta_id": "T19n1005A",
+    "title_zh": "大寶廣博樓閣善住祕密陀羅尼經",
+    "translator": "唐 不空譯",
+    "juan": 3,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n1005A_*.xml",
+    "file_count": 3
+  },
+  {
+    "t_number": "T1005B",
+    "cbeta_id": "T19n1005B",
+    "title_zh": "寶樓閣經梵字真言",
+    "translator": "",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n1005B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1006",
     "cbeta_id": "T19n1006",
     "title_zh": "廣大寶樓閣善住祕密陀羅尼經",
@@ -9930,6 +10530,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1022A",
+    "cbeta_id": "T19n1022A",
+    "title_zh": "一切如來心祕密全身舍利寶篋印陀羅尼經",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n1022A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1022B",
+    "cbeta_id": "T19n1022B",
+    "title_zh": "一切如來心祕密全身舍利寶篋印陀羅尼經",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n1022B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1023",
     "cbeta_id": "T19n1023",
     "title_zh": "一切如來正法祕密篋印心陀羅尼經",
@@ -9967,6 +10587,46 @@
     "juan": 1,
     "volume": "T19",
     "xml_pattern": "T19/T19n1026_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1027a",
+    "cbeta_id": "T19n1027a",
+    "title_zh": "金剛光焰止風雨陀羅尼經",
+    "translator": "唐 菩提流志譯",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n1027a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1027b",
+    "cbeta_id": "T19n1027b",
+    "title_zh": "金剛光焰止風雨陀羅尼經",
+    "translator": "唐 菩提流志譯",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n1027b_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1028A",
+    "cbeta_id": "T19n1028A",
+    "title_zh": "佛說護諸童子陀羅尼經",
+    "translator": "元魏 菩提流支譯",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n1028A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1028B",
+    "cbeta_id": "T19n1028B",
+    "title_zh": "童子經念誦法",
+    "translator": "唐 善無畏譯",
+    "juan": 1,
+    "volume": "T19",
+    "xml_pattern": "T19/T19n1028B_*.xml",
     "file_count": 1
   },
   {
@@ -10130,6 +10790,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1045a",
+    "cbeta_id": "T20n1045a",
+    "title_zh": "佛說六字神呪王經",
+    "translator": "失譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1045a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1045b",
+    "cbeta_id": "T20n1045b",
+    "title_zh": "六字神呪王經",
+    "translator": "失譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1045b_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1046",
     "cbeta_id": "T20n1046",
     "title_zh": "六字大陀羅尼呪經",
@@ -10240,6 +10920,26 @@
     "file_count": 2
   },
   {
+    "t_number": "T1057a",
+    "cbeta_id": "T20n1057a",
+    "title_zh": "千眼千臂觀世音菩薩陀羅尼神呪經",
+    "translator": "唐 智通譯",
+    "juan": 2,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1057a_*.xml",
+    "file_count": 2
+  },
+  {
+    "t_number": "T1057b",
+    "cbeta_id": "T20n1057b",
+    "title_zh": "千眼千臂觀世音菩薩陀羅尼神呪經",
+    "translator": "唐 智通譯",
+    "juan": 2,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1057b_*.xml",
+    "file_count": 2
+  },
+  {
     "t_number": "T1058",
     "cbeta_id": "T20n1058",
     "title_zh": "千手千眼觀世音菩薩姥陀羅尼身經",
@@ -10277,6 +10977,26 @@
     "juan": 1,
     "volume": "T20",
     "xml_pattern": "T20/T20n1061_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1062A",
+    "cbeta_id": "T20n1062A",
+    "title_zh": "千手千眼觀世音菩薩大身呪本",
+    "translator": "唐 金剛智譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1062A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1062B",
+    "cbeta_id": "T20n1062B",
+    "title_zh": "世尊聖者千眼千首千足千舌千臂觀自在菩提薩埵怛嚩廣大圓滿無礙大悲心陀羅尼",
+    "translator": "",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1062B_*.xml",
     "file_count": 1
   },
   {
@@ -10367,6 +11087,26 @@
     "juan": 1,
     "volume": "T20",
     "xml_pattern": "T20/T20n1071_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1072A",
+    "cbeta_id": "T20n1072A",
+    "title_zh": "聖賀野紇哩縛大威怒王立成大神驗供養念誦儀軌法品",
+    "translator": "唐 不空譯",
+    "juan": 2,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1072A_*.xml",
+    "file_count": 2
+  },
+  {
+    "t_number": "T1072B",
+    "cbeta_id": "T20n1072B",
+    "title_zh": "馬頭觀音心陀羅尼",
+    "translator": "",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1072B_*.xml",
     "file_count": 1
   },
   {
@@ -10670,6 +11410,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1103a",
+    "cbeta_id": "T20n1103a",
+    "title_zh": "觀自在菩薩隨心呪經",
+    "translator": "唐 智通譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1103a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1103b",
+    "cbeta_id": "T20n1103b",
+    "title_zh": "觀自在菩薩怛嚩多唎隨心陀羅尼經",
+    "translator": "唐 智通譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1103b_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1104",
     "cbeta_id": "T20n1104",
     "title_zh": "佛說聖多羅菩薩經",
@@ -10710,6 +11470,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1108A",
+    "cbeta_id": "T20n1108A",
+    "title_zh": "聖救度佛母二十一種禮讚經",
+    "translator": "元 安藏譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1108A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1108B",
+    "cbeta_id": "T20n1108B",
+    "title_zh": "救度佛母二十一種禮讚經",
+    "translator": "",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1108B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1109",
     "cbeta_id": "T20n1109",
     "title_zh": "白救度佛母讚",
@@ -10747,6 +11527,26 @@
     "juan": 1,
     "volume": "T20",
     "xml_pattern": "T20/T20n1112_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1113A",
+    "cbeta_id": "T20n1113A",
+    "title_zh": "觀自在菩薩廣大圓滿無礙大悲心陀羅尼",
+    "translator": "高麗 指空校",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1113A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1113B",
+    "cbeta_id": "T20n1113B",
+    "title_zh": "大慈大悲救苦觀世音自在王菩薩廣大圓滿無礙自在青頸大悲心陀羅尼",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1113B_*.xml",
     "file_count": 1
   },
   {
@@ -10807,6 +11607,26 @@
     "juan": 1,
     "volume": "T20",
     "xml_pattern": "T20/T20n1119_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1120A",
+    "cbeta_id": "T20n1120A",
+    "title_zh": "金剛頂勝初瑜伽經中略出大樂金剛薩埵念誦儀",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1120A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1120B",
+    "cbeta_id": "T20n1120B",
+    "title_zh": "勝初瑜伽儀軌真言",
+    "translator": "唐 空海請來",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1120B_*.xml",
     "file_count": 1
   },
   {
@@ -10940,6 +11760,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1134A",
+    "cbeta_id": "T20n1134A",
+    "title_zh": "金剛壽命陀羅尼經法",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1134A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1134B",
+    "cbeta_id": "T20n1134B",
+    "title_zh": "金剛壽命陀羅尼經",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1134B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1135",
     "cbeta_id": "T20n1135",
     "title_zh": "佛說一切如來金剛壽命陀羅尼經",
@@ -10967,6 +11807,26 @@
     "juan": 1,
     "volume": "T20",
     "xml_pattern": "T20/T20n1137_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1138a",
+    "cbeta_id": "T20n1138a",
+    "title_zh": "金剛祕密善門陀羅尼呪經",
+    "translator": "失譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1138a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1138b",
+    "cbeta_id": "T20n1138b",
+    "title_zh": "金剛祕密善門陀羅尼經",
+    "translator": "失譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1138b_*.xml",
     "file_count": 1
   },
   {
@@ -11140,6 +12000,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1156A",
+    "cbeta_id": "T20n1156A",
+    "title_zh": "大隨求即得大陀羅尼明王懺悔法",
+    "translator": "唐 惟謹述",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1156A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1156B",
+    "cbeta_id": "T20n1156B",
+    "title_zh": "宗叡僧正於唐國師所口受",
+    "translator": "",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1156B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1157",
     "cbeta_id": "T20n1157",
     "title_zh": "香王菩薩陀羅尼呪經",
@@ -11157,6 +12037,26 @@
     "juan": 1,
     "volume": "T20",
     "xml_pattern": "T20/T20n1158_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1159A",
+    "cbeta_id": "T20n1159A",
+    "title_zh": "",
+    "translator": "",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1159A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1159B",
+    "cbeta_id": "T20n1159B",
+    "title_zh": "佛說地藏菩薩陀羅尼經",
+    "translator": "",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1159B_*.xml",
     "file_count": 1
   },
   {
@@ -11240,6 +12140,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1168A",
+    "cbeta_id": "T20n1168A",
+    "title_zh": "佛說大乘八大曼拏羅經",
+    "translator": "宋 法賢譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1168A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1168B",
+    "cbeta_id": "T20n1168B",
+    "title_zh": "八曼荼羅經",
+    "translator": "",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1168B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1169",
     "cbeta_id": "T20n1169",
     "title_zh": "佛說持明藏瑜伽大教尊那菩薩大明成就儀軌經",
@@ -11320,6 +12240,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1177A",
+    "cbeta_id": "T20n1177A",
+    "title_zh": "大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經",
+    "translator": "唐 不空譯",
+    "juan": 10,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1177A_*.xml",
+    "file_count": 10
+  },
+  {
+    "t_number": "T1177B",
+    "cbeta_id": "T20n1177B",
+    "title_zh": "千鉢文殊一百八名讚",
+    "translator": "唐 空海請來",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1177B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1178",
     "cbeta_id": "T20n1178",
     "title_zh": "文殊菩薩獻佛陀羅尼名烏蘇吒",
@@ -11387,6 +12327,26 @@
     "juan": 1,
     "volume": "T20",
     "xml_pattern": "T20/T20n1184_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1185A",
+    "cbeta_id": "T20n1185A",
+    "title_zh": "佛說文殊師利法寶藏陀羅尼經",
+    "translator": "唐 菩提流志譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1185A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1185B",
+    "cbeta_id": "T20n1185B",
+    "title_zh": "文殊師利寶藏陀羅尼經",
+    "translator": "唐 菩提流志譯",
+    "juan": 1,
+    "volume": "T20",
+    "xml_pattern": "T20/T20n1185B_*.xml",
     "file_count": 1
   },
   {
@@ -11750,6 +12710,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1222a",
+    "cbeta_id": "T21n1222a",
+    "title_zh": "聖迦抳忿怒金剛童子菩薩成就儀軌經",
+    "translator": "唐 不空譯",
+    "juan": 3,
+    "volume": "T21",
+    "xml_pattern": "T21/T21n1222a_*.xml",
+    "file_count": 3
+  },
+  {
+    "t_number": "T1222b",
+    "cbeta_id": "T21n1222b",
+    "title_zh": "聖迦柅忿怒金剛童子菩薩成就儀軌經",
+    "translator": "唐 不空譯",
+    "juan": 3,
+    "volume": "T21",
+    "xml_pattern": "T21/T21n1222b_*.xml",
+    "file_count": 3
+  },
+  {
     "t_number": "T1223",
     "cbeta_id": "T21n1223",
     "title_zh": "佛說無量壽佛化身大忿迅俱摩羅金剛念誦瑜伽儀軌法",
@@ -12040,6 +13020,26 @@
     "file_count": 3
   },
   {
+    "t_number": "T1252a",
+    "cbeta_id": "T21n1252a",
+    "title_zh": "佛說大吉祥天女十二名號經",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T21",
+    "xml_pattern": "T21/T21n1252a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1252b",
+    "cbeta_id": "T21n1252b",
+    "title_zh": "佛說大吉祥天女十二名號經",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T21",
+    "xml_pattern": "T21/T21n1252b_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1253",
     "cbeta_id": "T21n1253",
     "title_zh": "大吉祥天女十二契一百八名無垢大乘經",
@@ -12057,6 +13057,26 @@
     "juan": 1,
     "volume": "T21",
     "xml_pattern": "T21/T21n1254_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1255a",
+    "cbeta_id": "T21n1255a",
+    "title_zh": "佛說摩利支天菩薩陀羅尼經",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T21",
+    "xml_pattern": "T21/T21n1255a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1255b",
+    "cbeta_id": "T21n1255b",
+    "title_zh": "佛說摩利支天經",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T21",
+    "xml_pattern": "T21/T21n1255b_*.xml",
     "file_count": 1
   },
   {
@@ -12137,6 +13157,26 @@
     "juan": 1,
     "volume": "T21",
     "xml_pattern": "T21/T21n1263_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1264a",
+    "cbeta_id": "T21n1264a",
+    "title_zh": "觀自在菩薩化身蘘麌哩曳童女銷伏毒害陀羅尼經",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T21",
+    "xml_pattern": "T21/T21n1264a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1264b",
+    "cbeta_id": "T21n1264b",
+    "title_zh": "佛說穰麌梨童女經",
+    "translator": "唐 不空譯",
+    "juan": 1,
+    "volume": "T21",
+    "xml_pattern": "T21/T21n1264b_*.xml",
     "file_count": 1
   },
   {
@@ -13180,6 +14220,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1369a",
+    "cbeta_id": "T21n1369a",
+    "title_zh": "百千印陀羅尼經",
+    "translator": "唐 實叉難陀譯",
+    "juan": 1,
+    "volume": "T21",
+    "xml_pattern": "T21/T21n1369a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1369b",
+    "cbeta_id": "T21n1369b",
+    "title_zh": "百千印陀羅尼經",
+    "translator": "唐 實叉難陀譯",
+    "juan": 1,
+    "volume": "T21",
+    "xml_pattern": "T21/T21n1369b_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1370",
     "cbeta_id": "T21n1370",
     "title_zh": "佛說持明藏八大總持王經",
@@ -13257,6 +14317,26 @@
     "juan": 1,
     "volume": "T21",
     "xml_pattern": "T21/T21n1377_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1378a",
+    "cbeta_id": "T21n1378a",
+    "title_zh": "佛說玄師颰陀所說神呪經",
+    "translator": "東晉 曇無蘭譯",
+    "juan": 1,
+    "volume": "T21",
+    "xml_pattern": "T21/T21n1378a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1378b",
+    "cbeta_id": "T21n1378b",
+    "title_zh": "幻師颰陀神呪經",
+    "translator": "東晉 曇無蘭譯",
+    "juan": 1,
+    "volume": "T21",
+    "xml_pattern": "T21/T21n1378b_*.xml",
     "file_count": 1
   },
   {
@@ -13688,6 +14768,26 @@
     "volume": "T22",
     "xml_pattern": "T22/T22n1421_*.xml",
     "file_count": 30
+  },
+  {
+    "t_number": "T1422a",
+    "cbeta_id": "T22n1422a",
+    "title_zh": "彌沙塞五分戒本",
+    "translator": "劉宋 佛陀什等譯",
+    "juan": 1,
+    "volume": "T22",
+    "xml_pattern": "T22/T22n1422a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1422b",
+    "cbeta_id": "T22n1422b",
+    "title_zh": "五分戒本",
+    "translator": "劉宋 佛陀什等譯",
+    "juan": 1,
+    "volume": "T22",
+    "xml_pattern": "T22/T22n1422b_*.xml",
+    "file_count": 1
   },
   {
     "t_number": "T1423",
@@ -14130,6 +15230,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1467a",
+    "cbeta_id": "T24n1467a",
+    "title_zh": "佛說犯戒罪報輕重經",
+    "translator": "後漢 安世高譯",
+    "juan": 1,
+    "volume": "T24",
+    "xml_pattern": "T24/T24n1467a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1467b",
+    "cbeta_id": "T24n1467b",
+    "title_zh": "佛說犯戒罪報輕重經",
+    "translator": "",
+    "juan": 1,
+    "volume": "T24",
+    "xml_pattern": "T24/T24n1467b_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1468",
     "cbeta_id": "T24n1468",
     "title_zh": "佛說目連所問經",
@@ -14277,6 +15397,26 @@
     "juan": 2,
     "volume": "T24",
     "xml_pattern": "T24/T24n1482_*.xml",
+    "file_count": 2
+  },
+  {
+    "t_number": "T1483a",
+    "cbeta_id": "T24n1483a",
+    "title_zh": "佛說目連問戒律中五百輕重事",
+    "translator": "失譯",
+    "juan": 1,
+    "volume": "T24",
+    "xml_pattern": "T24/T24n1483a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1483b",
+    "cbeta_id": "T24n1483b",
+    "title_zh": "佛說目連問戒律中五百輕重事經",
+    "translator": "失譯",
+    "juan": 2,
+    "volume": "T24",
+    "xml_pattern": "T24/T24n1483b_*.xml",
     "file_count": 2
   },
   {
@@ -14538,6 +15678,26 @@
     "volume": "T25",
     "xml_pattern": "T25/T25n1509_*.xml",
     "file_count": 100
+  },
+  {
+    "t_number": "T1510a",
+    "cbeta_id": "T25n1510a",
+    "title_zh": "金剛般若論",
+    "translator": "無著菩薩造  隋 達磨笈多譯",
+    "juan": 2,
+    "volume": "T25",
+    "xml_pattern": "T25/T25n1510a_*.xml",
+    "file_count": 2
+  },
+  {
+    "t_number": "T1510b",
+    "cbeta_id": "T25n1510b",
+    "title_zh": "金剛般若波羅蜜經論",
+    "translator": "無著菩薩造  隋 達磨笈多譯",
+    "juan": 3,
+    "volume": "T25",
+    "xml_pattern": "T25/T25n1510b_*.xml",
+    "file_count": 3
   },
   {
     "t_number": "T1511",
@@ -16128,6 +17288,26 @@
     "volume": "T32",
     "xml_pattern": "T32/T32n1669_*.xml",
     "file_count": 20
+  },
+  {
+    "t_number": "T1670A",
+    "cbeta_id": "T32n1670A",
+    "title_zh": "那先比丘經",
+    "translator": "失譯",
+    "juan": 2,
+    "volume": "T32",
+    "xml_pattern": "T32/T32n1670A_*.xml",
+    "file_count": 2
+  },
+  {
+    "t_number": "T1670B",
+    "cbeta_id": "T32n1670B",
+    "title_zh": "那先比丘經",
+    "translator": "失譯",
+    "juan": 3,
+    "volume": "T32",
+    "xml_pattern": "T32/T32n1670B_*.xml",
+    "file_count": 3
   },
   {
     "t_number": "T1671",
@@ -18210,6 +19390,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1879a",
+    "cbeta_id": "T45n1879a",
+    "title_zh": "華嚴經關脈義記",
+    "translator": "唐 法藏撰",
+    "juan": 1,
+    "volume": "T45",
+    "xml_pattern": "T45/T45n1879a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1879b",
+    "cbeta_id": "T45n1879b",
+    "title_zh": "華嚴關脈義記",
+    "translator": "",
+    "juan": 1,
+    "volume": "T45",
+    "xml_pattern": "T45/T45n1879b_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1880",
     "cbeta_id": "T45n1880",
     "title_zh": "金師子章雲間類解",
@@ -18278,6 +19478,26 @@
     "volume": "T45",
     "xml_pattern": "T45/T45n1886_*.xml",
     "file_count": 1
+  },
+  {
+    "t_number": "T1887A",
+    "cbeta_id": "T45n1887A",
+    "title_zh": "華嚴一乘法界圖",
+    "translator": "新羅 義湘撰",
+    "juan": 1,
+    "volume": "T45",
+    "xml_pattern": "T45/T45n1887A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1887B",
+    "cbeta_id": "T45n1887B",
+    "title_zh": "法界圖記叢髓錄",
+    "translator": "",
+    "juan": 2,
+    "volume": "T45",
+    "xml_pattern": "T45/T45n1887B_*.xml",
+    "file_count": 2
   },
   {
     "t_number": "T1888",
@@ -19090,6 +20310,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1969A",
+    "cbeta_id": "T47n1969A",
+    "title_zh": "樂邦文類",
+    "translator": "宋 宗曉編",
+    "juan": 5,
+    "volume": "T47",
+    "xml_pattern": "T47/T47n1969A_*.xml",
+    "file_count": 5
+  },
+  {
+    "t_number": "T1969B",
+    "cbeta_id": "T47n1969B",
+    "title_zh": "樂邦遺稿",
+    "translator": "宋 宗曉編",
+    "juan": 2,
+    "volume": "T47",
+    "xml_pattern": "T47/T47n1969B_*.xml",
+    "file_count": 2
+  },
+  {
     "t_number": "T1970",
     "cbeta_id": "T47n1970",
     "title_zh": "龍舒增廣淨土文",
@@ -19250,6 +20490,46 @@
     "file_count": 1
   },
   {
+    "t_number": "T1986A",
+    "cbeta_id": "T47n1986A",
+    "title_zh": "筠州洞山悟本禪師語錄",
+    "translator": "日本 慧印校",
+    "juan": 1,
+    "volume": "T47",
+    "xml_pattern": "T47/T47n1986A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1986B",
+    "cbeta_id": "T47n1986B",
+    "title_zh": "瑞州洞山良价禪師語錄",
+    "translator": "明 語風圓信．郭凝之編",
+    "juan": 1,
+    "volume": "T47",
+    "xml_pattern": "T47/T47n1986B_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1987A",
+    "cbeta_id": "T47n1987A",
+    "title_zh": "撫州曹山元證禪師語錄",
+    "translator": "日本 慧印校",
+    "juan": 1,
+    "volume": "T47",
+    "xml_pattern": "T47/T47n1987A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1987B",
+    "cbeta_id": "T47n1987B",
+    "title_zh": "撫州曹山本寂禪師語錄",
+    "translator": "日本 玄契編",
+    "juan": 2,
+    "volume": "T47",
+    "xml_pattern": "T47/T47n1987B_*.xml",
+    "file_count": 2
+  },
+  {
     "t_number": "T1988",
     "cbeta_id": "T47n1988",
     "title_zh": "雲門匡真禪師廣錄",
@@ -19310,6 +20590,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T1994A",
+    "cbeta_id": "T47n1994A",
+    "title_zh": "楊岐方會和尚語錄",
+    "translator": "宋 仁勇等編",
+    "juan": 1,
+    "volume": "T47",
+    "xml_pattern": "T47/T47n1994A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T1994B",
+    "cbeta_id": "T47n1994B",
+    "title_zh": "楊岐方會和尚後錄",
+    "translator": "",
+    "juan": 1,
+    "volume": "T47",
+    "xml_pattern": "T47/T47n1994B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1995",
     "cbeta_id": "T47n1995",
     "title_zh": "法演禪師語錄",
@@ -19340,6 +20640,26 @@
     "file_count": 20
   },
   {
+    "t_number": "T1998A",
+    "cbeta_id": "T47n1998A",
+    "title_zh": "大慧普覺禪師語錄",
+    "translator": "宋 蘊聞編",
+    "juan": 30,
+    "volume": "T47",
+    "xml_pattern": "T47/T47n1998A_*.xml",
+    "file_count": 30
+  },
+  {
+    "t_number": "T1998B",
+    "cbeta_id": "T47n1998B",
+    "title_zh": "大慧普覺禪師宗門武庫",
+    "translator": "宋 道謙編",
+    "juan": 1,
+    "volume": "T47",
+    "xml_pattern": "T47/T47n1998B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T1999",
     "cbeta_id": "T47n1999",
     "title_zh": "密菴和尚語錄",
@@ -19368,6 +20688,26 @@
     "volume": "T48",
     "xml_pattern": "T48/T48n2001_*.xml",
     "file_count": 9
+  },
+  {
+    "t_number": "T2002A",
+    "cbeta_id": "T48n2002A",
+    "title_zh": "如淨和尚語錄",
+    "translator": "宋 文素編",
+    "juan": 2,
+    "volume": "T48",
+    "xml_pattern": "T48/T48n2002A_*.xml",
+    "file_count": 2
+  },
+  {
+    "t_number": "T2002B",
+    "cbeta_id": "T48n2002B",
+    "title_zh": "天童山景德寺如淨禪師續語錄",
+    "translator": "宋 義遠編",
+    "juan": 1,
+    "volume": "T48",
+    "xml_pattern": "T48/T48n2002B_*.xml",
+    "file_count": 1
   },
   {
     "t_number": "T2003",
@@ -19460,6 +20800,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T2012A",
+    "cbeta_id": "T48n2012A",
+    "title_zh": "黃檗山斷際禪師傳心法要",
+    "translator": "唐 裴休集",
+    "juan": 1,
+    "volume": "T48",
+    "xml_pattern": "T48/T48n2012A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2012B",
+    "cbeta_id": "T48n2012B",
+    "title_zh": "黃檗斷際禪師宛陵錄",
+    "translator": "唐 裴休集",
+    "juan": 1,
+    "volume": "T48",
+    "xml_pattern": "T48/T48n2012B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T2013",
     "cbeta_id": "T48n2013",
     "title_zh": "禪宗永嘉集",
@@ -19517,6 +20877,26 @@
     "juan": 1,
     "volume": "T48",
     "xml_pattern": "T48/T48n2018_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2019A",
+    "cbeta_id": "T48n2019A",
+    "title_zh": "真心直說",
+    "translator": "高麗 知訥撰",
+    "juan": 1,
+    "volume": "T48",
+    "xml_pattern": "T48/T48n2019A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2019B",
+    "cbeta_id": "T48n2019B",
+    "title_zh": "誡初心學人文",
+    "translator": "高麗 知訥撰",
+    "juan": 1,
+    "volume": "T48",
+    "xml_pattern": "T48/T48n2019B_*.xml",
     "file_count": 1
   },
   {
@@ -19787,6 +21167,26 @@
     "juan": 1,
     "volume": "T50",
     "xml_pattern": "T50/T50n2046_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2047a",
+    "cbeta_id": "T50n2047a",
+    "title_zh": "龍樹菩薩傳",
+    "translator": "姚秦 鳩摩羅什譯",
+    "juan": 1,
+    "volume": "T50",
+    "xml_pattern": "T50/T50n2047a_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2047b",
+    "cbeta_id": "T50n2047b",
+    "title_zh": "龍樹菩薩傳",
+    "translator": "姚秦 鳩摩羅什譯",
+    "juan": 1,
+    "volume": "T50",
+    "xml_pattern": "T50/T50n2047b_*.xml",
     "file_count": 1
   },
   {
@@ -20640,6 +22040,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T2133A",
+    "cbeta_id": "T54n2133A",
+    "title_zh": "梵語千字文",
+    "translator": "唐 義淨撰",
+    "juan": 1,
+    "volume": "T54",
+    "xml_pattern": "T54/T54n2133A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2133B",
+    "cbeta_id": "T54n2133B",
+    "title_zh": "梵語千字文",
+    "translator": "唐 義淨撰",
+    "juan": 1,
+    "volume": "T54",
+    "xml_pattern": "T54/T54n2133B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T2134",
     "cbeta_id": "T54n2134",
     "title_zh": "唐梵文字",
@@ -20707,6 +22127,26 @@
     "juan": 1,
     "volume": "T54",
     "xml_pattern": "T54/T54n2140_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2141A",
+    "cbeta_id": "T54n2141A",
+    "title_zh": "摩尼光佛教法儀略",
+    "translator": "唐 拂多誕譯",
+    "juan": 1,
+    "volume": "T54",
+    "xml_pattern": "T54/T54n2141A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2141B",
+    "cbeta_id": "T54n2141B",
+    "title_zh": "波斯教殘經",
+    "translator": "",
+    "juan": 1,
+    "volume": "T54",
+    "xml_pattern": "T54/T54n2141B_*.xml",
     "file_count": 1
   },
   {
@@ -20970,6 +22410,26 @@
     "file_count": 1
   },
   {
+    "t_number": "T2168A",
+    "cbeta_id": "T55n2168A",
+    "title_zh": "惠運禪師將來教法目錄",
+    "translator": "日本 惠運撰",
+    "juan": 1,
+    "volume": "T55",
+    "xml_pattern": "T55/T55n2168A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2168B",
+    "cbeta_id": "T55n2168B",
+    "title_zh": "惠運律師書目錄",
+    "translator": "日本 惠運撰",
+    "juan": 1,
+    "volume": "T55",
+    "xml_pattern": "T55/T55n2168B_*.xml",
+    "file_count": 1
+  },
+  {
     "t_number": "T2169",
     "cbeta_id": "T55n2169",
     "title_zh": "開元寺求得經疏記等目錄",
@@ -21017,6 +22477,26 @@
     "juan": 1,
     "volume": "T55",
     "xml_pattern": "T55/T55n2173_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2174A",
+    "cbeta_id": "T55n2174A",
+    "title_zh": "新書寫請來法門等目錄",
+    "translator": "日本 宗叡撰",
+    "juan": 1,
+    "volume": "T55",
+    "xml_pattern": "T55/T55n2174A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2174B",
+    "cbeta_id": "T55n2174B",
+    "title_zh": "禪林寺宗叡僧正目錄",
+    "translator": "",
+    "juan": 1,
+    "volume": "T55",
+    "xml_pattern": "T55/T55n2174B_*.xml",
     "file_count": 1
   },
   {
@@ -21437,6 +22917,26 @@
     "juan": 1,
     "volume": "T85",
     "xml_pattern": "T85/T85n2763_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2764A",
+    "cbeta_id": "T85n2764A",
+    "title_zh": "涅槃經義記",
+    "translator": "",
+    "juan": 1,
+    "volume": "T85",
+    "xml_pattern": "T85/T85n2764A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2764B",
+    "cbeta_id": "T85n2764B",
+    "title_zh": "大涅槃經義記卷第四",
+    "translator": "",
+    "juan": 1,
+    "volume": "T85",
+    "xml_pattern": "T85/T85n2764B_*.xml",
     "file_count": 1
   },
   {
@@ -22087,6 +23587,26 @@
     "juan": 1,
     "volume": "T85",
     "xml_pattern": "T85/T85n2829_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2830A",
+    "cbeta_id": "T85n2830A",
+    "title_zh": "道安法師念佛讚",
+    "translator": "",
+    "juan": 1,
+    "volume": "T85",
+    "xml_pattern": "T85/T85n2830A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2830B",
+    "cbeta_id": "T85n2830B",
+    "title_zh": "道安法師念佛讚文",
+    "translator": "",
+    "juan": 1,
+    "volume": "T85",
+    "xml_pattern": "T85/T85n2830B_*.xml",
     "file_count": 1
   },
   {
@@ -22947,6 +24467,26 @@
     "juan": 1,
     "volume": "T85",
     "xml_pattern": "T85/T85n2916_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2917A",
+    "cbeta_id": "T85n2917A",
+    "title_zh": "新菩薩經",
+    "translator": "",
+    "juan": 1,
+    "volume": "T85",
+    "xml_pattern": "T85/T85n2917A_*.xml",
+    "file_count": 1
+  },
+  {
+    "t_number": "T2917B",
+    "cbeta_id": "T85n2917B",
+    "title_zh": "新菩薩經",
+    "translator": "",
+    "juan": 1,
+    "volume": "T85",
+    "xml_pattern": "T85/T85n2917B_*.xml",
     "file_count": 1
   },
   {

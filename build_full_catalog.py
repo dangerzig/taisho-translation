@@ -19,21 +19,22 @@ XML = '{http://www.w3.org/XML/1998/namespace}'
 
 
 def scan_xml_corpus(xml_base: Path) -> dict[str, list[Path]]:
-    """Find all XML files and group by CBETA text ID (e.g., T01n0001)."""
+    """Find all XML files and group by CBETA text ID (e.g., T01n0001, T02n0128a)."""
     texts = defaultdict(list)
     for xml_file in sorted(xml_base.glob('T*/T*n*_*.xml')):
-        match = re.match(r'(T\d+n\d+)_\d+\.xml', xml_file.name)
+        match = re.match(r'(T\d+n\d+[a-bA-B]?)_\d+\.xml', xml_file.name)
         if match:
             texts[match.group(1)].append(xml_file)
     return dict(texts)
 
 
 def cbeta_id_to_t_number(cbeta_id: str) -> str:
-    """Convert CBETA ID to Taishō number: T01n0001 -> T0001."""
-    match = re.match(r'T\d+n(\d+)', cbeta_id)
+    """Convert CBETA ID to Taishō number: T01n0001 -> T0001, T02n0128a -> T0128a."""
+    match = re.match(r'T\d+n(\d+)([a-bA-B]?)', cbeta_id)
     if match:
         num = int(match.group(1))
-        return f'T{num:04d}'
+        suffix = match.group(2)
+        return f'T{num:04d}{suffix}'
     return cbeta_id
 
 
@@ -85,7 +86,7 @@ def get_metadata(xml_path: Path) -> dict:
 
 def main():
     xml_base = Path.home() / 'taisho-canon' / 'xml' / 'T'
-    output_path = Path.home() / 'taisho-translation-sample' / 'full_catalog.json'
+    output_path = Path.home() / 'taisho-translation' / 'full_catalog.json'
 
     print("Scanning CBETA XML corpus...")
     texts = scan_xml_corpus(xml_base)

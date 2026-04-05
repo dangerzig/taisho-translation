@@ -1,0 +1,725 @@
+# Index Terms for T2682: Ōjōyōshū (Essentials of Birth in the Pure Land)
+# Format: TERM | CHINESE (where known)
+# Generated from the complete English translation
+
+# =============================================
+# 1. PROPER NAMES: Buddhas, Bodhisattvas, Patriarchs, Historical Figures
+# =============================================
+
+Akṣayamati |
+Akṣobhya | 阿閦
+All-Illuminating King Buddha |
+Amitābha | 阿弥陀
+Amitāyus | 阿弥陀
+Ānanda | 阿難
+Angulimala | 鴦掘摩羅
+Aśvaghoṣa | 馬鳴
+Avalokiteśvara | 観世音
+Bhadrapāla | 跋陀和
+Bhūtatathatā Bodhisattva |
+Bodhisattva Dharmaśrī | 法施菩薩
+Bodhisattva Huājù | 華聚菩薩
+Bodhisattva Shānhǎihuì | 山海慧菩薩
+Bodhisattva Siṃhanāda | 師子吼菩薩
+Bodhisattva Xigen | 喜根菩薩
+Buddha Distant Illumination |
+Buddha Dragon Victory |
+Buddha Fearlessness |
+Buddha Foremost in Virtue |
+Buddha Human King |
+Buddha Immeasurable Sound |
+Buddha Invincible |
+Buddha Lion |
+Buddha Rucika |
+Buddha Stainless Light |
+Buddha Superior Power |
+Buddha Sweet Dew Flavor |
+Buddha Treasure Store |
+Buddha Unsurpassed Flower |
+Buddha Wondrous Virtue Mountain |
+Citradhvaja | 質多長者
+Daochuo | 道綽
+Daoxuan | 道宣
+Devadatta | 提婆達多
+Dharmadhvaja Bodhisattva | 法幢菩薩
+Dharmākara | 法蔵
+Dīpaṃkara | 燃燈
+Dōmyō |
+Eikō |
+Firmly Abiding Merit and Jewel King Tathāgata |
+Gadgadasvara |
+Gandhahastin |
+Genshin | 源信
+Great Adornment Buddha |
+Guhyapada |
+Huilin | 慧琳
+Huáigǎn | 懐感
+Huìyuǎn | 慧遠
+Jiācái | 迦才
+Jitsugen |
+Jīvaka | 耆婆
+Jinxing | 靖邁
+Kanakamuni | 拘那含牟尼
+Kāśyapa (Buddha) | 迦葉
+King Ajātaśatru | 阿闍世王
+King Milinda | 弥蘭陀王
+King Moon-Supreme |
+King Prasenajit | 波斯匿王
+King Śālaprabhā | 楽行王
+Kōe |
+Kṣitigarbha | 地蔵
+Kuījī | 窺基
+Maitreya | 弥勒
+Mahāsthāmaprāpta | 大勢至
+Mahamaudgalyayana | 大目犍連
+Mañjuśrī | 文殊
+Medicine King Bodhisattva | 薬王菩薩
+Megha | 大德
+Meghaśrī |
+Monk Dingfa |
+Monk Jiānláo | 堅牢比丘
+Nagasena | 那先
+Nāgārjuna | 龍樹
+Nanda | 難陀
+Rāṣṭrapāla | 護国
+Ratnaketu |
+Ryōgen | 良源
+Sadāparibhūta |
+Sadaprarudita | 常啼
+Śakra | 帝釈
+Śākyamuni | 釈迦
+Samantabhadra | 普賢
+Shandao | 善導
+Śāriputra | 舎利弗
+Śikhin |
+Sonjun |
+Sthiramati |
+Sudhana | 善財
+Sūkṣmadhvani |
+Tathāgatavana Bodhisattva |
+Tiantai (Zhiyi) | 天台
+Universal Light and Merit Mountain King Tathāgata |
+Vairocana | 毘盧遮那
+Vaiśravaṇa | 毘沙門
+Vajragarbha |
+Vasubandhu | 世親
+Vimalakīrti | 維摩
+Vipaśyin | 毘婆尸
+Xuánzàng | 玄奘
+Yama | 閻魔
+Yoshishige no Yasutane | 慶滋保胤
+Zhiguang | 智光
+Zhijing |
+Zhou Wende | 周文徳
+
+# =============================================
+# 2. PLACE NAMES
+# =============================================
+
+Abhirati |
+Byōdō-in | 平等院
+Caitrarathaprāsāda Park |
+Deer Park | 鹿野苑
+Enryaku-ji | 延暦寺
+Gion Monastery | 祇園寺
+Guoqing Temple | 国清寺
+Himalayas | 雪山
+Jambudvīpa | 閻浮提
+Jetavana | 祇園精舎
+Kabao |
+Kapisa |
+Land of Utmost Bliss | 極楽
+Mandākinī |
+Miśra Grove |
+Mount Hiei | 比叡山
+Mount Sumeru | 須弥山
+Mount Sunrise |
+Mount Sunset |
+Mount Tiantai | 天台山
+Mount Vipula | 毘富羅山
+Nandana Garden |
+Nanzen-bō |
+Paruṣyaka Garden |
+Peaceful Tranquility (Qingtai) | 清泰
+Realm of Indolence | 懈慢国
+Sahā world | 娑婆
+Shuryōgon-in | 首楞厳院
+Śrāvastī | 舎衛
+Sudarśana palace | 善見城
+Sudharmā Hall | 善法堂
+Sukhāvatī | 極楽
+Tuṣita | 兜率
+Vārāṇasī | 波羅奈
+Yokawa | 横川
+
+# =============================================
+# 3. SŪTRA AND TREATISE TITLES
+# =============================================
+
+Amitābha Dhāraṇī |
+Amitābha Sūtra (Shorter) | 阿弥陀経
+Amoghapāśa |
+Anle ji (Collection on the Land of Peace and Bliss) | 安楽集
+Anuttarāśraya Sūtra | 無上依経
+Avataṃsaka Sūtra | 華厳経
+Bodhisattva Dwelling in the Womb Sūtra | 菩薩処胎経
+Brahmajāla Sūtra | 梵網経
+Buddha Treasury Sūtra | 仏蔵経
+Buddhapitaka Sūtra | 仏蔵経
+Chu yao jing | 出曜経
+Cintāmaṇicakra |
+Contemplation Sūtra | 観経
+Daji yuezang fen | 大集月蔵分
+Daśabhūmika-vibhāṣā | 十住毘婆沙論
+Daśacakrakṣitigarbha Sūtra | 十輪経
+Dhammapada | 法句経
+Dhāraṇī Collection Sūtra | 陀羅尼集経
+Diamond Sūtra (Vajracchedikā) | 金剛経
+Eleven-Faced Sūtra |
+Essentials of the Western Land | 西方要決
+Great Collection Sūtra (Mahāsaṃnipāta) | 大集経
+Kanding ji (Record of Critical Assessments) | 勘定記
+Lotus Sūtra (Saddharmapuṇḍarīka) | 法華経
+Mahākaruṇā Sūtra | 大悲経
+Mahāparinirvāṇa Sūtra | 大般涅槃経
+Mahāprajñāpāramitā Sūtra | 大般若経
+Mahāprajñāpāramitopadeśa (Dazhidu lun) | 大智度論
+Mahāsaṃnipāta Candragarbha Sūtra | 大集月蔵経
+Mahāyānasaṃgraha | 摂大乗論
+Mahāyānasūtrālaṃkāra | 大乗荘厳経論
+Mañjuśrī Prajñāpāramitā Sūtra | 文殊般若経
+Medicine Master Sūtra | 薬師経
+Mohe zhiguan | 摩訶止観
+Mūlamadhyamakakārikā | 中論
+Mūlasarvāstivāda Vinaya |
+Nirvāṇa Sūtra | 涅槃経
+Pingdeng jing (Sūtra of Equal Enlightenment) | 平等覚経
+Prajñāpāramitā Sūtra | 般若経
+Pratyutpanna Samādhi Sūtra | 般舟三昧経
+Qunyi lun (Treatise Resolving Doubts) | 群疑論
+Ratnakūṭa Sūtra | 宝積経
+Ratnagotravibhāga | 宝性論
+Ratnamegha Sūtra | 宝雲経
+Record of the Western Regions | 西域記
+Renwang jing (Sūtra for Humane Kings) | 仁王経
+Ṣaṭpāramitā Sūtra | 六波羅蜜経
+Saddharmasmṛtyupasthāna Sūtra | 正法念処経
+Secret Treasury Sūtra of the Tathāgata | 如来秘密蔵経
+Shiyilun (Ten Doubts) | 十疑論
+Śūraṅgama Samādhi Sūtra | 首楞厳三昧経
+Sūtra of Awakening the Pure Mind |
+Sūtra of Birth According to One's Vow |
+Sūtra of Birth in the Ten Directions |
+Sūtra of Bequeathed Teachings (Yijiao jing) | 遺教経
+Sūtra of Contemplation of the Mind-Ground | 観心地経
+Sūtra of Immeasurable Life (Larger) | 無量寿経
+Sūtra of Immeasurable Purity | 無量清浄覚経
+Sūtra of Maitreya's Questions |
+Sūtra of No-Practice |
+Sūtra of Perfect Enlightenment (Yuanjue jing) | 円覚経
+Sūtra of Queen Māyā | 摩耶経
+Sūtra of Retribution for Offenses |
+Sūtra of the Buddha-Recollection Samādhi | 念仏三昧経
+Sūtra of the Drum Sound | 鼓音声経
+Sūtra of the Letterless Jewel Casket |
+Sūtra of the Names of Ākāśagarbha Bodhisattva |
+Sūtra of the Names of the Three Thousand Buddhas |
+Sūtra of the Prediction for Avalokiteśvara | 観音授記経
+Sūtra of the Sound of the Drum | 鼓音声経
+Sūtra of the Ten Kinds of Birth |
+Sūtra of the Twelve Buddha-Names | 十二仏名経
+Sūtra of Identical Nature |
+Sūtra on Adorning the Bodhicitta | 菩提心荘厳経
+Sūtra on Birth (Jātaka) |
+Sūtra on Contemplation of Immeasurable Life | 観無量寿経
+Sūtra on Producing the Bodhicitta | 発菩提心経
+Sūtra on the Samādhi of Contemplating the Buddha | 観仏三昧経
+Sūtra Proclaiming the Merits of All Buddhas | 称揚諸仏功徳経
+Suvarṇaprabhāsa | 金光明経
+Tathāgataguhya Sūtra | 如来秘密経
+Thousand-Armed Dhāraṇī Sūtra | 千手陀羅尼経
+Treatise on Birth in the Pure Land (Vasubandhu) | 往生論
+Treatise on Rebirth | 往生論
+Treatise on the Great Man |
+Treatise on the Pure Land | 浄土論
+Treatise Resolving Doubts (Huáigǎn) | 群疑論
+Upāsakaśīla Sūtra | 優婆塞戒経
+Uṣṇīṣavijayā | 仏頂尊勝
+Vijñaptimātratā Treatise | 唯識論
+Vimalakīrti Sūtra | 維摩経
+Vimalaprabha |
+Xindi guan jing | 心地観経
+Yingluo jing | 瓔珞経
+Yogācārabhūmi | 瑜伽師地論
+Yogācārabhūmi-saṃgraha |
+Zhanchashan'e yebao jing | 占察善悪業報経
+Zuiqiu |
+
+# =============================================
+# 4. DOCTRINAL CONCEPTS
+# =============================================
+
+afflictions (kleśa) | 煩悩
+aggregates, five (skandha) | 五蘊
+annihilationism | 断見
+anuttarā samyaksaṃbodhi | 阿耨多羅三藐三菩提
+arhatship | 阿羅漢
+aspiration for awakening | see bodhicitta
+attachment | 執著
+awakening (bodhi) | 菩提
+birth and death (saṃsāra) | 生死
+bodhicitta | 菩提心
+bodhicitta directed toward phenomena | 事上発心
+bodhicitta directed toward principle | 理上発心
+buddha-nature | 仏性
+cause and effect (karma) | 因果
+compassion (karuṇā) | 悲
+compassion, great (mahākaruṇā) | 大悲
+compassion, three kinds of | 三縁慈悲
+compassion, unconditioned | 無縁慈悲
+conditioned dharmas | 有為法
+defilements | 煩悩
+dependent arising (pratītyasamutpāda) | 縁起
+desire realm | 欲界
+Dharma body (dharmakāya) | 法身
+Dharma-nature | 法性
+dharma-realm | 法界
+eight worldly winds | 八風
+emptiness (śūnyatā) | 空
+eternalism | 常見
+faith (śraddhā) | 信
+five desires | 五欲
+five hindrances | 五蓋
+five inconceivables | 五不思議
+form realm | 色界
+formless realm | 無色界
+four fearlessnesses | 四無畏
+four grave precepts | 四重禁
+four truths | 四諦
+good roots (kuśalamūla) | 善根
+Hīnayāna | 小乗
+icchantika |
+ignorance (avidyā) | 無明
+impermanence (anitya) | 無常
+impurity (aśubha) | 不浄
+karma | 業
+karma, determinate | 定業
+karma, indeterminate | 不定業
+Mahāyāna | 大乗
+marks, thirty-two | 三十二相
+marks, eighty minor | 八十随形好
+merit (puṇya) | 功徳
+merit-dedication (pariṇāmanā) | 回向
+Middle Way | 中道
+mindfulness (smṛti) | 念
+nirmāṇakāya | 応身
+nirvāṇa | 涅槃
+no-self (anātman) | 無我
+non-retrogression (avaivartika) | 不退転
+One Vehicle (ekayāna) | 一乗
+original vow (pūrvapraṇidhāna) | 本願
+pāramitās, six | 六波羅蜜
+patience of non-arising (anutpattikadharmakṣānti) | 無生忍
+pratyekabuddha | 縁覚
+provisional designations | 仮名
+pure land | 浄土
+reality-nature (tathatā) | 実相
+retribution, karmic | 果報
+reward-body (saṃbhogakāya) | 報身
+right mindfulness | 正念
+saṃsāra | 輪廻
+sarvajña (omniscience) | 一切智
+skillful means (upāya) | 方便
+śrāvaka | 声聞
+suffering (duḥkha) | 苦
+tathāgatagarbha | 如来蔵
+ten powers | 十力
+three bodies (trikāya) | 三身
+three evil paths | 三悪道
+three minds | 三心
+three realms | 三界
+three truths, mutual interpenetration of | 三諦互融
+transformation-body (nirmāṇakāya) | 化身
+true suchness (tathatā) | 真如
+two truths | 二諦
+two vehicles | 二乗
+unconditioned | 無為
+wrong views (mithyādṛṣṭi) | 邪見
+
+# =============================================
+# 5. PRACTICE METHODS
+# =============================================
+
+auxiliary methods | 助業
+bodily karma | 身業
+bodhisattva path | 菩薩道
+buddha-recollection (buddhānusmṛti) | 念仏
+buddha-recollection samādhi | 念仏三昧
+chanting the name (shōmyō) | 称名
+condensed contemplation | 略観
+constantly-walking samādhi | 常行三昧
+contemplation of complete form | 総観
+contemplation of individual marks | 別相観
+contemplation of the white ūrṇā | 白毫観
+contemplation with characteristics | 有相観
+contemplation without characteristics | 無相観
+deathbed rite | 臨終行儀
+dhūtaguṇa (ascetic practices) | 頭陀
+eight precepts of abstinence | 八斎戒
+encouragement at the time of death | 臨終勧導
+exclusive practice | 専修
+five gates of mindfulness | 五念門
+four modes of practice | 四修
+four universal vows | 四弘誓願
+gate of contemplation | 観察門
+gate of merit-dedication | 回向門
+gate of praise | 讃嘆門
+gate of prostration | 礼拝門
+gate of vow-making | 作願門
+generosity (dāna) | 布施
+giving of mental intention | 意施
+long-term practice | 長時修
+making offerings | 供養
+mental karma | 意業
+merit-dedication | 回向
+mixed practices | 雑行
+moral discipline (śīla) | 持戒
+Namu Amida Butsu | 南無阿弥陀仏
+ninety-day practice | 九十日行
+non-retrogression by place | 処不退
+non-retrogression in practice | 行不退
+non-retrogression in stage | 位不退
+non-retrogression in thought | 念不退
+practice hall | 道場
+practice with utmost sincerity | 至誠修
+pratyutpanna samādhi | 般舟三昧
+prostration | 礼拝
+recollection of the Buddha | 念仏
+recollection of the Dharma | 念法
+recollection of the Saṅgha | 念僧
+repentance | 懺悔
+scattered practice | 散善
+settled practice | 定善
+single-practice samādhi | 一行三昧
+ten moments of mindfulness | 十念
+ten recollections | 十念
+thirty-seven factors of awakening | 三十七道品
+three karmas in accord | 三業相応
+three meritorious practices | 三福
+uninterrupted practice | 無間修
+verbal karma | 口業
+visualization | 観想
+
+# =============================================
+# 6. HELL NAMES AND SUBSIDIARY PLACES
+# =============================================
+
+Avīci Hell | 阿鼻地獄
+Forest of Blade-Leaves | 刀葉林
+Forest of Iron Śālmalī Trees | 鉄刺林
+Hell of Black Ropes (Kālasūtra) | 黒縄地獄
+Hell of Crushing Together (Saṃghāta) | 衆合地獄
+Hell of Great Scorching Heat (Pratāpana) | 大焦熱地獄
+Hell of Great Screaming (Mahāraurava) | 大叫喚地獄
+Hell of Repetition (Saṃjīva) | 等活地獄
+Hell of Scorching Heat (Tapana) | 焦熱地獄
+Hell of Screaming (Raurava) | 叫喚地獄
+Hell Without Interval | 無間地獄
+naraka | 地獄
+Path of Upturned Blade-Swords |
+Pit of Smoldering Embers |
+Place of Black Bellies |
+Place of Cauldron Cooking |
+Place of Cloud-Fire Mist |
+Place of Darkness |
+Place of Dreaded Vultures |
+Place of Enduring Agony |
+Place of Excrement and Mire |
+Place of Extreme Suffering |
+Place of Fire-Tip Worms |
+Place of Iron Jackals |
+Place of Manifold Sufferings |
+Place of Much Anguish |
+Place of No Joy |
+Place of Raining Mountains |
+Place of Shrieking Anguish |
+Place of Suffering Boundless Agony |
+Place of Suffering Sharp Points |
+Place of Sword Wheels |
+Place of Universal Suffering |
+Place of Vile Sights |
+Place of Yaṃbhavat |
+Puṇḍarīka (subsidiary hell) |
+Place of Dark Fire Wind |
+River of Scalding Ash-Water |
+Swamp of Corpse-Excrement |
+subsidiary hells, sixteen | 十六小地獄
+
+# =============================================
+# 7. COSMOLOGICAL TERMS
+# =============================================
+
+antarābhava (intermediate state) | 中有
+asura | 阿修羅
+bodhi tree | 菩提樹
+celestial beings (deva) | 天
+desire realm | 欲界
+eight classes of beings | 八部衆
+five signs of decay | 五衰相
+form realm | 色界
+formless realm | 無色界
+four continents | 四洲
+four great elements | 四大
+gandharva | 乾闘婆
+great trichiliocosm | 三千大千世界
+Heaven of the Four Great Kings | 四天王天
+hungry ghosts (preta) | 餓鬼
+intermediate kalpa | 中劫
+Iron-Encircling Mountains | 鉄囲山
+jeweled pools | 宝池
+kalpa | 劫
+kalpa of decrease |
+kalpa of increase |
+kalavinka bird | 迦陵頻伽
+kiṃnara | 緊那羅
+lotus womb | 蓮胎
+mahoraga | 摩睺羅伽
+Mount Sumeru | 須弥山
+nāga | 龍
+Nirmāṇarati Heaven | 化楽天
+Paranirmitavaśavartin Heaven | 他化自在天
+rākṣasa | 羅刹
+realm of animals | 畜生
+realm of humans | 人
+six destinies | 六道
+six realms of rebirth | 六道
+Summit of Existence | 有頂
+ten directions | 十方
+three evil destinies | 三悪道
+three realms | 三界
+Trāyastriṃśa Heaven | 忉利天
+udumbara flower | 優曇華
+world-system | 世界
+Yāma Heaven | 夜摩天
+yojana | 由旬
+
+# =============================================
+# 8. NUMBERED LISTS AND DOCTRINAL ENUMERATIONS
+# =============================================
+
+eighty-four thousand marks |
+eighty-four thousand pāramitā gates |
+eighty-four thousand samādhi gates |
+eight difficulties | 八難
+eight great hells | 八大地獄
+eight excellent qualities of water | 八功徳水
+eight points of difference (Sukhāvatī vs. Tuṣita) |
+eighteen partitions (of Avīci) |
+five aggregates | 五蘊
+five deadly transgressions | 五逆罪
+five faculties | 五根
+five gates of mindfulness | 五念門
+five powers | 五力
+five supernatural powers | 五神通
+five wisdoms | 五智
+forty-eight vows | 四十八願
+four criteria (genuine vs. fire-blossom lotus) |
+four causes of birth in the Pure Land |
+four kinds of bodhi mind |
+four kinds of non-retrogression | 四不退
+four modes of practice | 四修
+four universal vows | 四弘誓願
+nine grades of birth | 九品往生
+nine hundred million households (of Śrāvastī) |
+seven factors of awakening | 七覚支
+seven treasures | 七宝
+seven-tiered balustrades |
+sixteen subsidiary places | 十六小地獄
+six kinds of merit (of prostration) |
+six pāramitās | 六波羅蜜
+six realms | 六道
+ten directions | 十方
+ten encouragements (deathbed rite) |
+ten gates (structure of Ōjōyōshū) | 十門
+ten joys of the Pure Land | 十楽
+ten kinds of birth |
+ten moments of mindfulness | 十念
+ten points of similarity (Sukhāvatī and Tuṣita) |
+ten powers | 十力
+ten wholesome deeds | 十善
+thirty-seven factors of awakening | 三十七道品
+thirty-two marks | 三十二相
+three bodies (trikāya) | 三身
+three evil paths | 三悪道
+three fascicles (structure of text) | 三巻
+three grades of lower birth | 下三品
+three grades of middle birth | 中三品
+three grades of upper birth | 上三品
+three minds | 三心
+three realms | 三界
+three Treasures (Three Jewels) | 三宝
+twelve points of superiority (Huáigǎn) |
+twenty-five bodhisattvas (guardians) | 二十五菩薩
+
+# =============================================
+# 9. KEY ENGLISH CONCEPTS AND THEMES
+# =============================================
+
+aspiration for the Pure Land |
+birth in the Pure Land | 往生
+blind turtle and floating log (parable) |
+bodily impurity |
+bodhisattva stages (bhūmi) | 十地
+compassion and emptiness, non-obstruction of |
+correct practice | 正行
+deathbed mindfulness |
+degenerate age | 末法
+dependent reward (environment) | 依報
+desire, lustful |
+difficulty and ease of practice |
+direct reward (person) | 正報
+easy path | 易行道
+difficult path | 難行道
+eight worldly winds | 八風
+encouragement to practice |
+evil karma |
+exclusive vs. mixed practice |
+expedient means (upāya) | 方便
+faith and doubt |
+five signs of celestial decay | 五衰相
+four modes of birth | 四生
+general summation (of six realms) |
+good companion (kalyāṇamitra) | 善知識
+guiding teacher |
+holy assembly coming to welcome | 来迎
+human body, rarity of |
+ice and water (metaphor) |
+impermanence | 無常
+initial arousal of the aspiration | 初発心
+joy of advancing along the path to buddhahood |
+joy of bliss without regression |
+joy of bodily marks and supernatural powers |
+joy of gathering with the holy assembly |
+joy of guiding and forming karmic connections |
+joy of lotus flower first opening |
+joy of making offerings to buddhas |
+joy of seeing the Buddha and hearing the Dharma |
+joy of the five wondrous sense-fields |
+joy of the holy assembly coming to welcome |
+kalpa-tree |
+karma and retribution |
+lion and dog (metaphor) |
+loathing the defiled world | 厭離穢土
+lotus coming to welcome | 来迎蓮台
+mind creates the Buddha | 是心作仏
+mind is the Buddha | 是心是仏
+Ōjōyōshū | 往生要集
+original vow (of Amitābha) | 本願
+other-power | 他力
+poison-dispelling drum (parable) |
+precept-breaking monastics |
+Pure Land | 浄土
+pure land vs. defiled land |
+rebirth, nine grades of | 九品
+recollection of the name | 称名念仏
+reward-land vs. transformation-land |
+right mindfulness at death | 臨終正念
+sahā world | 娑婆世界
+seed and fruit (metaphor) |
+self-power | 自力
+ship of the vow (parable) |
+single-minded devotion | 一心
+slander of the Dharma | 謗法
+stone and ship (parable of Nagasena) |
+suffering, eight kinds of | 八苦
+supernatural powers | 神通
+ten gates (structure of text) | 十門
+this mind is the Buddha | 是心是仏
+three evil paths | 三悪道
+tree leaning (metaphor) |
+Vaiśravaṇa dream (colophon) |
+welcoming by the holy assembly | 来迎
+Western Land | 西方
+womb-birth (in Pure Land) | 胎生
+worms in the body | 虫
+
+# =============================================
+# 10. SPECIFIC TOPICS AND THEMES
+# =============================================
+
+anger, dangers of | 瞋恚
+auxiliary conditions for practice |
+benefits of buddha-recollection | 念仏利益
+benefits even in evil destinies |
+bodily marks of the Buddha | 仏身相好
+bodhicitta, benefits of |
+bodhicitta, character of |
+bodhicitta, critical distinctions |
+bone-chain contemplation |
+causes of birth in hell |
+celestial decay, five signs of |
+coarse mind and sublime fruition |
+colophon, Eikan 2 (984) |
+comparison with ten directions |
+comparison with Tuṣita |
+contemplation of Buddha's marks |
+counteracting demonic hindrances | 対治魔事
+counteracting sloth | 対治懈怠
+corpse contemplation |
+deathbed arrangements |
+deathbed rite (practical arrangements) | 臨終行儀
+deathbed rite (ten encouragements) |
+Dharma age, end of | 末法
+Dharma-body contemplation | 法身観
+distance to Land of Utmost Bliss |
+eight aspects of a buddha's life | 八相
+Eikan era (984) |
+evidence for the Land of Utmost Bliss |
+excellent rewards in lives to come |
+faith and slander, causes of |
+fire-blossom vs. genuine lotus |
+four criteria distinguishing genuine welcoming |
+Hall of Impermanence | 無常院
+hell wardens |
+hungry ghost types |
+impure land of Amitābha |
+karmic cause of hell-rebirth |
+Kenchō era (1253) |
+letter to Song China |
+lifespan of Amitābha |
+lotus seat contemplation | 蓮華座観
+number of those who attain birth |
+ordinary mindfulness, character of |
+ox-headed and horse-headed wardens | 牛頭馬頭
+parables of buddha-recollection |
+persons and teachings that aid the path |
+place of practice and offerings |
+power of the mind at death |
+printing history of the text |
+prophecy of buddhahood (vyākaraṇa) | 受記
+Pure Land adornments |
+Pure Land as easy path |
+relative merits of various practices |
+reply from Zhou Wende |
+reward-body vs. transformation-body debate |
+Rokusōsan (Six-Aspect Hymn) | 六相讃
+scriptural evidence for buddha-recollection |
+seeing the Buddha in this present life |
+Shōgen era (1210) |
+stages of those born in Pure Land |
+summary of essentials of practice |
+ten recollections at death |
+text sent to China vs. retained in Japan |
+this mind creates the Buddha | 是心作仏
+three kinds of reasoning (heaviness/lightness) |
+true Dharma and semblance Dharma | 正法像法
+twelve divisions of the sūtras | 十二部経
+unseen protection and support |
+upper, middle, lower fascicles | 上中下巻
+various practices for birth | 諸行往生
+verse on all conditioned dharmas |
+Vow Eighteen (ten recollections) | 第十八願
+white ūrṇā contemplation | 白毫観
+womb-birth, causes of |
+wrongly grasping emptiness | 悪取空
+Yokawa recension |

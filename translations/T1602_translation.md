@@ -3286,3 +3286,433 @@ Also, the dharma of dependent arising should be known as of four kinds of reason
 > Having function, therefore not without cause.
 
 The treatise says: Through four kinds of reasoning one enters the impermanent nature. Conditioned dharmas do not arise from another, because they arise from their own seeds. They also do not arise from self, because they await external conditions. They also do not arise from both, because both are without independent action. They also do not arise without cause, because both [seed and condition] have function in generation.
+
+---
+
+## Fascicle 15
+
+### Chapter on Establishing Suffering, Chapter 5
+
+Having thus established the characteristic of impermanence, how does one establish the characteristic of suffering (*duḥkha*)? The verse says:
+
+> Arising serves as the cause for the desire to be free;
+> Cessation gives rise to the desire for union.
+> Not understanding is the cause of inversion;
+> Well penetrating is the cause of non-inversion,
+> Generating revulsion and the desire to be free at all times.
+> Such should be known as the general characteristic of suffering.
+
+The treatise says: When a dharma arises, it serves as the cause for the desire to be free from it. When a dharma ceases, it serves as the cause for the desire for union with it. If one does not understand this, it is the cause of inversion. If one well penetrates it, it is the cause of non-inversion, generating revulsion and the desire to be free at all times. In this way, one should know the general characteristic of suffering.
+
+Furthermore, the verse says:
+
+> Based on the differentiation of the three feelings,
+> The three characteristics of suffering are established.
+> Therefore it is said that all feelings
+> Are in their essential nature suffering.
+
+The treatise says: Based on the differentiation of the characteristics of the three feelings, the three characteristics of suffering are established: the characteristic of the suffering of suffering (*duḥkha-duḥkhatā*), the characteristic of the suffering of change (*vipariṇāma-duḥkhatā*), and the characteristic of the suffering of formations (*saṃskāra-duḥkhatā*). Because of these characteristics, the Buddha said that all feelings are called suffering. Regarding painful feeling and the dharmas of the locus that accords with painful feeling, one should know the first characteristic of suffering is established. Regarding pleasant feeling and the dharmas of the locus that accords with pleasant feeling, one should know the second characteristic of suffering is established. Regarding neither-painful-nor-pleasant feeling and the dharmas of the locus that accords with this feeling, one should know the third characteristic of suffering is established. Through not understanding this third characteristic, one can give rise to the inversions of permanence and the rest. If one can understand it, it becomes the cause for the arising of the non-inversions of impermanence and the rest, and can generate the desire for the bliss of nirvāṇa. Also, through understanding or not understanding the third suffering, one should know that one likewise understands or fails to understand the first two sufferings.
+
+Furthermore, the first two characteristics of suffering are commonly established in the world. The third characteristic of suffering is not commonly established. Now it should be established that the nature of formations is the suffering of formations. The verse says:
+
+> One should know that the nature of formations is suffering,
+> Because all are accompanied by coarse heaviness.
+> Pleasure and equanimity are unreasonable;
+> There is the fault of no liberation being the same.
+
+The treatise says: That formations are pleasant in nature or equanimous in nature is unreasonable. Why? Because at all phases they are accompanied by coarse heaviness (*dauṣṭhulya*). Therefore the essential nature of formations is suffering. If this were not so, then respectively for those of pleasant nature and those of neither-painful-nor-pleasant nature, there should be no desire for pleasure, no awareness of suffering and neither-painful-nor-pleasant, and no awareness of suffering and pleasure.
+
+Question: You share the same problem. If there is only the single nature of the suffering of formations, there should be no awareness of pleasure and neither-painful-nor-pleasant.
+
+Answer: It is through non-understanding that one says "there is" [pleasure and equanimity].
+
+Question: I can say the same. It is through non-understanding that one says "there is" [suffering].
+
+Answer: Not so, because of the fault of no liberation. If one understands that formations of pleasant nature and neither-painful-nor-pleasant nature are suffering, this is called the direct realization of the truth of suffering, and through this sequence one can ultimately attain liberation. If through non-understanding one says they are suffering, that would be an inversion, and one should not be able to realize ultimate cessation.
+
+Furthermore, the verse says:
+
+> Intense, profound, and equal, obstructive,
+> Depending on, abiding in, riding, and empty;
+> Attachment, inferior nature,
+> Inversion, and defilement.
+
+The treatise says: Also, the nature of formations is suffering. Adding a little more suffering, the characteristic of suffering is intense; this is not so for pleasure and the rest. Also, the characteristic of suffering is deep and weighty, difficult to counteract; this is not so for pleasure and the rest. Also, the characteristic of suffering is equal, pervading all places; even those who have realized the vast Dharma are harmed. Also, grasping at permanence, pleasure, self, and purity is called inversion and can obstruct the sacred Dharma. Also, grasping at pleasure and the rest can serve as the basis for the great and small afflictions of craving and the rest. Also, the conduct of suffering and the rest can elicit progress toward the merits of the higher realms. Also, remaining long in deportments such as standing and the rest gives rise to great unbearable suffering. Also, grasping at emptiness is likewise accompanied by great suffering. Also, the nature of those who grasp at pleasure is inferior. Also, conceiving formations as pleasurable is subsumed under inversion. Also, the desire for pleasure arising from conditions of worldly pleasure is mostly defiled. Therefore all formations are suffering in nature.
+
+Furthermore, the verse says:
+
+> Like a boil, scabies, leprosy, and the rest,
+> They serve as the support of the three feelings.
+> They can generate three kinds of contact;
+> Grasping pleasure and the rest, one turns accordingly.
+
+The treatise says: The suffering nature of formations should be known to be like boils, scabies, leprosy, and the rest, serving as the support of the three feelings. Why? Because worldly boils, scabies, leprosy, and the rest can generate three kinds of contact that accord with suffering, pleasure, and equanimity. Based on these contacts, worldly sentient beings grasp them as suffering, pleasure, or neither-painful-nor-pleasant. Likewise, in the formations whose nature is suffering, three kinds of contact are generated, and because of these contacts, feelings of pleasure and the rest turn. If these were absent, feelings would not turn. Thus the thesis, reason, and simile establishing the characteristic of suffering have been shown.
+
+For what further reason are formations established as having only three sufferings, neither more nor less? The verse says:
+
+> Intrinsic characteristic, self-discrimination,
+> And the nature of non-tranquility being suffering:
+> Fifty-five should be known
+> As subsumed under the three sufferings.
+
+The treatise says: The suffering nature has only three kinds: (1) through intrinsic characteristic, namely the nature of the suffering of suffering; (2) through self-discrimination, namely the nature of the suffering of change, because without discrimination, even though there is change, for those who are liberated, suffering does not arise; (3) through non-tranquility, namely the nature of the suffering of formations, because they are accompanied by the coarse heaviness of the afflictions and the rest. The differentiations of these three sufferings further have fifty-five kinds, as one should know.
+
+What are the fifty-five kinds? The verse says:
+
+> Realm, condition, body and the rest, destiny,
+> Class, truth, the three times,
+> Time, livelihood, and type:
+> Through their differences, various sufferings are drawn out.
+
+The treatise says:
+
+*By differentiation of realm*, there are three sufferings: bound to the desire realm, bound to the form realm, and bound to the formless realm.
+
+*By differentiation of condition*, there are six kinds of suffering: (1) suffering rooted in desire; (2) suffering as the retribution of delusion; (3) suffering conditioned by prior karma; (4) suffering conditioned by present causes; (5) suffering conditioned by pure karma; (6) suffering conditioned by impure karma.
+
+*By differentiation of body and the rest*, there are four kinds of suffering: (1) suffering of bearing the heavy burden and the rest; (2) suffering of change of phase; (3) suffering of coarse heaviness; (4) suffering of death and birth.
+
+*By differentiation of destiny*, there are five kinds of suffering: suffering in the hells, and so forth up to suffering in the deva destiny.
+
+*By differentiation of class*, there are five kinds of suffering: (1) suffering of oppression; (2) suffering of deprivation; (3) suffering of great discord; (4) suffering of the change of what is loved; (5) suffering of coarse heaviness.
+
+*By differentiation of truth*, there are eight kinds of suffering: (1) suffering of birth; (2) suffering of old age; (3) suffering of illness; (4) suffering of death; (5) suffering of association with what is hated; (6) suffering of separation from what is loved; (7) suffering of not obtaining what one seeks; (8) suffering of the five appropriating aggregates.
+
+*By differentiation of temporal conditions*, there are nine kinds of suffering: past suffering, arising from conditions of the past, future, and present; likewise, future and present suffering are each the same.
+
+*By differentiation of time*, there are four kinds of suffering: (1) suffering from changes of season; (2) suffering of hunger; (3) suffering of thirst; (4) suffering induced by the deportment of bending and stretching, inhalation and exhalation, closing and opening the eyes, and so forth.
+
+*By differentiation of livelihood*, there are four kinds of suffering: (1) suffering of insatiable seeking; (2) suffering of pursuit; (3) suffering of guarding; (4) suffering of being without sovereignty.
+
+*By differentiation of type*, there are seven kinds of suffering: (1) the suffering of loss, pertaining to the householder type. (2) The suffering of increase, pertaining to the renunciant type. (3) Suffering of anxiety and distress. (4) Suffering of departing from existence. Also, those who have gone forth in the well-taught Dharma-vinaya have three kinds of suffering: first, the suffering of delusion, through hoping for the future and savoring the past; second, the suffering of jealousy; third, the suffering of not surpassing others. Those who have gone forth in the wrongly-taught Dharma-vinaya also have three kinds of suffering: first, the suffering of delusion, through inverted grasping of the dharmas to be known; second, the suffering of jealousy, through intolerance of the fame and gain obtained by the Buddha and the Buddha's disciples; third, the suffering of being surpassed by others, through falling to defeat when engaging in disputes for the sake of fame and gain.
+
+The verse says:
+
+> Those not yet free from desire, and those in form and the rest:
+> Three grounds should be known.
+> The desire realm has all kinds;
+> The form and formless lack two.
+
+The treatise says: These fifty-five kinds of suffering are subsumed under three grounds: (1) the ground of those not yet free from desire, namely bound to the desire realm; (2) the ground of those free from desire, namely bound to the form realm; (3) the ground of those free from desire and form, namely bound to the formless realm. These three, in their respective order, establish three levels of suffering: upper, middle, and lower.
+
+Also, the desire realm possesses all kinds of suffering. The form and formless realms lack two kinds of suffering: the two subsumed under the suffering of suffering and the suffering of change, as well as the two subsumed under suffering rooted in desire and suffering as the retribution of delusion. However, the remaining sufferings are present.
+
+The verse says:
+
+> Conventionally there are two kinds;
+> The ultimate is the pervasive.
+> Two conditions extend to the higher realms;
+> Know that there is no present defilement.
+
+The treatise says: These sufferings are briefly of two kinds, through the differentiation of conventional and ultimate. The suffering subsumed under conventional truth (*saṃvṛti-satya*) has two kinds: the suffering of suffering and the suffering of change. That subsumed under ultimate truth (*paramārtha-satya*) has one kind: the suffering of formations. This is also called the pervasive suffering, because it pervades all three realms of desire and the rest. In the realms above the desire realm, there is suffering arising from two conditions: there is suffering conditioned by prior karma but no suffering from present causes and conditions; there is suffering from pure conditions but no suffering from impure conditions.
+
+The verse says:
+
+> There is no heavy burden in the formless realm.
+> The pervasive: the coarse heaviness of the deva destiny,
+> And the suffering of the appropriating aggregates at truth's final boundary.
+> The remaining seven bind the higher realms as well.
+
+The treatise says: In the formless realm there is no suffering of bodily heavy burden, but there is suffering of the deva destiny, suffering of coarse heaviness, and the suffering of the appropriating aggregates at the final boundary of truth. These pervade all three realms of desire and the rest; therefore they are called pervasive suffering. The remaining seven sufferings of birth and the rest are subsumed under the desire realm, but in the higher realms, though they bind as well, because one can regress and return, they lack the self-substance of suffering.
+
+The verse says:
+
+> One should know the sufferings of birth and the rest
+> Each have five kinds of differentiation:
+> Suffering, coarse heaviness, and correspondence,
+> And being the support of the three sufferings.
+
+The treatise says: The seven sufferings of birth and the rest should be known as each having five kinds: through correspondence with suffering, through correspondence with coarse heaviness, and through being the support of the three sufferings.
+
+*Birth* is the support of old age and the rest as suffering, the support of afflictions, and the support of the destruction of unpleasant conditioned conduct. *Old age* is the support of the decline of physical appearance and the rest. *Illness* is the support of habituating what is undesired, not habituating what is desired, and discord of the great elements that accord with death. *Death* is the support of separation from one's own body, separation from wealth and treasure, and the suffering of separation from the loved and association with the hated. The three sufferings of association with the hated and the rest are the support of bodily oppression, mental oppression, and the decline brought about by them.
+
+The verse says:
+
+> The last and the last
+> Are each the support of four sufferings:
+> Namely birth, the root of birth,
+> Suffering nature, and change.
+
+The treatise says: Among the eight sufferings, the suffering of the appropriating aggregates subsumed under the last, and the suffering of formations subsumed under the last of the three sufferings, are each the support of four sufferings, and therefore are suffering: (1) support of the suffering of birth; (2) support of the suffering of the root of birth; (3) support of the suffering that is suffering in its own nature; (4) support of the suffering of change.
+
+The verse says:
+
+> Subsumed under the three times:
+> Two-conditioned suffering does not apply above.
+> The remaining sufferings described
+> Should all be known as in the desire realm.
+
+The treatise says: Among the sufferings of the three times in the realms above the desire realm, one should know there is no suffering from past and future conditions. Why? Because in the higher realms, false discriminations conditioned by past and future do not generate suffering; there is only the coarse heaviness accompanying present conditions. Apart from what has been stated above, the remaining sufferings should be known as bound to the desire realm only.
+
+Furthermore, for what reason do the various kinds of ignorance turn regarding the actually existing domain of suffering? The verse says:
+
+> Loss of mindfulness, lack of effort,
+> Confusion, improper mental engagement,
+> Improper understanding, ignorance,
+> And through heedlessness and the rest.
+
+The treatise says: Ignorance regarding suffering arises from five causes and from the previously described dharmas of heedlessness and the rest. The five causes are: (1) through forgetting past suffering in one's mindfulness; (2) through not making effort to investigate future suffering; (3) through the four inversions giving rise to confusion regarding present suffering; (4) through improper mental engagement, conceiving the coarse heaviness of suffering as the self; (5) through improper understanding, not understanding the suffering nature of formations.
+
+Furthermore, the loss of mindfulness arises from four causes. The verse says:
+
+> Through dullness, through feebleness,
+> Through giving rise to heedlessness,
+> And through the severance of the continuum:
+> The turning of lost mindfulness should be understood.
+
+The treatise says: "Through dullness" means the class of the deluded. "Through feebleness" means at the phase of death and the rest. "Through heedlessness" means attachment to objects. "Through the severance of the continuum" means the severance of the preceding continuum of the common class in other lives.
+
+Furthermore, the lack of effort arises from four causes. The verse says:
+
+> Through dullness, through heedlessness,
+> Through cherishing the present life,
+> And through not believing in future suffering:
+> No effort to advance.
+
+The treatise says: Dullness and heedlessness are as previously stated. "Cherishing the present life" means because of cherishing present dharmas, one makes no effort regarding future suffering. "Not believing in future suffering" means because of not believing in the existence of future suffering, one makes no effort.
+
+Furthermore, the four inversions arise from four causes. The verse says:
+
+> Similar continuity turning,
+> Antidote-discrimination,
+> Habituation, and comprehensive grasping:
+> Give rise to the four inversions.
+
+The treatise says: Through seeing a similar continuity turning, the inversion of permanence arises. Through discriminating the antidote, the inversion of pleasure arises, because one falsely discriminates pleasure as the antidote to suffering. Through habituation, the inversion of purity arises. Through comprehensive grasping, the inversion of self arises.
+
+Furthermore, ignorance regarding suffering arises from not understanding five causes. What are the five? The verse says:
+
+> Realm, arising condition, phase,
+> Sequence, and continuity:
+> Their differentiations should be known as each having many kinds.
+
+The treatise says: *Realm differentiation* has three kinds of suffering: desire realm, form realm, formless realm. *Condition differentiation* has seven kinds of suffering: (1) conditioned by merit; (2) conditioned by demerit (these two are in the desire realm); (3) conditioned by the imperturbable (in the form and formless realms); (4) conditioned by entanglement and latent tendencies (for ordinary beings); (5) conditioned by latent tendencies alone (for those who have seen the truths); (6) conditioned by active conduct (for non-bodhisattvas); (7) conditioned by wise conduct (for bodhisattvas). *Phase differentiation* has twelve kinds of suffering: (1) accompanied by pure pleasure (the devas); (2) accompanied by pure suffering (hells, and portions of hungry ghosts and animals); (3) accompanied by mixed suffering and pleasure (humans, and portions of hungry ghosts and animals); (4) accompanied by neither-suffering-nor-pleasure (from the fourth dhyāna up to the peak of existence); (5) in an impure-pure place (the desire realm, free from the difficult births); (6) in a pure-impure place (form and formless realms, ordinary beings therein); (7) in a pure-pure place (form and formless realms, those who have seen the truths); (8) in an impure-impure place (the desire realm, the difficult births; and the four kinds of suffering of entering the womb: first, entering the mother's womb without correct knowledge, abiding without correct knowledge, emerging without correct knowledge; second, entering with correct knowledge, abiding and emerging without; third, entering and abiding with correct knowledge, emerging without; fourth, entering, abiding, and emerging all with correct knowledge). *Sequence differentiation* has twelve kinds of suffering, following the sequence of the twelve links of dependent arising. *Continuity differentiation* has immeasurable kinds, because the continuities of sentient beings are boundlessly differentiated.
+
+Furthermore, the thorough knowledge that can comprehensively know all suffering should be known as of eighteen kinds. What are they? The verse says:
+
+> Faith-understanding and discernment,
+> Non-distraction, revulsion of mind,
+> Seeing, cultivation, and the ultimate;
+> Also the previous eleven.
+
+The treatise says: (1) Thorough knowledge of faith-understanding: the wisdom born of hearing. (2) Thorough knowledge of discernment: the wisdom born of reflection. (3) Thorough knowledge of non-distraction: mundane wisdom born of cultivation. (4) Thorough knowledge subsumed under revulsion of mind: the wisdom of the aids to penetration such as warmth (*uṣmagata*) and the rest, because this wisdom, contemplating the characteristics of one's own mind in general, turns in revulsion. (5) Thorough knowledge of the path of seeing: the wisdom relying on the path of seeing. (6) Thorough knowledge of the path of cultivation: the wisdom relying on the path of cultivation. (7) Thorough knowledge of the ultimate path: the wisdom subsumed under the path of no-more-training (*aśaikṣa-mārga*). Plus the previously described eleven kinds of wisdom: (1) impure conventional wisdom; (2) pure conventional wisdom; (3) ultimate wisdom; (4) impure conceptually differentiated wisdom; (5) pure conceptually differentiated wisdom; (6) pure non-conceptual wisdom; (7) wisdom preliminary to accomplishing the task; (8) wisdom of accomplishing the task; (9) wisdom subsequent to accomplishing the task; (10) śrāvaka wisdom; (11) bodhisattva wisdom. These together make eighteen kinds of thorough knowledge that truly understands suffering.
+
+Furthermore, this thorough knowledge is for exhausting all suffering. Which thorough knowledge exhausts which suffering? The verse says:
+
+> Entanglement, doubt, dislike of solitude,
+> Torpor, evil destinies, other destinies,
+> Suffering arising from inferior conduct:
+> The comprehensive and the solitary exhaust their sufferings.
+
+The treatise says: Thorough knowledge of faith-understanding can extinguish the suffering of entanglement. Thorough knowledge of discernment can extinguish the suffering of doubt. Thorough knowledge of non-distraction can extinguish the suffering of disliking solitude. Thorough knowledge of revulsion of mind can extinguish the suffering of torpor. Thorough knowledge of the path of seeing can extinguish the suffering of the evil destinies. Thorough knowledge of the path of cultivation can extinguish the suffering of the other destinies. Thorough knowledge of the ultimate path can extinguish the suffering arising from inferior conduct, namely excluding the practice of pleasant and swift penetration; all remaining practices should be known as inferior. The bodhisattva's thorough knowledge comprehensively extinguishes all suffering of self and others. The śrāvaka's thorough knowledge extinguishes only one's own suffering, as one should know.
+
+### Chapter on Establishing Emptiness, Chapter 6
+
+Having thus established the characteristic of suffering, how does one establish the characteristic of emptiness (*śūnyatā*)? One should know that the characteristic of emptiness has three kinds: (1) the intrinsic characteristic; (2) the profound characteristic; (3) the differentiated characteristic.
+
+**The intrinsic characteristic:** the verse says:
+
+> Whatever is absent here,
+> And whatever else is present here:
+> Following two kinds of reasoning,
+> The characteristic of emptiness is said to be non-dual.
+
+The treatise says: The intrinsic characteristic of emptiness is neither definitely existent nor definitely nonexistent. "Not definitely existent" means: among all formations, the self-nature of sentient beings and the self-nature of dharmas are ultimately entirely absent. "Not definitely nonexistent" means: the selflessness of persons and the selflessness of dharmas within these have real nature. "Following two kinds of reasoning" means: within these very formations, there is the reasoning that the two kinds of self are absent, and there is the reasoning that the two kinds of selflessness are present. Following these two, the emptiness-nature is said to have no two characteristics: (1) the characteristic of non-existence, because the two selves are absent; (2) the characteristic of non-nonexistence, because the two selflessnesses are present. Why? The absence of these two selves is precisely the presence of the two selflessnesses; the presence of the two selflessnesses is precisely the absence of the two selves. Therefore the emptiness-nature is neither definitely existent nor definitely nonexistent.
+
+**The profound characteristic:** the verse says:
+
+> The profound characteristic should be known:
+> Grasping and abandoning, without increase or decrease.
+
+The treatise says: Following the previously stated reasoning of non-duality, though one abandons dharmas, there is no decrease; though one grasps dharmas, there is no increase. No grasping and no abandoning, no increase and no decrease: this is the profound characteristic of emptiness.
+
+**The differentiated characteristic:** the verse says:
+
+> The differentiations are numerous,
+> As proclaimed in various places.
+
+The treatise says: This very emptiness-nature, the Bhagavān has revealed in various sūtras as having many differentiations: ultimate emptiness, internal emptiness, external emptiness, and so forth. Now they shall be briefly distinguished.
+
+Ultimate emptiness (*paramārtha-śūnyatā*): it is empty through the ultimate, being entirely absent; therefore it is called ultimate emptiness. This reveals four kinds of meaning: (1) the meaning of being free from the self as cause; (2) the meaning of being free from the characteristic of self; (3) the meaning of being free from the absence of cause; (4) the meaning of being free from obtaining through another's action.
+
+Because at the time of the arising of the six sense-bases, they do not come from a self nor are they aggregated depending on a self: this is the meaning of being free from the self as cause. If one grasps the six sense-bases as having the self as their cause, there should be no differentiation of the five destinies. Also, because the six sense-bases were formerly nonexistent and are now existent, and having existed they scatter and cease, they are free from the characteristic of self, because such a characteristic is not possessed by the self. Also, because with karma as the cause, ripened existence arises, and there is no agent and no sentient being who abandons and continues the aggregates: this is the meaning of being free from the absence of cause. Also, because upon the dharmas that are portions of existence, a sentient being is conventionally designated, and the continuity of a single class flows to the present ripened dharma and is not a different continuity: therefore this is the meaning of being free from obtaining through another's action.
+
+Furthermore, how should one know that the self of the person (*pudgala-ātman*) is entirely absent? If there is a self, is it identical with the characteristics of the aggregates, or does it abide within the aggregates, or does it abide elsewhere, or is it not of the characteristic of the aggregates? The verse says:
+
+> Through the fault of being merely conventional,
+> The aggregates having no self and the fault thereof,
+> The self having no body and the fault thereof:
+> Three kinds of self are unreasonable.
+
+The treatise says: If the conceived self is identical with the characteristics of the aggregates, it should be merely conventional, contradicting your own school and therefore faulty, because the self is merely conventionally designated upon the aggregates. If it abides apart from the aggregates in another place, the self should be without aggregates, which is also faulty, because within the aggregates there is no self. If it is not of the characteristic of the aggregates, the conceived self has the fault of being bodiless; a bodiless self is unreasonable. Therefore all three are unreasonable.
+
+Furthermore, if one conceives a real self abiding within the aggregates, this is also incorrect. Why? The verse says:
+
+> Like a master, fire, light, or space:
+> Faults of different form, dependence on another,
+> Impermanence, no functional use,
+> Not being a cause, and no self.
+
+The treatise says: Does the conceived real self abide in the aggregates like a master in a house, like fire in firewood, like light depending on a lamp, or like space amid various things? All of these are unreasonable. Why? Because of five kinds of faults. What are the five? If like a master in a house, the form and shape should be different, because the house-master and the house differ in appearance. If like fire in firewood, there is the fault of dependence on another, because fire depends on the power of firewood and is not autonomous. If like light depending on a lamp, there is the fault of impermanence, because light arises and ceases following the presence or absence of the lamp. Also, the first two have the fault of impermanence as well: one does not see a house-master who permanently abides, because though the house may long endure, the master may go elsewhere or die; and fire, following the power of firewood, is uncertain in its presence or absence, being impermanent in nature. If like space, there should be the conspicuous fault of functional use: the functional use of space is conspicuously perceivable, namely the unobstructed function of coming and going; but the self is not like this, so it constitutes a fault.
+
+Also, the conceived self serving as the cause of fruits cannot be found. Why? Because apart from any self, external things such as seeds and the rest can be found serving as causes of fruits. Therefore, conceiving a self abiding in the aggregates as the cause of fruits is unreasonable, and there is no real self-substance as conceived.
+
+Question: If there are only the aggregates and no separate self, who sees, who hears, and so forth, up to who cognizes?
+
+Answer: Whether seeing and hearing are the self's substance, or the self's function, or the self's instruments: conceiving the self as the seer and hearer and the rest is unreasonable in all cases. Why? The verse says:
+
+> The self should be merely conventional;
+> Similes are not to be found.
+> The seven similes are false discriminations;
+> There is no seer and the rest: three kinds.
+
+The treatise says: If you maintain that the self is identical with seeing and the rest, and also call it the seer and so forth up to the cognizer, the conceived self should be merely conventional, because it is conventionally designated upon the dharmas of seeing and the rest. If you maintain that seeing and the rest are the self's function or instruments, this is also incorrect, because there are no valid similes. Although seven similes are falsely discriminated, they have many faults; therefore all three kinds are unreasonable.
+
+What are the many faults? The verse says:
+
+> If like a seed, it would be impermanent.
+> The agent should be merely conventional.
+> If like one who has attained supernatural powers,
+> It should be conventional and autonomous.
+
+The treatise says: If you conceive the self's relation to the functions of seeing and hearing as like a seed to a sprout, the self should be impermanent, because seeds are not permanent. If you conceive the self's relation to the functions of seeing and hearing as like a potter to a vessel, the self should be conventional. Why? In the world one sees that a conventionally designated person has the use of making vessels; one does not see otherwise. If you conceive the self's relation to seeing and the rest as like a worldly person with supernatural powers who can create transformations, it should equally have the faults of being conventionally established and being autonomous. Why? Apart from a conventional person, no separate possessor of supernatural powers is seen. Also, one presently sees that those with supernatural powers have sovereignty over their transformation-affairs at will; the self should likewise have sovereignty over seeing and the rest without relying on different conditions.
+
+Furthermore, the verse says:
+
+> If the self is like the earth or like space,
+> It should be impermanent or without nature.
+> It should, like both, be without action;
+> Clear functional use can be found [in them].
+
+The treatise says: If you conceive the self's relation to seeing and the rest as like the great earth supporting the myriad things, the self should be impermanent, because the earth is not permanent. If like space, which because of being unobstructed accommodates various activities, and the self likewise accommodates seeing and the rest, then the self should be without substance, just as space, being only the absence of form and without substance, is space. Also, like the great earth and space, which have no active operation in supporting and being unobstructed, the self likewise should have no operation in seeing and the rest. Having no operation, conceiving a seer and the rest is unreasonable. Also, the two functional capacities of the great earth and space, namely supporting and being unobstructed, are clearly perceivable. But no separate functional capacity of the self regarding the activities of seeing and the rest can be found; therefore this is unreasonable.
+
+Furthermore, if one maintains that seeing and the rest are the self's instruments, this is also incorrect. Why? The verse says:
+
+> Burning and cutting
+> Are accomplished solely by fire and knife.
+> The self's instruments of seeing and the rest
+> Are not like knives and fire.
+
+The treatise says: If you conceive the self as grasping the instruments of seeing and the rest, and thereby being able to see, hear, and cognize, like a person grasping fire to burn and a knife to cut, this is unreasonable. Why? In the world one sees that apart from the grasping person, fire itself can burn and a knife itself can cut. Seeing and the rest are likewise: even without a self, they should themselves have the function of seeing and the rest. But you do not accept this; therefore this is not a valid simile. Also, in the world, the aggregates combined together conventionally establish the conception of self, person, and sentient being, and holding sickles and the rest one can reap and cut, without a separate real self; therefore this is not a valid simile.
+
+Furthermore, the verse says:
+
+> Like the illuminating function of light,
+> Apart from light there is no separate substance.
+> Therefore, regarding internal and external,
+> The meaning of emptiness and no-self is established.
+
+The treatise says: In the world one sees that upon the very substance of light there is an illuminating function, and one speaks of "the illuminator"; apart from the substance of light there is no separate illuminator. Likewise, the eye and the rest have the function of seeing and the rest, and one speaks of "the seer" and so forth up to "the cognizer," but there is no separate seer and the rest. Therefore, internal and external dharmas are all without a self.
+
+Question: If there is truly no self, how can the world have defilement and purity?
+
+Answer: The dharmas of defilement and purity arise from causes and conditions, not from a real self. Why? The verse says:
+
+> Just as worldly external things,
+> Apart from a self, have harm and benefit,
+> Internally, though there is no real self,
+> The meaning of defilement and purity should be established.
+
+The treatise says: Just as external worldly things, though without a self, have various calamities, adversities, benefits, and accomplishments, so too internal dharmas, though without a self, have various meanings of defilement and purity established. Therefore there is no fault.
+
+Furthermore, if there is no self, who receives the fruits of retribution, who is able to act, and who is freed from suffering? The verse says:
+
+> Phases, thoughts, afflictions, and portions:
+> Because of impermanent change,
+> The self, being permanent and without transformation,
+> Should have no experiencing, acting, or liberation.
+
+The treatise says: Your conceived self, throughout all phases of pleasure, pain, and the rest, thoughts of good, evil, and the rest, and afflictions of craving and the rest, at all times is permanently without change. Being without change, the experiencer, the agent, and one who attains liberation are all unreasonable, as previously stated. Although there is no real self, there is a conventional person (*prajñapti-pudgala*) who changes across the three times, and the experiencer, the agent, and the liberated one, and their differentiations of time, are all established.
+
+Furthermore, if there is no self, who transmigrates and who undergoes cessation? The verse says:
+
+> Dharma-natures arise from conditions,
+> Manifesting in successive continuity.
+> Having causes yet not abiding,
+> Changing: this is called transmigration.
+> Like body, tooth, river, lamp,
+> Having various functions:
+> The self, being permanent and unchanging,
+> Should have no transmigration or cessation.
+
+The treatise says: Transmigration and cessation do not depend on a self. Why? One presently sees that what transmigrates must have the characteristic of arising, with a front-and-back continuity that successively never breaks off, constantly manifesting in the present, clearly visible. Having causes yet not abiding, and furthermore changing: this is called transmigration. The severance of the continuity is called cessation and reversal. Just as body, tooth, river, and lamp have various functions of going and coming and so forth, and also have cessation: it is not the permanently unchanging self as you conceive it that has the function of transmigration. Since even transmigration is absent, how much less cessation?
+
+Furthermore, if there are only formations without a self, the worldly phenomena of various sentient beings having differentiated names and conceptions should be nonexistent. The verse says:
+
+> Depending on the self, names and conceptions arise.
+> Seeing two kinds of faults:
+> Therefore, throughout all,
+> The real self-nature is utterly absent.
+
+The treatise says: Names and conceptions do not establish a real self. Why? Because two kinds of faults are seen. If worldly people give rise to various names and conceptions such as Buddhapālita and the rest upon a real self, they should have no understanding of the body and other dharmas. If they give rise to names and conceptions regarding the body and the rest, one should not say the self has various functions. Why? In the world one presently sees various statements arising, such as "Buddhapālita can see" and "Guṇamitra can hear." Also, "seeing two kinds of faults" means: if one maintains that the essence of the view of self is wholesome, that it spontaneously manifests and can generate defiled dharmas, this is unreasonable. If it is defiled, that it can realize the real self is unreasonable. Also, the one who conceives a self, when grasping the self, does the self grasp itself or does the view grasp it? If the self grasps itself, worldly people who grasp the self should not give rise to doubt, wondering "does it exist or not exist, or what is it?" Why? Because the self is presently perceived. If the view grasps the self, you should not say that the self is the grasper. Through these and other various faults, there is no real self in the world.
+
+Furthermore, if so, why in the correct Dharma are various differentiated names and conceptions established? The verse says:
+
+> For ease of verbal communication,
+> In accordance with the world,
+> To remove fear [from beginners],
+> And to reveal two kinds: merit and fault.
+
+The treatise says: Although there is no real self, the establishment of differentiated names and conceptions of sentient beings has four causes: (1) for ease of verbal communication; (2) in accordance with the world; (3) to free beginning practitioners from fear; (4) to reveal the differentiations of one's own and others' merits and faults.
+
+Furthermore, if there is no self, worldly beings should not, upon merely seeing a physical form, immediately give rise to the perception of a sentient being; nor should they, with deliberate perception as the precursor, initiate various actions. The verse says:
+
+> Immediate perceptions arise in confusion:
+> This is presently perceivable in the world.
+> Deliberate perception preceding action
+> Has ten kinds of faults.
+
+The treatise says: Immediate perception is not proof of a self. Why? Because confused perceptions arise immediately and this is presently perceivable: as when one perceives a male in a female body, a female in a male body, a person in a tree-stump, or a tree-stump in a person.
+
+Also, your claim that the self, with deliberate perception as the precursor, initiates various actions has ten kinds of faults. What are the ten? The verse says:
+
+> Perception and self, cause and function,
+> Sovereignty: each has two.
+> Having a cause and having no cause:
+> These should be known as the ten kinds of faults.
+
+The treatise says: If you maintain that perception serves as the cause for initiating actions, then it is not the self that initiates actions. If the self is the cause and deliberate perception is not the cause, then there should be no actions initiated with deliberate perception as the precursor. Also, if you maintain that the self is the cause that can initiate action, it should constantly initiate all actions. If the self is not the cause, then the self has nothing to do. Also, if you maintain that there is a separate causal dharma that serves as the cause for initiating action, then the conceived self has nothing to create. If there is no further cause, it should constantly initiate all actions. Also, if you maintain that through inner effort one can accomplish things, this likewise has the previous two kinds of faults. Also, if you maintain that the self has sovereignty over action, it should constantly perform everything desired and not perform anything undesired. If it lacks sovereignty, this is not the characteristic of a self.
+
+Thus the characteristic of emptiness and its establishment have been stated. Now the differentiations of the view of the embodied self (*satkāya-dṛṣṭi*), which is what the true wisdom contemplating emptiness counteracts, shall be revealed. The verse says:
+
+> Non-deliberate, pervasive,
+> Superimposing, and on a non-entity,
+> Fearing: the view with similes:
+> Five should be known.
+
+The treatise says: The view of the embodied self should be known as of five kinds: (1) the view based on non-deliberation, like seeing a snake in a rope; (2) the pervasive view, namely the false view of self associated with the defiled mind (*kliṣṭa-manas*), because it always accompanies one at all times, like what is experienced in a dream. Why? Just as a poor person in a dream sees himself enjoying pleasant objects, so too the foolish, until they give rise to the correct awakening of suchness (*tathatā*), always give rise to the false conception of the view of self that accompanies them. (3) The view superimposing on an entity, like a hope-filled desire for a woman belonging to another. (4) The view on a non-entity, like a small child seeing a magical illusion. (5) The view fearing the entity, like a person fearing a yakṣa that he himself has painted.
+
+Having thus stated the differentiations of what is counteracted, now the differentiations of the antidote shall be revealed. The verse says:
+
+> Non-existence, departure,
+> And removal: depending on three kinds,
+> Counteracting the bondages of conceptions:
+> Sixteen kinds of differentiations.
+
+The treatise says: Depending on the three kinds of self-substance, namely the imagined (*parikalpita*) and the rest, in their respective order, three kinds of emptiness are established: (1) emptiness of non-existence (*abhāva-śūnyatā*); (2) emptiness of departure (*vivikta-śūnyatā*); (3) emptiness of removal (*prakṛti-śūnyatā*). Also, these three emptinesses, counteracting the differentiations of various bondages and conceptions, have sixteen kinds.
+
+The bondages are fourteen kinds of characteristic-bondage and coarse-heaviness bondage, as one should know: (1) bondage of the faculties; (2) bondage of mutual defilement among sentient beings; (3) bondage of the support, namely the faculties transmigrating in dependence on the receptacle-world; (4) bondage of ignorance regarding wisdom; (5) bondage of false objects regarding objects; (6) bondage of craving for future existence; (7) bondage of craving for non-existence; (8) bondage of grasping at no cause and unequal cause; (9) bondage of conceit from attainments; (10) bondage of grasping the self-substance of the imagined; (11) bondage of grasping the self-substance of dharmas; (12) bondage of grasping the self-substance of thorough knowledge of dharmas; (13) bondage of grasping the self-substance of persons; (14) bondage of grasping the thorough knowledge of persons.
+
+The conceptions are six kinds of conception-bondage. Through revulsion toward these conceptions, the bodhisattva relies on emptiness and diligently cultivates the foundations of mindfulness to liberate the mind. What are the six kinds of conception-bondage? Giving rise to internal conceptions based on body, feeling, mind, and dharmas is called the first conception-bondage. Giving rise to external conceptions based on body and the rest is the second. Giving rise to internal-external conceptions based on body and the rest is the third. In order to liberate the immeasurable, boundless sentient beings of the ten directions, giving rise to great vows and cultivating the foundations of mindfulness, this discriminating conception is the fourth. Regarding the objects of body and the rest, conceiving that one abides in correct observation with wisdom, this discriminating conception is the fifth. Regarding the objects of body and the rest, conceiving that one abides in correct observation with a self, person, or being, this discriminating conception is the sixth.
+
+Also, contemplating the successive formation of the body and the rest, there are eleven kinds of differentiations of conception-bondage, as one should know. What are the eleven? Giving rise to conceptions of abiding in correct observation following the body and the rest, and giving rise to discriminating conceptions regarding the first principle of the two truths of defilement and purity, is the first conception-bondage. Giving rise to the conception of action within the first principle of defilement is the second. Giving rise to the conception of non-action within the first principle of purity is the third. Giving rise to the conception of transmigration within the first principle of action is the fourth. Giving rise to the conception of permanence within the first principle of non-action is the fifth. Giving rise to the conception of suffering due to the change of suffering within transmigration is the sixth. Giving rise to the conception of non-change within the permanent dharma is the seventh. Giving rise to the conception of intrinsic characteristics within transmigration due to the own-characteristics of arising, ceasing, abiding, and change, and due to the change of own-characteristics, is the eighth. Giving rise to the conception of embracing all dharmas within the first principle of the change and non-change of defilement and purity is the ninth. Giving rise to the conception of defilement and purity as "mine" regarding all defilement and purity dharmas is the tenth. Giving rise to the conception of the self-substance and own-characteristics of the dharmas of defilement and purity is the eleventh. The bodhisattva mahāsattva, having correctly contemplated these successive differentiations of conception-bondage and their domains, relies on emptiness and cultivates the foundations of mindfulness to liberate the mind. When liberation from these false conception-bondages is attained, one should know that liberation from all conception-bondages is attained.
+
+The sixteen emptinesses are: (1) internal emptiness; (2) external emptiness; (3) internal-external emptiness; (4) great emptiness; (5) emptiness of emptiness; (6) ultimate emptiness; (7) conditioned emptiness; (8) unconditioned emptiness; (9) ultimate emptiness; (10) emptiness without beginning or end; (11) emptiness of non-abandonment; (12) nature-emptiness; (13) characteristic-emptiness; (14) emptiness of all dharmas; (15) emptiness of non-existence; (16) emptiness of the non-existence of inherent nature.
+
+Furthermore, regarding this empty domain, there are six kinds of ignorance through which beginningless transmigration occurs. What are the six? The verse says:
+
+> Own-nature, attachment,
+> Non-understanding, loss of mindfulness,
+> All-pervasive, and partial:
+> The differentiations of ignorance lead to transmigration.
+
+The treatise says: (1) Ignorance of own-nature: the substance of non-wisdom in all sentient beings throughout beginningless transmigration. (2) Ignorance of attachment: the non-wisdom arising in association with the inverted views of the non-Buddhist teachers. (3) Ignorance of non-understanding: the non-wisdom arising in unlearned ordinary beings. (4) Ignorance of loss of mindfulness: the non-wisdom arising in learned ordinary beings and the noble ones. (5) All-pervasive ignorance: the non-wisdom arising in ordinary beings regarding both the emptiness of persons and the emptiness of dharmas. (6) Partial ignorance: the non-wisdom arising in śrāvakas and the rest regarding only the emptiness of dharmas.
+
+How does one realize the principle of emptiness? Through eight kinds of wisdom. What are the eight? The verse says:
+
+> Dharma-abiding, seeking one's own mind,
+> Abiding in one's own mind, removing bondage,
+> Fear, non-duality, defilement, and purity:
+> One realizes the true principle of emptiness.
+
+The treatise says: (1) Wisdom of dharma-abiding (*dharmasthiti-jñāna*): the wisdom relying on the established Dharma-gates of the sūtras and the rest. (2) Wisdom of seeking one's own mind: the wisdom of seeking one's own mind at the stage of the aids to penetration. (3) Wisdom of abiding in one's own mind: the wisdom of realizing suchness at the stage of the path of seeing. (4) Wisdom of removing mental bondage: the wisdom of counteracting obstacles at the stage of the path of cultivation. (5) Wisdom associated with the practice of fear: the wisdom of the noble disciples, because they fear the great suffering of transmigration. (6) Wisdom of non-dual discrimination: the wisdom of bodhisattvas, because they do not discriminate the faults and merits of transmigration and cessation. (7) Impure wisdom: the wisdom of those in training (*śaikṣa*). (8) Pure wisdom: the wisdom of those beyond training (*aśaikṣa*).

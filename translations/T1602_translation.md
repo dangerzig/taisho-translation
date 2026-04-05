@@ -3716,3 +3716,472 @@ How does one realize the principle of emptiness? Through eight kinds of wisdom. 
 > One realizes the true principle of emptiness.
 
 The treatise says: (1) Wisdom of dharma-abiding (*dharmasthiti-jñāna*): the wisdom relying on the established Dharma-gates of the sūtras and the rest. (2) Wisdom of seeking one's own mind: the wisdom of seeking one's own mind at the stage of the aids to penetration. (3) Wisdom of abiding in one's own mind: the wisdom of realizing suchness at the stage of the path of seeing. (4) Wisdom of removing mental bondage: the wisdom of counteracting obstacles at the stage of the path of cultivation. (5) Wisdom associated with the practice of fear: the wisdom of the noble disciples, because they fear the great suffering of transmigration. (6) Wisdom of non-dual discrimination: the wisdom of bodhisattvas, because they do not discriminate the faults and merits of transmigration and cessation. (7) Impure wisdom: the wisdom of those in training (*śaikṣa*). (8) Pure wisdom: the wisdom of those beyond training (*aśaikṣa*).
+
+---
+
+## Fascicle 16
+
+### Chapter on Establishing Emptiness, Chapter 6 (continued)
+
+The treatise says: This principle of emptiness is realized through cultivation. What is cultivation? The verse says:
+
+> The differentiations of cultivation are eighteen.
+> There are poisonous and non-poisonous kinds.
+> Counteracting five kinds of grasping:
+> Briefly, two kinds should be known.
+
+The treatise says: The differentiations of the characteristic of cultivation are of eighteen kinds.
+
+**1. Cultivation of the mental engagement corresponding to the śrāvaka:** If there is one who is a śrāvaka abiding in the śrāvaka's dharma-nature, whether one has not yet entered the certainty of the correct nature or has already entered it, who contemplates only one's own benefit and does not contemplate the benefit of others, and who enters the principle of suchness (*tathatā*) through the gate of mental engagement based on the conventionally established truths, internally focusing on dharmas of limited scope, and who gives rise to the practices of revulsion, desirelessness, and liberation in order to exhaust one's own craving through mental engagement and cultivation: this is called cultivation of the mental engagement corresponding to the śrāvaka.
+
+**2. Cultivation of the bodhisattva's mental engagement:** If there is one who is a bodhisattva abiding in the bodhisattva's dharma-nature, whether one has not yet entered the certainty of the correct nature or has already entered it, who contemplates both one's own and others' benefit, and who enters the principle of suchness through the gate of mental engagement based on both the conventionally established and non-established truths, internally focusing on dharmas of unlimited scope, and who, through the supremacy of great compassion (*mahākaruṇā*), gives rise to the practice of skillful means for benefiting and embracing others, treading the cause of the unsurpassed path, in order to exhaust both one's own and others' craving through mental engagement and cultivation: this is called cultivation of the bodhisattva's mental engagement.
+
+**3. Cultivation of mental images (*pratibimba*):** Contemplating either the mental images that correspond to the objects of the samādhi domain of the vipaśyanā (insight) class with conceptual differentiation, or contemplating the mental images that correspond to the objects of the samādhi domain of the śamatha (calming) class without conceptual differentiation: this is called cultivation of mental images.
+
+**4. Cultivation of the ultimate investigation of objects:** Contemplating all dharmas, whether past, future, or present, whether internal or external, whether coarse or subtle, whether far or near; or contemplating the suchness of all dharmas as they exhaustively are and as they truly are: this is called cultivation of the ultimate investigation of objects.
+
+**5. Cultivation of the accomplishment of objects:** Having already realized the fundamental dhyānas and the mundane and supramundane samāpattis: this is called cultivation of the accomplishment of objects.
+
+**6. Cultivation of attainment (*lābha*):** If there is one who, depending on the first dhyāna, cultivates the perception of impermanence or up to the perception of death, then all the remaining wholesome perceptions not presently manifest, whether subsumed under one's own ground or a lower ground, as well as the mundane and supramundane merits drawn from them, are all cultivated so that they increase, become keen and pure, will arise, and one realizes sovereign accomplishment of those dharmas: this is called cultivation of attainment.
+
+**7. Cultivation of habitual practice (*abhyāsa*):** If there is one who presently contemplates various dharmas and gives rise to wholesome perceptions such as impermanence and the rest, and presently cultivates the remaining wholesome dharmas: this is called cultivation of habitual practice.
+
+**8. Cultivation of removal (*prahāṇa*):** If there is one who, through contemplating the characteristic of mental images in the domain of samādhi, removes the fundamental nature-characteristics of dharmas so that they no longer appear, following the principle of driving out one peg with another. Just as a person drives out a coarse peg with a fine peg, or through physical tranquility removes the coarse heaviness of the body, as previously stated: this is called cultivation of removal.
+
+**9. Cultivation of antidote (*pratipakṣa*):** Contemplating and cultivating the antidote of revulsion-destruction (*vaiyāpādya*), the antidote of severance (*prahāṇa*), the antidote of maintenance (*dhāraṇa*), and the antidote of distancing (*dūrībhāva*): this is called cultivation of antidote. Here, the path born of hearing and reflection is the antidote of revulsion-destruction; the supramundane path is the antidote of severance; the fruit of that, the transformation of the basis (*āśraya-parāvṛtti*), is the antidote of maintenance; the mundane path of cultivated wisdom is the antidote of distancing.
+
+**10. Cultivation of the body; 11. Cultivation of morality; 12. Cultivation of the mind; 13. Cultivation of wisdom:** In their respective order, these are the cultivation of the three trainings through guarding the faculties. One should know these are the nature of cultivation of the body and the rest.
+
+**14. Cultivation of a partial kind:** Contemplating dharmas and giving rise to wholesome perceptions of impermanence and the rest one by one, and cultivating the remaining partial wholesome dharmas: this is called partial cultivation.
+
+**15. Pervasive cultivation:** Contemplating the suchness of all dharmas as being of a single flavor: this is called pervasive cultivation.
+
+**16. Cultivation with movement (*sābhoga*):** When diligently cultivating the signless (*animitta*) through effort, and in the interval giving rise to cultivation with signs (*sanimitta*): this is called cultivation with movement.
+
+**17. Cultivation through exertion (*sābhisaṃskāra*):** When diligently cultivating the signless through effort, and through effortful practice without any gap giving rise to signless cultivation: this is called cultivation through exertion.
+
+**18. Cultivation of complete fulfillment:** Whether depending on the śrāvaka vehicle, the pratyekabuddha vehicle, or the great vehicle, having already transformed all one's bases, one attains sovereignty over all dharmas: this is called cultivation of complete fulfillment.
+
+These various cultivations are briefly of two kinds: poisonous cultivation and non-poisonous cultivation, because they are respectively mixed and unmixed with the grasping at self and mine.
+
+Also, these various cultivations should be known as counteracting five kinds of wrong grasping: (1) wrong grasping of sentient beings, namely grasping a sentient being as an agent and experiencer among the aggregates; (2) wrong grasping of dharmas, namely grasping that form and the rest, as spoken of, have real self-substance differentiations; (3) wrong grasping of deprecation, namely grasping that all dharmas are entirely without characteristics; (4) wrong grasping of difference, namely grasping that dharmas such as self and non-self have separate essences; (5) wrong grasping of alteration, namely grasping that dharmas formerly really had a self and later became selfless.
+
+Also, these various cultivations are briefly of two kinds: mundane cultivation and supramundane cultivation. Furthermore, the verse says:
+
+> The fruit of cultivation should be known:
+> The merits of the three awakenings,
+> The nature of the transformation of the basis as their support,
+> And the accomplishment of all tasks.
+
+The treatise says: Through cultivating emptiness, one realizes the excellent fruit, namely, depending on the transformation of the basis as the support, one realizes the three kinds of awakening (*bodhi*) and attains immeasurable merits such as non-contention (*araṇā*), knowledge through aspiration (*praṇidhijñāna*), and the analytical knowledges (*pratisaṃvid*). And all tasks are accomplished in complete fulfillment, namely the ultimate completion of the transformation of the basis.
+
+### Chapter on Establishing Non-nature, Chapter 7
+
+The treatise says: In the Chapter on Establishing Emptiness, the selflessness of persons was established, but not the selflessness of dharmas. Now, in order to establish the selflessness of dharmas (*dharma-nairātmya*), the establishment of non-nature is taught. The verse says:
+
+> The three self-natures should be known:
+> First, the imagined (*parikalpita*);
+> Next, the other-dependent (*paratantra*);
+> Last, the thoroughly established (*pariniṣpanna*).
+
+The treatise says: One should know that non-nature does not depart from the self-natures. Therefore the meaning of the three self-natures is first stated, and thus the three kinds of non-nature are revealed through implicit intent. The three self-natures are: (1) the imagined self-nature (*parikalpita-svabhāva*); (2) the other-dependent self-nature (*paratantra-svabhāva*); (3) the thoroughly established self-nature (*pariniṣpanna-svabhāva*). The imagined means: the self-substance of dharmas as conceived depending on causal verbal expression. The other-dependent means: the self-substance of dharmas as arising depending on causes and conditions. The thoroughly established means: the self-substance of dharmas as suchness (*tathatā*). The verse says:
+
+> The three non-natures should be known
+> As not departing from the three self-natures:
+> Through the non-nature of characteristics, non-nature of arising,
+> And non-nature of the ultimate.
+
+The treatise says: These three self-natures, one should know, are said to be the three non-natures through having three kinds of absence of self-nature: (1) non-nature of characteristics (*lakṣaṇa-niḥsvabhāvatā*), namely the imagined self-nature, because the substance-characteristic of this self-nature is absent; (2) non-nature of arising (*utpatti-niḥsvabhāvatā*), namely the other-dependent self-nature, because this self-nature is produced by the power of conditions and does not arise naturally; (3) non-nature of the ultimate (*paramārtha-niḥsvabhāvatā*), namely the thoroughly established self-nature, because the substance of this self-nature is the ultimate, and is also the non-nature of all dharmas.
+
+Having stated the characteristics of the three self-natures and the three non-natures, now the reasoning for their establishment shall be shown. How should one know that all that is imagined is without a self-substance-characteristic? The verse says:
+
+> Not subsumed under the five categories,
+> And beyond them there is nothing further.
+> Because names turn upon meanings,
+> The two are mutually adventitious.
+
+The treatise says: The intrinsic characteristic of the imagined is nonexistent. Why? Because it is not subsumed under the five categories, and apart from the five categories there is nothing further. What are the five? (1) Characteristics (*nimitta*); (2) names (*nāman*); (3) discrimination (*vikalpa*); (4) suchness (*tathatā*); (5) correct wisdom (*samyag-jñāna*).
+
+Question: If the imagined characteristic has no self-substance, how can the imagined grasping arise?
+
+Answer: Because names turn upon meanings. That is, following conventional names, they circulate upon meanings, and worldly fools grasp that names and meanings are definitely corresponding, truly matching the real self-nature.
+
+Question: How should one know this is a wrong grasping?
+
+Answer: Because the two are mutually adventitious (*āgantuka*). Why? Because the name does not correspond to the meaning's substance, it is called adventitious. The meaning is likewise: because it is as nonexistent as the name, it is called adventitious.
+
+How does one know this? The verse says:
+
+> Before names, there is no cognition;
+> Multiple names and indeterminacy;
+> Turning on what has meaning and what lacks meaning:
+> Unreasonably, meaning is established.
+
+The treatise says: If the self-substance of meaning existed as the name does, then before obtaining the name, this cognition should already exist for the meaning. Also, because names are multiple, a single meaning should have multiple self-substances. Also, because names are indeterminate, the self-substance of meaning should also be indeterminate. Why? Because this very name is also applied to other meanings. Also, does this name turn on what has meaning or on what lacks meaning? If it turns on what has meaning, this is unreasonable, because of the three reasons previously stated. If it turns on what lacks meaning, then the previously stated mutual adventitious nature of the two is reasonably established.
+
+Furthermore, if one grasps that meaning is real, and names reveal it like a lamp illuminating form, this is unreasonable. Why? The verse says:
+
+> Having grasped, one then establishes the name;
+> Others are unable to grasp thereby.
+> Like the wrong grasping of sentient beings,
+> Superimposition is inversion.
+
+The treatise says: One first grasps the meaning and then establishes the name; one cannot establish a name for meaning not yet grasped. That meaning already grasped should additionally need to be revealed is unreasonable. Also, by this very name, others who do not understand cannot grasp the meaning. A lamp illuminating things is not like this: it is not the case that because of this lamp, others cannot grasp the illuminated thing. Also, one should not maintain that meaning and name are different, because it is solely depending on names that the grasping of meaning arises. By analogy, just as there are only formations with the beginningless nature of transmigration, and through the power of habituation among ordinary beings, the wrong grasping of sentient beings arises regarding one's own and others' continuum: likewise, through habituation over the long night of habitual verbal expression perfuming the mind, through this means the false imagined grasping of dharmas arises. This wrong grasping of dharmas, just like the false superimposition of sentient beings, should be known as inversion.
+
+How does this inversion mutually generate defiled dharmas? The verse says:
+
+> Through perfuming, the other-dependent arises;
+> Depending on this, inversion is generated.
+> Thus mutually serving as conditions,
+> They generate each other in succession.
+
+The treatise says: Through the power of perfuming by this inversion, the subsequent other-dependent fruit-nature arises. Depending on this fruit, subsequently the inverted grasping of dharmas arises again. Thus these two dharmas mutually serve as conditions, and the cycle of birth and death successively continues without interruption.
+
+Having stated the reasoning for establishment, now the differentiations of the imagined self-nature shall be shown. The verse says:
+
+> Self-nature and difference,
+> Awakened, latent,
+> Active, and name-based: the imagined.
+> Also, one should know five kinds.
+
+The treatise says: Because there are six kinds of differentiations of imagining, the imagined self-nature also has six kinds. What are the six kinds of imagining? (1) *Imagining of self-nature:* imagining the real intrinsic characteristics of form and the rest. (2) *Imagining of difference:* imagining that form and the rest definitely and truly have differentiations such as material and immaterial, visible and invisible, and so forth. (3) *Awakened imagining:* the imagining of those skilled in language. (4) *Latent imagining:* the imagining of those not skilled in language. (5) *Active imagining,* which further has five kinds: craving-active, hatred-active, union-active, separation-active, and indifference-active. (6) *Name-based imagining,* which further has two kinds: arising from written characters, and arising without written characters. Arising without written characters means conceptions such as "What is this thing?" "How is this thing?" "What is this thing?" "How is this thing?" Arising from written characters means conceptions such as "This is this thing; this thing is such," or form, or up to consciousness, or conditioned or unconditioned, or permanent or impermanent, or wholesome or unwholesome or indeterminate, and so forth.
+
+Furthermore, the imagined self-nature should be known through five further kinds of imagining: (1) imagining the self-nature of meaning based on name; (2) imagining the self-nature of name based on meaning; (3) imagining the self-nature of name based on name; (4) imagining the self-nature of meaning based on meaning; (5) imagining the self-nature of both based on both. *Imagining the self-nature of meaning based on name:* conceiving "This thing is named 'form'; therefore there must definitely be a real substance of form. This thing is named 'feeling, perception, formations, consciousness'; therefore there must definitely be real substances of feeling, perception, formations, and consciousness." *Imagining the self-nature of name based on meaning:* conceiving "Is this thing named 'form' or not named 'form'? Is it named 'feeling, perception, formations, consciousness' or not?" *Imagining the self-nature of name based on name:* conceiving, without understanding the substance of the thing, but knowing only the various discriminations of the name 'form'; without understanding the substance but knowing only the various discriminations of the names 'feeling, perception, formations, consciousness.' *Imagining the self-nature of meaning based on meaning:* conceiving, without understanding the name 'form,' but variously discriminating only the substance of form; without understanding the names 'feeling, perception, formations, consciousness,' but variously discriminating only the substances of feeling, perception, formations, and consciousness. *Imagining the self-nature of both based on both:* conceiving "This thing has the substance of form and is named 'form.' This thing has the substance of feeling, perception, formations, and consciousness and is named 'feeling, perception, formations, and consciousness.'"
+
+Having stated the differentiations of the imagined self-nature, this imagined grasping arises from false discrimination. The differentiations of this discrimination shall now be further stated. The verse says:
+
+> Discrimination has eight kinds,
+> Able to generate three matters.
+> The substance of discrimination should be known
+> As mind and mental factors of the two realms.
+
+The treatise says: Eight kinds of discrimination can generate three matters. What are the three? (1) The matter that serves as the basis and object of discursive elaboration (*prapañca*) of discrimination. (2) The matter of views, self-conceit (*ātma-māna*), and the rest. (3) The matter of craving, attachment, and the rest.
+
+The eight kinds of discrimination are: (1) *Discrimination of self-nature:* discriminating the self-natures of form and the rest among the conceived objects (*saṃjñā-vastu*) of form and the rest. (2) *Discrimination of difference:* giving rise to various discriminations regarding the conceived objects of form and the rest, such as "this has form, this is formless; this is visible, this is invisible; this has resistance, this has no resistance," and so forth in immeasurable differentiations, taking the discrimination of self-nature as the basis and discriminating various meanings of differentiation. (3) *Discrimination of comprehensive grasping:* discriminations drawn by the conventional designation of "self," "sentient being," "life-force," "born one," and so forth, established upon the conceived objects of form and the rest, arising because the discrimination turns by taking the comprehensive grasping of accumulated multiple dharmas as the cause. Also, regarding conceived objects of houses, armies, forests, food, drink, clothing, vehicles, and the rest, the deliberation drawn by the conventional designations of "house" and the rest. (4) *Discrimination of self (*ātman*):* regarding any matter that is contaminated and appropriated, long habituated and accumulated by the grasping of self, the false discrimination arising conditioned by the matter that serves as the locus of one's own wrong view, habituated through long practice. (5) *Discrimination of mine (*ātmīya*):* regarding any matter that is contaminated and appropriated, long habituated and accumulated by the grasping of mine, the false discrimination arising conditioned by the matter that serves as the locus of one's own wrong view, habituated through long practice. (6) *Discrimination of the loved:* discrimination taking as its object pure, excellent, and agreeable matters. (7) *Discrimination of the unloved:* discrimination taking as its object impure, non-excellent, and disagreeable matters. (8) *Discrimination contrary to both the loved and unloved:* discrimination taking as its object matters that are free from both pure and impure, agreeable and disagreeable.
+
+Briefly stated, these are of two kinds: the self-substance of discrimination and the matters that serve as discrimination's basis and object. Here, the three discriminations of self-nature, difference, and comprehensive grasping can generate the matter that serves as the basis of discursive elaboration of discrimination. The matter that serves as the object of discursive elaboration of discrimination is the conceived objects of form and the rest as basis and object. The discursive elaboration of discrimination, subsumed under name-conceptions and verbal expressions and revealed by name-conceptions and verbal expressions, regarding these very matters discriminates and assesses immeasurable and manifold differentiations. Here, the two discriminations of self and mine can generate the view of the embodied self (*satkāya-dṛṣṭi*), which is the root of the remaining views, and also the self-conceit (*asmimāna*), which is the root of the remaining conceits. Here, the three discriminations of the loved, the unloved, and what is contrary to both, as appropriate, generate craving, hatred, and delusion. Therefore these eight kinds of discrimination serve to give rise to these three kinds of matters. If one wishes to briefly state the essential nature of discrimination, it is the mind and mental factors (*citta-caitta*) of the three realms.
+
+Furthermore, the verse says:
+
+> Bound by two kinds of bondage,
+> Firmly grasping two self-natures:
+> Therefore, liberated from the two bondages,
+> One correctly neither obtains nor sees.
+
+The treatise says: When the previously described discriminations arise, one is bound by two kinds of bondage: the bondage of characteristics (*nimitta-bandhana*) and the bondage of coarse heaviness (*dauṣṭhulya-bandhana*). Through these two bondages, one grasps the two self-natures: the other-dependent self-nature and the imagined self-nature. Therefore, having been liberated from the two bondages, regarding the two self-natures one correctly neither obtains nor sees anything. Why? Because the imagined self-nature is ultimately nonexistent and therefore cannot be obtained. The other-dependent self-nature, though it exists, because one does not apprehend its characteristics, nothing is seen.
+
+Having thus established the imagined self-nature, in order to establish the other-dependent self-nature, the reasoning for establishment shall now be stated. The verse says:
+
+> The causal basis of what is conventionally existent:
+> If different, two kinds are destroyed.
+> Because defilement is perceivable,
+> One should know the other-dependent exists.
+
+The treatise says: One should not declare that all dharmas are merely conventionally existent. Why? Because conventional dharmas necessarily have a causal basis; without real things, conventional dharmas cannot be established. If it were otherwise, because there are no real things, even the conventional would be nonexistent, and then two kinds of dharmas would be destroyed. Because the two dharmas are destroyed, defiled dharmas should not be perceivable. Because defiled dharmas are presently perceivable, one should know that the other-dependent self-nature necessarily exists.
+
+Furthermore, what is the characteristic of this other-dependent self-nature? The verse says:
+
+> Characteristics and coarse heaviness as its substance;
+> These mutually serve as conditions for arising.
+> Not naturally existent:
+> Therefore it is said to have the non-nature of arising.
+
+The treatise says: This other-dependent self-nature has characteristics and coarse heaviness as its substance. How is it called "other-dependent"? Because these two mutually serve as conditions and thereby arise. That is, characteristics serve as conditions for the arising of coarse heaviness, and coarse heaviness serves as conditions for the arising of characteristics. If so, why is it called "the non-nature of arising"? Because it is produced by the power of conditions and does not naturally exist.
+
+Furthermore, is this other-dependent self-nature definitely existent or definitely nonexistent? The verse says:
+
+> Neither definitely existent nor nonexistent;
+> All modes are accepted.
+> Comprising both conventional and real natures,
+> It is said to exist through conventional truth.
+
+The treatise says: The other-dependent self-nature is not definitely existent like what is conventionally designated, nor is it in all respects definitely nonexistent. Therefore in all modes it is neither existent nor nonexistent, yet it is accepted that it can be spoken of in all modes: as existent, as nonexistent, as both, or as neither.
+
+Question: Is this other-dependent self-nature really existent or conventionally existent?
+
+Answer: One should know this nature comprises both conventional and real existence.
+
+Question: Does it exist through conventional truth or through ultimate truth?
+
+Answer: One should know it is said to exist through conventional truth.
+
+Furthermore, the verse says:
+
+> Proclaiming the functions of self and dharmas
+> Is all called conventional truth.
+> One should know ultimate truth
+> Is the seven kinds of suchness.
+
+The treatise says: Conventional truth (*saṃvṛti-satya*) should be known as the proclamation of the functions of self and dharmas, as already stated in the Chapter on Gathering the Meaning of Purity. Ultimate truth (*paramārtha-satya*) is the seven kinds of suchness, as already stated in the Chapter on Gathering the Topics.
+
+Furthermore, the verse says:
+
+> The thoroughly established self-nature:
+> The object of the two supreme wisdoms,
+> Without any discursive elaboration,
+> Free from the nature of identity and difference.
+
+The treatise says: This ultimate truth should be known as the thoroughly established self-nature.
+
+Question: For what reason are the seven kinds of suchness called ultimate truth?
+
+Answer: Because they are the domain of the two supreme wisdoms: the supramundane wisdom and the subsequently-attained mundane wisdom. Because this ultimate is without discursive elaboration, it is not the domain of other wisdoms. Also, because this ultimate is without discursive elaboration, regarding dharmas with characteristics it is free from the nature of identity and difference. Why? Because this suchness, regarding dharmas with characteristics, can be said to be neither different nor not different.
+
+Furthermore, the verse says:
+
+> The object of purity,
+> Permanently without change,
+> Of wholesome nature and blissful nature:
+> All are accomplished.
+
+The treatise says: Because ultimate truth is free from the nature of identity and difference, one should know it is the nature of the object of purity (*viśuddhy-ālambana*). Why? Because through focusing on this object, the mind attains purity. One should know it is also permanent, because at all times its nature is without change. Also, because it is the object of purity, one should know it is wholesome. Because it is permanent, one should know it is blissful.
+
+Furthermore, the verse says:
+
+> Truly the ultimate is non-nature,
+> Because discursive self is absent.
+> The other-dependent, lacking that characteristic,
+> Is also of ultimate non-nature.
+
+The treatise says: The thoroughly established self-nature is said to be of non-nature through the non-nature of the ultimate. Why? Because this self-nature is itself the ultimate and is also non-nature, because the discursive self-nature of self and dharmas is absent. Therefore the thoroughly established self-nature, being the ultimate and being without the nature of discursive elaboration, is said to be of ultimate non-nature, as one should know. Regarding the other-dependent self-nature, through a different characteristic, it can also be established as being of ultimate non-nature. Why? Because it lacks the nature of the ultimate.
+
+Furthermore, as previously stated, there are five characteristics: the characteristic of the signifier, the characteristic of the signified, the characteristic of the relationship between the two, the characteristic of grasping, and the characteristic of non-grasping. There are also three characteristics: the imagined characteristic, the other-dependent characteristic, and the thoroughly established characteristic. Do the five subsume the three, or do the three subsume the five? The verse says:
+
+> Based on the three characteristics, one should know,
+> The five characteristics are established.
+> Each, as appropriate,
+> Has five kinds of function.
+
+The treatise says: One should know that the five characteristics are established based on the three self-characteristics. Why? The first and second are based on all three self-characteristics; the third is based on the imagined characteristic; the fourth is based on the other-dependent characteristic; the fifth is based on the thoroughly established characteristic. Also, each of the three self-natures has five functions, as already stated in the Chapter on Gathering the Meaning of Purity.
+
+Furthermore, the grasping of sentient beings refuted in the previous Chapter on Establishing Emptiness, and the grasping of dharmas refuted in this chapter: of these two kinds of grasping, which arises from which? The verse says:
+
+> Through grasping dharmas, the foolish
+> Give rise to the grasping of sentient beings.
+> Removing that and awakening to the dharma-nature,
+> Awakening to dharmas, the grasping of dharmas is severed.
+
+The treatise says: Through grasping dharmas, worldly fools give rise to the grasping of sentient beings. By removing the presently manifest entanglement of the grasping of sentient beings, one awakens to the real nature of dharmas. Through awakening to the dharma-nature, the grasping of dharmas is permanently severed. When the grasping of dharmas is severed, one should know that the latent tendency of the grasping of sentient beings is also severed.
+
+Furthermore, what being unsevered constitutes defilement? What being severed constitutes purity? The verse says:
+
+> Grasping the first regarding the other-dependent,
+> Perfuming constitutes defilement.
+> Without grasping, the thoroughly established
+> Perfuming constitutes purity.
+> Defilement is of contaminated nature;
+> Purity is uncontaminated.
+> This should be known as the transformation of the basis,
+> Inconceivable, of two kinds.
+
+The treatise says: Through grasping the first self-nature [the imagined] regarding the other-dependent self-nature, and giving rise to perfuming, defilement is constituted. One should know that the thoroughly established self-nature, being without grasping, and giving rise to perfuming, constitutes purity. Defilement is of contaminated (*sāsrava*) nature; purity is of uncontaminated (*anāsrava*) nature. This uncontaminated nature should be known as the characteristic of the transformation of the basis (*āśraya-parāvṛtti*).
+
+Also, this transformation of the basis is inconceivable and of two kinds. How is it inconceivable? The verse says:
+
+> The real, the self-substance,
+> Quiescence, and merit:
+> All inconceivable.
+> One should know, through four approaches.
+
+The treatise says: This transformation of the basis is inconceivable through four kinds of reasoning: (1) through the real, because it is permanent; (2) through self-substance, because it is neither material nor immaterial and so forth; (3) through quiescence, because it abides in quiescence; (4) through merit, because this transformation of the basis possesses majestic power.
+
+Also, this transformation of the basis is inconceivable and is realized through four kinds of approach: the four kinds of correct practice, the four kinds of investigation (*paryeṣaṇā*), the four kinds of knowledge in accordance with reality (*yathābhūta-jñāna*), and the four kinds of domain-objects. What are the four? (1) The all-pervading domain (*sarvatraga*). (2) The domain of purifying conduct. (3) The domain of skillful knowledge. (4) The domain of purifying the afflictions.
+
+Here, the all-pervading domain further has four kinds: (1) mental images with conceptual differentiation (*savikalpa-pratibimba*); (2) mental images without conceptual differentiation (*nirvikalpa-pratibimba*); (3) the ultimate investigation of objects; (4) the accomplishment of the task. Mental images with conceptual differentiation: the vipaśyanā domain of the samādhi that operates on images corresponding to the objects of the knowable. Mental images without conceptual differentiation: the śamatha domain of the samādhi that operates on images corresponding to the objects of the knowable. The ultimate investigation of objects: the exhaustive nature and the true nature of all dharmas. The accomplishment of the task: the transformation of the basis and the non-conceptual wisdom depending on it.
+
+The domain of purifying conduct has five kinds: (1) impurity (*aśubha*); (2) loving-kindness and compassion (*maitrī-karuṇā*); (3) dependent arising (*pratītyasamutpāda*); (4) the differentiation of elements (*dhātu-prabheda*); (5) mindfulness of breathing (*ānāpāna-smṛti*).
+
+The domain of skillful knowledge has five kinds: skillful knowledge of the aggregates, elements, sense-bases, dependent arising, and the possible and impossible.
+
+The domain of purifying the afflictions: the mundane path has two [aspects], namely the coarseness of the lower ground and the quiescence of the upper ground. The supramundane path has the four noble truths and the rest.
+
+Furthermore, as previously stated, there are two kinds of transformation of the basis. What are the two? The differentiations of the śrāvaka's and bodhisattva's transformation of the basis. The verse says:
+
+> The śrāvaka has two kinds:
+> Tending toward cessation, and tending toward awakening.
+> Depending on the transformation body,
+> One tends toward supreme, perfect awakening.
+> The śrāvaka's transformation of the basis
+> Is attained through cultivating with aversion;
+> The bodhisattva's is through skillful-means cultivation
+> And reliance on non-dual wisdom,
+> Not abiding in either arising or ceasing.
+> The Buddha's wisdom is unsurpassed,
+> Benefiting and bringing bliss to all sentient beings:
+> Inconceivable and non-dual.
+
+The treatise says: The śrāvaka's transformation of the basis should be known as further having two kinds: (1) tending toward cessation; (2) tending toward awakening.
+
+Question: The śrāvaka who is beyond training has permanently exhausted future existence. How can such a one realize supreme, perfect awakening (*anuttara-samyak-saṃbodhi*)?
+
+Answer: Depending on a transformation body (*nirmāṇa-kāya*) and abiding therein, one can realize awakening, not through the karmically-produced body.
+
+Also, the śrāvaka's transformation of the basis is attained through cultivating with aversion toward transmigration. The bodhisattva's transformation of the basis is attained through skillful-means cultivation and through reliance on non-dual wisdom (*advaya-jñāna*). How through skillful-means cultivation? Through uninterruptedly penetrating the dharma-nature, through the vastness of the object, through generating the most supreme diligent effort, through caring for sentient beings, and through comprehending all formations. How through reliance on non-dual wisdom? Through not abiding in either transmigration or cessation: not pursuing transmigration, and caring for sentient beings. For this reason, one should know that the Buddha's wisdom is supreme and unsurpassed. Why? The wisdom of other sentient beings either abides in transmigration or abides in cessation; therefore it is not unsurpassed. Also, the Buddha's wisdom benefits and brings bliss to all sentient beings, well fulfilling both self-benefit and other-benefit; therefore it is supreme and unsurpassed. The wisdom of other sentient beings either only benefits oneself or does not benefit both; therefore it is not unsurpassed. For this reason, the Buddha's wisdom is inconceivable: not abiding in either extreme, it can accomplish the benefit of all sentient beings. Also, it is non-dual, namely with regard to nirvāṇa and non-nirvāṇa and the rest, because its nature is without duality.
+
+### Chapter on Establishing Direct Realization, Chapter 8, Part 1
+
+The treatise says: Having thus correctly and diligently understood impermanence, suffering, emptiness, and non-self, what does one wish to contemplate?
+
+The verse says:
+
+> One should know what is presently contemplated:
+> The matters of lower, middle, and upper grades,
+> Contaminated and uncontaminated,
+> Never before seen and never before experienced, comprehensively.
+
+The treatise says: One presently contemplates in order to realize the knowable matters of the three realms of desire, form, and formlessness, which are of lower, middle, and upper grades. "Contaminated" means subsumed under these truths of suffering and origin. "Uncontaminated" means subsumed under the truths of cessation and the path, which are supreme. "Never before seen" means subsumed under the four truths. "Never before experienced" means subsumed under cessation and the path. "Comprehensively" means the domains of the type-wisdom (*anvaya-jñāna*) regarding both directly seen and non-directly-seen dharmas.
+
+Furthermore, by what does one directly realize (*abhisamaya*)? The verse says:
+
+> Supramundane supreme wisdom,
+> Able to remove what is abandoned by seeing:
+> Non-conceptual realization,
+> Relying solely on dhyāna.
+
+The treatise says: Supramundane wisdom (*lokottara-jñāna*) is the direct realization, not mundane wisdom. Because it severs the afflictions abandoned by seeing, it is solely the path of seeing (*darśana-mārga*), not the path of cultivation (*bhāvanā-mārga*).
+
+Question: What is its mode of practice?
+
+Answer: Non-conceptual realization (*nirvikalpa-abhisamaya*). That is, it is the presently realized non-conceptual practice, not something not yet realized.
+
+Question: What is its basis?
+
+Answer: It relies solely on dhyāna, not on the formless attainments.
+
+Furthermore, where does direct realization occur? The verse says:
+
+> Extreme grief precludes the evil destinies;
+> Extreme elation precludes the upper two.
+> In the desire realm, among humans and devas,
+> Where a Buddha appears, direct realization occurs.
+
+The treatise says: Direct realization does not arise in the evil destinies, because painful feeling constantly accompanies them with extreme grief, and they cannot attain samādhi. Nor does it occur in the form or formless realms, because elation and distraction are heavy and revulsion is feeble. Therefore in the two realms and three destinies, direct realization does not arise. Only in the one desire realm, in the two destinies of humans and devas, where a Buddha appears in the world, can direct realization arise.
+
+Furthermore, who is able to directly realize? The verse says:
+
+> Those not yet free from desire, those doubly free,
+> And those already free from desire,
+> The solitary, and the one who realizes correct awakening:
+> The most supreme, born of my [teaching].
+
+The treatise says: Five kinds of persons can enter direct realization, or there is no one who enters, because there is no self. What are the five? (1) Those not yet free from desire. (2) Those doubly free from desire. (3) Those already free from desire. (4) Pratyekabuddhas. (5) Bodhisattvas.
+
+How should one know that only the mind can enter direct realization and not the self? The verse says:
+
+> The self is not the cause of wisdom,
+> Nor can it apprehend objects on its own.
+> The self does not realize itself;
+> One would grasp and crave one's own self.
+> Impermanent, having objects,
+> Awaiting conditions, wisdom arises.
+> Severing coarse heaviness and the other two:
+> Therefore, depending on the mind, direct realization occurs.
+
+The treatise says: If one maintains that a self can enter direct realization, this is unreasonable. Why? The self serving as the cause of wisdom is unreasonable. Apart from wisdom, it cannot naturally apprehend anything. Why? If the self could serve as the cause of wisdom, it would be impermanent, or else wisdom should be permanently present. If the self itself could apprehend objects, it should be able to apprehend them even before wisdom arises. Also, if one maintains that the self enters direct realization, this self should also observe its own nature. If so, there should be no liberation, because focusing on and craving the self would [perpetuate bondage]. Why? There is no apprehending of the self without giving rise to self-grasping and self-craving.
+
+If one says that depending on the mind one can enter direct realization, this is reasonable. Why? The mind is impermanent, has objects, awaits conditions, and can generate wisdom. Also, depending on the mind, coarse heaviness, self-grasping, and self-craving can all be severed. Why? Because the mind is impermanent, it serves as the cause for the arising of wisdom. Because it has objects, together with wisdom it simultaneously apprehends the domain. Because it awaits conditions, wisdom is not permanently present. Also, because the mind is the support of coarse heaviness and is by nature free from self: if one realizes thorough knowledge, one can depart from coarse heaviness and arise, permanently removing self-grasping and self-craving.
+
+How does one sequentially enter direct realization? The verse says:
+
+> Having matured the continuum,
+> Either through hearing the correct Dharma,
+> Or spontaneously, with extremely correct
+> Mental engagement, one directly realizes.
+> Focusing mindfulness on the object,
+> Diligently cultivating calm meditation,
+> Through the power of supreme wholesome roots,
+> One realizes the noble awakening factors and path factors.
+
+The treatise says: One who cultivates direct realization should first mature one's own continuum. Then, either through hearing the correct Dharma (for the śrāvaka vehicle) or spontaneously (for bodhisattvas and pratyekabuddhas), through extremely well-directed mental engagement regarding one's own inner mind, one can enter direct realization. Next, "focusing mindfulness on the object" refers to the four foundations of mindfulness (*smṛtyupasthāna*). "Diligent effort" refers to the four correct exertions (*samyakprahāṇa*). "Cultivating calm meditation" refers to the four bases of supernatural power (*ṛddhipāda*). "Supreme wholesome roots" refers to the supreme provisions of the wholesome roots of faith and the rest already realized. "Power" (*bala*) means that the obstacles of non-faith and the rest, which oppose them, cannot interfere. "Realizing the noble awakening factors" refers to realizing the seven factors of awakening (*saptabodhyaṅga*) depending on the foregoing. "Path factors" refers to realizing the noble eightfold path (*āryāṣṭāṅgamārga*). In this sequence, one enters direct realization.
+
+Furthermore, at what point does one say one has correctly entered direct realization? The verse says:
+
+> From this, entering the path of seeing,
+> The uncontaminated correct view arises.
+> Permanently severing the three fetters:
+> Direct realization is realized, one should know.
+
+The treatise says: From the previously cultivated correct mental engagement, at the stage of the path of seeing, the supramundane correct view (*samyag-dṛṣṭi*) arises. Through the correct view, the three fetters (*saṃyojana*) are permanently severed: the view of the embodied self (*satkāya-dṛṣṭi*), attachment to rules and rituals (*śīlavrataparāmarśa*), and doubt (*vicikitsā*). At this point, one should know one has entered direct realization.
+
+However, at this stage all the defiled dharmas of the evil destinies are entirely removed. Why then does one speak only of the permanent severance of the three fetters? The verse says:
+
+> Though afflictions arising from the grasping
+> Of evil-destiny defilement are severed,
+> Regarding objects, views, the teacher, and the rest,
+> They are subsumed under the three as they arise.
+
+The treatise says: Through the view of the embodied self, one is confused about objects. Through attachment to rules and rituals, one is confused about views. Through doubt, one is confused about the Buddha as teacher, the correct Dharma he taught, and the saṃgha of correct practice. Therefore, following what is dominant, only the permanent severance of the three fetters is stated.
+
+Furthermore, what are the characteristics of direct realization? The verse says:
+
+> Through prior mundane wisdom,
+> Discriminating the truths to their ultimate,
+> Without effort regarding the truths,
+> The characteristic of definite arising,
+> The characteristic of wisdom and object united,
+> Reaching the ultimate regarding the knowable:
+> One should know the direct realization of the truths
+> Has ten kinds of certainty.
+
+The treatise says: "Through prior mundane wisdom" means from the wisdom born of hearing up to the wisdom of the worldly supreme dharma. "Discriminating the truths to their ultimate" means having already ultimately discriminated the truths, without effort regarding the truths. "The characteristic of definite arising" means: regarding the observed domain of the truths, without any effort or exertion, the characteristic of definite arising is the characteristic of direct realization. Also, this certainty-wisdom united with its object, ultimately reaching the knowable. Why? Because apart from this, there is no further different domain that needs to be sought; therefore this contemplation is called direct realization.
+
+One should know this characteristic of certainty further has ten kinds. What are the ten? The verse says:
+
+> Self-nature absent, three existences,
+> Not ceasing, without duality,
+> Non-conceptual, without fear,
+> Self-severance: certainty in these.
+
+The treatise says: The ten kinds of certainty are: (1) certainty regarding the absence of sentient beings; (2) certainty regarding the absence of the imagined self-nature; (3) certainty regarding the existence of selflessness; (4) certainty regarding the existence of characteristics; (5) certainty regarding the existence of coarse heaviness. (6) Certainty regarding non-cessation: either because something is absent it does not cease (namely the self of sentient beings and the self of dharmas), or because something exists it does not cease (namely the two selflessnesses). (7) Certainty regarding non-duality: dharmas and the emptiness of dharmas are without difference. (8) Certainty regarding non-conceptuality toward emptiness. (9) Certainty regarding no fear of the dharma-nature: the foolish give rise to various fears regarding this nature, but the wise have no fear therein, and therefore are certain. (10) Certainty regarding the ability to sever through one's own mastery: "I shall no longer seek the means of severance from another person," and therefore am certain.
+
+Furthermore, in what sequence should this direct realization be cultivated and understood? The verse says:
+
+> Generation, realization, continuation,
+> And fulfillment: the sequence of four.
+> Also, dharma-abiding wisdom and the rest:
+> The sequence of eight should be known.
+
+The treatise says: The sequence of direct realization is either four, eight, or seven. What are the four? (1) Generation: from the wisdom born of hearing up to the worldly supreme dharma. (2) Realization: the path of seeing. (3) Continuation: the path of cultivation. (4) Fulfillment: the ultimate path. What are the eight? Dharma-abiding wisdom up to pure wisdom, as previously stated. What are the seven? The verse says:
+
+> No remorse, abiding in the object,
+> Seeing the domain in accordance with reality,
+> The support of the path, without doubt,
+> Purity, differentiated practice, and severance.
+
+The treatise says: The seven kinds of sequence are: from the purity of morality up to the purity of the wisdom of practice and severance. Through the purity of morality, there is no remorse. Through no remorse, the mind is settled and abides in its object. Through the settled mind, regarding the knowable domain one obtains seeing in accordance with reality. Next, regarding the support of the true wisdom of seeing in accordance with reality, namely the Three Jewels of Buddha, Dharma, and Saṃgha, one departs from doubt and obtains the co-arisen wisdom of the four kinds of verified confidence (*catvāri śraddhā-pratyaya*). Next, regarding what the Sugata has realized and taught, one obtains the wisdom of certainty, namely that only in the Buddha-dharma is there the pure path of liberation from suffering, not in other dharmas. Next, regarding this path, one obtains the wisdom of differentiated practice: the painful, slow-penetration practice is the lower grade; the pleasant, swift-penetration practice is the upper grade; the other two practices are the middle grade. Next, depending on the upper-grade correct practice, regarding the remaining [afflictions] to be severed, one generates the supreme wisdom and seeing.
+
+Furthermore, these seven purities of morality and the rest, briefly stated, are subsumed under the three trainings and should also be known as subsumed under the three purities. What are the three purities? The verse says:
+
+> Three purities should be known:
+> Purity of morality and purity of mind;
+> Domain, support of the path, and the path:
+> These are said to be purity of wisdom.
+
+The treatise says: The three purities are: purity of morality, purity of mind, and purity of wisdom. Within purity of wisdom there are further three kinds: (1) regarding the domain; (2) regarding the support of the path; (3) regarding the path itself. Within the path itself, one should know there are further three kinds: purity, differentiation, and severance.
+
+Furthermore, within this sequence, by what sequence does one enter direct realization? The verse says:
+
+> Knowing the causes and conditions of body and the rest,
+> Well penetrating the three times,
+> Next understanding the four sufferings,
+> Then the eight sufferings should be known.
+
+The treatise says: First, at the stage of the four foundations of mindfulness, one should well understand the four causes and conditions of body, feeling, mind, and dharmas: through the aggregation of food, the body aggregates; through the aggregation of contact, feeling aggregates; through the aggregation of name-and-form, consciousness aggregates; through the aggregation of mental attention, dharmas aggregate. Next, this body and the rest, in the three times, should be well understood: in the future, one contemplates following the aggregation-dharma; in the past, one contemplates following the cessation-dharma; in the present, one contemplates following the aggregation-and-cessation-dharma. Next, one should understand that this body and the rest are afflicted by four sufferings: the suffering of bearing the heavy burden, the suffering of the change of phase, the suffering of coarse heaviness, and the suffering of death and birth. Because wholesome and unwholesome dharmas serve as causes that can bring about the suffering of death and birth in transmigration, understanding the suffering of death and birth is understanding the suffering of dharmas. From this point, without interval, about to contemplate the truths, one first understands the eight kinds of suffering: the suffering of birth, and so forth, up to in brief the suffering of the five appropriating aggregates.
+
+Furthermore, the verse says:
+
+> From this, one correctly contemplates the truths,
+> Giving rise to the sixteen aspects of wisdom,
+> To counteract the four inversions:
+> Each later depending on the former.
+
+The treatise says: After knowing the eight sufferings, one next correctly contemplates the four truths, giving rise to the sixteen aspects of wisdom (*ṣoḍaśākāra*), each preceding one serving as the support for the subsequent. Namely, to counteract the four inversions, one gives rise to the four aspects of the truth of suffering: (1) to counteract the inversion of permanence, one gives rise to the aspect of impermanence; (2) to counteract the inversions of pleasure and purity, one gives rise to the aspect of suffering; (3) to counteract the inversion of self, one gives rise to the aspect of emptiness; (4) likewise, to counteract this, one gives rise to the aspect of non-self. Why? Because apart from the formations, the remaining "self" is empty; and the formations themselves are not the nature of self. Next, regarding the four kinds of craving for permanence, pleasure, purity, and self, which are the origin of the truth of suffering, one gives rise to the four aspects of cause (*hetu*), origin (*samudaya*), arising (*prabhava*), and condition (*pratyaya*). Next, regarding the cessation of these, one gives rise to the four aspects of cessation (*nirodha*), peace (*śānta*), excellence (*praṇīta*), and escape (*niḥsaraṇa*). Next, regarding the means of realization, one gives rise to the four aspects of path (*mārga*), correctness (*nyāya*), practice (*pratipad*), and deliverance (*nairyāṇika*).
+
+Furthermore, the verse says:
+
+> From this, further cultivating,
+> Regarding the mind, comprehensive revulsion,
+> Discriminating the truths, certainty,
+> And the ultimate awakening arise.
+
+The treatise says: After the sixteen aspects of wisdom, one further cultivates. First, the wisdom of comprehensive revulsion focusing on one's own mind arises: this is called warmth (*uṣmagata*). From this upward, the wisdom of discriminating the truths arises: this is called the summit (*mūrdhan*). From this upward, the wisdom of certainty arises: this is called acceptance (*kṣānti*). From this further upward, the wisdom of ultimate awakening arises: this is called the worldly supreme dharma (*laukikāgra-dharma*).

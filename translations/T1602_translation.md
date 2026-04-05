@@ -4782,3 +4782,434 @@ For what cause and condition is the water of the great oceans all of salt flavor
 For what cause and condition are the lifespans of some beings in the hell and animal destinies long, but not in the wholesome destinies of the desire realm? Long life in evil destinies is due to two causes: (1) because wholesome dharmas of the desire realm can only arise through deliberate effort and investigation; and (2) because unwholesome dharmas arise spontaneously without deliberation.
 
 For what cause and condition does this trichiliocosm contain many worlds up to the Akaniṣṭha heaven, yet all are collectively called one world only up to the Brahmā-world? This too is due to two causes: (1) because they undergo formation and destruction together; and (2) because of the establishment of assemblies.
+
+---
+
+## Fascicle 19
+
+### Chapter 11: Division of Superior Determination (continued)
+
+#### Superior Determination of Affliction-Defilement
+
+The treatise says: Thus the determination of realm-topics has been stated. Among the superior determination of defilement-topics (saṃkleśa-vastu), the superior determination of affliction-defilement (kleśa-saṃkleśa) shall now be stated first. The verse says:
+
+> The four afflictions associated with manas
+> Are universally active and co-arising,
+> Indeterminate, severed only at the end,
+> And of the nature of the realm where one is born.
+
+The treatise says: One should know that the afflictions associated with manas (mano-saṃprayukta-kleśa) are universally active in all states, manifesting simultaneously with all defiled wholesome and other minds, because they are not contradictory. Also, these afflictions are all innate (sahaja), not arising from discrimination (parikalpita). They are of obscured-indeterminate (nivṛtāvyākṛta) nature, not of unwholesome nature. They are suddenly severed by the final vajra-like samādhi (vajropamasamādhi). Also, these afflictions are of four kinds: (1) ignorance (avidyā); (2) the view of the personal self (satkāya-dṛṣṭi); (3) the conceit of "I" (asmimāna); and (4) self-love (ātma-sneha). If a person is born in a particular realm, one should know that the afflictions associated with their manas are included in the nature of that realm.
+
+Furthermore, the verse says:
+
+> In arising, continuation, manifest activity, and conditions,
+> In latent tendencies, objects, and coarse heaviness,
+> Each has twenty kinds of differentiation.
+
+The treatise says: If one is born in a particular realm and plane, all the afflictions of that realm and plane cause one's arising and continuation. Also, regarding this affliction-defilement, whether in manifest activity (pravṛtti), conditions (pratyaya), latent tendencies (anuśaya), object-domains (ālambana), or coarse heaviness (dauṣṭhulya), one should know that each has twenty kinds of affliction-characteristics.
+
+**Twenty kinds of manifest activity:** (1) Fettering activity following one's desires: householders. (2) Fettering activity not following one's desires: renunciants. (3) Without discernment: those in the presence of poorly expounded Dharma. (4) With discernment: those in the presence of well-expounded Dharma. (5) Mutually predominant: those of passionate and other dispositions. (6) All equal: those of equal-part disposition. (7) Subtle: those of thin-dust disposition. (8) Fettering activity through outer gates: those who have not yet abandoned desire. (9) Fettering activity through inner gates: those who have abandoned desire through worldly paths. (10) Predominant fettering activity: ordinary beings. (11) Fettering activity through lost mindfulness: learners (śaikṣa). (12) Fettering activity through discrimination: those with firm attachment. (13) Innate fettering activity: those without firm attachment. (14) Activity of examination: those fond of examining. (15) Activity without sovereignty: those who are asleep. (16) Activity with sovereignty: those who are awake. (17) Activity that cannot be saved: those without the dharma of nirvāṇa. (18) Activity that can be saved: those with the dharma of nirvāṇa. (19) Activity of grasping at characteristics: those who investigate and grasp at the characteristics of corresponding dharmas. (20) Activity of not grasping at characteristics: those who do not investigate and do not grasp at the characteristics of corresponding dharmas.
+
+**Twenty kinds of affliction-conditions (pratyaya):** (1) pleasure; (2) suffering; (3) neither-suffering-nor-pleasure; (4) desire; (5) investigation (vitarka); (6) contact; (7) prior habituation; (8) latent tendencies; (9) not attending upon good teachers; (10) not hearing the correct Dharma; (11) improper mental engagement; (12) lack of faith; (13) laziness; (14) lost mindfulness; (15) scattering; (16) lack of correct knowledge; (17) heedlessness-affliction; (18) the nature of being an ordinary being; (19) through abandoning desire; and (20) through taking birth.
+
+**Twenty kinds of affliction-latent tendencies (anuśaya):** (1) latent tendencies in the non-concentrated state; (2) latent tendencies in the concentrated state; (3) latent tendencies following one's own domain; (4) latent tendencies following another's domain; (5) damaged latent tendencies; (6) undamaged latent tendencies; (7) concordant latent tendencies; (8) discordant latent tendencies; (9) complete latent tendencies; (10) deficient latent tendencies; (11) destroyable latent tendencies; (12) indestroyable latent tendencies; (13) predominant latent tendencies; (14) equal latent tendencies; (15) subtle latent tendencies; (16) latent tendencies with awareness; (17) latent tendencies without awareness; (18) latent tendencies producing much suffering; (19) latent tendencies producing little suffering; and (20) latent tendencies producing no suffering.
+
+**Twenty kinds of affliction-object-domains:** (1) taking existent things as objects; (2) taking non-existent things as objects; (3) taking the specific characteristic as object; (4) taking the general characteristic as object; (5) taking the directly seen as object; (6) taking the not directly seen as object; (7) taking outer-gate objects; (8) taking inner-gate objects; (9) taking objects of afflictions of one's own kind; (10) taking objects of afflictions of another kind; (11) taking one's own domain as object; (12) taking another's domain as object; (13) taking no object; (14) taking defiled objects; (15) taking undefiled objects; (16) taking conditioned objects; (17) taking unconditioned objects; (18) taking objects discriminated by one's own mind; (19) taking objects discriminated by recollection; and (20) taking the characteristics of things as objects.
+
+**Twenty kinds of coarse heaviness (dauṣṭhulya):** (1) coarse heaviness of the nature of retribution; (2) coarse heaviness of the nature of affliction; (3) coarse heaviness of the nature of karma; (4) coarse heaviness of the affliction-obstruction (kleśāvaraṇa); (5) coarse heaviness of the cognitive obstruction (jñeyāvaraṇa); (6) coarse heaviness of the concentration-obstruction; (7) coarse heaviness of the karma-obstruction; (8) coarse heaviness of the retribution-obstruction; (9) coarse heaviness of the hindrance-obstruction; (10) coarse heaviness of improper investigation; (11) coarse heaviness of grief; (12) coarse heaviness of fear; (13) coarse heaviness of fatigue; (14) coarse heaviness of food; (15) coarse heaviness of sleep and dreams; (16) coarse heaviness of sensual desire; (17) coarse heaviness of discord among the great elements; (18) coarse heaviness of seasonal change; (19) coarse heaviness of death; and (20) coarse heaviness that is universally active.
+
+Also, stated briefly, afflictions are known through five aspects: (1) the aspect of their own-nature (svabhāva); (2) the aspect of their cause (hetu); (3) the aspect of their class (prakāra); (4) the aspect of mental disturbance regarding objects; and (5) the aspect of their fruit (phala).
+
+Furthermore, at what point does one speak of affliction-latent tendencies and the unwholesome? The verse says:
+
+> Because of accordance with self-arising,
+> Because of seeds, because of the affair,
+> Because of generating four faults,
+> And because of three causes of impurity.
+
+The treatise says: Due to four kinds of cause, one speaks of "latent tendencies" (anuśaya): (1) because the affair of the affliction accords with the arising of this affliction; (2) because the seed continues to bind; (3) because of the dominant affair thereof; and (4) because of generating four faults. The four faults are: (a) the fault of non-quiescence; (b) the fault of differentiation; (c) the fault of activating conduct; and (d) the fault of gathering causes. Herein, the first is revealed through two, and the three are revealed through four.
+
+Question: At what point does one know the characteristic of unwholesome affliction?
+
+Answer: Due to three causes: (1) because it is intense; (2) because it disturbs sentient beings; and (3) because it obstructs wholesome dharmas.
+
+#### Superior Determination of Karma-Defilement
+
+Furthermore, the superior determination of karma-defilement (karma-saṃkleśa) shall now be stated. The verse says:
+
+> Karma is volition and having willed;
+> Its differentiations have thirteen kinds.
+> Its fruits are six, its positions three,
+> And karmic determination is of five kinds.
+
+The treatise says: If stated briefly, karma has two kinds: volition (cetanā) and having willed (cetayitvā). The differentiations of this karma further have thirteen kinds: (1) bodily karma; (2) verbal karma; (3) mental karma; (4) karma included in restraint (saṃvara); (5) karma included in non-restraint (asaṃvara); (6) karma included in neither; (7) meritorious karma (puṇya); (8) demeritorious karma (apuṇya); (9) imperturbable karma (āniñjya); (10) black karma with black retribution; (11) white karma with white retribution; (12) black-and-white karma with black-and-white retribution; and (13) neither-black-nor-white karma without retribution, which exhausts all karma.
+
+One should know that such karmas have six kinds of fruit and three kinds of position. The six kinds of fruit are: (1) attractive fruit; (2) unattractive fruit; (3) pure fruit; (4) retributive fruit (vipāka-phala); (5) outflow fruit (niṣyanda-phala); and (6) dominant fruit (adhipati-phala). The three positions are: (1) the position of function; (2) the position of habitual impression; and (3) the position of fruition.
+
+Also, such karma has five kinds of determination: (1) determination to be experienced in the present life; (2) determination to be experienced at birth; (3) determination to be experienced in a subsequent differentiated life; (4) determination of the retribution to be received; and (5) determination of the karma performed.
+
+Furthermore, the verse says:
+
+> One's own karma and so forth, four kinds;
+> The prior ripening of this is also four.
+> Furthermore, nine kinds should be known,
+> Which are differentiations of two kinds.
+
+The treatise says: As the Bhagavat said: "Young man, you should know that all sentient beings are made by their own karma. Karma is the root of strife; from karma they are born; karma is their refuge." This karma is one's own making; four kinds should be known: because within one's own continuum it can give fruit; because the antidote and the counteracted appear before one; because from the past life the present life is born; and because for the sake of future existence. Because karma is exhausted, it is called "karma is their refuge."
+
+Also, regarding the ripening of this karmic retribution, one should know four kinds of prior and later ripening: first, the heaviest karma ripens first; next, that which is nearest; next, that which has been habituated; and last, that which was done first. Also, karma of which the retribution is determined should be known as determinate in retribution; if it is karma of indeterminate retribution, it cannot serve as an obstacle to the abandonment of desire.
+
+Also, the non-Buddhist ascetics give rise to such views and state such theories: "Whatever karma sentient beings perform, whether accompanied by pleasure or accompanied by suffering, the retribution received is likewise." Those non-Buddhist ascetics all hold false views. Why? Because both feelings are present. Wholesome karma also receives suffering-retribution and also receives pleasure-retribution, and unwholesome karma is likewise.
+
+Also, one should know that karma becomes of wholesome or unwholesome nature depending on two roots: it arises as wholesome karma depending on wholesome roots, and as unwholesome karma depending on unwholesome roots. Also, the characteristics of the differentiation of wholesome and unwholesome karma should be known through nine causes: (1) Through cause and field: because of the differentiation of wholesome and unwholesome roots, and of honored fields and the like. (2) Through the affair: because of complete or incomplete affairs. (3) Through the means: because of the intense and unremitting means. (4) Through the support (āśraya): because the support is either pure or impure. (5) Through the mental engagement: because of intense pure faith or predominant fettering. (6) Through resolute intention: because of dedication and aspiration toward superior or inferior retribution. (7) Through associated factors: because of being supported by other wholesome or unwholesome dharmas. (8) Through repeated practice: because one both practices oneself and instructs others, praises and rejoices, and upon seeing others of the same practice, the mind gives rise to joy. (9) Through many people: because one performs this karma together with many people.
+
+#### Superior Determination of Birth-Defilement
+
+Furthermore, the superior determination of birth-defilement (janma-saṃkleśa) shall now be stated. The verse says:
+
+> Death is determined or undetermined;
+> Premature death has six causes.
+> In the lucid stage, three minds;
+> The intermediate existence may or may not exist.
+
+The treatise says: There are two kinds of death: (1) determined, as in Uttarakuru; and (2) undetermined, as in other places. Furthermore, premature death has six kinds of cause: (1) not avoiding what is harmful; (2) forgetfulness of mindfulness; (3) mental anger and indignation; (4) exhaustion of lifespan; (5) exhaustion of karma; and (6) exhaustion of merit. Also, at the time of death there are three kinds of mind: a wholesome mind, an unwholesome mind, and an indeterminate mind. These occur in the lucid stage; when one reaches the non-lucid stage, it is certainly only indeterminate. Also, after death there may or may not be an intermediate existence (antarā-bhava): there is an intermediate existence for those about to be born in the form realm; there is no intermediate existence for those about to be born in the formless realm.
+
+Furthermore, the verse says:
+
+> Depending on the other, with an object-domain,
+> A defiled mind arises,
+> Among the four kinds of birth,
+> And in the three realms and five destinies.
+
+The treatise says: Depending on the other intermediate existence, with the place of birth as the object-domain, a defiled mind arises and causes the continuation of the existence of birth. Also, within the four kinds of birth one receives birth and death: egg-born (aṇḍaja), womb-born (jarāyuja), moisture-born (saṃsvedaja), and transformation-born (upapāduka). Also, within the three realms of desire, form, and formlessness, and within the five destinies of hell and the rest, one receives birth and death. Thus, whether death, birth, or place has been displayed: this is the superior determination of birth-defilement.
+
+#### Determination of Truth-Topics
+
+The determination of truth-topics (satya-vastu) shall now be stated. The verse says:
+
+> One should know that conventional truth
+> Is the meaning of conceptual understanding and expression.
+> The object of purification, its nature,
+> And its means are called ultimate truth.
+
+The treatise says: All verbal expression and the meaning obtained through conceptual understanding occasioned by it are all called conventional truth (saṃvṛti-satya). Whatever is the object-domain of purification, whatever is the nature of purification, and whatever is its means are all called ultimate truth (paramārtha-satya). The object-domain of purification refers to the four noble truths and suchness (tathatā). The nature of purification refers to the purity of the truth of cessation (nirodha-satya). The means refers to the truth of the path (mārga-satya).
+
+Furthermore, the verse says:
+
+> One should know that the four truths
+> Are included in defilement and purity.
+> Never before seen, never before experienced,
+> Like illness, the cessation of illness, and their causes.
+
+The treatise says: One should know that the four truths are included in two dharmas: defilement and purity. Defilement has two: fruit and cause. Purity is likewise. These four truths, from beginningless time, have never been truly seen by any sentient being in the case of the two truths of cessation and the path, nor have they ever been experienced. Also, like illness, the cessation of illness, and the causes of both, the four truths are established. The truth of suffering is like illness. The truth of origination is like the cause of illness. The truth of cessation is like the cessation of illness. The truth of the path is like the cause of the cessation of illness.
+
+Furthermore, the verse says:
+
+> One should know that the four truths
+> Each have four characteristics and four contemplations.
+> Thorough knowledge and the rest, four kinds,
+> With differentiations of cause and fruit nature.
+
+The treatise says: One should know that each of the four noble truths has four kinds of characteristics. **The truth of suffering has four characteristics:** (1) the suffering of arising; (2) suffering from internal conditions; (3) suffering from external conditions; and (4) the suffering of coarse heaviness. The first is the suffering of birth. The second is the sufferings of old age, illness, and death. The third is the suffering of meeting the hateful, parting from the loved, and lacking what is desired. The fourth is the suffering of the five appropriated aggregates (pañcôpādāna-skandha).
+
+**The truth of origination has four characteristics:** (1) general craving; (2) craving for further existence (punarbhava-tṛṣṇā); (3) craving accompanied by delight and passion; and (4) craving that delights in this and that.
+
+**The truth of cessation has four characteristics:** (1) the exhaustion of craving; (2) the abandonment of desire (virāga); (3) cessation (nirodha); and (4) nirvāṇa.
+
+**The truth of the path has four characteristics:** The four kinds of progress, namely the painful-slow and the rest, which have been stated previously.
+
+Also, one should know that each truth has four contemplations (ākāra), as stated in the chapter on establishing direct realization.
+
+Also, regarding the truths, one should know the differentiations of cause and fruit nature in thorough knowledge (parijñā), complete abandonment (prahāṇa), direct realization (sākṣātkriyā), and cultivation of the path (bhāvanā). The first three are the fruit; cultivation of the path is the cause: the cause of thoroughly knowing suffering, the cause of completely abandoning origination, and the cause of directly realizing cessation.
+
+How are the conventional and the rest called "truths"? The verse says:
+
+> That cognition is without conflict,
+> By nature and through realization likewise,
+> The truths are of three kinds, only wholesome,
+> And furthermore of two kinds, as should be known.
+
+The treatise says: "That cognition is without conflict, by nature" means that worldly fools and the rest, by nature, have cognitions about those dharmas that are without conflict; this is called "conventional truth by nature." "Through realization likewise" means that those who have seen the truths, in accordance with the nature of dharmas, realize without conflict; this is called "ultimate truth, for this reason." The Bhagavat said: "All noble ones take this as truth; therefore it is called 'noble truth' (ārya-satya)."
+
+Also, one should know that the four truths of suffering and the rest: the first two are common to the three natures of wholesome, unwholesome, and indeterminate; the remaining two are only wholesome. Also, the wholesome has two kinds: worldly and supramundane. This further has two kinds: that included in cessation and that included in the path.
+
+#### Determination of Support-Topics
+
+Thus the determination of truth-topics has been stated. The determination of support-topics (āśraya-vastu) shall now be stated. The verse says:
+
+> One should know the seven supports
+> Have three kinds of supportive nature.
+> Skill in them is of two kinds;
+> The fourfold analysis and more are extensively stated.
+
+The treatise says: One should know that due to three kinds of supportive nature, the Bhagavat spoke of seven kinds of support. What are the three kinds of supportive nature? (1) The supportive nature for the exhaustion of defilements; (2) the supportive nature for the arising of virtuous qualities; and (3) the supportive nature for the pleasant abiding in the present life (dṛṣṭadharma-sukhavihāra).
+
+Also, this support has two kinds of skill to be known: (1) skill in samādhi (samādhi-kauśalya); and (2) skill in samāpatti (samāpatti-kauśalya). There is a fourfold analysis and extensive differentiation, as the Bhagavat spoke in the summary verse (udāna-gāthā):
+
+> "Some meditators are skilled in samādhi,
+> Some in samāpatti,
+> Some in both, and some in neither."
+
+How is one skilled in samādhi but not in samāpatti? Because one is skilled in the three samādhis of emptiness and the rest, but not skilled in the stations of mastery (abhibhvāyatana), totalities (kṛtsnāyatana), attainment of cessation (nirodha-samāpatti), and the like. How is one skilled in samāpatti but not in samādhi? Because one is skilled in entering and emerging from the samāpattis of the stations of mastery, totalities, attainment of non-perception, and the like, but not skilled in the three samādhis. How is one skilled in both? Because one is skilled in the differentiation of both the stated samādhi and samāpatti. How is one skilled in neither? Because one is not skilled in the differentiation of either.
+
+Furthermore, one who is skilled in samādhi but not in samāpatti understands well the differentiations of the names, phrases, and syllables of the samādhi entered, but does not understand well the characteristics of the practices for entering samādhi. One who is skilled in samāpatti but not in samādhi understands well the characteristics of the practices for entering samādhi and enters that concentration, but does not understand well the name, phrase, and syllable differentiations of this samādhi, namely, "I am now entering such-and-such a named samādhi." Also, there are bodhisattvas who can enter a hundred samādhis, a thousand samādhis, and so forth, yet cannot understand the name, phrase, and syllable-body differentiations of those concentrations, namely, "I am now entering such-and-such a named samādhi," until they have heard from the buddhas and bodhisattva-mahāsattvas who have attained the ultimate, or until they themselves have attained the ultimate.
+
+Question: How does one abide in concentration?
+
+Answer: Suppose someone understands well the characteristics of the practices for entering concentration and apprehends them well. Because of apprehending them well, one abides in the entered concentration as one wishes. Also, regarding the various samādhis entered, there is no regression. Thus there are two kinds of abiding: abiding because one is settled in concentration, and abiding because one does not regress.
+
+Question: How does one emerge from concentration?
+
+Answer: Suppose someone no longer thinks about the characteristics of the practices for entering concentration, but instead engages attention to think about dharmas with a non-concentrated mind, with discriminative characteristics belonging to a non-concentrated plane that are of the same class as the concentrated plane; from this samādhi one emerges. Or one emerges because of tasks to be done; or because of tasks that are certain to be done; or because of tasks one has promised to do. Tasks to be done refers to robes, bowls, and the needs of the community. Tasks certain to be done refers to relieving oneself, attending upon teachers, going on alms-round, and the like. Tasks one has promised refers to having promised to do something for another, or emerging from concentration in order to enter another concentration.
+
+Question: How is the practice?
+
+Answer: One enters concentration by practicing toward the object-domain; this is called "practice." It refers to practices such as coarse, peaceful, illness, abscess, arrow, impermanence, and so forth, arising in dependence on samādhi.
+
+Question: What are the characteristics of the state?
+
+Answer: When someone is about to enter concentration, at that time the characteristics of concentration necessarily arise. Through these characteristics, the practitioner knows: "Before long I shall enter such-and-such a concentration with such-and-such characteristics," or "I have already entered." Also, the instructing teacher knows: "This practitioner has such-and-such characteristics arising; before long they will enter such-and-such a concentration."
+
+Question: What are the signs (nimitta)?
+
+Answer: Signs are of two kinds: (1) object-signs and (2) cause-signs. Object-signs refer to the discriminative sign (nimittôdgrahaṇa), because by taking this as object one enters concentration. Cause-signs refer to all the provisions for entering concentration, such as following instructions accordingly, gathering the requisites for concentration, cultivating a mind of desire for pleasure-and-disenchantment (through joy and renunciation), thoroughly understanding the characteristics of distraction and non-distraction, and not being disturbed by others, whether humans or non-humans, or by sounds or by activities.
+
+Question: What is called "well-tamed" (karmanya)?
+
+Answer: If a samādhi is seized by the characteristics of practices and, like the dharma of holding water, is naturally seized, not tranquil, not excellent, not a peaceful path, and unable to realize one-pointed mental concentration, one should know that at that time this samādhi is not called "well-tamed" and does not abide as one wishes. The opposite of this is called "well-tamed."
+
+Question: What is the range (gocara)?
+
+Answer: It is the domain of samādhi. Beyond this domain, the concentration cannot know. For example, when one has entered the first dhyāna, one cannot know or see the affairs of the second dhyāna and above. In the same way, the range of faculties and the range of persons are also not known or seen.
+
+Question: What is elicitation (abhinirhāra)?
+
+Answer: It is the ability to summarize the meaning of extensive passages, and the ability to give rise to superior virtuous qualities.
+
+Question: What samādhis are called "lovable" (priya)?
+
+Answer: Those endowed with moral shame and conscience, affection, respect, pure faith, proper mental engagement, mindfulness, correct knowledge, guarding the faculties, observing the precepts, freedom from remorse, and so forth, up to having pleasure as the final condition, entering samādhi in accordance with one's pleasure. One should know that the opposite of this is called "not lovable."
+
+Question: How is it both lovable and not lovable?
+
+Answer: When some of the qualities such as moral shame and the rest are partially accomplished and partially not accomplished; for example, possessing moral shame but not being associated with affection and respect, and so on extensively.
+
+Question: What is increase (vṛddhi)?
+
+Answer: When the samādhi already attained increases in strength.
+
+Question: What is decrease (hāni)?
+
+Answer: When the samādhi, after being attained, regresses and is lost.
+
+Question: What is the means (upāya)?
+
+Answer: The path leading to both.
+
+Question: What is calming (śamatha)?
+
+Answer: The characteristic of the attention to the non-discriminative image.
+
+Question: What is apprehension (upādāna)?
+
+Answer: The grasping at a sign through any one of either a pure sign or a sign of radiance.
+
+Question: What is equanimous relinquishment (upekṣā)?
+
+Answer: The characteristic of the dominant equanimity (upekṣā) that has attained equilibrium regarding wholesome qualities already acquired.
+
+#### Superior Determination of the Dhyānas
+
+Furthermore, the superior determination dependent on the dhyānas shall now be stated. The verse says:
+
+> The dhyānas: their number, obstacles, factors,
+> And their extensive establishment;
+> Distant from suffering and agitation,
+> Each subsequent one is distinctly superior.
+
+The treatise says: The four kinds of dhyāna stated above: why are there exactly four, neither more nor fewer? Because the matter of transcending suffering and pleasure is thereby brought to completion. Why? Because progressively up to the fourth dhyāna, grief, suffering, joy, and pleasure are all transcended.
+
+Question: What are the obstacles counteracted by the first dhyāna?
+
+Answer: There are five kinds to be known: (1) desire, aversion, and harmful investigation; (2) suffering; (3) grief; (4) transgression of precepts; and (5) scattering.
+
+Question: What are the obstacles counteracted by the second dhyāna?
+
+Answer: There are also five kinds: (1) attachment to the first dhyāna; (2) investigation and examination (vitarka-vicāra); (3) suffering; (4) excitement (auddhatya); and (5) the inferior quality of the concentration.
+
+Question: What are the obstacles counteracted by the third dhyāna?
+
+Answer: There are four kinds: (1) attachment to the second dhyāna; (2) joy (prīti); (3) exuberance; and (4) the inferior quality of the concentration.
+
+Question: What are the obstacles counteracted by the fourth dhyāna?
+
+Answer: There are also five kinds: (1) inhalation and exhalation; (2) attachment to the third dhyāna; (3) pleasure (sukha); (4) attention to pleasure; and (5) the inferior quality of the concentration.
+
+Question: How many factors do the dhyānas have?
+
+Answer: The first has five factors. What are the five? Investigation (vitarka), examination (vicāra), joy (prīti), pleasure (sukha), and one-pointedness of mind (cittaikāgratā). The second dhyāna has four factors: internal clarity (adhyātma-samprasāda), joy, pleasure, and one-pointedness of mind. Question: What is the substance of internal clarity? Answer: Its substance is mindfulness, correct knowledge, and equanimity. The third dhyāna has five factors: mindfulness, correct knowledge, equanimity, pleasure, and one-pointedness of mind. The fourth dhyāna has four factors: purity of equanimity, purity of mindfulness, neither-suffering-nor-pleasure, and one-pointedness of mind.
+
+Question: Mindfulness, correct knowledge, and equanimity exist in all places. Why are they not stated in the first dhyāna and the rest?
+
+Answer: In the first dhyāna, because they are brought about through the gate of investigation and examination, although they exist, they are not stated. In the second dhyāna, because there is the function of the substance of exuberance itself and because the mind is covered by minor afflictions, they are collectively displayed under the name "internal clarity." In the third dhyāna, because those minor afflictions have all been left behind, their own characteristics are displayed. Therefore the sūtra says "having left behind joy and desire." In the first dhyāna, although one has left behind desire-attachment, one has not yet left behind joy-attachment. In the second dhyāna, although one has left behind attachment to investigation and examination, one has not yet left behind joy-attachment. In the fourth dhyāna, this very equanimity and mindfulness are extremely well purified and manifest. Therefore, in the dhyānas, the differentiations should be known each as appropriate.
+
+Question: Why are four or five factors established for the four dhyānas?
+
+Answer: Because of the support for abiding; because of the benefit for abiding; and because of the substance of abiding itself. Furthermore: because of thinking about the object-domain; because of enjoying the object-domain; and because of non-scattering regarding the object-domain. Furthermore: because of the support for benefit; because of the support for the higher mind; and because of the support for higher wisdom. Furthermore: in order to counteract the obstacles to three kinds of troubled abiding. The three kinds of troubled abiding are: (1) defiled abiding; (2) painful abiding; and (3) confused abiding.
+
+Furthermore, just as those who enjoy the five desires have three kinds of proper undertakings that display their enjoyment of desires: (1) seeking what is to be enjoyed through proper means; (2) properly enjoying what has been obtained; and (3) having sovereignty and freedom of action; in the same way, for those who cultivate the dhyānas, the establishment of factors should be known according to three kinds of proper undertakings, each as appropriate.
+
+Furthermore, in order to counteract self-mortification, the establishment of factors for those who cultivate the dhyānas should be known. This further has three kinds of counteraction: (1) the counteraction of abandoning desire; (2) the counteraction of stopping bodily and mental affliction; and (3) the counteraction of the quieting of outward mental scattering.
+
+Question: Why, after stating "having abandoned desire" in the first dhyāna, does it further state "being remote from unwholesome dharmas"?
+
+Answer: In order to display the own-characteristic of desires and to display the characteristic of their faults. The characteristic of faults means that those desires, after giving rise to bad conduct, cause one to fall to the lowest places; therefore they are called "bad" (pāpaka). They obstruct the arising of wholesome dharmas; therefore they are called "unwholesome" (akuśala). Furthermore: in order to display the ability to sever affliction-defilement, and to display the ability to sever the karma-defilement previously accumulated. Furthermore: in order to display the severance of the desires arising through the gate of enjoyment for householders, and to display the severance of the dharmas arising through the gate of investigation and examination for renunciants. Furthermore: in order to display the severance of desire-investigation, and to display the severance of aversion-investigation and harm-investigation. Furthermore: in order to display the characteristic that is shared with those external sages, and to display the severance of the evil spells cast after they regress.
+
+Question: Why is the suffering-faculty said to be not yet severed in the first dhyāna?
+
+Answer: Because the coarse heaviness of that class has not yet been left behind. If the coarse heaviness of the suffering-faculty class were already severed in the first dhyāna, there would be no difference from abiding in the second dhyāna. Therefore one should know that in the first dhyāna, the coarse heaviness of the suffering class is not yet severed.
+
+Question: Investigation, examination, and other dharmas in the first dhyāna and the rest serve as beneficial supports for their own plane, enabling it to attain purity. Why does the Tathāgata say they are called "agitation" (iñjita)?
+
+Answer: They are called "agitation" in comparison with the other planes, not in comparison with their own plane.
+
+Question: Why, from the desire realm onward, are the factors of each subsequent dhyāna established?
+
+Answer: Briefly, there are three causes: (1) because of the antidote and the counteracted; (2) because of the realization of benefit; and (3) because of the realization of the substance itself. These three causes, within the four dhyānas, are included in the five factors; each should be known as appropriate.
+
+Question: In what way is the second dhyāna distinctly superior to the first?
+
+Answer: In the perfection of samādhi.
+
+Question: In what way is the third dhyāna distinctly superior to the second?
+
+Answer: In the perfection of beneficial support.
+
+Question: In what way is the fourth dhyāna distinctly superior to the third?
+
+Answer: In the perfection of purity.
+
+Furthermore, the verse says:
+
+> The near-access joy is with agitation;
+> Only the first can exhaust the defilements.
+> Also, two kinds take sound as object;
+> The eight attainments relinquish eight things.
+
+The treatise says: The joy in the near-access (sāmantaka) of the first dhyāna has agitation, unlike the joy in the root dhyāna. Also, the preliminary concentration included in the near-access of the first dhyāna can exhaust all defilements, but not the others. Also, the near-access of the first dhyāna has two kinds: worldly and supramundane. The near-access of the others is only worldly, because having already attained the first root undefiled dhyāna, the undefiled does not manifest in the near-access concentrations of the upper planes.
+
+Also, when apprehending external sounds while in concentration, one should know that this is through two kinds of apprehension: (1) through the mind-consciousness that cognizes the object-domain of the concentration and various object-domains; and (2) through the ear-consciousness that co-arises with it.
+
+"The eight attainments relinquish eight things" means that the eight kinds of samāpatti are able to relinquish eight things. What eight? By relinquishing speech, investigation, joy, and pleasure, one realizes the samāpattis of the four dhyānas. By relinquishing the perceptions of the form realm, the sphere of space, the sphere of consciousness, and the sphere of nothingness, one realizes the samāpattis of the four formless attainments.
+
+Furthermore, the verse says:
+
+> The pleasant abiding in the present life,
+> The ability to enter into direct realization,
+> The praise of the liberation of perception,
+> And four kinds of cause should be known.
+
+The treatise says: Only the dhyānas have the nature of pleasant abiding in the present life (dṛṣṭadharma-sukhavihāra), because they possess both bodily and mental ease; the formless concentrations do not, because they lack bodily ease. Also, in dependence on the dhyānas one can enter direct realization, but not in the formless concentrations, because the vipaśyanā of the dhyānas is extremely intense. Also, those who cultivate the dhyānas and concentrations repeatedly enter and emerge from the formless liberations, praising their characteristics, because they are extremely tranquil. Also, the non-Buddhist ascetics, conceiving of the formless concentrations as liberation, repeatedly praise them. Also, in dependence on the samādhi of perception one can exhaust all defilements, up to the samādhi of the sphere of nothingness, because it is extremely intense. Therefore the Bhagavat said: "Only in dependence on the samāpatti of perception does one comprehend and penetrate; not in other planes."
+
+The four kinds of cause means that the samāpattis can serve as the causes of dependence for four things: the pleasant abiding in the present life and the rest, in their respective order, as should be known.
+
+Furthermore, the verse says:
+
+> Relishing and the rest should be known:
+> Ten kinds, six kinds, and three kinds.
+> Regression, continuation, obstruction, and antidote
+> Each has many kinds of differentiation.
+
+The treatise says: The three kinds of dhyāna, namely that associated with relishing (āsvādana-saṃprayukta), pure (śuddha), and undefiled (anāsrava), have, in their respective order, ten kinds, six kinds, and three kinds, as should be known.
+
+What are the ten kinds? As stated in the chapter on the compendium of topics.
+
+What are the six kinds? Six kinds of purity: (1) purity of elicitation; (2) purity of upward refinement; (3) purity of subsequent attainment; (4) purity from defilement; (5) purity of gathering; and (6) purity of readiness.
+
+What are the three kinds? (1) Supramundane undefiled; (2) liberation-undefiled; and (3) subsequent-attainment-undefiled.
+
+Also, regarding regression from the abandonment of desire, and the continuation, obstruction, and antidote thereof, one should know that each has many kinds. Regression may be: (1) due to imbalance of the physical support, as when one encounters a severe illness and loses the concentration, like the venerable Vakkali who said, "I am now unable to enter this samādhi; could it be that due to much coarse heaviness I have regressed from this samādhi?"; (2) also, as when one's nature involves much coarse heaviness due to past habituation, and because of this much coarse heaviness one regresses from samādhi; (3) or due to the excellence of sense-objects, as when one obtains an excellent sense-object appearing before one and loses the concentration, as it is heard that a certain non-Buddhist sage, having attained the concentration even up to the sphere of neither-perception-nor-non-perception, upon touching the body of a lovely maiden, regressed from that concentration; (4) or due to honor and offerings, as when one obtains excellent honor and offerings appearing before one and loses the concentration, as in the case of Devadatta and others; (5) or due to contempt, as when one is subjected to another's anger, contempt, and censure and loses the concentration, as in the case of the non-Buddhist sages who, having regressed through anger, performed evil spells; (6) or due to pride, as when, because of the concentration attained, one exalts oneself and belittles others and loses the concentration; (7) or due to the conceit of superiority, as when one conceives that one has attained a concentration not yet attained, and through this conceit of superiority loses the concentration actually attained; (8) or due to non-attention, as when one previously entered concentrations through certain practice-characteristics, but at a later time no longer thinks about these practice-characteristics and loses the concentration; (9) or due to lack of maturation, as when one is a beginner in practice who has just initiated wholesome qualities; (10) or due to one's own afflictions frequently manifesting, as when one relishes the higher dhyāna, or even doubts the higher dhyāna, and thereby loses the concentration; (11) or due to the exhaustion of lifespan, merit, or karma, as when one dies from a birth-place in an upper plane and falls to a lower birth-place.
+
+Furthermore, for one of inferior afflictions and inferior wholesome roots, regression requires many moments of effort, and attaining concentration also requires many moments of effort. For one of inferior afflictions and superior wholesome roots, regression requires many moments of effort, and attaining concentration requires only a single moment, entering swiftly. For one of superior afflictions and inferior wholesome roots, regression occurs swiftly in a single moment, and attaining concentration requires many moments of effort. For one of superior afflictions and superior wholesome roots, regression occurs swiftly in a single moment, and attaining concentration also occurs swiftly in a single moment.
+
+Furthermore, the verse says:
+
+> Those of sharp faculties and those transformed in birth
+> Should be known as having no regression.
+> Concentration is first developed depending on a lower plane,
+> Because only after abandoning desire is one later born there.
+
+The treatise says: Such regression from concentration does not occur for those of sharp faculties. If one has been transformed in birth, even one of dull faculties has no regression. Also, the concentration of the dhyānas and the rest must first be developed depending on a lower plane, because one first enters concentration here and is afterward born there. Why? Because only one who has first abandoned desire can later be born there.
+
+#### Determination of the Limbs of Awakening
+
+Thus the determination of support-topics has been stated. The determination of the limbs of awakening (bodhyaṅga) shall now be stated. The verse says:
+
+> Depending on the two vehicles and the Great Vehicle,
+> Through twenty-seven aspects
+> Of correct method, one should know
+> The establishment of the limbs of awakening.
+
+The treatise says: The limbs of awakening are established depending on the two vehicles of śrāvakas and pratyekabuddhas and depending on the Great Vehicle, through twenty-seven kinds of correct method (samyak-prayoga), as should be known. What are the twenty-seven kinds of correct method? (1) The method of correct contemplation bound to an object-domain; (2) the method of relinquishing the defiled and gathering the pure; (3) the method of cultivating the inner mind and training in compliance; (4) the method of eliciting the supramundane correct Dharma; (5) the method of continuity without interruption; (6) the method of true and direct realization; (7) the method of realizing the remaining cessation; (8) the method of entering the objects of knowledge; (9) the method of entering severance; (10) the method of penetrating the impure, the unpleasant, the painful; (11) the method of completing the training; (12) the method of non-scattering observation of objects; (13) the method of non-destruction of the sacred teaching; (14) the method of gathering wisdom, the objects of knowledge, and their fruits; (15) the method of aspiration; (16) the method of compassion for sentient beings; (17) the method of cultivating wisdom; (18) the method of the direct realization of dharmas; (19) the method of progressing through antidote and counteracted; (20) the method of accumulating the collection of merit; (21) the method of maturing sentient beings; (22) the method of gathering all bodhisattva paths; (23) the method of eliciting majestic power; (24) the method of eliciting verbal teaching; (25) the method of habitually cultivating a mind that is vast and profound; (26) the method of distancing oneself from the karma of deficiency in dharmas; and (27) the method of establishing sentient beings in both realms of nirvāṇa.
+
+Furthermore, the verse says:
+
+> The body and the rest each have three differentiations;
+> One contemplates in accordance with their images.
+> Through the three wisdoms of hearing and the rest,
+> There is no confusion regarding the dharmas of mindfulness.
+
+The treatise says: One should know that the body and the rest each have three kinds of differentiation. **The body has three kinds:** (1) bodily parts whose own-nature is impure, such as the internal parts of the body; (2) bodily parts that appear similar to the pure, such as the skin of the body; and (3) bodily parts that are impure through deterioration, such as the bodily parts that become blue, swollen, and so forth after death. **Feeling has three kinds:** suffering, pleasure, and neither-suffering-nor-pleasure. **Mind has three kinds:** that associated with pleasure and the rest. **Dharmas have three kinds:** black, white, and mixed.
+
+"One contemplates in accordance with their images" means, as the Sūtra on Investigation states, one contemplates in accordance with the images of the body and the rest, because they are of the same class as the objects of knowledge; they are called "images." The word "in accordance" means "similar."
+
+Also, this contemplation in accordance is precisely the three wisdoms: the wisdom born of hearing, the wisdom born of reflection, and the wisdom born of cultivation. These three wisdoms, through the power of mindfulness, are without confusion regarding the dharmas of the dominant-condition sūtras and the rest. Therefore it is said that "mindfulness dwells upon the body, feelings, mind, and dharmas," because it dwells through the power of mindfulness.
+
+Furthermore, the verse says:
+
+> Their obstacles to be counteracted are nine;
+> Attention should be known as two kinds;
+> The differentiations of practice are three;
+> Two kinds of non-failure.
+
+The treatise says: One should know that the foundations of mindfulness (smṛtyupasthāna) have nine kinds of obstacles to be counteracted: (1) non-disenchantment; (2) non-attention; (3) the secondary afflictions of calming and insight; (4) sinking; (5) inability to endure; (6) contentment with what is little and inferior; (7) forgetting the instructions; (8) transgressing the rules of conduct; and (9) abandoning the yoke of excellent, intense, superior, wholesome desire and delight.
+
+Also, in cultivating the foundations of mindfulness there are two kinds of attention: (1) attention that is not lax, and (2) attention that is not defiled. The sūtra says "ardent" (ātāpin), which displays the first. "With correct knowledge and mindfulness, removing worldly covetousness and grief" displays the second. Also, this second is able to remove three kinds of defilement. What are the three kinds of defilement? (1) Mental remorse arising from transgressions of the precepts; because of this obstacle, at the initial stage the mind cannot attain concentration. (2) Internal torpor of mind; because of this obstacle, although concentration has been attained, the mind forgets the object-domain, sinking and submerging. (3) External scattering of mind; because of this obstacle, although one has realized the superior dharma, one becomes attached to worldly fame and material gain, or, being unable to realize a higher dharma, the mind gives rise to grief.
+
+"The differentiations of practice are three" means: cultivating the foundations of mindfulness each has three kinds, namely contemplating in accordance with the body and the rest internally, externally, and both together. Also, regarding the body: one may contemplate only the image, or compare the image to the body, or contemplate both combined. Just as with the three kinds regarding the body, so too up to the dharmas.
+
+Also, there are two kinds of non-failure regarding the foundations of mindfulness: (1) initial non-failure, namely non-scattering, through the power of which one is able to initiate well; and (2) subsequent non-failure, namely freedom from the conceit of superiority, through the power of which one brings the practice to excellent completion.
+
+Furthermore, the verse says:
+
+> In order to sever sinking and excitement,
+> Two kinds of the corresponding path,
+> Observing and relinquishing afflictions,
+> And for the sake of exhausting three kinds of craving.
+
+The treatise says: In the stage of cultivating the foundations of mindfulness, in order to sever sinking (laya) and excitement (auddhatya), one should cultivate two kinds of corresponding path, as stated in the Bhikṣuṇī-sūtra and the Sūtra on Apprehending One's Own Mental Sign.
+
+How does the Bhikṣuṇī-sūtra state it? As that sūtra says: "In order to sever sinking, one should think about a small portion of a pleasing, pure sign. In order to sever excitement, one should further gather the mind in."
+
+How does the Sūtra on Apprehending One's Own Mental Sign state it? As that sūtra says: "Because one does not apprehend one's own mental sign, the mind sinks. Because one apprehends a small portion of a pleasing external sign, the secondary affliction of sinking is temporarily stopped. Yet the mind has not yet attained concentration, so one further gathers the mind in. Seeing the fault of sinking, one again apprehends the external sign. Seeing the fault of excitement, one afterward again apprehends one's own mental sign. At that time one is able to sever the secondary afflictions of sinking and excitement, and the mind attains correct concentration, gathering the mind in and apprehending one's own mental sign, free from sinking and excitement."
+
+Furthermore, through the corresponding path of observation, one is able to relinquish afflictions, as should be known from the Vartaka-sūtra (the "Quail Sūtra"). Therefore that sūtra says: "What is called 'the quail' is an analogy for the mind and conduct of the practitioner. 'Not its range' is an analogy for the practitioner thinking about pleasing objects. 'Seized by the hawk' is an analogy for the practitioner being seized by the fetter of desire. 'The quail laments' is an analogy for the practitioner's mind giving rise to remorse. 'Temporarily released' is an analogy for the practitioner's fetter of desire temporarily ceasing. 'A clod of earth' is an analogy for the five appropriated aggregates. 'The great plowed field' is an analogy for the contemplation of impermanence. 'The burrow' is an analogy for the contemplation of penetrating suchness. 'Calling the hawk's young' is an analogy for the attention of observation. 'The hawk swiftly comes' is an analogy for the fetter of desire about to manifest. 'Entering the burrow' is an analogy for thinking about the contemplation of suchness. 'The hawk itself suffers harm' is an analogy for the severance of latent tendencies."
+
+Furthermore, this corresponding path, one should know, is able to exhaust three kinds of craving: (1) craving for companions; (2) craving for material gain; and (3) craving for further existence. In order to counteract these, it is displayed that there is no difference between self and dharmas.
+
+Furthermore, the verse says:
+
+> In order to sever the conceit of superiority,
+> The relishing and its support, and the inversions,
+> And through three kinds of mental approach,
+> One cultivates the foundations of mindfulness.
+
+The treatise says: In order to counteract the conceit of superiority (adhimāna), in order to counteract the concentration that is the support of relishing, and in order to counteract the four inversions (viparyāsa), one cultivates the foundations of mindfulness.
+
+For counteracting the conceit of superiority, as the sūtra says: "One should dwell in mindfulness only regarding the body, feelings, mind, and dharmas, up to having only wisdom, only seeing, only mindfulness." This conceit of superiority is of two kinds: that which arises regarding the obstacles of coarse heaviness of the body and the rest that have not yet been severed, and that which arises regarding the antidote of calming and insight when they are not yet complete.
+
+For counteracting the concentration that is the support of relishing, as the sūtra says: "without any support."
+
+For counteracting the inversions, as the sūtra says: "there is not the slightest grasping in the world"; because the inversions have been severed, one no longer grasps at the slightest of the five appropriated aggregates as permanent, as pleasant, as self, or as pure.
+
+Also, one cultivates the foundations of mindfulness through three kinds of mental approach: (1) when walking through the village, the mind approaches emergence; (2) when dwelling in turmoil, the mind approaches solitude; and (3) when residing in a quiet chamber, the mind approaches nirvāṇa. Also: approaching emergence from the destinies of birth and death; approaching separation from afflictions; and delighting in cessation, the mind approaches nirvāṇa.

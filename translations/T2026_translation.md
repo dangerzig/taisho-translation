@@ -158,7 +158,7 @@ After the Buddha's parinirvāṇa, Kāśyapa (*Jiāshè*, 迦葉), Ānanda (*Ān
 > Obtained their portion and erected stūpas: eight portions, eight stūpas.
 > The ninth, the urn-stūpa;
 > The tenth, the charcoal-stūpa.
-> [These ten stūpas] were raised throughout Jambudvīpa.
+> These ten stūpas were raised throughout Jambudvīpa.
 
 ---
 

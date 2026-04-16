@@ -51,7 +51,17 @@ A combined total of 134 texts in 275 fascicles.
 
 Of these, 123 sūtras are single texts with unknown translators.
 
-[Additional groups identified as same-original re-translations with unknown translators.]
+2 sūtras are same-original variant translations with unknown translators.
+
+2 sūtras are same-original re-translations with unknown translators.
+
+2 sūtras are same-original re-translations with unknown translators.
+
+2 sūtras are same-original re-translations with unknown translators.
+
+3 sūtras are same-original re-translations with unknown translators.
+
+The above 11 sūtras are re-translations with unknown translators.
 
 The preceding 134 sūtras all have unknown translators. Although the translator's identity and circumstances have been lost, they are all recorded in ancient catalogs, and their doctrinal principles are not in error. They are therefore also entered in the definitive catalog.
 
@@ -105,11 +115,29 @@ A combined total of 221 texts in 263 fascicles.
 
 1 sūtra excerpted from the meditation practice section of the *Ratnamegha Sūtra* (寶雲經 *Bǎoyún jīng*).
 
-[Further individual extractions from various sūtras.]
+1 sūtra separately extracted from the *Subāhu-paripṛcchā Sūtra* (善臂菩薩經).
+
+1 sūtra separately extracted from the *Ratna-jāla Sūtra* (寶網經 *Bǎowǎng jīng*).
+
+1 sūtra extracted from the *Bodhisattva-daśabhūmika-mārga-karmāṇi Sūtra* (菩薩十住行道品經).
+
+1 sūtra extracted from the *Sūtra on the Original Desire of Human Beings* (人本欲生經).
+
+1 sūtra extracted from the *Ratnakūṭa Sūtra* (寶積經 *Bǎojī jīng*).
+
+1 sūtra extracted from the *Śūraṅgama Sūtra* (首楞嚴經).
+
+1 sūtra extracted from the *Vimalakīrti Sūtra* (維摩經 *Wéimó jīng*).
 
 18 sūtras are extracted from various sūtras. Since the original texts have not been seen, they are provisionally appended to this catalog.
 
-[Further groups of extractions.]
+1 sūtra extracted from the *Bhaiṣajyarāja-bhaiṣajyasamudgata Sūtra* (藥王藥上經).
+
+21 sūtras are extracted from various sūtras. Since the original texts have not been seen, they are provisionally appended to this catalog.
+
+4 sūtras extracted from the *Mahā-abhiṣeka Sūtra* (大灌頂經 *Dà guàndǐng jīng*).
+
+62 sūtras are all extracted from various sūtras. Since the original texts have not been seen, they are provisionally appended to this catalog.
 
 The preceding 221 sūtras were all excerpted by later persons according to their own preferences, extracting portions from the main texts to circulate independently, or taking verses and making them into separate fascicle divisions. Because of this tendency, as time passes, proliferation increases and spurious interpolations grow daily. They should now be subsumed back in to reinforce the original sources.
 
@@ -173,7 +201,13 @@ A combined total of 250 texts in 271 fascicles.
 
 Of these, 241 sūtras are single texts.
 
-[Additional groups identified as same-original re-translations, including 2 texts that are separate chapters re-translated from the *Mātaṅgī Sūtra* (摩登伽經 *Módēngqié jīng*).]
+2 sūtras are same-original re-translations with unknown translators.
+
+2 sūtras are same-original re-translations with unknown translators.
+
+3 sūtras are same-original re-translations with unknown translators.
+
+2 sūtras are same-original, being separate chapters re-translated from the *Mātaṅgī Sūtra* (摩登伽經 *Módēngqié jīng*).
 
 The preceding 250 sūtras all have unknown translators. Although the translator's identity and circumstances have been lost, they are all recorded in ancient catalogs, and their doctrinal principles are not in error. They are therefore also entered in the definitive catalog.
 

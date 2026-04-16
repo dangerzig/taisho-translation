@@ -281,7 +281,216 @@ Visualize the wisdom-sword gradually transforming into Mañjuśrī Kumārabhūta
 > Seal the heart, forehead, throat, and crown:
 > This accomplishes body-protection and establishes the principal deity.
 
-[The text continues with the crown-mudrā (灌頂印), armor-mudrā (甲冑印), the joy-mudrā with clapping (歡喜印), the visualization of the eight-petaled lotus with Mañjuśrī's lion-throne, the four gathering-mudrās (hook, lasso, chain, and bell), the arghya offering, the karma-mudrā, the vajra-sword offering mudrā, the four inner offerings (play, garland, song, dance, corresponding to the four pāramitās of dāna, śīla, kṣānti, and vīrya), the four outer offerings (incense, flowers, lamp, unguent, corresponding to dhyāna, prajñā, upāya, and praṇidhāna pāramitās), and the hundred-syllable mantra.]
+The true-word:
+
+[Dhāraṇī]
+
+### The Crown Mudrā
+
+> Next form the crown jewel-seal:
+> Interlace both hands into the full moon,
+> Bend the index fingers back like a jewel shape,
+> With thumbs pressing beneath;
+> Place it on the forehead, then part to both sides.
+> Then form the wisdom-fist as if tying a cloth;
+> Slowly extend both hands forward and unfurl them:
+> Know that one has now bound the stainless silk.
+
+The true-word:
+
+[Dhāraṇī]
+
+> Next form the jewel-sword self-consecration seal:
+> Join both palms, bend the index fingers,
+> Tuck the thumbs into the palms;
+> Place it on the forehead, then part to both sides.
+
+The consecration true-word:
+
+[Dhāraṇī]
+
+### The Armor Mudrā
+
+> Next form the armor mudrā:
+> Both hands make vajra fists,
+> Place them before the heart with index fingers upright.
+> On left and right, visualize the syllable "oṃ";
+> Visualize streaming emerald light.
+> Circle three times from the heart around to the back,
+> Down to the navel, the knees, back up around the waist,
+> From the waist to the heart, across both shoulders,
+> From the shoulders to the throat and around the neck,
+> From the back of the neck to the forehead,
+> From the forehead to the crown; form the wisdom-fist,
+> Slowly unfurl downward like hanging ribbons,
+> Then gaze upward and revolve as in a dance;
+> Interlace both hands into the full moon.
+
+The armor true-word:
+
+[Dhāraṇī]
+
+### The Joy Mudrā
+
+> Next perform the vajra hand-clap rite:
+> Bring both hands together and clap once.
+> By performing this clapping seal and true-word together,
+> One causes the holy assembly to generate great joy
+> And swiftly obtains the principal deity's adamantine body.
+
+The joy true-word:
+
+[Dhāraṇī]
+
+### Visualization and the Four Gathering Mudrās
+
+> Next, before the practitioner's seat, visualize
+> An eight-petaled lotus complete with pistils and stamens.
+> Above it, visualize a lion's supreme throne;
+> Upon the throne, a seven-jeweled pavilion.
+> Within, visualize the seven-jeweled lotus king;
+> Above, visualize the syllable "dhaṃ" endowed with majestic radiance
+> Illuminating the dharma-realm without exception.
+> That syllable transforms into the vajra-sword;
+> Contemplate it clearly in its original form.
+> Summon the bodhisattva to enter the visualized body:
+> Both hands form the full moon, index fingers hooked;
+> Visualize oneself as identical to that bodhisattva.
+
+The Vajra-Hook Bodhisattva true-word:
+
+[Dhāraṇī]
+
+> Next form the lasso seal to enter the honored one's body:
+> Form the full moon, thumbs pressing wisdom-fingers into the palms.
+> Through the empowerment of this secret seal,
+> One transforms into a single body, without difference.
+
+The Vajra-Lasso true-word:
+
+[Dhāraṇī]
+
+> Next form the chain seal to make it firm:
+> Form the full moon with four fingers interlocked like rings.
+> Through the power of this secret seal,
+> All is made adamantine and unchanging.
+
+The Vajra-Chain true-word:
+
+[Dhāraṇī]
+
+> Next form the bell seal to generate joy:
+> Thumbs and little fingers within the palms, like a hand-bell.
+> Causing the principal deity and the assembly to rejoice,
+> The empowerment swiftly brings wondrous accomplishment.
+
+The Vajra-Bell true-word:
+
+[Dhāraṇī]
+
+### The Arghya Offering
+
+The practitioner should next cup arghya water in both hands, visualizing the washing of the feet of the Vajra-Sword Bodhisattva and all the retinue. Alternatively, one may empower the arghya with the hundred-syllable mantra and offer it. The arghya true-word:
+
+[Dhāraṇī]
+
+### The Karma Mudrā and Vajra-Sword Offering
+
+> Next form the Mañjuśrī karma seal:
+> Both hands make vajra fists;
+> Place the left fist upon the heart,
+> The right hand as if grasping a sword.
+> Through the power of this wondrous karma seal,
+> One's body becomes equal to the honored one, without difference.
+
+The karma true-word:
+
+[Dhāraṇī]
+
+> Next form the vajra-sword offering seal:
+> Form the full moon, extend the ring fingers upright like a sword.
+> Through this wondrous vajra-sword seal,
+> One shall attain the profound wisdom of prajñā.
+
+The vajra-sword true-word:
+
+[Dhāraṇī]
+
+### The Four Inner Offerings
+
+> Next form the inner offering:
+> Form the full moon at the heart, thumbs upright.
+> By forming the vajra-play seal,
+> One swiftly perfects the pāramitā of dāna.
+
+The Vajra-Play true-word:
+
+[Dhāraṇī]
+
+> Next form the vajra-garland offering:
+> As before with the play seal, extend the arms straight.
+> Through the empowerment of this seal,
+> One shall perfect the pāramitā of śīla.
+
+The Vajra-Garland true-word:
+
+[Dhāraṇī]
+
+> Next form the vajra-song seal:
+> From the garland, lower it from the navel to the mouth and unfurl downward.
+> By forming the vajra-song secret seal,
+> One swiftly attains the pāramitā of kṣānti.
+
+The Vajra-Song true-word:
+
+[Dhāraṇī]
+
+> Next form the vajra-dance offering:
+> Both fists revolve as in a dance.
+> Through the empowerment of the dance seal,
+> One swiftly perfects the pāramitā of vīrya.
+
+The Vajra-Dance true-word:
+
+[Dhāraṇī]
+
+### The Four Outer Offerings
+
+> Next form the vajra outer offering:
+> Both hands form the full moon and scatter downward.
+> Through the power of the incense-burning seal,
+> One shall realize the pāramitā of dhyāna.
+
+The Vajra-Incense true-word:
+
+[Dhāraṇī]
+
+> Next form the vajra flower-scattering seal:
+> Form the full moon and scatter upward as if tossing flowers.
+> Through the empowerment of this flower-scattering seal,
+> One swiftly realizes the pāramitā of prajñā.
+
+The Vajra Flower-Scattering true-word:
+
+[Dhāraṇī]
+
+> Next form the vajra lamp seal:
+> Form the full moon with thumb-tips touching.
+> By forming the vajra lamp seal,
+> One shall attain the pāramitā of upāya.
+
+The Vajra-Lamp true-word:
+
+[Dhāraṇī]
+
+> Next form the vajra unguent seal:
+> The full moon at the chest, scatter like applying unguent.
+> Through the empowerment of the unguent seal,
+> One swiftly perfects the pāramitā of praṇidhāna.
+
+The Vajra-Unguent true-word:
+
+[Dhāraṇī]
 
 ### The Hundred-Syllable Mantra and Conclusion
 

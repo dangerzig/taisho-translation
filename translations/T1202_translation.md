@@ -125,7 +125,19 @@ Every day before eating, set aside a portion of various foods in a small vessel.
 
 **One-Syllable Mantra:** [Dhāraṇī] Use the Root Seal with recitation. Constantly reciting and forming the seal without interruption, the Messenger will also never depart from one's side.
 
-[Additional seals described: the Immovable Precious Mountain Seal, the Head Seal, the Single Topknot Seal, the Mouth Seal, the Heart Seal, the Flame Seal, and the Fire-Blocking Seal.]
+**The Immovable Precious Mountain Seal.** Interlace all ten fingers inward and grip tightly into a fist. This is called the Immovable Precious Mountain Seal.
+
+**The Head Seal.** With the right hand, tuck the thumb into the palm, and grip the four fingers into a fist. Place it atop the crown; this is called the Head Seal.
+
+**The Single Topknot Seal.** From the Head Seal, extend the index and middle fingers together. Place it on the left side of the crown, then draw it downward past the ear; this is the Messenger's Single Topknot Seal.
+
+**The Mouth Seal.** Place both hands side by side. Cross the two little fingers, bend the two ring fingers to grip the second joint of the little fingers, and press the two thumbs onto the ring-finger nails. Touch the two middle fingertips together, and bend the two index fingers to press the third joint of the middle fingers (counting from the palm upward). Place this seal over the mouth; this is called the Mouth Seal.
+
+**The Heart Seal.** From the Mouth Seal, bend the two index fingers into the base of the two thumbs. Place it on the heart, forming a single-pronged vajra shape; this is called the Heart Seal.
+
+**The Flame Seal.** With the right hand, press the thumb onto the little-finger nail. With the left hand, grip the thumb into a fist and extend the index finger into the right palm. Sweep from the right side over the head toward the left, like a swirling halo of light; this is called the Flame Seal.
+
+**The Fire-Blocking Seal.** Place both hands side by side, each gripping the thumb into a fist. Bend both index fingers into the base of the thumbs, then bring the fists together side by side. This can eliminate all fire calamities.
 
 All the above seals should be used in sequence during each recitation session while continuously reciting the mantra. Once one has accomplished the root mantra, the remaining mantras and seals will be effective upon recitation and forming alone, without requiring further separate practice.
 

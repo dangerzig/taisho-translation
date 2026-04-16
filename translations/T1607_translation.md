@@ -180,6 +180,6 @@ This verse shows that those who cultivate śamatha and vipaśyanā obtain their 
 > The root basis and the correct basis,
 > The perfection of worldly concentration,
 > And also understanding the world-transcending:
-> [These are the six gates.]
+> These are the six gates.
 
 Briefly stated, the meaning is complete.

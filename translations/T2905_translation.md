@@ -48,7 +48,7 @@ If any good men or good women hear the names of these buddhas and the names of t
 
 ## The One Hundred and Thirty-Nine Buddhas of Five Directions from the Sūtra of Praising the Merits of All Buddhas
 
-[This section notes the sūtra's physical dimensions: two fascicles totaling fifty-five and a half sheets, with twenty-five lines per sheet and seventeen characters per line.]
+This section notes the sūtra's physical dimensions: two fascicles totaling fifty-five and a half sheets, with twenty-five lines per sheet and seventeen characters per line.
 
 **Eastern Direction (53 buddhas):** Jewel-Ocean Tathāgata, Jewel-Blossom Tathāgata, Jewel-Accomplishment Tathāgata, Jewel-Radiance Tathāgata, Jewel-Banner Tathāgata, Jewel-Radiance Tathāgata, Akṣobhya Tathāgata, Great Radiance Tathāgata, Infinite Sound Tathāgata, [and many more, totaling 53].
 

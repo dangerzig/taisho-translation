@@ -62,7 +62,7 @@ Before the Āgama Digest, homage to the Well-Gone One, to the Dharma, and to the
 
 **Question:** Merit has been explained as giving, morality, and meditation. What is meant by "giving"?
 
-**Answer:** One gives from one's own body; another receives from one's own wealth. The thought of giving departs with both. These three forms of giving are: the gift of dharma, the gift of food, and the gift of fearlessness. The gift of dharma, the gift of food, and the gift of fearlessness: these three are called giving. The gift of dharma is what is taught in the worldly and supramundane chapters. The gift of fearlessness consists of the eightfold path, the three refuges, and the five precepts. The World-Honored One said: "Taking refuge in the Buddha, innumerable beings gain fearlessness, freedom from jealousy, freedom from anger, and freedom from killing. And so forth for the rest."
+**Answer:** One gives from one's own body; another receives from one's own wealth. The thought of giving departs with both. These three forms of giving are: the gift of dharma, the gift of food, and the gift of fearlessness. The gift of dharma, the gift of food, and the gift of fearlessness: these three are called giving. The gift of dharma is what is taught in the worldly and supramundane chapters. The gift of fearlessness consists of the Eightfold Path, the three refuges, and the five precepts. The World-Honored One said: "Taking refuge in the Buddha, innumerable beings gain fearlessness, freedom from jealousy, freedom from anger, and freedom from killing. And so forth for the rest."
 
 **Question:** If one takes refuge yet is seen to kill insects, what dharma of fearlessness protects?
 
@@ -118,7 +118,7 @@ The purity of giving is such. My former teacher said: Making with the wealth of 
 
 **Question:** What is learning?
 
-**Answer:** Learning is the Sūtra (*sūtra*), the Abhidharma, and the Vinaya. Learning means the complete exhaustion of lust, hatred, and delusion. This is true learning; all else is not learning. The Three Baskets: Sūtra, Abhidharma, and Vinaya. "Sūtra" refers to what is spoken by the Omniscient One and approved by the Buddha: it manifests the cutting off of attachment and the four noble truths, illuminating liberation without interior or exterior. "Abhidharma" means the chapters that correspond to and elucidate the contents of the Sūtra. "Vinaya" means the teaching of purity through non-conduct and non-livelihood. These three practices increase through learning. Desire ceases through the Vinaya; hatred ceases through the Abhidharma (since the Abhidharma deals with what is done regarding awakening, and therefore anger diminishes; anger leads to violation of precepts and to hell). Delusion ceases through conditions. All of this is learning.
+**Answer:** Learning is the Sūtra (*sūtra*), the Abhidharma, and the Vinaya. Learning means the complete exhaustion of lust, hatred, and delusion. This is true learning; all else is not learning. The Three Baskets: Sūtra, Abhidharma, and Vinaya. "Sūtra" refers to what is spoken by the Omniscient One and approved by the Buddha: it manifests the cutting off of attachment and the Four Noble Truths, illuminating liberation without interior or exterior. "Abhidharma" means the chapters that correspond to and elucidate the contents of the Sūtra. "Vinaya" means the teaching of purity through non-conduct and non-livelihood. These three practices increase through learning. Desire ceases through the Vinaya; hatred ceases through the Abhidharma (since the Abhidharma deals with what is done regarding awakening, and therefore anger diminishes; anger leads to violation of precepts and to hell). Delusion ceases through conditions. All of this is learning.
 
 ### The Noble Portion
 
@@ -389,7 +389,7 @@ The bases are: the bases of contact (*sparśa*), the bases of heterodox views, a
 
 **Liberation** has three bases: contemplation, meditation, and recitation. Through contemplation, pratyekabuddhas attain liberation. Through meditation, śrāvakas attain liberation. Through recitation (expounding, listening, and chanting), liberation is attained.
 
-The World-Honored One's disciples are born into four truths: through giving they are born, through cessation they are born, through wisdom they are born. Listening attains liberation; giving and expounding attain liberation; cessation through seated meditation attains liberation; wisdom through recitation attains liberation.
+The World-Honored One's disciples are born into Four Noble Truths: through giving they are born, through cessation they are born, through wisdom they are born. Listening attains liberation; giving and expounding attain liberation; cessation through seated meditation attains liberation; wisdom through recitation attains liberation.
 
 ---
 

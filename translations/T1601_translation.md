@@ -336,7 +336,7 @@ Spoken by Bodhisattva Maitreya. Tang dynasty, translated by Xuanzang (玄奘).
 
 > Through heaviness, craving as cause,
 > Self-entity, and non-delusion:
-> For entering the four noble truths,
+> For entering the Four Noble Truths,
 > The cultivation of the foundations of mindfulness should be known.
 
 > Having thoroughly known obstruction and antidote,

@@ -6,7 +6,7 @@ Taishō 1508
 
 Translated by An Xuan (*Ān Xuán*, 安玄) and the lay-upāsaka Yán Fótiáo (*Yán Fótiáo*, 嚴佛調) of the Later Han dynasty.
 
-*Note: This is one of the earliest Chinese Buddhist texts, a second-century oral instruction on the twelve links of dependent arising (pratītyasamutpāda) and their relationship to the five aggregates, eighteen elements, the four noble truths, and the ten unwholesome actions. It also contains remarkable early material on embryology, the mechanics of rebirth consciousness, parent-child karmic relations, and a closing passage on why women are more frequently reborn in the lower realms. The style is characteristically archaic, reflecting the collaborative translation method of the Parthian monk An Xuan and his Chinese partner Yan Fotiao, who worked together at Luoyang around 181 CE.*
+*Note: This is one of the earliest Chinese Buddhist texts, a second-century oral instruction on the twelve links of dependent arising (pratītyasamutpāda) and their relationship to the five aggregates, eighteen elements, the Four Noble Truths, and the ten unwholesome actions. It also contains remarkable early material on embryology, the mechanics of rebirth consciousness, parent-child karmic relations, and a closing passage on why women are more frequently reborn in the lower realms. The style is characteristically archaic, reflecting the collaborative translation method of the Parthian monk An Xuan and his Chinese partner Yan Fotiao, who worked together at Luoyang around 181 CE.*
 
 ---
 

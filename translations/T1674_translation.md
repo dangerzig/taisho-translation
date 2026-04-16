@@ -297,7 +297,7 @@ This opening verse was composed by a later person to indicate the letter's origi
 > Liberation ultimately depends on oneself;
 > It is not accomplished through another's companionship.
 > Diligently cultivating learning, morality, and concentration,
-> The four noble truths will arise.
+> The Four Noble Truths will arise.
 
 > The higher training in morality, mind, and wisdom:
 > This threefold learning should be constantly cultivated.
@@ -607,7 +607,7 @@ This opening verse was composed by a later person to indicate the letter's origi
 > The eightfold noble path should be practiced.
 
 > Precisely this is the yoga-karma,
-> The cause of the four noble truths.
+> The cause of the Four Noble Truths.
 > Though one dwells in an adorned chamber,
 > Wisdom can bar the flood of afflictions.
 > One does not fall from the realm of space;

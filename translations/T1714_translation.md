@@ -77,11 +77,11 @@ These twelve links of dependent origination span the causes and effects of three
 
 **"No suffering, accumulation, cessation, or path."**
 
-"No suffering, accumulation, cessation, or path" means contemplating the four truths as pure. Suffering is the bitter fruit of birth and death. Accumulation is the cause of suffering through affliction and karma. These two belong to the worldly dharmas. Cessation is the blissful fruit of nirvāṇa. Path is the cause of bliss through the path-factors. These two belong to the world-transcending dharmas. The purpose of teaching these four truths is to cause sentient beings to know suffering, cut off accumulation, aspire to cessation, and cultivate the path, so as to leave suffering and attain happiness. This is originally the object contemplated by those of the śrāvaka vehicle. The Mahāyāna bodhisattva illuminates and realizes that the substance of this object is empty and quiescent; therefore it says "no."
+"No suffering, accumulation, cessation, or path" means contemplating the Four Noble Truths as pure. Suffering is the bitter fruit of birth and death. Accumulation is the cause of suffering through affliction and karma. These two belong to the worldly dharmas. Cessation is the blissful fruit of nirvāṇa. Path is the cause of bliss through the path-factors. These two belong to the world-transcending dharmas. The purpose of teaching these Four Noble Truths is to cause sentient beings to know suffering, cut off accumulation, aspire to cessation, and cultivate the path, so as to leave suffering and attain happiness. This is originally the object contemplated by those of the śrāvaka vehicle. The Mahāyāna bodhisattva illuminates and realizes that the substance of this object is empty and quiescent; therefore it says "no."
 
 **"No wisdom and no attainment."**
 
-"Wisdom" is the wisdom of prajñā. The Mahāyāna bodhisattva uses wisdom to illuminate objects. Since the five aggregates and the four truths and other dharmas are all nonexistent, both person and dharma are empty, and object and knowledge are both extinguished. Like a disease gone and the medicine forgotten; therefore it says "no wisdom and no attainment."
+"Wisdom" is the wisdom of prajñā. The Mahāyāna bodhisattva uses wisdom to illuminate objects. Since the five aggregates and the Four Noble Truths and other dharmas are all nonexistent, both person and dharma are empty, and object and knowledge are both extinguished. Like a disease gone and the medicine forgotten; therefore it says "no wisdom and no attainment."
 
 **"Because there is nothing to be attained,"**
 

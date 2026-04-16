@@ -2,7 +2,7 @@
 
 # Abhidharma Sūtra on the Five Dharma Categories
 
-*Note: This text was translated by An Shigao (Ān Shìgāo 安世高) during the Later Han dynasty. It is an early Abhidharma catechetical manual that systematically defines the five dharma categories (wǔfǎ 五法): form (sè 色), mind (yì 意/心), mental factors (suǒniàn fǎ 所念法), factors dissociated from mind (biélí yì xíng 別離意行), and the unconditioned (wúwéi 無為). The text opens with the four noble truths and their "knowledge-understanding" (xiá kě 黠可) analysis, presents the sixteen aspects of the four truths, and then proceeds to define each dharma category in detail: the four great elements, the five sense faculties, their objects, the six consciousnesses, mental factors (feeling, perception, formation, intention, desire, concentration, wisdom, faith, vigor, etc.), the three wholesome roots and three unwholesome roots, the five indeterminate roots, the nine fetters (jiǔjié 九結), the seven types of pride, the three wrong views, the seven latent tendencies (qīshǐ 七使), and the ten kinds of knowledge. An Shigao's archaic Chinese translation style is characteristically terse.*
+*Note: This text was translated by An Shigao (Ān Shìgāo 安世高) during the Later Han dynasty. It is an early Abhidharma catechetical manual that systematically defines the five dharma categories (wǔfǎ 五法): form (sè 色), mind (yì 意/心), mental factors (suǒniàn fǎ 所念法), factors dissociated from mind (biélí yì xíng 別離意行), and the unconditioned (wúwéi 無為). The text opens with the Four Noble Truths and their "knowledge-understanding" (xiá kě 黠可) analysis, presents the sixteen aspects of the Four Noble Truths, and then proceeds to define each dharma category in detail: the four great elements, the five sense faculties, their objects, the six consciousnesses, mental factors (feeling, perception, formation, intention, desire, concentration, wisdom, faith, vigor, etc.), the three wholesome roots and three unwholesome roots, the five indeterminate roots, the nine fetters (jiǔjié 九結), the seven types of pride, the three wrong views, the seven latent tendencies (qīshǐ 七使), and the ten kinds of knowledge. An Shigao's archaic Chinese translation style is characteristically terse.*
 
 ---
 
@@ -28,13 +28,13 @@ Cessation: how is cessation of suffering, emptiness, and non-self attained? Cess
 
 What is suffering? Everything within birth and death is suffering. Encountering what one desires and also what one does not desire: what a person's various desires obtain, and also what is not desired, meaning what the person's mind finds disagreeable: all of this is suffering. Craving arises from accumulation. Following the aspect of impermanence, one seeks the cessation of suffering through accumulation.
 
-What is "dharma"? It means: by such causes and conditions one does this, one obtains this; this is "dharma." What should be identified has already been identified. To withdraw the mind, what should be severed. Among the four truths, the truth of suffering and the truth of accumulation serve as evidence that there is a path. Seeing suffering, one knows it arises from accumulation. Seeing accumulation, one knows suffering. Seeing the truth of cessation, one knows impermanence.
+What is "dharma"? It means: by such causes and conditions one does this, one obtains this; this is "dharma." What should be identified has already been identified. To withdraw the mind, what should be severed. Among the Four Noble Truths, the truth of suffering and the truth of accumulation serve as evidence that there is a path. Seeing suffering, one knows it arises from accumulation. Seeing accumulation, one knows suffering. Seeing the truth of cessation, one knows impermanence.
 
 What is "comprehension"? It means delighting in the path and not forgetting the path, constantly seeking the path, and taking the path as what one comprehends. What is "understanding"? Constantly inquiring about the path is understanding. Having inquired, being able to receive and practice: this is understanding. Accumulation is likewise. Cessation and extinction are likewise. The path is likewise.
 
 Suffering is the bondage of unwholesome dharma. Understanding is the thirty-seven factors of awakening. Comprehension is practice; practice is practicing the path. Accumulation is likewise; cessation is likewise; the path is likewise. All are for the sake of advancement.
 
-## The Four Truths Explained in Detail
+## The Four Noble Truths Explained in Detail
 
 **First: Suffering.** What is suffering? All that is evil and disagreeable to the mind is suffering. Having identified suffering, what one does not desire, one then practices the path without departing; this is comprehension. Suffering in arising has a root. What is the root of suffering? It comes from the myriad things. If the myriad things did not exist, then one would neither exhaust oneself nor exhaust others, nor grieve for oneself nor grieve for others, and there would be no suffering.
 
@@ -114,7 +114,7 @@ What are the fetters? There are nine fetters: (1) the fetter of attachment-mindf
 
 ## The Seven Latent Tendencies
 
-There are seven latent tendencies: (1) the tendency of desire (five kinds, severed by seeing each of the four truths and by cultivation); (2) the tendency of aversion (likewise five kinds); (3) the tendency of desire for the world (ten kinds across the form and formless realms); (4) the tendency of pride (fifteen kinds across the three realms and five paths of severance); (5) the tendency of delusion (fifteen kinds); (6) the tendency of wrong views (thirty-six kinds across the three realms); (7) the tendency of doubt (twelve kinds across the three realms).
+There are seven latent tendencies: (1) the tendency of desire (five kinds, severed by seeing each of the Four Noble Truths and by cultivation); (2) the tendency of aversion (likewise five kinds); (3) the tendency of desire for the world (ten kinds across the form and formless realms); (4) the tendency of pride (fifteen kinds across the three realms and five paths of severance); (5) the tendency of delusion (fifteen kinds); (6) the tendency of wrong views (thirty-six kinds across the three realms); (7) the tendency of doubt (twelve kinds across the three realms).
 
 These are the defilements and their torments. Sometimes there are defilements without torments; aside from the defilements, the remaining disturbing mental dharmas are called "torments, not defilements." Those that arise are eight: (1) drowsiness; (2) torpor; (3) pleasure; (4) doubt; (5) leaning; (6) indulgence; (7) lack of shame before others; (8) lack of self-shame.
 

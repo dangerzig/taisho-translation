@@ -53,7 +53,7 @@ Vairocana, in past kalpas, was once Prince Weiguang. He made offerings to buddha
 
 ### Fascicle Twelve
 
-The Tathāgata's names are of many kinds, adapted to the differing capacities of beings. The four noble truths for the four births are named differently according to region, each enabling those who hear the Dharma to awaken and realize.
+The Tathāgata's names are of many kinds, adapted to the differing capacities of beings. The Four Noble Truths for the four births are named differently according to region, each enabling those who hear the Dharma to awaken and realize.
 
 ### Fascicle Thirteen
 
@@ -149,7 +149,7 @@ The bodhisattva of the Ground of Freedom from Defilement cultivates the Dharma-g
 
 ### Fascicle Thirty-Six
 
-The blazing flame of wisdom that realizes: one advances in cultivating the Dharma-gates of the factors of awakening. Employing the śrāvaka's contemplation of the four truths, one reveals the characteristics of the bodhisattva's superior ground.
+The blazing flame of wisdom that realizes: one advances in cultivating the Dharma-gates of the factors of awakening. Employing the śrāvaka's contemplation of the Four Noble Truths, one reveals the characteristics of the bodhisattva's superior ground.
 
 ### Fascicle Thirty-Seven
 

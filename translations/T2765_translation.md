@@ -63,7 +63,7 @@ Why was Kauṇḍinya named first? Because Kauṇḍinya was the senior member o
 
 Second, the teaching of the sūtra being completed, ten ṛṣis awakened to the Way; their karmic connection lay with Kauṇḍinya. This is the second reason.
 
-Third, at the very beginning when the Buddha first attained the Way, at the Deer Park he first taught the four truths, originally for Kauṇḍinya. Now, at the final teaching at the end, at the twin trees, it is again for Kauṇḍinya. This demonstrates that the Tathāgata has both a beginning and an end. This is the third reason.
+Third, at the very beginning when the Buddha first attained the Way, at the Deer Park he first taught the Four Noble Truths, originally for Kauṇḍinya. Now, at the final teaching at the end, at the twin trees, it is again for Kauṇḍinya. This demonstrates that the Tathāgata has both a beginning and an end. This is the third reason.
 
 In this transmission and circulation, one transforms the impermanent form and attains the permanent form. Since it is called "transmission and circulation," how does its meaning relate to the chapter above? The Tathāgata himself says: "Above, I taught that form is impermanent. You should extinguish the impermanent form and attain the permanent form. In the future, circulate this Dharma of mine." Therefore this chapter is called "Transmission and Circulation."
 

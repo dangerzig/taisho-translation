@@ -12,7 +12,7 @@ A bodhisattva who has first received the Way is called a *caryā* bodhisattva. *
 
 The bodhisattva path also transcends the twelve gates, cutting off the three evil destinies. Such a one is born before the buddhas of the ten directions, and is not born on the tenth heaven. A stream-enterer also transcends the twelve gates and cuts off the three evil destinies, but is born on the tenth heaven. Both transcend the twelve gates, yet they are born in different places because the stream-enterer has sixteen mental factors, while the bodhisattva practices thirty-four mental factors. For this reason they are born in different places.
 
-The bodhisattva's thirty-four mental factors are the sixteen mental factors of the four noble truths plus the eighteen unshared dharmas, making thirty-four in all.
+The bodhisattva's thirty-four mental factors are the sixteen mental factors of the Four Noble Truths plus the eighteen unshared dharmas, making thirty-four in all.
 
 The bodhisattva, with thirty-four mental factors, can govern everything. The arhat practices with sixteen mental factors.
 
@@ -36,7 +36,7 @@ If someone expounds a profound sūtra and its meaning is immediately comprehende
 
 Śākyamuni Buddha had already completed ninety-one kalpas because through diligence he gained ninety kalpas. It is like a person who must travel a thousand miles tomorrow but walks nine hundred miles today: the total distance is the same. One should count from the ninety-first kalpa for a person who should complete one hundred kalpas. An avaivartika bodhisattva must complete the marks before succeeding; the one hundred kalpas of causes must be fulfilled, never exceeding one hundred kalpas. One who has not yet attained the avaivartika stage cannot complete the marks.
 
-When a person gives rise to a single thought of the Way, its merit surpasses one hundred thousand kalpas of evil. What is a thought of the Way? It is mindfulness of the four noble truths. This is a thought of the Way. Evil is like darkness. A thought of the Way is like light. When the sun rises, the darkness of the world is extinguished. All the bodhisattvas, hearing these words, greatly rejoiced and said "Homage to the Buddha! Giving rise to a single good thought yields the merit of one hundred kalpas."
+When a person gives rise to a single thought of the Way, its merit surpasses one hundred thousand kalpas of evil. What is a thought of the Way? It is mindfulness of the Four Noble Truths. This is a thought of the Way. Evil is like darkness. A thought of the Way is like light. When the sun rises, the darkness of the world is extinguished. All the bodhisattvas, hearing these words, greatly rejoiced and said "Homage to the Buddha! Giving rise to a single good thought yields the merit of one hundred kalpas."
 
 When the bodhisattva offered his body to feed the starving tiger, instead of one hundred kalpas, he attained buddhahood in ninety-one kalpas because, not perceiving any pain or suffering, nine kalpas were eliminated.
 
@@ -70,9 +70,9 @@ The bodhisattva, going out to practice the Way, sees four testimonies. First, se
 
 Seeing the urgency of impermanence, one therefore practices the Way. Each day people hasten toward death. Why do they not fear the approach of death? Because they fear the appointed time has arrived.
 
-When the bodhisattva has attained the Buddha Way, he then teaches the four noble truths. Why? Teaching the four noble truths involves four causes and conditions. First, because they have never been heard before. Second, because of meditation. Third, because of attaining the eye. Fourth, because of attaining wisdom.
+When the bodhisattva has attained the Buddha Way, he then teaches the Four Noble Truths. Why? Teaching the Four Noble Truths involves four causes and conditions. First, because they have never been heard before. Second, because of meditation. Third, because of attaining the eye. Fourth, because of attaining wisdom.
 
-Because of old age, sickness, death, and sorrow, and the inability to escape the great prison, the four noble truths are taught.
+Because of old age, sickness, death, and sorrow, and the inability to escape the great prison, the Four Noble Truths are taught.
 
 The bodhisattva teaches sūtras for four reasons. First, the king is pleased. Second, the people desire it. Third, the mind is receptive. Fourth, the timing is right. What is the right timing? It is when people are well-disposed.
 

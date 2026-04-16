@@ -25,7 +25,7 @@ What are the four means of attraction? Giving, kind words, beneficial action, an
 
 What are the five supernatural powers? The divine eye, the divine ear, knowledge of others' minds, knowledge of past lives, and the power of miraculous transformation.
 
-What are the four noble truths? The truth of suffering, the truth of its origin, the truth of its cessation, and the truth of the path.
+What are the Four Noble Truths? The truth of suffering, the truth of its origin, the truth of its cessation, and the truth of the path.
 
 What are the five aggregates? The aggregate of form, the aggregate of feeling, the aggregate of perception, the aggregate of formations, and the aggregate of consciousness.
 
@@ -33,7 +33,7 @@ What are the five supramundane aggregates? The aggregate of morality, the aggreg
 
 What are the twelve links of dependent arising? Ignorance, formations, consciousness, name-and-form, the six sense-entries, contact, feeling, craving, grasping, becoming, birth, and old age and death.
 
-What are the thirty-seven factors of awakening? The four foundations of mindfulness, the four right efforts, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path.
+What are the thirty-seven factors of awakening? The four foundations of mindfulness, the four right efforts, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble Eightfold Path.
 
 What are the four foundations of mindfulness? Contemplation of the body as the body-foundation of mindfulness; contemplation of feelings as the feeling-foundation of mindfulness; contemplation of the mind as the mind-foundation of mindfulness; contemplation of dharmas as the dharma-foundation of mindfulness.
 
@@ -47,7 +47,7 @@ What are the five powers? The power of faith, the power of vigor, the power of m
 
 What are the seven factors of awakening? The awakening factor of mindfulness, the awakening factor of investigation of dharmas, the awakening factor of vigor, the awakening factor of joy, the awakening factor of tranquility, the awakening factor of concentration, and the awakening factor of equanimity.
 
-What is the noble eightfold path? Right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration. These are the thirty-seven factors of awakening.
+What is the noble Eightfold Path? Right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration. These are the thirty-seven factors of awakening.
 
 What are the four dharma-seeds? Right benefit, right phrasing, right knowledge, and right discernment.
 

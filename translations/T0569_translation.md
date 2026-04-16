@@ -68,6 +68,6 @@ The brahmin's heart was subdued. He prostrated himself on the ground and reproac
 
 The Buddha said: "Excellent! Excellent! Since you have seen your own fault and taken refuge in the Buddha, repenting your transgressions before the Way, the Dharma, and the Vinaya, your offenses shall diminish and your merit shall grow daily."
 
-The brahmin then requested: "May you extend your great compassion, your kindness, and your protection, and allow me to leave the household." The Buddha immediately accepted him as a śramaṇa. His hair and beard were removed and Dharma robes appeared upon his body. At that time the World-Honored One taught the four noble truths: suffering, its origin, its cessation, and the path. The brahmin leaped with joy, and his defilements were exhausted and his mind liberated.
+The brahmin then requested: "May you extend your great compassion, your kindness, and your protection, and allow me to leave the household." The Buddha immediately accepted him as a śramaṇa. His hair and beard were removed and Dharma robes appeared upon his body. At that time the World-Honored One taught the Four Noble Truths: suffering, its origin, its cessation, and the path. The brahmin leaped with joy, and his defilements were exhausted and his mind liberated.
 
 When the Buddha had spoken thus, the worthy Ānanda, the fourfold assembly, the devas, humans, nāgas, and spirits all generated the resolve for the Way and departed with joy, bowing their heads.

@@ -39,14 +39,14 @@ Before long, the king's younger brother Droṇodana, who that night had a son bo
 
 By this evidence we can determine that Ānanda was born on the night the Buddha attained the Way. Since Ānanda was born on the night of the Buddha's attainment, how can one say the preaching and listening were "at one time"?
 
-The factual verification is thus. Next, the textual evidence. When the Buddha first attained the Way, at the Deer Park of the Ṛṣipatana in Vārāṇasī, he turned the Dharma-wheel of the four truths for the five bhikṣus. This is called the *Sūtra of Turning the Dharma-Wheel*. After the Buddha's passing, the bhikṣu Ānanda first compiled this sūtra. Before compiling it, he ascended the high seat and spoke a verse of his own:
+The factual verification is thus. Next, the textual evidence. When the Buddha first attained the Way, at the Deer Park of the Ṛṣipatana in Vārāṇasī, he turned the Dharma-wheel of the Four Noble Truths for the five bhikṣus. This is called the *Sūtra of Turning the Dharma-Wheel*. After the Buddha's passing, the bhikṣu Ānanda first compiled this sūtra. Before compiling it, he ascended the high seat and spoke a verse of his own:
 
 > When the Buddha first taught the Dharma,
 > At that time I did not see it.
 > As at that time, it was heard through transmission.
 > The Buddha traveled to Vārāṇasī,
 > And for the five bhikṣus,
-> Turned the Dharma-wheel of the four truths.
+> Turned the Dharma-wheel of the Four Noble Truths.
 
 In that sūtra, the Way was already through transmission, and yet it still says "at one time." Clearly, "at one time" does not mean distinguishing between transmitted and personal hearing.
 
@@ -58,7 +58,7 @@ The holy teachings, though many, are in summary only two: the Śrāvakayāna-pi�
 
 Within the Śrāvakayāna-piṭaka, what is taught has two categories. The first is the "śrāvaka-śrāvaka." The second is the "pratyekabuddha-śrāvaka."
 
-"Śrāvaka-śrāvaka" refers to persons who from the beginning sought the śrāvaka path, who delighted in contemplating the four truths, and who perfected the śrāvaka disposition. In their final body, encountering the Buddha and desiring the lesser vehicle, the Tathāgata taught them the Dharma of the four noble truths, and they attained awakening. Originally of the śrāvaka disposition, they again heard the teaching and attained the Way. Therefore they are called "śrāvaka-śrāvakas." The sūtra says: "For those who seek the śrāvaka path, he teaches the four noble truths." This is the basis for this category.
+"Śrāvaka-śrāvaka" refers to persons who from the beginning sought the śrāvaka path, who delighted in contemplating the Four Noble Truths, and who perfected the śrāvaka disposition. In their final body, encountering the Buddha and desiring the lesser vehicle, the Tathāgata taught them the Dharma of the Four Noble Truths, and they attained awakening. Originally of the śrāvaka disposition, they again heard the teaching and attained the Way. Therefore they are called "śrāvaka-śrāvakas." The sūtra says: "For those who seek the śrāvaka path, he teaches the Four Noble Truths." This is the basis for this category.
 
 "Pratyekabuddha-śrāvaka" refers to persons who from the beginning sought the pratyekabuddha path, who always delighted in contemplating the twelve links of dependent arising, and who perfected the pratyekabuddha disposition. In their final body, the Buddha taught them the twelve links, and they attained awakening. Originally of the pratyekabuddha disposition, in their final body they heard the teaching and attained the Way. Therefore they are called "pratyekabuddha-śrāvakas." The sūtra says: "For those who seek the pratyekabuddha path, he teaches the twelve links." This is the basis for this category.
 

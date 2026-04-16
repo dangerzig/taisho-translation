@@ -363,7 +363,7 @@ At that time, the World-Honored One, wishing to restate the foregoing meaning an
 > Having illuminated that stūpa with fine lamp-light,
 > One attains the undefiled, unsurpassed path,
 > And one's bodily radiance illuminates the ten directions.
-> Seeing the four noble truths, possessing the ten powers,
+> Seeing the Four Noble Truths, possessing the ten powers,
 > The unique dharmas are also fully realized.
 > Obtaining the all-seeing eye, becoming the Sugata:
 > This fruit comes entirely from offering lamps.

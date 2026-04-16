@@ -61,7 +61,7 @@ At that time, the World-Honored One addressed the bhikṣus: "I shall now praise
 
 "There is a śrāvaka foremost in understanding the meaning of the Buddha-Dharma: the bhikṣu Panthaka.
 
-"There is a śrāvaka able to cut through doubts regarding the four truths: the bhikṣu Mahā-Panthaka.
+"There is a śrāvaka able to cut through doubts regarding the Four Noble Truths: the bhikṣu Mahā-Panthaka.
 
 "There is a śrāvaka whose speech is direct and without concealment, who admonishes the bhikṣus: the bhikṣu Kapphiṇa.
 

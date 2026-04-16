@@ -442,7 +442,7 @@ At that time the Elder Ānanda rose from his seat, bared his right shoulder, pla
 >
 > "With the power of patience and the ten powers,
 > patient, courageous, diligent, and immovable,
-> joyfully revealing the four noble truths:
+> joyfully revealing the Four Noble Truths:
 > for what cause and condition do you smile?
 >
 > "With a vajra body, firm and solid,

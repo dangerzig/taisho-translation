@@ -160,7 +160,7 @@ At that time the World-Honored One answered in verse:
 > The four right efforts,
 > And the four bases of spiritual power:
 > This is due to circumambulating the stūpa clockwise.
-> One thoroughly comprehends the four noble truths,
+> One thoroughly comprehends the Four Noble Truths,
 > The faculties, powers, and seven factors of awakening,
 > The noble path and the holy fruits:
 > This is due to circumambulating the stūpa clockwise.

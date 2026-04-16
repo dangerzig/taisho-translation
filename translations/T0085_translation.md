@@ -29,7 +29,7 @@ The Buddha said to Ānanda: "What do you think about this?"
 
 Ānanda addressed the Buddha: "World-Honored One! I cannot fully understand this matter."
 
-The Buddha said to Ānanda: "Through my own wisdom I have realized correct awakening, and in the interim I have widely taught various dharmas, namely the four foundations of mindfulness, the four right exertions, the four bases of supernatural power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path. These and other dharmas I have proclaimed, all known and seen. Ānanda! Many non-Buddhists stir up quarrels with the bhikṣu assembly. Can you understand the causes of these quarrels?"
+The Buddha said to Ānanda: "Through my own wisdom I have realized correct awakening, and in the interim I have widely taught various dharmas, namely the four foundations of mindfulness, the four right exertions, the four bases of supernatural power, the five faculties, the five powers, the seven factors of awakening, and the noble Eightfold Path. These and other dharmas I have proclaimed, all known and seen. Ānanda! Many non-Buddhists stir up quarrels with the bhikṣu assembly. Can you understand the causes of these quarrels?"
 
 Ānanda addressed the Buddha: "World-Honored One! I cannot."
 

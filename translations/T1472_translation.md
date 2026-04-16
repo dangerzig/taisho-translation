@@ -92,7 +92,7 @@ Second five: (1) Do not play around. (2) Do not break the jars or vessels. (3) D
 
 ### The Ten Numbers
 
-The ten numerical categories every novice must know: (1) All sentient beings subsist through food and drink. (2) The two truths. (3) The three feelings (pleasant, painful, neutral). (4) The four noble truths. (5) The five aggregates. (6) The six sense-bases. (7) The seven factors of awakening. (8) The eightfold noble path. (9) The nine abodes of sentient beings. (10) The ten totalities of perception (*kṛtsnāyatana*). These are called the ten numbers.
+The ten numerical categories every novice must know: (1) All sentient beings subsist through food and drink. (2) The two truths. (3) The three feelings (pleasant, painful, neutral). (4) The Four Noble Truths. (5) The five aggregates. (6) The six sense-bases. (7) The seven factors of awakening. (8) The eightfold noble path. (9) The nine abodes of sentient beings. (10) The ten totalities of perception (*kṛtsnāyatana*). These are called the ten numbers.
 
 ### The Five Meanings of Being a Novice
 

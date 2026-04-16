@@ -106,7 +106,7 @@ At that time the World-Honored One, having spoken this dhāraṇī, further proc
 > The six recollections with the six penetrations complete,
 > She attains all the pāramitās.
 
-> She skillfully teaches the dharma of the four truths,
+> She skillfully teaches the dharma of the Four Noble Truths,
 > Dispelling delusion with great eloquence.
 > In the sea of suffering's illusions,
 > She manifests the active forms of illusion.

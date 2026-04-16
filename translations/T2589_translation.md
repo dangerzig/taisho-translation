@@ -69,7 +69,7 @@ When the fire board sounds, [the attendant] proceeds from below the storehouse, 
 
 After the fire bell has circled the monastery, the drum before the storehouse is struck three times, announcing the meal time. Next, the great bell is struck eighteen times; this is called the "meal bell." During this interval, at the main hall, the Uṣṇīṣa-vijaya-dhāraṇī is recited seven times. This is called "midday."
 
-After the chanting is finished, the great assembly enters the hall. The board before the storehouse is struck in extended fashion thirty-six times. The platform before the storehouse prepares the offering items. Facing the Sangha hall, the cook burns incense and makes nine prostrations. During the prostrations, the various attendants stand in two rows. After the prostrations, the offering items are reverently sent to the front of the Sangha hall. The offerings for the Buddha and the Holy Monk are offered together to all the honored ones. The hall custodian makes the Buddha offering, offers fragrant incense and worship, and makes three prostrations each. Before the earth deity, only incense is burned.
+After the chanting is finished, the great assembly enters the hall. The board before the storehouse is struck in extended fashion thirty-six times. The platform before the storehouse prepares the offering items. Facing the Sangha hall, the cook burns incense and makes nine prostrations. During the prostrations, the various attendants stand in two rows. After the prostrations, the offering items are reverently sent to the front of the Sangha hall. The offerings for the Buddha and the Holy Monk are offered together to all the honored ones. The hall keeper makes the Buddha offering, offers fragrant incense and worship, and makes three prostrations each. Before the earth deity, only incense is burned.
 
 During the thirty-six board-strikes and the fish drum, the assembly both inside and outside the hall gathers outside the hall. The assembly outside stands in two groups, each facing the Holy Monk, bows, and takes their seats. At the beginning of the third round of the fish drum, the head seat enters the hall, bows to the Holy Monk, and takes his seat, entering from the south side of the front door.
 
@@ -103,7 +103,7 @@ Afterward, one returns to the quarters and bows. Before and after the release fr
 
 When the ant's waist [of the evening sky] is still visible, the board before the assembly's quarters is struck three times. The assembly dons kāṣāyas, enters the hall, goes to their respective bedding positions, faces the wall, and sits in meditation; as in the morning.
 
-Upon hearing the board strike, the quarters master arranges the assembly's walking practice and waits for the next morning.
+Upon hearing the board strike, the quarter master arranges the assembly's walking practice and waits for the next morning.
 
 The bell is struck, and the following is chanted: "May the three paths and the eight difficulties cease their suffering and end their bitterness. May all in the ten-direction worlds, hearing the bell, awaken to the Way."
 
@@ -312,7 +312,7 @@ Eihei-ji anniversary. Every month, sūtra chanting is performed at the memorial 
 
 Recitation. Last day of the month: Poṣadha. Head-shaving and bathing.
 
-The methods for recitation, entering the room, dedications for the various sūtra chantings, and so on are on separate sheets. The rector, guest master, attendant, and others must all be thoroughly familiar with them.
+The methods for recitation, entering the room, dedications for the various sūtra chantings, and so on are on separate sheets. The rector, guest prefect, attendant, and others must all be thoroughly familiar with them.
 
 ---
 
@@ -386,7 +386,7 @@ When a meal offering is arranged at a specific time, whether a meal, gruel, or m
 
 Feeding the Sangha and monetary gifts: the Three Jewels of the temple, all holy ones, sick monks, and monks on leave all receive them. Novices and postulants receive one-third of the monks' share.
 
-When a donor requests a Dharma hall ascent, it must be at the midday meal time or after the meal. The Dharma hall is adorned properly. Below the steps, at the upper end of the mat, one dignified table is set with the offering items. At the lower end of the mat, another table is set with a pair of flower vases and one incense burner. A prostration mat is also spread. After three drum rolls, the master enters. When the master stands on the platform, the guest master leads the donor to burn incense and prostrate. At this time, the master offers incense. If a memorial is read, [the master] takes his seat. The guest master leads the donor to take a position at the administrators' upper shoulder to receive the donor's prostrations of gratitude. After the Dharma talk, the donor advances and makes a Chan prostration. If the donor is a layperson, the guest master leads them. If there is no guest master, the rector or attendant leads them. If the donor is a monastic, they simply advance, burn incense, and prostrate. The guest master leads them to their seat. If they are not a high official or venerable elder, they are not given a seat. If they are an ordinary monastic, no chair is set up. If there are no offering items, there is no upper table on the mat.
+When a donor requests a Dharma hall ascent, it must be at the midday meal time or after the meal. The Dharma hall is adorned properly. Below the steps, at the upper end of the mat, one dignified table is set with the offering items. At the lower end of the mat, another table is set with a pair of flower vases and one incense burner. A prostration mat is also spread. After three drum rolls, the master enters. When the master stands on the platform, the guest prefect leads the donor to burn incense and prostrate. At this time, the master offers incense. If a memorial is read, [the master] takes his seat. The guest prefect leads the donor to take a position at the administrators' upper shoulder to receive the donor's prostrations of gratitude. After the Dharma talk, the donor advances and makes a Chan prostration. If the donor is a layperson, the guest prefect leads them. If there is no guest prefect, the rector or attendant leads them. If the donor is a monastic, they simply advance, burn incense, and prostrate. The guest prefect leads them to their seat. If they are not a high official or venerable elder, they are not given a seat. If they are an ordinary monastic, no chair is set up. If there are no offering items, there is no upper table on the mat.
 
 **[Sample Memorial for a Meal Offering:]**
 
@@ -517,7 +517,7 @@ Next, the Great Compassion Dhāraṇī. Dedication:
 
 "In the ten directions, three times..." [as above]
 
-Next, the guest master chants sūtras before the altar. The junior disciples offer condolence chanting.
+Next, the guest prefect chants sūtras before the altar. The junior disciples offer condolence chanting.
 
 **[Clothing Auction:]**
 
@@ -551,7 +551,7 @@ Next, the Great Compassion Dhāraṇī. Dedication:
 
 "The above chanting of the Great Compassion Dhāraṇī of Perfect Fulfillment Without Obstruction; the merit is dedicated to the newly..."
 
-Next, the Śūraṅgama Dhāraṇī. The guest master or the attendant begins it.
+Next, the Śūraṅgama Dhāraṇī. The guest prefect or the attendant begins it.
 
 **Raising the coffin; Recitation:**
 
@@ -567,7 +567,7 @@ Dedication: "The above praise and extolling of the holy names, assisting the awa
 
 Next, the Great Compassion Dhāraṇī. Dedication as before.
 
-Next, the Śūraṅgama Dhāraṇī. The guest master or the attendant begins it.
+Next, the Śūraṅgama Dhāraṇī. The guest prefect or the attendant begins it.
 
 **Sending the bones on the second seventh day; Recitation:**
 
@@ -1632,7 +1632,7 @@ The year-end dedication is thus concluded.
 
 **Colophon**
 
-The above was established by the First Patriarch of Tōkoku, the Great Master Keizan, for the sake of later generations. However, the old copy kept in the administrative office of this mountain had deteriorated writing that was illegible in places. I was ordered by the venerable elders of the same Dharma-lineage and was given charge of the affairs of this mountain. Therefore I humbly copied this record to serve as the public reference for the administrative office, and I am delighted to have fulfilled a long-held aspiration.
+The above was established by the First Patriarch of Tōkoku, the Great Master Keizan, for the sake of later generations. However, the old copy kept in the storehouse of this mountain had deteriorated writing that was illegible in places. I was ordered by the venerable elders of the same Dharma-lineage and was given charge of the affairs of this mountain. Therefore I humbly copied this record to serve as the public reference for the storehouse, and I am delighted to have fulfilled a long-held aspiration.
 
 Nevertheless, as for the errors of confusing similar characters, like mistaking a knife for a sword, or an east-facing bracket for a west-facing one, or a hand stroke for a brush stroke, I only fear that airing the family's shortcomings might invite ridicule from outsiders. I am overwhelmed with trepidation and trembling.
 
@@ -1696,7 +1696,7 @@ Respectfully submitted. Year, month, day. Dharma-grandson, heir-bhikṣu so-and-
 
 All details are as described above. The Buddha Praise Assembly: After the Dharma hall ascent following the New Year's morning gruel, the ceremonial space is adorned. Incense, flowers, lamps, candles, tea, confections, and such are prepared. The hall bell is struck three rounds. The great assembly gathers in the hall. Each takes their position and waits for the abbot to appear. When the abbot appears, all perform three prostrations together, then kneel in the posture of a barbarian [single-knee kneel]. First, the Heart Sūtra is recited three times, then the names of the Three Thousand Buddhas are chanted in praise, or the names of the Eighty-Eight Buddhas. This is diligently practiced over the three days from New Year's morning.
 
-Each day after the praise chanting is complete, before the midday meal, the Universal Gate Chapter is recited during circumambulation. After the circumambulation, the Great Compassion Dhāraṇī and the Calamity-Removing Dhāraṇī are chanted. There is a universal dedication. But on the third day, the final dispersal: the dispersal must have a memorial. After the memorial, sūtra chanting during circumambulation. There is a separate final-dispersal dedication.
+Each day after the praise chanting is complete, before the midday meal, the Universal Gate Chapter is recited during circumambulation. After the circumambulation, the Great Compassion Dhāraṇī and the Disaster-Eliminating Dhāraṇī are chanted. There is a universal dedication. But on the third day, the final dispersal: the dispersal must have a memorial. After the memorial, sūtra chanting during circumambulation. There is a separate final-dispersal dedication.
 
 Seating diagram for the Buddha Praise Assembly:
 

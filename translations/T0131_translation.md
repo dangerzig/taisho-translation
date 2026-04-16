@@ -9,7 +9,7 @@ Translated from the Chinese. Later Han dynasty, translated by An Shigao (安世�
 
 Thus have I heard.
 
-At one time, the Blessed One was dwelling at Śrāvastī in Jetavana, Anāthapiṇḍada's park. At that time, the World-Honored One addressed the bhikṣus:
+At one time, the World-Honored One was dwelling at Śrāvastī in Jetavana, Anāthapiṇḍada's park. At that time, the World-Honored One addressed the bhikṣus:
 
 "Long ago there were four brahmin sages who diligently cultivated wholesome dharmas and possessed the five supernormal powers, yet were constantly gripped by fear of death. These four brahmin sages, diligently cultivating wholesome dharmas and possessing the five supernormal powers, reflected among themselves: 'In what place shall we dwell so as to remain in the world forever?'
 

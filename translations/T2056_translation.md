@@ -20,7 +20,7 @@ He could speak from birth. His spiritual bearing transcended the ordinary; his v
 
 ### The Lineage of Transmission
 
-In ancient times, the Blessed One Vairocana entrusted the esoteric teaching of the Vajraśekhara Yoga, the king of true words and dharma-seals, to Vajrapāṇi Bodhisattva. After nearly a thousand years, it was transmitted to Nāgārjuna Bodhisattva. After several hundred years, Nāgārjuna transmitted it to Nāgabodhi Ācārya. After several more hundred years, Nāgabodhi transmitted it to Vajrabodhi Ācārya. Vajrabodhi transmitted it to the present great master. Although the source is one, the streams diverge; in all, only some tens of persons have received it. In the legitimate family succession, our master is the sixth.
+In ancient times, the World-Honored One Vairocana entrusted the esoteric teaching of the Vajraśekhara Yoga, the king of true words and dharma-seals, to Vajrapāṇi Bodhisattva. After nearly a thousand years, it was transmitted to Nāgārjuna Bodhisattva. After several hundred years, Nāgārjuna transmitted it to Nāgabodhi Ācārya. After several more hundred years, Nāgabodhi transmitted it to Vajrabodhi Ācārya. Vajrabodhi transmitted it to the present great master. Although the source is one, the streams diverge; in all, only some tens of persons have received it. In the legitimate family succession, our master is the sixth.
 
 ### Training under Vajrabodhi
 

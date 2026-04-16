@@ -27,7 +27,7 @@ Recite three or five times, then recite the praise and prayer. When the petition
 
 ### Sūtra
 
-Homage to the Holy One Emerging from the Uṣṇīṣa of All Tathāgatas, the White Umbrella Canopy Buddha-Mother, She Whom None Can Rival. Homage to the Most Supreme Three Jewels.
+Homage to the Holy One Emerging from the Uṣṇīṣa of All Tathāgatas, the White Umbrella Canopy Buddha-Mother, She Whom None Can Rival. Homage to the Most Supreme Three Treasures.
 
 Thus have I heard:
 

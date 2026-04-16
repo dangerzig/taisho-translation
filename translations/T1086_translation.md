@@ -21,7 +21,7 @@ Translated from the Chinese. Tang dynasty, translated by Amoghavajra (不空).
 > With resolute vīrya,
 > Whose awakened wisdom is never abandoned,
 > Filial to their parents,
-> Of pure faith in the Three Jewels,
+> Of pure faith in the Three Treasures,
 > Delighting in the practice of bodhi,
 > In the four immeasurable minds
 > Without even a moment's interruption,
@@ -86,7 +86,7 @@ The practitioner should next rejoice in the merit and wisdom accumulated by all 
 
 > The buddhas of the past, present, and future,
 > The bodhisattvas and all the holy ones:
-> All the wholesome roots they have accumulated,
+> All the roots of merit they have accumulated,
 > With palms joined, I fully rejoice in them all,
 > Just as in the merit I myself have gathered,
 > With joy that is no different.
@@ -262,7 +262,7 @@ The mantra:
 > Snapping their fingers to awaken me:
 >
 > "Child of the Buddha! How will you
-> Achieve unsurpassed perfect awakening
+> Achieve unsurpassed perfect enlightenment
 > Without knowing the tathāgatas'
 > Wondrous Dharma of true reality?"
 >

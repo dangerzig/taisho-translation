@@ -118,7 +118,7 @@ At that time, Vajrapāṇi, the Secret Lord, proclaimed in verse:
 > The greatly wealthy and self-indulgent,
 > Those especially swollen with pride,
 > Violent evil-doers,
-> Those who are not beneficial to the Three Jewels,
+> Those who are not beneficial to the Three Treasures,
 > Annihilationists who disparage mantras,
 > Those who disrespect mantra-masters,
 > Or who disparage those who revere them,

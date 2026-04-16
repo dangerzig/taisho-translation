@@ -44,7 +44,7 @@ Composed by Asaṅga (無著). Translated from the Chinese. Tang dynasty, transl
 >
 > Because at former buddhas' places
 > They upheld and practiced the training in morality,
-> And because they planted wholesome roots,
+> And because they planted roots of merit,
 > They are called "endowed with morality, endowed with virtue."
 >
 > Able to sever the notion of self
@@ -282,7 +282,7 @@ Composed by Asaṅga (無著). Translated from the Chinese. Tang dynasty, transl
 > Neither saints nor non-saints, they accord with the true nature.
 >
 > Because there is not the slightest dharma,
-> Unsurpassed awakening should be known:
+> unsurpassed enlightenment should be known:
 > Because the dharma-realm does not increase,
 > The nature of purity and equality.
 >
@@ -342,7 +342,7 @@ Composed by Asaṅga (無著). Translated from the Chinese. Tang dynasty, transl
 > Accomplishes buddhahood, manifesting in all directions.
 >
 > Coming, going, and the rest are transformation;
-> Perfect awakening is always unmoving.
+> perfect enlightenment is always unmoving.
 > Within the locus of the dharma-realm,
 > They are neither one nor different, one should know.
 >

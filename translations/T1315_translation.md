@@ -30,7 +30,7 @@ Those who wish to give food and drink to all hungry ghosts should first arouse t
 > Leave behind suffering, attain liberation,
 > Be reborn in the heavens and enjoy happiness,
 > Travel freely to any of the pure lands of the ten directions,
-> Arouse the mind of awakening, practice the path of awakening,
+> Arouse the mind of enlightenment, practice the path of awakening,
 > And in the future attain buddhahood, never to regress.
 > May those who first attain the Way vow to deliver the rest.
 > I also wish that you, day and night, constantly
@@ -40,7 +40,7 @@ Those who wish to give food and drink to all hungry ghosts should first arouse t
 > Shared equally with all sentient beings,
 > Together with all sentient beings, may this merit
 > Be entirely transferred toward the true suchness of the Dharma-realm,
-> Toward unsurpassed awakening, toward omniscient wisdom.
+> Toward unsurpassed enlightenment, toward omniscient wisdom.
 > May buddhahood be swiftly attained; may no lesser fruit be sought.
 > May we, by means of this Dharma, quickly attain buddhahood.
 
@@ -110,4 +110,4 @@ When reciting the dismissal mantra, first form the mudrā: make a fist with the 
 
 If this method is not performed in full, the giving to the hungry ghosts will not be complete. Some may receive the food and others may not, and the effort will be wasted in vain. How pitiable!
 
-If any practitioner who has aroused the mind of awakening can cultivate in this manner, fulfilling this method of giving to the hungry ghosts, all hungry ghosts will be fully satisfied, lacking nothing. Those who uphold this Dharma should all know this. If one uses the dhāraṇī for empowering food and drink to empower one vessel of pure food and pours it into clean flowing water, all brahmins and sages will be able to receive this food. After eating, they will praise the giver with one voice, and that person in this present life will have their lifespan extended. That person will be endowed with the majestic virtue of Brahmā and will practice the conduct of Brahmā. If one uses this mantra to empower all objects offered to the Buddha, whether water, incense, flowers, food, or drink, empowering each twenty-one times before making the offering to the Buddha, this will be equivalent to making the same variety of offerings to all the buddhas of the ten directions without any difference.
+If any practitioner who has aroused the mind of enlightenment can cultivate in this manner, fulfilling this method of giving to the hungry ghosts, all hungry ghosts will be fully satisfied, lacking nothing. Those who uphold this Dharma should all know this. If one uses the dhāraṇī for empowering food and drink to empower one vessel of pure food and pours it into clean flowing water, all brahmins and sages will be able to receive this food. After eating, they will praise the giver with one voice, and that person in this present life will have their lifespan extended. That person will be endowed with the majestic virtue of Brahmā and will practice the conduct of Brahmā. If one uses this mantra to empower all objects offered to the Buddha, whether water, incense, flowers, food, or drink, empowering each twenty-one times before making the offering to the Buddha, this will be equivalent to making the same variety of offerings to all the buddhas of the ten directions without any difference.

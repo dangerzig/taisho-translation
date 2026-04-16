@@ -9,7 +9,7 @@ Translated from the Chinese. Tang dynasty, composed by Wéijǐn (惟謹)
 
 ## Ritual Procedures for Entering Realization, One Fascicle
 
-Now, the term "ācārya" means one who understands the most secret within the secret: the great mind of mantra-wisdom. The syllable *a* is called the seed; therefore all things are thus. In accord with the Dharma, one universally receives them all. If within this teaching one understands this vast and great wisdom, the great merit of perfect awakening, one is called an ācārya; this is none other than the Tathāgata, and is also called the Buddha. In Sanskrit, *hṛdaya*: *hṛdaya* means the true and real heart, which is the syllable *a*.
+Now, the term "ācārya" means one who understands the most secret within the secret: the great mind of mantra-wisdom. The syllable *a* is called the seed; therefore all things are thus. In accord with the Dharma, one universally receives them all. If within this teaching one understands this vast and great wisdom, the great merit of perfect enlightenment, one is called an ācārya; this is none other than the Tathāgata, and is also called the Buddha. In Sanskrit, *hṛdaya*: *hṛdaya* means the true and real heart, which is the syllable *a*.
 
 Now, the syllable *a* is the mother of all the Buddhas, the birthplace of all mantras, the most supreme and wondrous syllable of the Buddha's heart.
 
@@ -31,7 +31,7 @@ If the practitioner serves as an ācārya for others, one must first establish t
 
 The method for distributing the syllables is as follows: beginning from the white ūrṇā-mark between the practitioner's eyebrows, contemplate the syllable *ka*. Rotate to the right following the sun's course, making a connected ring. The four layers are likewise; each one assembled into a connected body.
 
-Therefore the sūtra says: "*Ka*, *ca*, *ṭa*, *ta*, *pa*: the initial, middle, and final characteristics, augmented by the qualities of equipoise and classified entry, naturally attain the practice of the bodhicitta, accomplish perfect awakening, and reach parinirvāṇa." This refers to the meaning of the four layers of the initial *a*, *ā*, *aṃ*, *aḥ*. Furthermore, the twenty syllables *ka*, *ca*, *ṭa*, *ta*, *pa*, and so on are the middle meaning. The twelve syllables from *i*, *ī* through *u*, *ū* are the meaning of augmented equipoise and classified entry. The twenty syllables *ṅa*, *ña*, *ṇa*, *na*, *ma* and so on are the final meaning.
+Therefore the sūtra says: "*Ka*, *ca*, *ṭa*, *ta*, *pa*: the initial, middle, and final characteristics, augmented by the qualities of equipoise and classified entry, naturally attain the practice of the bodhicitta, accomplish perfect enlightenment, and reach parinirvāṇa." This refers to the meaning of the four layers of the initial *a*, *ā*, *aṃ*, *aḥ*. Furthermore, the twenty syllables *ka*, *ca*, *ṭa*, *ta*, *pa*, and so on are the middle meaning. The twelve syllables from *i*, *ī* through *u*, *ū* are the meaning of augmented equipoise and classified entry. The twenty syllables *ṅa*, *ña*, *ṇa*, *na*, *ma* and so on are the final meaning.
 
 Therefore, speaking comprehensively, the mutual entry is spontaneous. Another explanation divides into three sections: the head is the initial; the throat and heart are the middle; the navel is the final. If using the syllable *ka* as the wheel, then do not use the syllable *kaṃ*; if using *kaṃ* as the wheel, then do not use *ka*. This is called: generating the bodhicitta; practice and fruition as the middle; great quiescence as the final. This is called the three divisions. Once the ācārya has thus formed the body through the three layers, the maṇḍala and the disciples are also distributed in the same way. When all three are accomplished, this is called the Secret Maṇḍala. If one does not penetrate the intent herein, and merely follows the outward procedural methods in performing it, it cannot be called well-done. The effort will be wasted with nothing accomplished.
 
@@ -53,7 +53,7 @@ If the practitioner attains equality of the three aspects: first, the true natur
 
 The sūtra says: "Vajradhara said to the Buddha: 'How does the Tathāgata, the Arhat, the Samyak-saṃbuddha obtain sarvajña-jñāna? He broadly proclaims and distributes various paths, expounding sarvajña-jñāna. Each speaks in the same language of its own voice, dwelling in various modes of conduct, yet the path of sarvajña-jñāna is of one taste. World-Honored One! It is like earth, water, fire, wind, and space: their self-nature pervades all places, and all do not go beyond the gate of the syllable *a*.'" Therefore Vajrapāṇi asked Mahāvairocana: "Such wisdom: what is its cause? What is its root? What is its ultimate consummation?" The Buddha told Vajrapāṇi: "The bodhicitta is the cause; compassion is the root; skillful means is the ultimate consummation. O Vajradhara! What is bodhi? It means truly knowing one's own mind. This is the single characteristic of the syllable *a*, which is also neither one nor different."
 
-Furthermore, the sūtra says: "Listen well, O Vajrapāṇi! I now teach the practice of the maṇḍala and the Dharma-gate that fulfills sarvajña-jñāna." Therefore, when the myriad practices have reached their ultimate fullness with nothing more to add, and the expedients for responding to beings have exhausted their function, this is the supreme fruit of ghee, the source of the three mysteries. The wisdom of that most true reality obtains the name "ācārya." Therefore one should be skilled in expedient means and understand what the Buddha has taught. The sūtra says:
+Furthermore, the sūtra says: "Listen well, O Vajrapāṇi! I now teach the practice of the maṇḍala and the Dharma-gate that fulfills sarvajña-jñāna." Therefore, when the myriad practices have reached their ultimate fullness with nothing more to add, and the expedients for responding to beings have exhausted their function, this is the supreme fruit of ghee, the source of the three mysteries. The wisdom of that most true reality obtains the name "ācārya." Therefore one should be skilled in skillful means and understand what the Buddha has taught. The sūtra says:
 
 > "Furthermore, O Vajradhara! What all the Buddhas have taught:
 > The distribution of all the syllable-gates. Buddha-sons, listen with one mind!
@@ -72,7 +72,7 @@ Furthermore, the sūtra says: "Listen well, O Vajrapāṇi! I now teach the prac
 > *Ī* and *i* are at the two corners of the eyes; *ū* and *u* are the two lips.
 > *Ai* and *e* are the two ears; *o* and *au* are the two cheeks.
 > The syllable *aṃ* is the phrase of bodhi; the syllable *aḥ* is parinirvāṇa.
-> Knowing all these dharmas, the practitioner accomplishes perfect awakening.
+> Knowing all these dharmas, the practitioner accomplishes perfect enlightenment.
 > All the wealth of sarvajña constantly abides within one's heart.
 > The world honors one as Sarvajña: this is Sarvajña."
 

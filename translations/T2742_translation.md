@@ -26,7 +26,7 @@ According to this sūtra text: it proclaims the essence of the ever-abiding wisd
 
 The Tathāgata raises this correct entry to exhort those of the true vehicle. This is not a separate teaching on concentration and wisdom. Rather, it employs only the three kinds of naturelessness (*sān wúxìng*, 三無性) to exclusively remove self-nature (*zìxìng*, 自性). Although we speak of the "two selves," ultimately it is a single emptiness.
 
-The imagined self-characteristic (*biànjì wǒ xiāng*, 遍計我相) has a deluded existence; being deluded, one merely "knows." The dependent self-view (*yītā wǒ jiàn*, 依他我見) has a provisional existence; being provisional, one must "see." The perfected self-nature (*zhēnshí wǒ xìng*, 真實我性) has a verified existence; being verified, one can "believe." In this way, not abiding in the characteristics of non-characteristics, one sees the nature: this is the characteristic-aspect (*xiāng fēn*, 相分) that can enable awakening and entry, taken as a whole.
+The imagined self-characteristic (*biànjì wǒ xiāng*, 遍計我相) has a deluded existence; being deluded, one merely "knows." The dependent self-view (*yītā wǒ jiàn*, 依他我見) has a provisional existence; being provisional, one must "see." The perfected self-nature (*zhēnshí wǒ xìng*, 真實我性) has a verified existence; being verified, one can "believe." In this way, not abiding in the characteristics of non-characteristics, one sees the nature: this is the characteristic-aspect (*xiāng fēn*, 相分) that can enable enlightenment and entry, taken as a whole.
 
 This characteristic is itself without self-nature; hence it is said "then it is not" (*zé fēi*, 則非). Yet it is still the habitual energy (*xíqì*, 習氣) of the self; hence it is said "is named" (*shì míng*, 是名). This constitutes non-abiding in dharma-emptiness. As treated fully in the commentary.
 
@@ -144,7 +144,7 @@ How do we know this? According to the Compendium of the Mahāyāna (*Shè Lùn*,
 
 Just as in the world, measures and weights are standardized throughout the realm, and the regulations and laws are uniform across the four seas, yet some use short cloth and long rulers, exceeding the established standards, and this deviation from the norm arises from willful non-compliance and non-calibration. Having themselves not complied and not calibrated, they then blame those who do comply and calibrate! Is this not improper?
 
-Therefore, know that teaching according to capacity is fundamentally without contradiction. It is the willful, deviant, foolish interpretation that creates discrepancy. Therefore: bringing out contradictions among sūtras is Māra gaining an advantage, and one brings the three evil destinies upon oneself. Hence: "Arguing with a good mind, one is born in the five pure-abode heavens. Arguing with an evil mind, one falls into the four evil destinies." This commentary (*zhuàn*) solely illuminates awakening and entry, accomplishing perfect awakening. Any [interpretation] that violates this contemplation is what [this commentary] does not rely upon.
+Therefore, know that teaching according to capacity is fundamentally without contradiction. It is the willful, deviant, foolish interpretation that creates discrepancy. Therefore: bringing out contradictions among sūtras is Māra gaining an advantage, and one brings the three evil destinies upon oneself. Hence: "Arguing with a good mind, one is born in the five pure-abode heavens. Arguing with an evil mind, one falls into the four evil destinies." This commentary (*zhuàn*) solely illuminates enlightenment and entry, accomplishing perfect enlightenment. Any [interpretation] that violates this contemplation is what [this commentary] does not rely upon.
 
 The cognition and awakening that are the true exposition are still to be regarded as supplementary designations (*zēng yǔ*, 增語). How much more so one's own directly experienced reality (*zì xīn xiànliàng*, 自心現量), which is to be taken as the supreme truth! This is why there are points of agreement and disagreement [with the earlier commentaries]: the reason lies precisely here.
 
@@ -155,9 +155,9 @@ Therefore Asaṅga says:
 > Inferior persons, regarding this deep and great dharma, cannot awaken to it or aspire toward it.
 > Most people in the world are like this; therefore this dharma falls into waste and neglect.
 
-Truly, the buddhas' descent into the world is rare and distant, hard to encounter. Even if one does encounter them, hearing the dharma is harder still. Even having heard, hearing the profound [teaching] is harder yet. Even having heard the profound, faith and understanding are still harder. Even with faith and understanding, awakening and entry are the hardest of all.
+Truly, the buddhas' descent into the world is rare and distant, hard to encounter. Even if one does encounter them, hearing the dharma is harder still. Even having heard, hearing the profound [teaching] is harder yet. Even having heard the profound, faith and understanding are still harder. Even with faith and understanding, enlightenment and entry are the hardest of all.
 
-Thus, awakening and entry, or non-awakening, lies in one's own diligence or lack thereof, not in hearing or speaking. May all fellow practitioners neither belittle themselves nor abandon themselves! As the verse says:
+Thus, enlightenment and entry, or non-awakening, lies in one's own diligence or lack thereof, not in hearing or speaking. May all fellow practitioners neither belittle themselves nor abandon themselves! As the verse says:
 
 > Gathering and seeking all desires without satiation,
 > Gathering desires, not yet satisfied, and life comes to an end.

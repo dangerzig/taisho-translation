@@ -61,7 +61,7 @@ The World-Honored One then told Ānanda: "In the long distant future, in this la
 
 "At that time the Buddha's mother Brahmāvatī will lead eighty-four thousand attendant women to the Buddha's presence and request to become śramaṇīs. At that time all the women will attain arhatship, except for Brahmāvatī herself, who alone will sever the three fetters and attain stream-entry (sotāpatti).
 
-"At that time the kṣatriya women, hearing that the Tathāgata Maitreya has appeared in the world and attained perfect awakening, will come by the thousands and ten-thousands to the Buddha's presence. They will bow their heads at his feet, sit to one side, and each generate the aspiration to become śramaṇīs, to leave the household life and study the path. Some will attain realization in sequence, and some will not yet attain realization.
+"At that time the kṣatriya women, hearing that the Tathāgata Maitreya has appeared in the world and attained perfect enlightenment, will come by the thousands and ten-thousands to the Buddha's presence. They will bow their heads at his feet, sit to one side, and each generate the aspiration to become śramaṇīs, to leave the household life and study the path. Some will attain realization in sequence, and some will not yet attain realization.
 
 "At that time, Ānanda, those who do not attain realization in sequence are all people who uphold the Dharma, who are weary and disenchanted with all worldly things, and who cultivate the contemplation of the undesirable.
 

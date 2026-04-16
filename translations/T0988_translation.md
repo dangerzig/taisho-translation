@@ -94,7 +94,7 @@ The Great Brahmā King, the Thirty-Three Heavens, the World-Protecting Four Heav
 
 Then he spoke the dhāraṇī:
 
-"Homage to the Buddha. Homage to the Dharma. Homage to the Sangha. Homage to the seven buddhas of the past and their right, perfect awakening. Homage to the pratyekabuddhas. Homage to all buddhas. Homage to all arhats. Homage to Maitreya and all bodhisattvas. Homage to all anāgāmins, homage to sakṛdāgāmins, homage to srotāpannas. Homage to those in the world who follow the right Dharma and walk the right path. Having paid reverence to that assembly, I wish to practice the Great Golden Peacock King Dhāraṇī Sūtra. May all wishes be fulfilled auspiciously!"
+"Homage to the Buddha. Homage to the Dharma. Homage to the Sangha. Homage to the seven buddhas of the past and their right, perfect enlightenment. Homage to the pratyekabuddhas. Homage to all buddhas. Homage to all arhats. Homage to Maitreya and all bodhisattvas. Homage to all anāgāmins, homage to sakṛdāgāmins, homage to srotāpannas. Homage to those in the world who follow the right Dharma and walk the right path. Having paid reverence to that assembly, I wish to practice the Great Golden Peacock King Dhāraṇī Sūtra. May all wishes be fulfilled auspiciously!"
 
 Announce to all ghosts and spirits and listen: whether dwelling in the sky, on the earth, or in the water: devas, nāgas, asuras, garuḍas, gandharvas, kiṃnaras, mahoragas, yakṣas, rākṣasas, hungry ghosts, piśācas, bhūtas, kumbhāṇḍas, pūtanas, gandhas, unmaḍas, cāyas, apasmāras, uttarakas: listen to what I declare!
 

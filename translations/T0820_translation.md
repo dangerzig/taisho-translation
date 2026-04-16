@@ -235,7 +235,7 @@ The Buddha told the householder: "Compassion has four aspects: first, showing pi
 
 "Sympathetic joy has four aspects: first, a harmonious expression; second, kind words; third, expounding the sūtras; fourth, explaining the meaning.
 
-"Equanimous protection has four aspects: first, teaching others to abandon evil and pursue good; second, constantly instructing and guiding others to take refuge in the Three Jewels; third, causing others to arouse the aspiration for the path; fourth, transforming all sentient beings. These are the four."
+"Equanimous protection has four aspects: first, teaching others to abandon evil and pursue good; second, constantly instructing and guiding others to take refuge in the Three Treasures; third, causing others to arouse the aspiration for the path; fourth, transforming all sentient beings. These are the four."
 
 The Buddha then spoke in verse:
 
@@ -246,7 +246,7 @@ The Buddha then spoke in verse:
 > With harmonious expression and kind words,
 > Expounding the Dharma and explaining its meaning,
 > Teaching others to abandon evil and pursue good,
-> Guiding them to take refuge in the Three Jewels."
+> Guiding them to take refuge in the Three Treasures."
 
 The Buddha told the householder: "There are four dharmas that swiftly bring the unsurpassed, true, and correct path: first, understanding emptiness, learning without seeking anything; second, signlessness, without any expectation; third, wishlessness, not yearning for any place of birth; fourth, always equalizing the work of the three vehicles, with no past, future, or present. These are the four."
 
@@ -266,7 +266,7 @@ The Buddha then spoke in verse:
 > Birth and death arise from conditions,
 > And those conditions are fundamentally without form."
 
-The Buddha told the householder: "There are six dharmas that swiftly bring perfect awakening: first, the body always practices loving-kindness, without enmity or binding; second, the mouth always practices loving-kindness, expounding the meaning of deep wisdom; third, the mind is kind, benevolent, harmonious, and gentle, showing compassion for the ten directions; fourth, guarding the precepts without producing thoughts, seeking the work of the Mahāyāna; fifth, with right contemplation seeing the ten directions as empty, the path and worldly life being non-dual; sixth, providing food to those in need and rescuing those in danger and distress. These are the six."
+The Buddha told the householder: "There are six dharmas that swiftly bring perfect enlightenment: first, the body always practices loving-kindness, without enmity or binding; second, the mouth always practices loving-kindness, expounding the meaning of deep wisdom; third, the mind is kind, benevolent, harmonious, and gentle, showing compassion for the ten directions; fourth, guarding the precepts without producing thoughts, seeking the work of the Mahāyāna; fifth, with right contemplation seeing the ten directions as empty, the path and worldly life being non-dual; sixth, providing food to those in need and rescuing those in danger and distress. These are the six."
 
 The Buddha then spoke in verse:
 
@@ -288,7 +288,7 @@ The Buddha then spoke in verse:
 > Neither averse to nor weary of birth and death,
 > Never abandoning skillful wisdom."
 
-The Buddha told the householder: "Transforming sentient beings has four aspects: first, for those who do not believe in birth and death, using present evidence of fortune and misfortune to instruct them; second, for those who do not believe in the Three Jewels, revealing the great path; third, for those confused and following wrong paths, pointing them to the three vehicles, explaining that the Buddha's path is uniquely honored and without equal; fourth, explaining that all that exists in the three realms is entirely like magical transformations, with nothing truly real. These are the four."
+The Buddha told the householder: "Transforming sentient beings has four aspects: first, for those who do not believe in birth and death, using present evidence of fortune and misfortune to instruct them; second, for those who do not believe in the Three Treasures, revealing the great path; third, for those confused and following wrong paths, pointing them to the three vehicles, explaining that the Buddha's path is uniquely honored and without equal; fourth, explaining that all that exists in the three realms is entirely like magical transformations, with nothing truly real. These are the four."
 
 The Buddha then spoke in verse:
 

@@ -63,7 +63,7 @@ One should daily, in the early morning, in one's regular offering hall, wearing 
 > The Tathāgata's form is inexhaustible, and his wisdom likewise:
 > All dharmas permanently abide; therefore I take refuge."
 
-[Prostrations to Amitābha in his four buddha-lands: the Land of Eternally Quiescent Light, the Land of Real Reward and Adornment, the Land of Expedient Means and Holy Residence, and the Western Land of Peaceful Bliss. Prostrations to Avalokiteśvara Bodhisattva, Mahāsthāmaprāpta Bodhisattva, and the assembly of the Pure Ocean.]
+[Prostrations to Amitābha in his four buddha-lands: the Land of Eternally Quiescent Light, the Land of Real Reward and Adornment, the Land of skillful means and Holy Residence, and the Western Land of Peaceful Bliss. Prostrations to Avalokiteśvara Bodhisattva, Mahāsthāmaprāpta Bodhisattva, and the assembly of the Pure Ocean.]
 
 [A long repentance prayer follows, confessing all sins from beginningless time through the six sense-faculties and three types of karma, and dedicating all to rebirth in the Pure Land.]
 
@@ -73,7 +73,7 @@ Each day at dawn, after dressing, face west, stand upright, join the palms, and 
 
 After completing the recitations, make the dedication vow:
 
-"I, your disciple, with one mind take refuge in Amitābha Buddha of the Land of Ultimate Bliss. May your pure light illuminate me; may your compassionate vow embrace me. I now, with correct mindfulness, recite the Tathāgata's name for the duration of ten recitations, seeking the Way of bodhi, aspiring to be born in the Pure Land. The Buddha formerly made this vow: 'If any sentient being desires to be born in my land, with sincere faith and joy, for even ten recitations, and is not born there, I shall not attain perfect awakening; excluded only are the five heinous offenses and slander of the correct Dharma.' ... May at the moment of my death, I know the time has come, my body be free from illness and pain, my mind free from attachment, not confused or scattered, as if entering meditation. May the Buddha and the holy assembly, holding the golden platform, come to welcome and receive me. In the space of a single thought, may I be born in the Land of Ultimate Bliss."
+"I, your disciple, with one mind take refuge in Amitābha Buddha of the Land of Ultimate Bliss. May your pure light illuminate me; may your compassionate vow embrace me. I now, with correct mindfulness, recite the Tathāgata's name for the duration of ten recitations, seeking the Way of bodhi, aspiring to be born in the Pure Land. The Buddha formerly made this vow: 'If any sentient being desires to be born in my land, with sincere faith and joy, for even ten recitations, and is not born there, I shall not attain perfect enlightenment; excluded only are the five heinous offenses and slander of the correct Dharma.' ... May at the moment of my death, I know the time has come, my body be free from illness and pain, my mind free from attachment, not confused or scattered, as if entering meditation. May the Buddha and the holy assembly, holding the golden platform, come to welcome and receive me. In the space of a single thought, may I be born in the Land of Ultimate Bliss."
 
 ### Third Gate: Constant Mindfulness
 

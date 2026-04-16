@@ -25,7 +25,7 @@ What is the meaning of "Vajra-maṇi"? "Vajra" is as explained above. "Jewel" ha
 
 "*Namo ārya-vairocanāya tathāgatāya arhate samyak-saṃbuddhāya*": "*Namaḥ*" means "homage," also "bowing the head," also "prostrating with the crown." "*Ārya*" means "far from evil"; in our interpretive convention it means "holy one." "*Vairocanāya*" means "universal illumination," also "great sun." The meaning is that the worldly sun illuminates one side but not the other, illuminates daytime but not night, illuminates one world but not other worlds; thus it can only be called "sun," not "great sun." Vairocana, the Great Sun: his form-body and dharma-body pervade the dharma-realm and the realm of empty space, universally illuminating the boundless worlds of the ten directions. If a person knows the merit of this Buddha and takes refuge in reverence, then all the Buddhas, bodhisattvas, worthy sages, and eight classes of beings throughout empty space and the dharma-realm will together empower, protect, and be mindful of them.
 
-"*Tathāgatāya arhate samyak-saṃbuddhāya*": "Thus Come One, Worthy of Offerings, of Right and Universal Knowledge." This has already been explained.
+"*Tathāgatāya arhate samyak-saṃbuddhāya*": "Tathāgata, Worthy of Offerings, of Right and Universal Knowledge." This has already been explained.
 
 "*Namo ārya*": already explained.
 

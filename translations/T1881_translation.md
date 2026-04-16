@@ -14,7 +14,7 @@ Original essay by Fǎzàng (*Fǎzàng*, 法藏) of the Tang dynasty. Annotated b
 
 [Chéngqiān's preface consists of a series of rhetorical questions extolling the unique features of the Avataṃsaka Sūtra and the Huáyán school:]
 
-The dragon-elephants tread upon heaven and earth, opening the treasury of profundity and teaching the wondrous Dharma... Of all the teachings spoken by the Thus-Come One, is there any teaching within which this [Huáyán] teaching is not found? Is there any teaching that, at the initial stage of the ten faiths, completes the work of all fifty-two stages and realizes the patience of non-arising? Is there any teaching that speaks of the "one" that encompasses all three worlds (sentient-being world, material world, and wisdom world)? Is there any sūtra whose setting is a pure land, wondrous and adorned? Is there any sūtra that does not proceed through principle alone but reveals the nature through phenomena?
+The dragon-elephants tread upon heaven and earth, opening the treasury of profundity and teaching the wondrous Dharma... Of all the teachings spoken by the Tathāgata, is there any teaching within which this [Huáyán] teaching is not found? Is there any teaching that, at the initial stage of the ten faiths, completes the work of all fifty-two stages and realizes the patience of non-arising? Is there any teaching that speaks of the "one" that encompasses all three worlds (sentient-being world, material world, and wisdom world)? Is there any sūtra whose setting is a pure land, wondrous and adorned? Is there any sūtra that does not proceed through principle alone but reveals the nature through phenomena?
 
 Only this single sūtra possesses all these virtues...
 

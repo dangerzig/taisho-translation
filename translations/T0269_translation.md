@@ -99,9 +99,9 @@ The Buddha then spoke in verse:
 
 The Buddha told the girl Lìxíng: "What is seen in the Lotus-Flower Samādhi is also like this."
 
-When the Buddha taught these thirty-six things, innumerable devas and humans and the worldly great assembly, together with the king's retinue great and small, altogether four hundred billion, all generated the aspiration for unsurpassed, true awakening. The girl Lìxíng and the inner palace women, thirty-two thousand attendants and consorts, all attained the patient joy of the birthlessness of dharmas.
+When the Buddha taught these thirty-six things, innumerable devas and humans and the worldly great assembly, together with the king's retinue great and small, altogether four hundred billion, all generated the aspiration for unsurpassed, true enlightenment. The girl Lìxíng and the inner palace women, thirty-two thousand attendants and consorts, all attained the patient joy of the birthlessness of dharmas.
 
-Among them, a girl standing in the assembly saw that all had generated the aspiration for awakening. Her heart was greatly joyful, and she rose to pay homage to the Buddha. She circumambulated the Buddha three times, stood before the Buddha, and spoke in verse:
+Among them, a girl standing in the assembly saw that all had generated the aspiration for enlightenment. Her heart was greatly joyful, and she rose to pay homage to the Buddha. She circumambulated the Buddha three times, stood before the Buddha, and spoke in verse:
 
 > "The World-Honored One is truly marvelous and divine,
 > Expounding knowledge of the three ages.
@@ -259,7 +259,7 @@ The Buddha then said to the bhikṣu: "It is due to manifold causes and conditio
 > Clinging to habit and self-limitation,
 > Destroying the root, one gives rise to derivative desire."
 
-At that time, eighty-four thousand bhikṣus, hearing the verse, understood its meaning and generated the aspiration for unsurpassed, true awakening. Innumerable devas and humans scattered flowers and famous incenses, all coming to make offerings to the Buddha.
+At that time, eighty-four thousand bhikṣus, hearing the verse, understood its meaning and generated the aspiration for unsurpassed, true enlightenment. Innumerable devas and humans scattered flowers and famous incenses, all coming to make offerings to the Buddha.
 
 Then Śāriputra thought: "This girl has such eloquence; why does she not leave her female body and become a man?"
 
@@ -419,7 +419,7 @@ The Buddha then emitted light of manifold colors, whose radiance illuminated the
 > All rejoice,
 > And prostrate at the Buddha's feet."
 
-At that time, all the six-power sages and arhats saw the flowers speak thus. The girl Lìxíng then transformed into a man, and further into a bodhisattva. A single girl made these two transformations, and all in the assembly rejoiced. At that time, in the entire buddha-field there were no women. Among the six-power practitioners, one hundred and five thousand, and thirty thousand stream-enterers, all attained the stage of non-retrogression. Eighty-six thousand humans and non-returners all attained the patient endurance of the compliant Dharma. Incalculable arhats further generated the aspiration for unsurpassed, true awakening, and those who had been practicing as pratyekabuddhas became like Maitreya and his kind.
+At that time, all the six-power sages and arhats saw the flowers speak thus. The girl Lìxíng then transformed into a man, and further into a bodhisattva. A single girl made these two transformations, and all in the assembly rejoiced. At that time, in the entire buddha-field there were no women. Among the six-power practitioners, one hundred and five thousand, and thirty thousand stream-enterers, all attained the stage of non-retrogression. Eighty-six thousand humans and non-returners all attained the patient endurance of the compliant Dharma. Incalculable arhats further generated the aspiration for unsurpassed, true enlightenment, and those who had been practicing as pratyekabuddhas became like Maitreya and his kind.
 
 The king then entrusted the kingdom to the crown prince. The prince, named Eloquent Accumulation, bowed and knelt and addressed the great king: "Does the king wish to give to his descendants the calamity of form-bodies, or the blessings of Dharma-bodies? Will you pass on to your descendants the punishment of enemies and the great crime of killing? The governance of a great kingdom, generation after generation, sinks and is lost. People's faculties do not know great wisdom; the path that extinguishes goodness is given to the descendants. What shall we do? The father-king has given his command, and I cannot but obey." He then bowed, took leave of the king, and departed. He returned to the palace, sat and governed the kingdom, and proclaimed: "Anyone who does not go to the Buddha's place to seek the unconditioned Way and perform good deeds of filial piety shall be deemed guilty as one who commits the three treasons."
 
@@ -556,7 +556,7 @@ The Buddha said to Ānanda: "Do you see the great assembly?"
 
 "Now all the Tathāgata's questions have been fully answered. Each of them, in the ten directions, teaches, transforms, and delivers devas and humans as numerous as the sands of the Ganges, causing all to become Buddhas." At that time, fragrant flowers and seven treasures spontaneously rained down, covering the great trichiliocosm, filling every place without remainder.
 
-The Buddha said to the crown prince: "This is what the Lotus-Flower reveals about the nature of the human body." At that time, innumerable hundreds of thousands of humans as numerous as the sands of the Ganges all generated the aspiration for unsurpassed, true awakening and attained the birthless mind. Innumerable thousands of śrāvakas all attained the stage of non-retrogression.
+The Buddha said to the crown prince: "This is what the Lotus-Flower reveals about the nature of the human body." At that time, innumerable hundreds of thousands of humans as numerous as the sands of the Ganges all generated the aspiration for unsurpassed, true enlightenment and attained the birthless mind. Innumerable thousands of śrāvakas all attained the stage of non-retrogression.
 
 Ānanda knelt and addressed the Buddha: "What is the name of this sūtra? How should it be practiced?"
 

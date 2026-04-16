@@ -25,7 +25,7 @@ Take one thousand eight hundred pieces of khadira wood, each one foot long. Usin
 
 One must also paint a white image of the holy Avalokiteśvara, of whatever size one's resources allow.
 
-An earlier translation says: The karma accumulated over a thousand kalpas is entirely extinguished in one session of recitation, and one gains the wholesome roots amassed by a thousand buddhas. One transcends a thousand kalpas of cyclic wandering through birth, old age, sickness, and death. After leaving this body, one will see a thousand wheel-turning holy kings and forever uphold the ten wholesome precepts. If one wishes to be reborn in a buddha's pure land, one should recite twenty-one times at each of the three periods of day and night, completing twenty-one days. As one desires, one will in dreams see a golden buddha image or bodhisattva forms.
+An earlier translation says: The karma accumulated over a thousand kalpas is entirely extinguished in one session of recitation, and one gains the roots of merit amassed by a thousand buddhas. One transcends a thousand kalpas of cyclic wandering through birth, old age, sickness, and death. After leaving this body, one will see a thousand wheel-turning holy kings and forever uphold the ten wholesome precepts. If one wishes to be reborn in a buddha's pure land, one should recite twenty-one times at each of the three periods of day and night, completing twenty-one days. As one desires, one will in dreams see a golden buddha image or bodhisattva forms.
 
 The above spell and its powers were all translated from the Sanskrit original by Master Tōng at Zǒngchí Temple. The mudrā methods were translated by Master Gupta.
 

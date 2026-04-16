@@ -146,7 +146,7 @@ Thereupon the World-Honored One spoke in verse:
 > Always bearing heavy burdens, flayed after death.
 > Such suffering is difficult to endure.
 
-"Furthermore, elder's son, there are five practices by which one becomes noble and respected by all. What are the five? First, giving generously with broad and universal benefit. Second, revering the Buddha, Dharma, and the Three Jewels, as well as all elders. Third, patience, without any anger. Fourth, gentleness and humility. Fifth, broad learning and recitation of the sūtras and precepts. By these five practices one becomes noble and is respected by all."
+"Furthermore, elder's son, there are five practices by which one becomes noble and respected by all. What are the five? First, giving generously with broad and universal benefit. Second, revering the Buddha, Dharma, and the Three Treasures, as well as all elders. Third, patience, without any anger. Fourth, gentleness and humility. Fifth, broad learning and recitation of the sūtras and precepts. By these five practices one becomes noble and is respected by all."
 
 At that time the World-Honored One spoke in verse:
 
@@ -154,7 +154,7 @@ At that time the World-Honored One spoke in verse:
 > Bringing universal relief and peace to all,
 > Blessed with beauty, strength, long life, and health:
 > All one's kindred receive this grace.
-> Revering the Three Jewels of the Buddha,
+> Revering the Three Treasures of the Buddha,
 > Serving all elders with respect:
 > Wherever born one is noble,
 > Always receiving the homage of all.
@@ -175,7 +175,7 @@ At that time the World-Honored One spoke in verse:
 > Who are arrogant toward their parents,
 > Without a deferential mind,
 > They are born in lowly station.
-> Not venerating the Three Jewels,
+> Not venerating the Three Treasures,
 > Stubborn before their elders,
 > Without compassion or filial devotion to others,
 > They are born as servants.
@@ -192,7 +192,7 @@ At that time the World-Honored One spoke in verse:
 
 At that time the World-Honored One spoke in verse:
 
-> "Revering the Three Jewels,
+> "Revering the Three Treasures,
 > Not being arrogant toward one's parents,
 > Sincere, not deceptive:
 > Such conduct is respected by all.
@@ -230,11 +230,11 @@ At that time the World-Honored One spoke in verse:
 > Passing through the five destinies,
 > Never freed from all these sufferings.
 
-"Furthermore, elder's son, there are five practices by which, wherever one is born, one always encounters the Buddha, the Dharma, and the Sangha, never failing in this, and upon seeing the Buddha and hearing the Dharma attains a wholesome mind, and if one becomes a śramaṇa, always achieves one's aspirations. What are the five? First, personally serving the Three Jewels and encouraging others to do likewise. Second, making images of the Buddha, keeping them fresh and clean. Third, always following the teacher's instructions and never violating what one has received. Fourth, universal compassion toward all beings, regarding them as equal to oneself, cherishing them as one cherishes an infant. Fifth, reciting the sūtras and teachings one has received, day and night. By these five practices, wherever one is born, one always encounters the Buddha, the Dharma, and the Sangha, never failing in this, and upon seeing the Buddha and hearing the Dharma attains a wholesome mind, and if one becomes a śramaṇa, always achieves one's aspirations."
+"Furthermore, elder's son, there are five practices by which, wherever one is born, one always encounters the Buddha, the Dharma, and the Sangha, never failing in this, and upon seeing the Buddha and hearing the Dharma attains a wholesome mind, and if one becomes a śramaṇa, always achieves one's aspirations. What are the five? First, personally serving the Three Treasures and encouraging others to do likewise. Second, making images of the Buddha, keeping them fresh and clean. Third, always following the teacher's instructions and never violating what one has received. Fourth, universal compassion toward all beings, regarding them as equal to oneself, cherishing them as one cherishes an infant. Fifth, reciting the sūtras and teachings one has received, day and night. By these five practices, wherever one is born, one always encounters the Buddha, the Dharma, and the Sangha, never failing in this, and upon seeing the Buddha and hearing the Dharma attains a wholesome mind, and if one becomes a śramaṇa, always achieves one's aspirations."
 
 At that time the World-Honored One spoke in verse:
 
-> "Serving and revering the Three Jewels,
+> "Serving and revering the Three Treasures,
 > Teaching and encouraging others to do the same,
 > Making beautiful images of the Buddha,
 > Following all one's teachers' instructions:

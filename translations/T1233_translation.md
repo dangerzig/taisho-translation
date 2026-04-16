@@ -39,7 +39,7 @@ At that time the World-Honored One told Śāriputra, Ānanda, and others: "I now
 
 > "'Great wisdom has proclaimed it, like a great light illuminating all.
 > And I, on this very day, have subdued Māra's army.
-> As you in the past sought supreme perfect awakening,
+> As you in the past sought supreme perfect enlightenment,
 > You attained great fearlessness, and Māra's army was subdued.'
 
 "I now, by the power of that vidyā, have destroyed Māra, his great army, and all his retinue." He then spoke the mantra:

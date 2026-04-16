@@ -15,7 +15,7 @@ As for those who cling to words and are obstructed by meaning, who grasp the con
 
 When they construct the causes of discrimination and invite the fruits of delusion, when afflictions and karma perfume their inner consciousness and evil companions form their external conditions, then arrogance soars high as a lofty mountain, views run deep as the vast ocean, the fire of anger is hard to touch, and the blade of their words is difficult to withstand. Hearing talk of existence they are delighted; hearing discourse on emptiness they raise slander. Six types of biased attachment, each claiming to be unbiased; five hundred treatise-masters contending with rival theories. Some use the heterodox to disturb the orthodox; some equate the counterfeit with the genuine. Understanding seems like awakening yet turns to delusion; teaching though accessible becomes further obstructed. It may be called casting away pearls to play with stones, abandoning treasure to carry firewood, fearing painted dragons, shrinking from elephant tracks. When attachment is like this, it is truly lamentable.
 
-The Bodhisattva Nāgārjuna, born to rescue the world, rebuked sensual craving and generated the aspiration for awakening. He studied the profound sūtras and was humbled. Having received the distant prediction of the Sole Honored One, he kindled the lamp of dharma in Jambudvīpa. His stage surpassed the initial grounds of reliance; his accomplishments transcended the positions of subduing. Having thoroughly penetrated the one reality and fully investigated the two capacities, he wore the two seals and settled the hundred schools, merging the three emptinesses to equalize the ten thousand things. Through dust-particle kalpas of trials, pitying the deluded masses, he composed this treatise. Its language is profound and its meaning subtle; its refutations are skillful and its expositions masterful. Yet when bestowed upon those of dull faculties, many became timid and retreated.
+The Bodhisattva Nāgārjuna, born to rescue the world, rebuked sensual craving and generated the aspiration for enlightenment. He studied the profound sūtras and was humbled. Having received the distant prediction of the Sole Honored One, he kindled the lamp of dharma in Jambudvīpa. His stage surpassed the initial grounds of reliance; his accomplishments transcended the positions of subduing. Having thoroughly penetrated the one reality and fully investigated the two capacities, he wore the two seals and settled the hundred schools, merging the three emptinesses to equalize the ten thousand things. Through dust-particle kalpas of trials, pitying the deluded masses, he composed this treatise. Its language is profound and its meaning subtle; its refutations are skillful and its expositions masterful. Yet when bestowed upon those of dull faculties, many became timid and retreated.
 
 There was the Bodhisattva Bhāviveka (lit. "Clear Discrimination"), a great general of the Mahāyāna dharma, who embodied the Way within his heart. Having surveyed far and wide the true teachings, he composed this commentary, opening the treasury of secret meaning and bestowing the wish-fulfilling jewel. The concise and the extensive mutually support each other; the master and the disciple mutually illuminate each other. As for the differing interpretations arising in a thousand ways within his own vehicle, and the myriad threads of divergent theories among the non-Buddhist schools, whether donkey-carts competing to race against four-horse chariots or fireflies vying to outshine dragon-candles, he invariably classified their types and revealed their doctrinal lineages. Jade and stone were thus distinguished; black and white were thus determined. In the Western Regions, several scholars put pen to paper on this subject. In terms of verifying truth and analyzing subtleties, this work is the most refined. If the comprehensive version were included with the root text, it would amount to six thousand verses. Such is the Sanskrit; in translation it is reduced.
 
@@ -633,7 +633,7 @@ The chapter addresses the important distinction between the Middle Way teaching 
 
 "If someone says: 'The Middle Way says all sentence-meanings are non-existent; this is no different from the Lokāyata saying "non-existent,"' one should answer: 'My saying all sentence-meanings are non-existent also has a distinction. You do not understand, and therefore speak thus.'"
 
-The distinction is explained: The Lokāyata who denies cause and effect uproots the wholesome roots and performs all unwholesome actions. The Middle Way teaches that cause and effect continue like illusions and mirages; one practices the wholesome path because of the continuation of the aggregates with outflows. The Lokāyata's consciousness of negation grasps the non-existent as its object and is wrong knowledge; the Middle Way practitioner, upon seeing the truth and attaining the understanding of emptiness, no longer gives rise to the grasping-consciousness of form and other objects.
+The distinction is explained: The Lokāyata who denies cause and effect uproots the roots of merit and performs all unwholesome actions. The Middle Way teaches that cause and effect continue like illusions and mirages; one practices the wholesome path because of the continuation of the aggregates with outflows. The Lokāyata's consciousness of negation grasps the non-existent as its object and is wrong knowledge; the Middle Way practitioner, upon seeing the truth and attaining the understanding of emptiness, no longer gives rise to the grasping-consciousness of form and other objects.
 
 The true nature of reality:
 
@@ -723,7 +723,7 @@ Because if everything is empty, there would be no suffering to know, no accumula
 
 > "If there is no dharma and saṃgha,
 > How can there be a buddha-jewel?
-> If the Three Jewels are all empty,
+> If the Three Treasures are all empty,
 > Then all existence is destroyed."
 
 The author responds:
@@ -766,7 +766,7 @@ The opponent's fault is turned back upon them:
 > Like one riding a horse
 > Who forgets the horse he is riding."
 
-The chapter establishes that emptiness is not nothingness but is the very condition for the Noble Truths, the Three Jewels, and the entire Buddhist path to function:
+The chapter establishes that emptiness is not nothingness but is the very condition for the Noble Truths, the Three Treasures, and the entire Buddhist path to function:
 
 "In ultimate truth, seeing non-arising and such is called seeing the Noble Truths." As the *Mañjuśrīvihāra-sūtra* says: "The Buddha told Mañjuśrī: 'If one sees all dharmas as non-arising, one understands the truth of suffering. If one sees all dharmas as non-abiding, one can abandon accumulation. If one sees all dharmas as ultimately nirvāṇa, one can realize cessation. Mañjuśrī! If one sees all dharmas as lacking self-nature, this is cultivating the path.'"
 

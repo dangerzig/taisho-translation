@@ -82,7 +82,7 @@ Translated from the Chinese. Song dynasty, translated by Dharmabhadra (法賢).
 > He opens the treasury of compassion and merit,
 > And universally shows the gate of virtuous skillful means.
 > May the sentient beings of the Fortunate Kalpa yet to come
-> All realize bodhi and ascend to true awakening.
+> All realize bodhi and ascend to true enlightenment.
 
 ---
 

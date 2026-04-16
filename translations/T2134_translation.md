@@ -139,7 +139,7 @@ Title and the eight (題八). Hundred and remaining (百余). All examining (皆
 > Inner and outer offerings; the four means of attraction and self-benefit.
 > The holy buddha, the worthy sage; beings of the Fortunate Kalpa, compassionate.
 > I have already purified the three karmas; saving the world, the ācārya
-> Transmits the Dharma with expedient means; the truth is inconceivable.
+> Transmits the Dharma with skillful means; the truth is inconceivable.
 > With deep compassion making counsel; the solemn great teacher.
 > Supreme yoga, maintaining the mantra, the caitya.
 > Relying on the great teaching; the maṇḍala's secret opening

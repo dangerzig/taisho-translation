@@ -33,7 +33,7 @@ Before the Āgama Digest, homage to the Well-Gone One, to the Dharma, and to the
 
 **Question:** This device corresponds to the three dharmas. State them.
 
-**Answer:** Virtues, evils, and the basis for awakening and liberation. Virtues, evils, and the basis for awakening and liberation: this sentence-meaning is the root sentence. Each of the three has three degrees and three divisions.
+**Answer:** Virtues, evils, and the basis for enlightenment and liberation. Virtues, evils, and the basis for enlightenment and liberation: this sentence-meaning is the root sentence. Each of the three has three degrees and three divisions.
 
 **Question:** There is a sentence with three divisions. First explain liberation through contemplation. What is the meaning of liberation? That liberation corresponds to virtues, evils, and the basis for awakening.
 
@@ -307,7 +307,7 @@ Ignorance consists of: non-knowledge (*ajñāna*), wrong knowledge (*mithyā-jñ
 
 **Wrong knowledge** consists of views of the self, internal reception-views, and clinging to views. The self-view means apprehending the five sense-bases as "I" with a corresponding sense of mastery. Internal reception-views are views of eternalism and annihilationism. Clinging to views includes clinging to precepts and clinging to views.
 
-**Doubtful knowledge** means doubt regarding the Three Jewels, the truths, and right attainment.
+**Doubtful knowledge** means doubt regarding the Three Treasures, the truths, and right attainment.
 
 ---
 

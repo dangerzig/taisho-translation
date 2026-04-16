@@ -42,6 +42,6 @@ To further explain this meaning, the Buddha spoke in verse:
 > Adorned with auspicious marks.
 > Those who uphold the Buddhas' names,
 > Surpassing ten billion kalpas,
-> Shall swiftly attain perfect awakening.
+> Shall swiftly attain perfect enlightenment.
 
 When the Buddha had finished teaching this sūtra, the mahāsattva Vimaladattaketu, all the bodhisattvas, devas, nāgas, ghosts, spirits, and worldly humans all rejoiced and reverently received the Buddha's teaching.

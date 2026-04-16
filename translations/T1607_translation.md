@@ -56,7 +56,7 @@ What are habitual tendencies? When afflictions are absent yet one's conduct and 
 
 ### Gate Two: Accumulation of Prerequisites
 
-> Planting various wholesome roots,
+> Planting various roots of merit,
 > Being free from doubt, removing feverish torment,
 > Flowing purely in the Dharma:
 > This is called "accumulation."
@@ -67,7 +67,7 @@ What are habitual tendencies? When afflictions are absent yet one's conduct and 
 
 **Commentary:** As the sūtra says: "This person should first cultivate extensive learning, then hear the correct Dharma; the feverish torment of wrong views should be properly eliminated; the coverings and entanglements of the mind should be properly subdued."
 
-How does one accumulate wholesome roots? By upholding the correct Dharma. How is one free from doubt? By delighting in hearing the Dharma. How does one remove feverish torment? By removing the two views: the view of wanting others to know and recognize one, and the view of self-exaltation. How does one flow purely in the Dharma? By removing the mere satisfaction of hearing, so that one progresses to thinking and diligent practice without ceasing.
+How does one accumulate roots of merit? By upholding the correct Dharma. How is one free from doubt? By delighting in hearing the Dharma. How does one remove feverish torment? By removing the two views: the view of wanting others to know and recognize one, and the view of self-exaltation. How does one flow purely in the Dharma? By removing the mere satisfaction of hearing, so that one progresses to thinking and diligent practice without ceasing.
 
 ---
 

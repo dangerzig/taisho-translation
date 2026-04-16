@@ -23,7 +23,7 @@ The above four points correspond to the four *siddhanta* (modes of teaching). Th
 
 ## Part Two: Explaining the Main Practice (明正意第二)
 
-The *Commentary on the Requesting Avalokitesvara Sūtra* follows earlier authorities in explaining the method through ten points: (1) adorning and purifying the ritual space, (2) bowing, (3) burning incense and scattering flowers, (4) focusing the mind and counting the breath, (5) preparing willow branches and pure water, (6) inviting the Three Jewels, (7) reciting the dharanis, (8) confessing and disclosing, (9) prostrations, and (10) seated meditation. The commentary merely explains the sūtra without having time to elaborate the method in detail, so it provisionally follows the older arrangement. Since the *Hundred Records* directly explains the ritual procedure, its arrangement differs slightly from the older version. [Details of the slight reordering between the older version and the *Hundred Records* are discussed.]
+The *Commentary on the Requesting Avalokitesvara Sūtra* follows earlier authorities in explaining the method through ten points: (1) adorning and purifying the ritual space, (2) bowing, (3) burning incense and scattering flowers, (4) focusing the mind and counting the breath, (5) preparing willow branches and pure water, (6) inviting the Three Treasures, (7) reciting the dharanis, (8) confessing and disclosing, (9) prostrations, and (10) seated meditation. The commentary merely explains the sūtra without having time to elaborate the method in detail, so it provisionally follows the older arrangement. Since the *Hundred Records* directly explains the ritual procedure, its arrangement differs slightly from the older version. [Details of the slight reordering between the older version and the *Hundred Records* are discussed.]
 
 These ten points each encompass both phenomena and principle, both correspond to spiritual response, both pervade the three kinds of action (body, speech, and mind), purify the three obstacles, and accord with the three virtues. The path of liberation is truly open and smooth. From the perspective of phenomena, these are the ten categories of ritual action. From the perspective of principle, there are only two: (1) the Middle Way right contemplation in accordance with the dhāraṇī, and (2) cultivating contemplation through each ritual action. Both phenomena and principle necessarily rely on the three kinds of action. When the three actions become the proper basis, principle responds without exception. Through response, karma is purified. When karma is purified, obstacles are removed. When obstacles are removed, one accords with virtue. When one accords with virtue, there are no phenomena or principle, no response or stimulus. All is quiescent. Who then discusses ten points?
 
@@ -63,7 +63,7 @@ Single-mindedly bow to Sariputra and the other worthy sages of the sravaka and p
 
 The *Mohe zhiguan* says: Burn incense and direct one's thoughts in offerings of the three kinds of action. The *Supplementary Practice* says: The three kinds of action in offering are: the body kneels upright, the mouth proclaims the chant, and the mind directs the visualization. The *Hundred Records* says: After bowing, burn incense and scatter flowers while speaking these words:
 
-All in this assembly, each kneeling reverently, solemnly holding incense and flowers, make offerings according to the Dharma, offerings to the Three Jewels of the Dharma-realm in the ten directions.
+All in this assembly, each kneeling reverently, solemnly holding incense and flowers, make offerings according to the Dharma, offerings to the Three Treasures of the Dharma-realm in the ten directions.
 
 > May this cloud of incense and flowers pervade the ten-direction realm,
 > Making offerings to all the buddhas, the honored Dharma, and all the bodhisattvas,
@@ -119,7 +119,7 @@ The *Mohe zhiguan* says: The Dhāraṇī for Subduing Poisons can break the obst
 
 Having briefly understood the essentials, one should assess one's own situation: among the ten kinds of practitioners, which position does one's mind correspond to? Which obstacle does one wish to eliminate? What result does one seek? In counteracting obstacles, one should address the heaviest first. When the heavy ones are destroyed, the lighter ones will naturally follow. Resolve to be diligent and do not doubt yourself. The true Dharma-seal of the buddhas of the three times is certainly not in vain.
 
-Before reciting the dharanis, first kneel with palms joined, single-mindedly and wholeheartedly. Recite three times the names of the Three Jewels and Avalokitesvara:
+Before reciting the dharanis, first kneel with palms joined, single-mindedly and wholeheartedly. Recite three times the names of the Three Treasures and Avalokitesvara:
 
 Homage to the Buddha! Homage to the Dharma! Homage to the Sangha! Homage to Avalokitesvara, Bodhisattva-Mahasattva, greatly compassionate one of great renown, who rescues and protects those in suffering and calamity!
 
@@ -129,13 +129,13 @@ Homage to the Buddha! Homage to the Dharma! Homage to the Sangha! Homage to Aval
 
 After the dharanis, one should recollect one's past offenses and give rise to great dread. There is no evil karma that does not bring painful retribution. The *Gate of Meditation* says: "The practitioner should reflect: if one's precepts are not pure, one must certainly repent." Therefore the sūtra says: "In the Buddha-dharma there are two kinds of heroes: first, one whose nature is to never do evil; second, one who, having done wrong, can repent." To know one's transgression and repent is to be a hero.
 
-"Repentance" (懺 *chàn*) means to confess and apologize to the Three Jewels and all sentient beings. "Contrition" (悔 *huǐ*) means to feel shame, reform one's faults, and seek mercy. "If this sin of mine can now be destroyed, then in the future, even at the cost of my life, I will never commit it again." As a monk once told the Buddha: "I would rather embrace a blazing great fire than ever damage or violate the pure precepts."
+"Repentance" (懺 *chàn*) means to confess and apologize to the Three Treasures and all sentient beings. "Contrition" (悔 *huǐ*) means to feel shame, reform one's faults, and seek mercy. "If this sin of mine can now be destroyed, then in the future, even at the cost of my life, I will never commit it again." As a monk once told the Buddha: "I would rather embrace a blazing great fire than ever damage or violate the pure precepts."
 
 [Extended confession text for all practitioners, covering offenses of the three kinds of action and six sense-faculties, the three obstacles and three poisons, wandering through the six destinies, violating the pure precepts, and praying to Avalokitesvara Bodhisattva for illumination, purification, restoration of the precept-roots, and ultimate attainment of the unsurpassed Way.]
 
 ## Step Nine: Prostrations (禮拜)
 
-The *Hundred Records* says: Single-mindedly bow to the Three Jewels invoked above. After bowing, circumambulate the ritual space in proper fashion, either three or seven times, while reciting:
+The *Hundred Records* says: Single-mindedly bow to the Three Treasures invoked above. After bowing, circumambulate the ritual space in proper fashion, either three or seven times, while reciting:
 
 Homage to the Buddha! Homage to the Dharma! Homage to the Sangha! Homage to our root teacher Śākyamuni Buddha! Homage to Amitayus Buddha! Homage to the seven buddhas of the past! Homage to all the buddhas of the ten directions! Homage to Avalokitesvara Bodhisattva! Homage to Mahasthamaprapta Bodhisattva! Homage to all the bodhisattva-mahasattvas of the ten directions!
 

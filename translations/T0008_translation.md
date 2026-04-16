@@ -150,7 +150,7 @@ The Buddha said: "Pañcaśikha! I shall now tell you in sequence. Pañcaśikha! 
 > Your mind is pure as empty space,
 > And again like a jewel of pure and wondrous vaiḍūrya;
 > As you practice, so shall I follow ...
-> Through you I have attained awakening.'
+> Through you I have attained enlightenment.'
 
 "When King Reṇu had finished speaking this gāthā, he also said: 'Mahādṛḍha! Your mind is pure and you delight in cultivating good conduct. Do as you wish; you have found a refuge, and I too have found a refuge.'
 

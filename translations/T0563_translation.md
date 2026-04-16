@@ -63,4 +63,4 @@ The Buddha said to Śāriputra: "The stars of the four continents can still be c
 
 The girl said: "All people call me a woman. I shall now perform an act of truth." She then transformed into the body of a boy of eight, a novice.
 
-When the Buddha taught this sūtra and the girl performed these transformations, countless people all generated the mind of unsurpassed true awakening. When the Buddha had finished speaking the sūtra, all were filled with great joy.
+When the Buddha taught this sūtra and the girl performed these transformations, countless people all generated the mind of unsurpassed true enlightenment. When the Buddha had finished speaking the sūtra, all were filled with great joy.

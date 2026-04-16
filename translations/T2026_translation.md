@@ -217,7 +217,7 @@ After the Buddha's parinirvāṇa, Kāśyapa (*Jiāshè*, 迦葉), Ānanda (*Ān
 > Kāśyapa said to Ānanda:
 > "You may not enter the assembly. You should not enter. Now you must leave."
 > Ānanda said: "Why, Elder?
-> Have I committed some offense against the Three Jewels?"
+> Have I committed some offense against the Three Treasures?"
 > Kāśyapa answered: "Brother, do you wish to know?
 > You have committed great offenses against the Buddha and the assembly.
 > Because of you, the Buddha-dharma

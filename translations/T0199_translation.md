@@ -64,7 +64,7 @@ Now the Nāga King Anavatapta was one who, in the time when the Buddha was in th
 > This Buddha is without equal.
 > The Great Compassionate One expounds the Dharma;
 > With the powers, single-minded, he settles the faculties.
-> The seven factors of awakening and the Eightfold Path:
+> The seven factors of enlightenment and the Eightfold Path:
 > Through these I attained this Dharma.
 > I then exhausted all outflows, holding a lamp in hand.
 > Together with this assembly in the final gathering,

@@ -490,6 +490,6 @@ The Buddha said to the child: "A bodhisattva who goes on alms-round has ten bene
 > The wholesome teachings make all people rejoice:
 > such are the benefits of following the honored teaching.
 
-When the Buddha spoke this sūtra, seventy-two thousand people aroused the aspiration for supreme, perfect awakening, and ten thousand bodhisattvas attained the patience of the non-arising of dharmas.
+When the Buddha spoke this sūtra, seventy-two thousand people aroused the aspiration for supreme, perfect enlightenment, and ten thousand bodhisattvas attained the patience of the non-arising of dharmas.
 
 The Buddha spoke thus. The child Mañjuśrī, and the entire assembly of devas, nāgas, and humans of the world all rejoiced. They came forward and paid respect to the Buddha before departing.

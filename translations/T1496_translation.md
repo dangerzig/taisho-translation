@@ -9,7 +9,7 @@ Translated from the Chinese. Northern Wei dynasty, translated by Buddhaśānta (
 
 Thus have I heard:
 
-At one time, the Buddha was dwelling in the kingdom of Śrāvastī, in the Jeta Grove of the Garden of the Benefactor of Orphans, together with two hundred fifty śrāvaka-bhikṣus and five hundred bodhisattvas. All were seeds of the Tathāgata, who by expedient means traversed the six destinies to assist the Buddha in spreading his transformative teaching, who knew the faculties of sentient beings and possessed sovereign spiritual power, and who revealed the Tathāgata's skillful and secret teaching. Their names were: Bodhisattva Arising-Doubt, Bodhisattva Jewel-Virtue, Bodhisattva Radiance-King, Bodhisattva Wisdom-Ascent, Bodhisattva Virtue-Attainment, Bodhisattva Siddhartha, Bodhisattva Fearless, Bodhisattva Awakening-Chief, Bodhisattva Wealth-Chief, Bodhisattva Jewel-Chief, Bodhisattva Virtue-Chief, Bodhisattva Eye-Chief, Bodhisattva Vigor-Chief, Bodhisattva Dharma-Chief, Bodhisattva Wisdom-Chief, and Bodhisattva Worthy-Chief. Together with five hundred such bodhisattva-mahāsattvas.
+At one time, the Buddha was dwelling in the kingdom of Śrāvastī, in the Jeta Grove of the Garden of the Benefactor of Orphans, together with two hundred fifty śrāvaka-bhikṣus and five hundred bodhisattvas. All were seeds of the Tathāgata, who by skillful means traversed the six destinies to assist the Buddha in spreading his transformative teaching, who knew the faculties of sentient beings and possessed sovereign spiritual power, and who revealed the Tathāgata's skillful and secret teaching. Their names were: Bodhisattva Arising-Doubt, Bodhisattva Jewel-Virtue, Bodhisattva Radiance-King, Bodhisattva Wisdom-Ascent, Bodhisattva Virtue-Attainment, Bodhisattva Siddhartha, Bodhisattva Fearless, Bodhisattva Awakening-Chief, Bodhisattva Wealth-Chief, Bodhisattva Jewel-Chief, Bodhisattva Virtue-Chief, Bodhisattva Eye-Chief, Bodhisattva Vigor-Chief, Bodhisattva Dharma-Chief, Bodhisattva Wisdom-Chief, and Bodhisattva Worthy-Chief. Together with five hundred such bodhisattva-mahāsattvas.
 
 At that time, the Venerable Ānanda addressed the Buddha: "World-Honored One, how should good men and good women who love the Dharma show reverence to the Dharma and reverence to the Dharma-teacher?"
 
@@ -57,7 +57,7 @@ The Buddha told Ānanda: "In the future world, there will be such evil bhikṣus
 
 "Ānanda, good men and good women who show right reverence and obtain this Dharma-gate, who praise renunciation and censure the impurity of desire: when all their dust and defilements are exhausted, they attain the purity of the Dharma-eye."
 
-At that time, the Venerable Ānanda adjusted his robes and addressed the Buddha: "World-Honored One, by what name should this essential Dharma be called? How should bhikṣus, bhikṣuṇīs, upāsakas, and upāsikās receive, uphold, and practice it, so that in the future world the seeds of the Three Jewels will not be severed?"
+At that time, the Venerable Ānanda adjusted his robes and addressed the Buddha: "World-Honored One, by what name should this essential Dharma be called? How should bhikṣus, bhikṣuṇīs, upāsakas, and upāsikās receive, uphold, and practice it, so that in the future world the seeds of the Three Treasures will not be severed?"
 
 The Buddha told Ānanda: "This sūtra is called 'Right Reverence.' Receive and uphold it thus: namely, by loving the Buddha, loving the Dharma, and loving the Saṃgha."
 

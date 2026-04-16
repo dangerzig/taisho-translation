@@ -27,7 +27,7 @@ When the assembly has gathered, they should jointly invite an ācārya learned i
 >
 > May the suffering wheel of the three evil paths also cease,
 > And may all universally be freed from heat and obtain cool refreshment.
-> May all arouse the mind of unsurpassed awakening
+> May all arouse the mind of unsurpassed enlightenment
 > And cross the river of craving to reach the other shore.
 
 Then have one person hold a censer, kneel reverently, and in a melodious voice chant the Three Refuges Praise. At each line, the assembly performs one prostration. The praise is:
@@ -64,7 +64,7 @@ Next, take up the lamp stand and chant the mantra for offering lamps once. The m
 
 Then have the praise-chanters each hold a censer and chant the wondrous praise for bathing images in a loud voice. Five praises are chanted, with the assembly kneeling reverently and prostrating once after each verse.
 
-When the bathing and offering ceremony is fully complete, the ācārya takes the fragrant water used for bathing the Buddha and pours a little on the crown of his own head and sprinkles some on the heads of everyone in the assembly. This is the auspicious water of blessings from washing the holy ones adorned with ten thousand virtues. When sprinkled on the body and a small amount is drunk, it can cause the afflictions within the body to diminish, gradually leading to the accomplishment of unsurpassed awakening.
+When the bathing and offering ceremony is fully complete, the ācārya takes the fragrant water used for bathing the Buddha and pours a little on the crown of his own head and sprinkles some on the heads of everyone in the assembly. This is the auspicious water of blessings from washing the holy ones adorned with ten thousand virtues. When sprinkled on the body and a small amount is drunk, it can cause the afflictions within the body to diminish, gradually leading to the accomplishment of unsurpassed enlightenment.
 
 The entire assembly then prostrates with sincere devotion. Afterward, conch shells are blown and praises such as the aspiration and auspiciousness verses are chanted. With music and instruments leading the way, the assembly follows, circumambulating clockwise in proper order of seniority, three or seven circuits as appropriate, each chanting wondrous verses praising the Buddha from the Mahāyāna sūtras. When the Dharma ceremony is complete, they bow and take leave of the Buddha, each person carrying one image back to its original place. This is the standard method of image-bathing practiced in the West. Afterward, the saṃgha goes to the dining hall and only then takes their meal.
 

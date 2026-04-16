@@ -52,7 +52,7 @@ As for the Siddhaṃ chapter: in the past, the Mahāyāna was on Laṅkā Mounta
 
 *Pǔlùyù pǔlùyù.* The seventh is the perfectly bright great wisdom-awakening. The four gates and eighteen: leave behind names and numbers. Arising and ceasing, wondrous existence: penetrating and crossing freely. The great teacher of the three realms is truly hard to encounter. Birth-and-death and nirvāṇa are not to be crossed. Going against the current up the river of craving, not lingering. The immediate mind is non-mind: Māra naturally departs.
 
-*Qù dǐlì qù lǔliú lúlóu pǔlùyù.* Children of the Buddha, always be awakened. One thought of the pure mind is without defilement. All the hosts of Māra naturally depart. *Lǘ lǘ lǜ*, concentrate. *Suōhē yē*, great awakening.
+*Qù dǐlì qù lǔliú lúlóu pǔlùyù.* Children of the Buddha, always be awakened. One thought of the pure mind is without defilement. All the hosts of Māra naturally depart. *Lǘ lǘ lǜ*, concentrate. *Suōhē yē*, great enlightenment.
 
 ### Eighth: The Chan Gate Transcends All Measures
 

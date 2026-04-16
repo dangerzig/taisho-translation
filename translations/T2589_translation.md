@@ -137,7 +137,7 @@ After the late-night bell is finished, after the fifth watch, four points before
 
 **End of the Hare Hour (5–7 AM)**
 
-After the fifth watch, five points, the drum and board are struck with extended beating, three rounds. This is called the "great awakening." The great assembly folds their quilts, folds their bedding, wraps their quilts, places their cloths on the quilts, covers the quilts, puts on socks, and reverently places the kāṣāya on their heads. With palms joined, they recite the verse:
+After the fifth watch, five points, the drum and board are struck with extended beating, three rounds. This is called the "great enlightenment." The great assembly folds their quilts, folds their bedding, wraps their quilts, places their cloths on the quilts, covers the quilts, puts on socks, and reverently places the kāṣāya on their heads. With palms joined, they recite the verse:
 
 > Great indeed is the robe of liberation,
 > The formless field of merit garment.
@@ -210,7 +210,7 @@ Hot water is served as after a Dharma-seat ascent. If there is no hot water, aft
 
 **Fourth Day**
 
-Head-shaving and bathing. The meditation board is not hung. From the fourth day onward, regular gruel is served. The Ten Buddha Names are used without a praising verse. One simply says: "We humbly hope the Three Jewels will all grant their witness and knowledge. Relying reverently on the honored assembly, we recite..."
+Head-shaving and bathing. The meditation board is not hung. From the fourth day onward, regular gruel is served. The Ten Buddha Names are used without a praising verse. One simply says: "We humbly hope the Three Treasures will all grant their witness and knowledge. Relying reverently on the honored assembly, we recite..."
 
 **Fifth Day**
 
@@ -318,7 +318,7 @@ The methods for recitation, entering the room, dedications for the various sūtr
 
 **[Dedication for the Imperial Blessing Sūtra Chanting:]**
 
-"The ocean of mind-nature, true awakening, great wisdom, completing the Tathāgata's perfectly penetrating holy assembly, harmoniously together with the light, we chant in unison the Mahā-dhāraṇī of Perfect Fulfillment and the Dhāraṇī for Eliminating Disasters and [Invoking] Wondrous Auspiciousness. The vast merit thus gathered is respectfully dedicated for the prayer that the reigning Emperor's sacred life be without limit. Amitāyus Buddha, all honored bodhisattvas, mahāsattvas, mahā-prajñā-pāramitā. We humbly hope for illuminating witness, and bow in supplication for sympathetic response."
+"The ocean of mind-nature, true enlightenment, great wisdom, completing the Tathāgata's perfectly penetrating holy assembly, harmoniously together with the light, we chant in unison the Mahā-dhāraṇī of Perfect Fulfillment and the Dhāraṇī for Eliminating Disasters and [Invoking] Wondrous Auspiciousness. The vast merit thus gathered is respectfully dedicated for the prayer that the reigning Emperor's sacred life be without limit. Amitāyus Buddha, all honored bodhisattvas, mahāsattvas, mahā-prajñā-pāramitā. We humbly hope for illuminating witness, and bow in supplication for sympathetic response."
 
 "The pure assembly of this entire mountain, chanting in unison the Great Buddha-Crown, Myriad-Practice, Śūraṅgama Secret Divine Dhāraṇī, the merit thus gathered is offered to the Buddha who personally entrusted [it], down to the future coming of Maitreya's descent and birth; to those presently dwelling in the world who carry on and prosper the Buddha-Dharma; the three clear knowledges and six supernatural powers; the sixteen arhats; all those worthy of offerings; their retinues and attendants, may they come like a swift wind, penetrating everywhere without obstruction. [May] this temple's donors and all benefactors, in present and future, attain all siddhis and obtain liberation. May the mountain gate flourish, and may all conditions be auspicious."
 
@@ -370,7 +370,7 @@ The methods for recitation, entering the room, dedications for the various sūtr
 
 **[Midday Dedication:]**
 
-"The above chanting of the Buddha-Crown Uṣṇīṣa-vijaya-dhāraṇī; the merit is dedicated to the true suchness of ultimate reality, the Three Jewels of the ten directions, the myriad spirits of the three realms, all Dharma-protecting deities of the Japanese realm, the dragons and devas of this entire mountain, the ten-direction donors, the natal stars, yearly stars, guardian deities of their Ways and dwellings of the pure assembly of this entire hall. We pray that the mountain gate be tranquil, that the pursuit of the Way be peaceful, that all transcend and realize the Buddha-fruit, and benefit sentient beings. May all conditions be auspicious."
+"The above chanting of the Buddha-Crown Uṣṇīṣa-vijaya-dhāraṇī; the merit is dedicated to the true suchness of ultimate reality, the Three Treasures of the ten directions, the myriad spirits of the three realms, all Dharma-protecting deities of the Japanese realm, the dragons and devas of this entire mountain, the ten-direction donors, the natal stars, yearly stars, guardian deities of their Ways and dwellings of the pure assembly of this entire hall. We pray that the mountain gate be tranquil, that the pursuit of the Way be peaceful, that all transcend and realize the Buddha-fruit, and benefit sentient beings. May all conditions be auspicious."
 
 "In the ten directions, three times..." [as above]
 
@@ -384,7 +384,7 @@ The methods for recitation, entering the room, dedications for the various sūtr
 
 When a meal offering is arranged at a specific time, whether a meal, gruel, or monetary gifts, the two groups confer as the occasion requires. Whether it is precept lectures, sūtra recitation, or sūtra chanting, either following the donor's wishes or responding to the donor's request, Dharma hall ascent and precept lectures are at the donor's request.
 
-Feeding the Sangha and monetary gifts: the Three Jewels of the temple, all holy ones, sick monks, and monks on leave all receive them. Novices and postulants receive one-third of the monks' share.
+Feeding the Sangha and monetary gifts: the Three Treasures of the temple, all holy ones, sick monks, and monks on leave all receive them. Novices and postulants receive one-third of the monks' share.
 
 When a donor requests a Dharma hall ascent, it must be at the midday meal time or after the meal. The Dharma hall is adorned properly. Below the steps, at the upper end of the mat, one dignified table is set with the offering items. At the lower end of the mat, another table is set with a pair of flower vases and one incense burner. A prostration mat is also spread. After three drum rolls, the master enters. When the master stands on the platform, the guest prefect leads the donor to burn incense and prostrate. At this time, the master offers incense. If a memorial is read, [the master] takes his seat. The guest prefect leads the donor to take a position at the administrators' upper shoulder to receive the donor's prostrations of gratitude. After the Dharma talk, the donor advances and makes a Chan prostration. If the donor is a layperson, the guest prefect leads them. If there is no guest prefect, the rector or attendant leads them. If the donor is a monastic, they simply advance, burn incense, and prostrate. The guest prefect leads them to their seat. If they are not a high official or venerable elder, they are not given a seat. If they are an ordinary monastic, no chair is set up. If there are no offering items, there is no upper table on the mat.
 
@@ -392,13 +392,13 @@ When a donor requests a Dharma hall ascent, it must be at the midday meal time o
 
 "Now, on the occasion of the first anniversary of the death of the late father, a holder of the bodhisattva precepts, we respectfully arrange a monastic meal of one hall at this temple to offer to the assembly of cloud-robed monastics of the ten directions, both holy and ordinary. The vast merit thus gathered is dedicated to the awakened spirit of our late father; may his reward-ground be adorned and may the seed-wisdom be perfected."
 
-"The above is humbly submitted that the Three Jewels may fully know and the awakened spirit may clearly witness."
+"The above is humbly submitted that the Three Treasures may fully know and the awakened spirit may clearly witness."
 
 Respectfully written, [year], [month], [day]. Filial son, surname so-and-so, personal name so-and-so. Respectfully written.
 
 [On the outer wrapper:]
 
-Merit. On the memorial. [Three Jewels seal] [Three Jewels seal] [Three Jewels seal]. Respectfully, on yellow paper. [Three Jewels seal]. Southern Jambudvīpa, Great Nation of Japan, such-and-such province, such-and-such district, surname so-and-so, personal name so-and-so and others; for their transcendence. Awakened Spirit. Attached.
+Merit. On the memorial. [Three Treasures seal] [Three Treasures seal] [Three Treasures seal]. Respectfully, on yellow paper. [Three Treasures seal]. Southern Jambudvīpa, Great Nation of Japan, such-and-such province, such-and-such district, surname so-and-so, personal name so-and-so and others; for their transcendence. Awakened Spirit. Attached.
 
 **[Dedication for the Deceased:]**
 
@@ -419,7 +419,7 @@ Merit. On the memorial. [Three Jewels seal] [Three Jewels seal] [Three Jewels se
 
 **[Dedication for Summer Prayer Service:]**
 
-"We humbly hope the Three Jewels will all grant their witness."
+"We humbly hope the Three Treasures will all grant their witness."
 
 "The above chanting of the Mahā-prajñā-pāramitā-hṛdaya-sūtra, the Avalokiteśvara's Universal... to the true suchness of ultimate reality, the unsurpassed Buddha-fruit of bodhi. Offered in prayer to the Dharma-protecting devas, the Great Authority True Sovereign, the myriad spirits of the three realms, the supreme holy ones of the ten directions, this year's presiding officers of yin and yang... and the holy assembly. The abbot's natal star and birth constellation. The great and small deities within the nation of Japan. The earth deity of this mountain. The monastery-protecting deities. The true sovereign of this entire hall. To the utmost of this prayer gathering, boundless spiritual blessings. Relying on this wondrous virtue, universally applied in solemn dedication. We specially pray that the abbot's body on the Way be at peace, that merit and longevity increase, that calamities and obstacles not arise... that all public and private conditions be auspicious."
 
@@ -433,7 +433,7 @@ Merit. On the memorial. [Three Jewels seal] [Three Jewels seal] [Three Jewels se
 
 **[General Dedication for Sūtra Reading:]**
 
-"The above sūtra reading and dhāraṇī recitation merit is dedicated to the Three Jewels, the successive patriarchs, all Dharma-protecting and Way-guarding benevolent deities, the deities of Japan, the myriad spirits of the three realms, the monastery and local guardians, the true sovereign of this entire hall; may their awesome radiance increase. We pray that the Buddha and patriarchs long abide, benefiting and saving humans and devas, bestowing their protection and mindful care, assisting the arousal of the mind for the Way, eliminating karmic obstructions, maturing the Way-practice, broadly saving sentient beings, and repaying the four debts of gratitude and the three realms of existence."
+"The above sūtra reading and dhāraṇī recitation merit is dedicated to the Three Treasures, the successive patriarchs, all Dharma-protecting and Way-guarding benevolent deities, the deities of Japan, the myriad spirits of the three realms, the monastery and local guardians, the true sovereign of this entire hall; may their awesome radiance increase. We pray that the Buddha and patriarchs long abide, benefiting and saving humans and devas, bestowing their protection and mindful care, assisting the arousal of the mind for the Way, eliminating karmic obstructions, maturing the Way-practice, broadly saving sentient beings, and repaying the four debts of gratitude and the three realms of existence."
 
 "In the ten directions, three times..." [as above]
 
@@ -442,17 +442,17 @@ Merit. On the memorial. [Three Jewels seal] [Three Jewels seal] [Three Jewels se
 > They are also like the heavenly nectar...
 > Those who partake are always at peace and joy."
 
-"Southern Jambudvīpa, Great Nation of Japan, such-and-such province, such-and-such district, such-and-such estate, such-and-such mountain, such-and-such temple, abbot so-and-so and others, making a special prayer in the realm of the Three Jewels, exclusively cultivating the white virtues of the three karmas, providing for the Chan assembly of such-and-such temple, faithfully reading six hundred fascicles of true scripture, awakening the faith of the bodhisattva Sadāprarudita, relying on the vast merit-power of the Prajñā[pāramitā]. The vast merit thus gathered is dedicated to the Three Jewels of all sixteen assemblies of the Prajñā[pāramitā], the Three Jewels of the ten directions such as the Land of Ultimate Bliss, the honored one Avalokiteśvara of the principal maṇḍala, the twenty-eight divisions of followers, as well as the faithful donors' benevolent deities, the Dharma-protecting dragons and devas, the myriad spirits of the three realms, the heavenly deities and earthly spirits, the deities of more than sixty provinces and more than three thousand shrines, the guardians of the region before and after, the general and branch shrines of the great Dharma assembly, the retinues and attendants, and even the guardian deities of dwellings and roads; may each increase in awesome radiance, benefit and save sentient beings, and cause them to enter the Way."
+"Southern Jambudvīpa, Great Nation of Japan, such-and-such province, such-and-such district, such-and-such estate, such-and-such mountain, such-and-such temple, abbot so-and-so and others, making a special prayer in the realm of the Three Treasures, exclusively cultivating the white virtues of the three karmas, providing for the Chan assembly of such-and-such temple, faithfully reading six hundred fascicles of true scripture, awakening the faith of the bodhisattva Sadāprarudita, relying on the vast merit-power of the Prajñā[pāramitā]. The vast merit thus gathered is dedicated to the Three Treasures of all sixteen assemblies of the Prajñā[pāramitā], the Three Treasures of the ten directions such as the Land of Ultimate Bliss, the honored one Avalokiteśvara of the principal maṇḍala, the twenty-eight divisions of followers, as well as the faithful donors' benevolent deities, the Dharma-protecting dragons and devas, the myriad spirits of the three realms, the heavenly deities and earthly spirits, the deities of more than sixty provinces and more than three thousand shrines, the guardians of the region before and after, the general and branch shrines of the great Dharma assembly, the retinues and attendants, and even the guardian deities of dwellings and roads; may each increase in awesome radiance, benefit and save sentient beings, and cause them to enter the Way."
 
 "The above is humbly submitted. Dhāraṇī and mantras can eliminate all disasters and difficulties. The wisdom-fire of Prajñā swiftly burns away immeasurable afflictions. Long holding the vajra-indestructible life, increasing merit and wisdom. Far departing from eighty-four thousand dusts and toils, extinguishing karmic suffering. Body and mind at ease, all conditions auspicious."
 
 Respectfully written, such year, such month, such day. Surname so-and-so. Personal name so-and-so. Respectfully stated.
 
-To all the Three Jewels of the Prajñā Assembly. [Yellow paper, Three Jewels seal.] Southern Jambudvīpa, Great Nation of Japan, such-and-such province, such-and-such estate, such-and-such mountain, such-and-such temple, abbot so-and-so and others. Respectfully sealed. May the Sixteen Benevolent Deities clearly witness and bestow their protection.
+To all the Three Treasures of the Prajñā Assembly. [Yellow paper, Three Treasures seal.] Southern Jambudvīpa, Great Nation of Japan, such-and-such province, such-and-such estate, such-and-such mountain, such-and-such temple, abbot so-and-so and others. Respectfully sealed. May the Sixteen Benevolent Deities clearly witness and bestow their protection.
 
 **[Dedication for Prayer During Illness:]**
 
-"We humbly hope the Three Jewels will all grant their seal and witness."
+"We humbly hope the Three Treasures will all grant their seal and witness."
 
 "...the holy ones who protect and sustain cannot preserve themselves. Each day, entrusting our lives [to them]. The merit gathered from the Sangha's daily chanting of sūtras and dhāraṇī is dedicated to the true suchness of ultimate reality, the unsurpassed Buddha-fruit of bodhi. Offered in prayer to the Dharma-protecting Great Authority Xiūlì, the true sovereign of this entire hall, the Great Sun Goddess Amaterasu of the Great Nation of Japan, the great bright deity of this locality's guardian shrine, the branch and general shrines, the deities of more than sixty provinces and more than three thousand shrines, the dragons, devas, ghosts, and others. All the great and small merit; may it be fulfilled. At this prayer gathering, boundless spiritual blessings. We pray that all conditions be auspicious."
 
@@ -733,7 +733,7 @@ The sacred-chant person chants the verse:
 
 The staff-bearer chants the verse:
 
-> "Hand grasping the staff; may sentient beings establish the great giving assembly and reveal the true path. Offering to the Three Jewels. Establishing the great giving assembly and revealing the true path. Offering to the Three Jewels. With a pure mind, offering to the Three Jewels. Arousing a pure mind, offering to the Three Jewels. With a vow of purity, offering to the Three Jewels. The Buddhas of the three times grasp and hold the staff, offering to the Three Jewels. Therefore I bow my head, grasp and hold the staff, offering to the Three Jewels. Therefore I bow my head..."
+> "Hand grasping the staff; may sentient beings establish the great giving assembly and reveal the true path. Offering to the Three Treasures. Establishing the great giving assembly and revealing the true path. Offering to the Three Treasures. With a pure mind, offering to the Three Treasures. Arousing a pure mind, offering to the Three Treasures. With a vow of purity, offering to the Three Treasures. The Buddhas of the three times grasp and hold the staff, offering to the Three Treasures. Therefore I bow my head, grasp and hold the staff, offering to the Three Treasures. Therefore I bow my head..."
 
 "Namo, with reverence we make offering. To the sixteen great arhats and others; may they have compassion, receive us, and protect the great assembly."
 
@@ -741,13 +741,13 @@ The staff-bearer chants the verse:
 
 "Namo. Protect and uphold the remaining Dharma, O Sixteen Great Arhats. Life after life, may we encounter and reverently bear [this teaching]."
 
-"Respectfully announcing to our great benefactor teacher, Śākyamuni, World-Honored One. The Avataṃsaka, the Lotus, the eighty-thousand holy teachings. The sixteen arhats who protect and uphold the remaining Dharma. The ninety-nine koṭis of learners-beyond-learning, the holy assembly. Each and every atom, each and every hair-tip, a land-sea of the inexpressible and the inexpressible; the Three Jewels' realm."
+"Respectfully announcing to our great benefactor teacher, Śākyamuni, World-Honored One. The Avataṃsaka, the Lotus, the eighty-thousand holy teachings. The sixteen arhats who protect and uphold the remaining Dharma. The ninety-nine koṭis of learners-beyond-learning, the holy assembly. Each and every atom, each and every hair-tip, a land-sea of the inexpressible and the inexpressible; the Three Treasures' realm."
 
 "We declare: Śaṇavāsa's withdrawal from the world, though the stain of the degenerate age is to be regretted, the sixteen arhats' abiding in their regions is the great fortune of the disciples of the remaining Dharma. Mātaṅga and Zhu Falan came to China; Dengyō and Kōbō transmitted to Japan; all in repayment of their guardianship."
 
 "Therefore, we disciples, tracing the stream to find the source, all is none other than the World-Honored One's vast grace. Smelling the fragrance and seeking the root, how could it not be the fragrant mind of the arhats? In reliance upon this, on this day we prepare incense and flowers, offering to the steadfast relics of the remains. At this seat, we prepare tea and medicine, offering to the arhats presently dwelling in the world. Various offering articles, strung precious gems, with the three karmas we reverently bow, manifesting the holy wealth."
 
-"We humbly pray that the Three Jewels illumine what we disciples intend. This present lecture has a special purpose: merely praising one drop of the ocean of virtue, wishing to cross the perilous waves of the ocean of suffering."
+"We humbly pray that the Three Treasures illumine what we disciples intend. This present lecture has a special purpose: merely praising one drop of the ocean of virtue, wishing to cross the perilous waves of the ocean of suffering."
 
 "The two-times-eight Honored Ones: inwardly they conceal the bodhisattva's practice, outwardly they manifest the śrāvaka's form. Within an inch of ground, they accomplish the transformation of the Dharma-realm. Within a single thought, they respond to the donors' field. The Three Baskets, the twelve categories of scripture, the five sciences, the four Vedas; they realize their profound import, and their eloquence flows without obstruction. Their praise cannot be exhausted. Summarizing the essentials in five sections: (1) Clarifying their abodes and names. (2) Clarifying their benefit of prospering [the Dharma]. (3) Clarifying the benefit of the field of merit. (4) Clarifying the benefit of eliminating disasters. (5) Offering to the World-Honored One's relics."
 
@@ -768,9 +768,9 @@ The staff-bearer chants the verse:
 
 "Then, ever since Kāśyapa's form was concealed at Kukkuṭapāda Mountain and Ānanda's body was divided at the Ganges River, the four reliance-bodhisattvas have exerted their sūtra-protecting power, yet it does not compare to these arhats who, through supernatural power, extend their lives, awaiting from afar Maitreya's descent and birth; the final command faithfully maintained, able to protect the Buddha-Dharma of the final age."
 
-"Therefore, when the lifespan of beings on this continent reaches ten years and the kalpa of swords arises, as the Buddha-Dharma gradually vanishes, when it increases to one hundred years, still the arhats will spread the true Dharma and save immeasurable beings. Especially, when King Puṣya destroyed Aśoka's stūpas, burned the Buddha's sūtras, and harmed monks and nuns, the very name of the Three Jewels was completely extinguished, after that evil king died, the arhats ascended to heaven, retrieved the sūtra scrolls, and came down to continue the already-extinguished traces. The Buddha-sun shone again. This is truly their vast grace."
+"Therefore, when the lifespan of beings on this continent reaches ten years and the kalpa of swords arises, as the Buddha-Dharma gradually vanishes, when it increases to one hundred years, still the arhats will spread the true Dharma and save immeasurable beings. Especially, when King Puṣya destroyed Aśoka's stūpas, burned the Buddha's sūtras, and harmed monks and nuns, the very name of the Three Treasures was completely extinguished, after that evil king died, the arhats ascended to heaven, retrieved the sūtra scrolls, and came down to continue the already-extinguished traces. The Buddha-sun shone again. This is truly their vast grace."
 
-"If it were not so, we would go from darkness into darkness, never seeing the form of the Three Jewels. From suffering we would encounter more suffering, never hearing the name of peace and bliss."
+"If it were not so, we would go from darkness into darkness, never seeing the form of the Three Treasures. From suffering we would encounter more suffering, never hearing the name of peace and bliss."
 
 "Therefore, the great assembly, with joy and praise, should repay the grace of prospering [the Dharma]. The verse-hymn says:"
 
@@ -893,7 +893,7 @@ The extraordinary merit collected is transferred to: the donors of this temple, 
 
 We pray: May the sacred lifespan be without limit, like the camellia and pine showing forms that resist aging. May the imperial virtue extend universally, and the blessings of mountains and seas leave nothing unreached. May all under heaven enjoy well-regulated wind and rain. May all the land enjoy abundance, prosperity, and good fortune. May the sun of the Buddha increase in radiance. May the wheel of the Dharma constantly turn. May the monastery's earth spirits protect the Dharma and bring peace to all people.
 
-Respectfully submitted. May Your Majesty graciously accept this. May the Three Jewels clearly witness.
+Respectfully submitted. May Your Majesty graciously accept this. May the Three Treasures clearly witness.
 
 Respectfully submitted. Fourth year of Genkō, third day of the first month. Tōkoku, Shōkin and others, respectfully submitted."
 
@@ -941,7 +941,7 @@ The three seasonal [observances] all use this dedication.
 
 The Sangha hall and all quarters close their braziers. The great assembly attends without head coverings, with exposed clasped hands.
 
-**End of the Second Month or Beginning of the Third Month: The Seasonal Day of Entering the Third Month.** This day is Qīngmíng [Clear and Bright]. Fire-prevention talismans are written. The seal of the Three Jewels is stamped. At the midday sūtra chanting, [talismans] for the donors, the various hermitages, and the various donor households [are distributed]. On this day, the entire country changes its fire. If drilling for new fire, elm and willow should be used. Elm for the drill and willow for the base, or willow for the drill and elm for the base. When the fire is changed, the fires of all halls and all hermitages and small dwellings in the mountain should all be changed.
+**End of the Second Month or Beginning of the Third Month: The Seasonal Day of Entering the Third Month.** This day is Qīngmíng [Clear and Bright]. Fire-prevention talismans are written. The seal of the Three Treasures is stamped. At the midday sūtra chanting, [talismans] for the donors, the various hermitages, and the various donor households [are distributed]. On this day, the entire country changes its fire. If drilling for new fire, elm and willow should be used. Elm for the drill and willow for the base, or willow for the drill and elm for the base. When the fire is changed, the fires of all halls and all hermitages and small dwellings in the mountain should all be changed.
 
 **During the Third Month:** The number of monks granted hanging-bag registration is determined; about two or three persons. A person skilled and experienced in protocol is selected as the head of participants. First, prepare an official registration document for the new arrival. If accompanied by a letter of reference, the six recollections, and an ordination certificate, prepare a supplementary document. The guest prefect goes up to the abbot's quarters and obtains the hanging-bag registration slip. The slip reads:
 
@@ -1238,7 +1238,7 @@ Respectfully submitted. Fourth year of Genkō, fifteenth day of the fourth month
 
 "Original Teacher Tathāgata, Lord of Perfect Penetration.
 
-In Jambudvīpa, the Great Land of Japan, Northern Route, Noto Province, Sakai Estate, Tōkoku Mountain, Yōkō Monastery, founded by so-and-so and others. Respectfully sealed. Śūraṅgama Victory Assembly, Three Jewels of the Ten Directions."
+In Jambudvīpa, the Great Land of Japan, Northern Route, Noto Province, Sakai Estate, Tōkoku Mountain, Yōkō Monastery, founded by so-and-so and others. Respectfully sealed. Śūraṅgama Victory Assembly, Three Treasures of the Ten Directions."
 
 After reading the memorial, the Śūraṅgama leader initiates the chanting, and the "Buddha Mother" [passage] is recited:
 
@@ -1248,7 +1248,7 @@ After reading the memorial, the Śūraṅgama leader initiates the chanting, and
 
 The Śūraṅgama leader chants "Mahā-prajñāpāramitā." The rector burns incense at each section of the dhāraṇī. After the dhāraṇī, the rector recites the dedication:
 
-"Perfect awakening, monastery body and mind, peaceful dwelling. The ten realms in harmony. The merit of chanting the Great Buddha-Crown, Myriad-Practice Śūraṅgama Divine Dhāraṇī, a vast cause, is transferred to the true thusness of ultimate reality, the supreme fruit of buddhahood, the Tathāgatas of the invisible crown mark and their transformations. The fifty-five perfect penetrations and all honored ones. Dharma-protecting nāgas and devas, the myriad spirits of the three realms, Great Brahmā King, Lord Śakra, and the Four Kings.
+"perfect enlightenment, monastery body and mind, peaceful dwelling. The ten realms in harmony. The merit of chanting the Great Buddha-Crown, Myriad-Practice Śūraṅgama Divine Dhāraṇī, a vast cause, is transferred to the true thusness of ultimate reality, the supreme fruit of buddhahood, the Tathāgatas of the invisible crown mark and their transformations. The fifty-five perfect penetrations and all honored ones. Dharma-protecting nāgas and devas, the myriad spirits of the three realms, Great Brahmā King, Lord Śakra, and the Four Kings.
 
 Ise Grand Shrine. The Great Bodhisattva Hachiman. The front and rear [shrines of] Kehi and Keta of this province. The Great Overseer of the Buddha-Dharma, the Great Avatar of Wondrous Principle of Hakusan. The monastery-protecting spirits. The Eighteen Benevolent Spirits. Shōhō Shichirō, the Great Bodhisattva Śūri of Authority. The Blue-Faced Messenger of Service. The White-Robed Prince who serves. The Dharma-protecting Vaiśravaṇa. The Offering Kāla Deva. The entire assembly of the hall's true sovereigns. All holy beings. The old guardian of this mountain, the Great Divine Spirit Inari. The local earth of this nation and this estate, the general and branch shrines, the divine spirits of the more than sixty provinces and more than three thousand shrine seats.
 
@@ -1356,7 +1356,7 @@ The rector chants the text. With a large fist, pressing the left hip, the right 
 
 The method of feeding hungry ghosts: First greet and offer to the Buddha. Then join palms and recite: "Namo to our original teacher, Śākyamuni Buddha. Namo to the greatly compassionate Avalokiteśvara."
 
-"The divine dhāraṇī consecrates pure food and drink, universally bestowed upon Ganges-sand numbers of ghosts and spirits. May all be fully satisfied and abandon the mind of miserliness. May all be freed from the dark realms and born in the wholesome paths. May they take refuge in the Three Jewels and generate the bodhi-mind. May they ultimately attain supreme awakening. Merit without bounds, extending to the end of the future. All beings together..."
+"The divine dhāraṇī consecrates pure food and drink, universally bestowed upon Ganges-sand numbers of ghosts and spirits. May all be fully satisfied and abandon the mind of miserliness. May all be freed from the dark realms and born in the wholesome paths. May they take refuge in the Three Treasures and generate the bodhi-mind. May they ultimately attain supreme enlightenment. Merit without bounds, extending to the end of the future. All beings together..."
 
 *Namas sarvathā tathāgatāvalokite oṃ samara samara*
 
@@ -1416,7 +1416,7 @@ Respectfully submitted. Fourth year of Genkō, fifteenth day of the seventh mont
 
 "Original Teacher Tathāgata, Lord of Perfect Penetration. Respectfully.
 
-In Jambudvīpa, the Great Land of Japan, Noto Province, Sakai Estate, Tōkoku Mountain, Yōkō Monastery, founded by so-and-so and others. Śūraṅgama Victory Assembly, Three Jewels of the Ten Directions. Sealed."
+In Jambudvīpa, the Great Land of Japan, Noto Province, Sakai Estate, Tōkoku Mountain, Yōkō Monastery, founded by so-and-so and others. Śūraṅgama Victory Assembly, Three Treasures of the Ten Directions. Sealed."
 
 After the Śūraṅgama Dhāraṇī, the "Buddha Mother" [passage reads]:
 
@@ -1526,7 +1526,7 @@ In the winter solstice, four or five days before, the gratitude tea for hanging-
 
 **Eighth Day of the Twelfth Month.** Called the Attainment of the Way Assembly. Public offerings are prepared according to one's means. The four seasonal ceremonies are all the same. The abbot kneels at the censer. The rector reads the memorial:
 
-"The Great, Perfect, Complete Awakening manifested traces in the Western Land. The mind encompassed the great void; the capacity encompassed the sand-worlds. We look up and pray for illumination; we humbly request true compassion.
+"The Great, Perfect, complete enlightenment manifested traces in the Western Land. The mind encompassed the great void; the capacity encompassed the sand-worlds. We look up and pray for illumination; we humbly request true compassion.
 
 In Jambudvīpa, the Great Land of Japan, Noto Province, Kashima District, Sakai Estate, Tōkoku Mountain, Yōkō Monastery, so-and-so and others. On the eighth of this month, we reverently commemorate the occasion of the attainment of the Way of our original teacher, the Tathāgata Śākyamuni, the great preceptor. We have sincerely prepared incense, flowers, lamps, candles, and modest food to express our offering. We gather the entire assembly of bhikṣus present to chant the Great Buddha-Crown, Myriad-Practice Śūraṅgama Divine Dhāraṇī. The vast merit collected is offered to repay the kindness of the Dharma-milk.
 
@@ -1548,13 +1548,13 @@ Reverently. Memorial above, stamped at the four places. "In Jambudvīpa, the Gre
 
 "Unconditioned great compassion. Equal benefit to all beings. Vast and great reception. Equally saving all sentient classes. Therefore, as the year draws to a close, for several days the monastery specially encourages sūtra reading.
 
-The merit is transferred to all sentient beings who have died from tilling and plowing in the temple's fields, and to all crawling, wriggling creatures, as well as to the cattle, horses, and six domestic animals owned by the donors, the birds, beasts, insects, and all water and land beings born in the mountains and forests, all those who have died before and after, from the workers and servants who serve the Three Jewels above, down to the lowly and ignorant animals that were injured or killed violently; may all, aided by the spiritual power of the great compassion of the Sangha jewel, attain the supreme fruit where a small cause yields great results.
+The merit is transferred to all sentient beings who have died from tilling and plowing in the temple's fields, and to all crawling, wriggling creatures, as well as to the cattle, horses, and six domestic animals owned by the donors, the birds, beasts, insects, and all water and land beings born in the mountains and forests, all those who have died before and after, from the workers and servants who serve the Three Treasures above, down to the lowly and ignorant animals that were injured or killed violently; may all, aided by the spiritual power of the great compassion of the Sangha jewel, attain the supreme fruit where a small cause yields great results.
 
 Sūtra reading, Buddha recitation, and dhāraṇī chanting are at the assembly's discretion, without limit. May we receive all sentient beings with a compassionate mind and equally cultivate the wondrous practice of benefiting all beings. Respectfully announced. Items are listed below:
 
 Sūtra of the Lotus of the Wondrous Dharma
 Brahmajāla Bodhisattva Precepts Sūtra
-Sūtra of Perfect Awakening
+Sūtra of perfect enlightenment
 
 Fourth year of Genkō, twelfth month. Sangha hall officer bhikṣu so-and-so, respectfully encourages."
 
@@ -1583,7 +1583,7 @@ Next, the Śūraṅgama Dhāraṇī dedication is the same as the Ullambana Asse
 
 We humbly state: The Dharma-protectors and guardian attendants firmly fulfill the Tathāgata's entrustment. In the mountain hermitage's cultivation and practice, all has the help and grace of the nāgas and devas. Through the deep mountains, communications are facilitated, enabling people to make offerings. Toward the hidden valleys, winds carry news, enabling the ordained and lay to gather.
 
-Thus this mountain has already manifested as a Brahma-shrine. Rivers and lakes gradually hear its reputation. Seekers of the Way come without being summoned, eagerly arriving. Those who cultivate good need not worry, eagerly gathering. Some newly create Buddha and bodhisattva images, adorning the grove of merit. Some construct Buddha halls and monastic quarters, multiplying the accumulation of blessings upon the mountain of wholesome roots.
+Thus this mountain has already manifested as a Brahma-shrine. Rivers and lakes gradually hear its reputation. Seekers of the Way come without being summoned, eagerly arriving. Those who cultivate good need not worry, eagerly gathering. Some newly create Buddha and bodhisattva images, adorning the grove of merit. Some construct Buddha halls and monastic quarters, multiplying the accumulation of blessings upon the mountain of roots of merit.
 
 The spiritual virtue of protecting the Dharma and bringing peace to people is conspicuously evident. The transforming activity of propagating the patriarchal Way is already without obstruction. Therefore, every year the entire mountain initiates the chanting of the Dharma-protection dedication, and the whole assembly individually offers the great support of their practices in gratitude. Items are as follows:
 

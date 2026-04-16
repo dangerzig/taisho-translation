@@ -8,7 +8,7 @@ Author unknown. A Dunhuang liturgical text.
 
 *Note: This is a Dunhuang manuscript preserving a complete liturgy for repentance worship services, including veneration of buddhas, confession of sins, aspiration prayers, and verses for evening, first watch, and dawn observances. The text draws on standard Chinese Buddhist liturgical formulae, including the names of buddhas from the Buddhāvataṃsaka and other repentance traditions. A colophon dates it to the twenty-second day of the fourth month of the second year of Xiǎndé (955 CE), recorded by the monk Xīn Yuànjìn of Great Mystery Monastery (Dàxuán Sì).*
 
-With all reverence, we pay homage to the eternally abiding Three Jewels. This assembly's solemn offering of wisdom-incense and food: may this incense and these flower-clouds transform and fill the realms of the ten directions, making offerings to all buddhas, to the bodhisattvas of all transformations beyond number, and to the countless śrāvakas. May they receive these incense and flower-clouds. By means of the terrace of radiance, with light pervading boundless realms without limit, making buddha-offerings: with offerings and reverence to all, together we recite the Mahāprajñāpāramitā.
+With all reverence, we pay homage to the eternally abiding Three Treasures. This assembly's solemn offering of wisdom-incense and food: may this incense and these flower-clouds transform and fill the realms of the ten directions, making offerings to all buddhas, to the bodhisattvas of all transformations beyond number, and to the countless śrāvakas. May they receive these incense and flower-clouds. By means of the terrace of radiance, with light pervading boundless realms without limit, making buddha-offerings: with offerings and reverence to all, together we recite the Mahāprajñāpāramitā.
 
 > The Tathāgata's wondrous form-body,
 > In all the world has no equal.
@@ -18,7 +18,7 @@ With all reverence, we pay homage to the eternally abiding Three Jewels. This as
 > His wisdom likewise is so.
 > All dharmas eternally abide.
 
-Therefore we pay homage to the eternally abiding Three Jewels and praise the Buddha's merit. The Buddha possesses the thirty-two major marks and eighty minor marks. He is called the deliverer of beings from the three realms, one who has accomplished the buddha-way.
+Therefore we pay homage to the eternally abiding Three Treasures and praise the Buddha's merit. The Buddha possesses the thirty-two major marks and eighty minor marks. He is called the deliverer of beings from the three realms, one who has accomplished the buddha-way.
 
 Homage to the Tathāgata Sumeru-Lamp-Radiance of the East, the buddhas of the ten directions, and all buddhas everywhere.
 
@@ -41,7 +41,7 @@ Universally, for the heavenly beings of the upper realms, the devas, nāgas, and
 > Therefore with sincere mind
 > Diligently repent the sins of the six faculties.
 
-Having repented, we take refuge and pay homage to the Three Jewels. With sincere minds we make vows: May we, life after life, be in the world of all buddhas, age after age always hearing the dharma from the liberated ones. With vast vows of universal equality, may we deliver all beings and ultimately accomplish the unsurpassed Way. Having made vows, we take refuge and pay homage to the Three Jewels.
+Having repented, we take refuge and pay homage to the Three Treasures. With sincere minds we make vows: May we, life after life, be in the world of all buddhas, age after age always hearing the dharma from the liberated ones. With vast vows of universal equality, may we deliver all beings and ultimately accomplish the unsurpassed Way. Having made vows, we take refuge and pay homage to the Three Treasures.
 
 Speaking a verse to make vows:
 
@@ -80,7 +80,7 @@ Homage to Vairocana Buddha (*Pílúzhēnà Fó*, 毘盧遮那佛). Homage to Roc
 
 Homage to Maitreya, the Honored Buddha who will come and descend to be born in the future. Homage to all the buddhas of the ten directions and three times, past, present, and future. Homage to the immeasurable jeweled stūpas of relics and images. Homage to the twelve divisions of the honored sūtras, the profound dharma-treasury. Homage to all the great bodhisattva-mahāsattvas. Homage to all the worthy and holy śrāvakas and pratyekabuddhas.
 
-With all reverence, for the nāgas, the eightfold assembly, and all good spirit-kings: homage to the eternally abiding Three Jewels. For all teachers past and present, forever serving as guides on the Way: homage to the eternally abiding Three Jewels. For the emperor, whose sage transformation is without end: homage to the eternally abiding Three Jewels. For the crown prince and all princes, that blessings may extend for ten thousand generations: homage to the eternally abiding Three Jewels. For teachers, monks, fathers, mothers, and good spiritual friends: homage to the eternally abiding Three Jewels. For benefactors of the ten directions, that the six pāramitās may be fulfilled: homage to the eternally abiding Three Jewels. For suffering sentient beings, that they may all be freed from suffering: homage to the eternally abiding Three Jewels. For civil and military officials, that they may always retain their rank and office: homage to the eternally abiding Three Jewels. For the peace and tranquility of the realm, that the dharma-wheel may always turn: homage to the eternally abiding Three Jewels. For all sentient beings of the dharma-realm, paying homage to the Buddha and performing repentance: with sincere minds we repent.
+With all reverence, for the nāgas, the eightfold assembly, and all good spirit-kings: homage to the eternally abiding Three Treasures. For all teachers past and present, forever serving as guides on the Way: homage to the eternally abiding Three Treasures. For the emperor, whose sage transformation is without end: homage to the eternally abiding Three Treasures. For the crown prince and all princes, that blessings may extend for ten thousand generations: homage to the eternally abiding Three Treasures. For teachers, monks, fathers, mothers, and good spiritual friends: homage to the eternally abiding Three Treasures. For benefactors of the ten directions, that the six pāramitās may be fulfilled: homage to the eternally abiding Three Treasures. For suffering sentient beings, that they may all be freed from suffering: homage to the eternally abiding Three Treasures. For civil and military officials, that they may always retain their rank and office: homage to the eternally abiding Three Treasures. For the peace and tranquility of the realm, that the dharma-wheel may always turn: homage to the eternally abiding Three Treasures. For all sentient beings of the dharma-realm, paying homage to the Buddha and performing repentance: with sincere minds we repent.
 
 > The buddhas of the ten directions are immeasurable;
 > What they know, nothing is not fully known.
@@ -96,9 +96,9 @@ With all reverence, for the nāgas, the eightfold assembly, and all good spirit-
 > We pray to be spared,
 > And in this body never to enter the evil paths.
 
-Having received the repentance, we take refuge and pay homage to the Three Jewels. With sincere minds we entreat: all the tathāgatas of the ten directions who have presently accomplished the Way, we beseech you to turn the dharma-wheel, bringing peace and joy to all beings. All the buddhas of the ten directions, if you wish to relinquish your lifespans, I now bow my head in homage and entreat you to remain long in the world. Having entreated, we take refuge and pay homage to the Three Jewels.
+Having received the repentance, we take refuge and pay homage to the Three Treasures. With sincere minds we entreat: all the tathāgatas of the ten directions who have presently accomplished the Way, we beseech you to turn the dharma-wheel, bringing peace and joy to all beings. All the buddhas of the ten directions, if you wish to relinquish your lifespans, I now bow my head in homage and entreat you to remain long in the world. Having entreated, we take refuge and pay homage to the Three Treasures.
 
-With sincere minds we rejoice: whatever merit there is from generosity, upholding precepts, cultivating meditation and wisdom, arising from body, speech, and mind; all those studying the three vehicles in the past and present; those who fully possess the one vehicle; the immeasurable merit of humans and devas: in all of this the assembly rejoices. We take refuge and pay homage to the Three Jewels.
+With sincere minds we rejoice: whatever merit there is from generosity, upholding precepts, cultivating meditation and wisdom, arising from body, speech, and mind; all those studying the three vehicles in the past and present; those who fully possess the one vehicle; the immeasurable merit of humans and devas: in all of this the assembly rejoices. We take refuge and pay homage to the Three Treasures.
 
 With sincere minds we transfer merit: Whatever meritorious karma I have done, may all of it be gathered together. For the sake of delivering the multitude of beings, I rightly transfer it toward the buddha-way.
 
@@ -106,7 +106,7 @@ With sincere minds we transfer merit: Whatever meritorious karma I have done, ma
 > Entreaty, rejoicing, and merit:
 > All transferred toward bodhi.
 
-Having transferred merit, we take refuge and pay homage to the Three Jewels.
+Having transferred merit, we take refuge and pay homage to the Three Treasures.
 
 With sincere minds we make vows:
 
@@ -119,7 +119,7 @@ With sincere minds we make vows:
 > Clearly see the Buddha-nature,
 > Just like the Bodhisattva Mañjuśrī.
 
-Having made vows, we take refuge and pay homage to the Three Jewels.
+Having made vows, we take refuge and pay homage to the Three Treasures.
 
 Let the assembly hear the dawn verse of purity:
 

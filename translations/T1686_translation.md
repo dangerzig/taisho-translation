@@ -17,7 +17,7 @@ Translated from the Chinese. Song dynasty, translated by Tianxizai (天息災).
 > Inner palace treasure-stores and many-storied pavilions, gold, jade, and maṇi gems of various radiance,
 > Pearl necklaces in lavish adornment: hundreds of thousands of heavenly beings constantly walk therein.
 > If one can dwell in peace within the heavenly realm, it is the reward of building and adorning buddha-monasteries.
-> With a faithful mind, one reveres the Three Jewels and donates wealth and goods to the monasteries.
+> With a faithful mind, one reveres the Three Treasures and donates wealth and goods to the monasteries.
 > Having received the joys of humans and devas, one shall attain the fruit of nirvāṇa and quiescent extinction.
 
 > When monasteries have crumbled with age, one who repairs and adorns them to serve the Buddha and saṃgha
@@ -90,11 +90,11 @@ Translated from the Chinese. Song dynasty, translated by Tianxizai (天息災).
 
 > If one becomes a great king, the body broadly and beautifully adorned,
 > With necklaces of maṇi pearls, pendants tinkling brightly:
-> This too is the field of the Three Jewels, through the giving of adornments.
+> This too is the field of the Three Treasures, through the giving of adornments.
 > The wise with a pure mind offer the Buddha flower-garlands and the like.
 > In heaven and in the human realm, one constantly attains joy.
 > And in the reward of subsequent lives,
-> One accomplishes the flowers of the seven factors of awakening and is reborn in the mountains and lands of heaven.
+> One accomplishes the flowers of the seven factors of enlightenment and is reborn in the mountains and lands of heaven.
 > As Lord Indra, together with retainers,
 > One sports in gardens and groves. Various flower offerings
 > Yield such a fruit. Lapis lazuli, pearls, and jewels,
@@ -161,7 +161,7 @@ Translated from the Chinese. Song dynasty, translated by Tianxizai (天息災).
 > Relieving those who are parched and weary, universally bringing all to satisfaction:
 > In subsequent reward one is reborn in heaven, or born in the Brahmā world.
 > One receives various kinds of joy and further realizes the fruit of quiescent extinction.
-> If with an alms-bowl one gives to the Three Jewels,
+> If with an alms-bowl one gives to the Three Treasures,
 > One shall in every place of rebirth enjoy wealth, nobility, and joy.
 > In the world one shall be honored and of supreme virtue,
 > And further all sentient beings shall constantly make offerings.

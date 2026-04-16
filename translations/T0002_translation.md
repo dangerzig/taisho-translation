@@ -139,7 +139,7 @@ At that time, the World-Honored One spoke in verse:
 > The many bhikṣus they liberated all accomplished great wisdom.
 > They diligently cultivated the correct path, the factors of bodhi:
 > The five faculties and five powers, the four mindfulnesses and four bases of spiritual power,
-> The seven factors of awakening and the eightfold noble path, together with samādhi.
+> The seven factors of enlightenment and the eightfold noble path, together with samādhi.
 > Serene were their faculties such as the eye; they penetrated the treasury of the Dharma,
 > Awakening all living beings and nurturing the life of wisdom.
 > In this Fortunate Kalpa, all praised this as unprecedented.

@@ -151,7 +151,7 @@ At that time the World-Honored One spoke this gīti:
 > The meritorious fruition thus gained
 > Is inconceivable.
 > Before long, one will reach the place of enlightenment,
-> Vanquish Māra, and attain perfect awakening.
+> Vanquish Māra, and attain perfect enlightenment.
 > This sūtra
 > Is praised by all buddhas.
 > It is the wondrous dharma-body,

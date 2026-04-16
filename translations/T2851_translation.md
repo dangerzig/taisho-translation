@@ -28,13 +28,13 @@ All bodhisattvas, do not be excessively miserly. Hoarding treasures like mountai
 
 All bodhisattvas, do not be excessively angry. Excessive anger will certainly bring the retribution of a snake, body twisting and writhing, crawling without hands or feet. Because of anger in a past life, eighty thousand tubes come to suck and feed. Leaving behind only bone and skin. The suffering is unbearable. When in what kalpa will one ever again attain a human body? Disciples of the Buddha:
 
-All bodhisattvas, do not slander the Three Jewels. If one slanders the Three Jewels, one falls into the evil destinies. Three hundred shells, long nails, fixed and driven into one's body. Screaming reaches to heaven; the sound is vast. Slandering the Buddha, slandering further in anger: copper opens, iron railings come in opposition. How painful! How bitter! It cannot be expressed. When will one ever encounter the palm-of-heaven way? Disciples of the Buddha:
+All bodhisattvas, do not slander the Three Treasures. If one slanders the Three Treasures, one falls into the evil destinies. Three hundred shells, long nails, fixed and driven into one's body. Screaming reaches to heaven; the sound is vast. Slandering the Buddha, slandering further in anger: copper opens, iron railings come in opposition. How painful! How bitter! It cannot be expressed. When will one ever encounter the palm-of-heaven way? Disciples of the Buddha:
 
 [Harmonize:] The dust-motes of violations darken a thousand lifetimes. The supreme fruit of bodhi is thus entirely and suddenly lost. Playing as an infant through the six destinies is truly pitiable. Between heaven and the human realm, which path of rebirth will you take?
 
 [Harmonize:] Having committed violations and knowing their retribution, one has already fallen into the three evil paths. How many years have been spent within them, unable to return?
 
-[Harmonize:] Having fallen into the evil destinies and reached the utmost suffering, passing through further kalpas and eons is truly heartrending. The months and years feel endlessly long. Does one not even hear the names of father, mother, or the Three Jewels?
+[Harmonize:] Having fallen into the evil destinies and reached the utmost suffering, passing through further kalpas and eons is truly heartrending. The months and years feel endlessly long. Does one not even hear the names of father, mother, or the Three Treasures?
 
 [Harmonize:] How bitter! How bitter!
 

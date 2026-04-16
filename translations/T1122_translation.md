@@ -9,7 +9,7 @@
 > I, with the three purified karmas,
 > For the benefit of all sentient beings,
 > That they may attain the three bodies,
-> Pay homage and take refuge in the Three Jewels.
+> Pay homage and take refuge in the Three Treasures.
 > The vajra body, speech, and mind
 > Pervade the realm of birth and death;
 > The secret vajradhātu,
@@ -27,7 +27,7 @@
 > World-Saving Avalokiteśvara,
 > Who reveals the yoga of samādhi,
 > Skillful Viśvakarman,
-> Adept in secret expedient means:
+> Adept in secret skillful means:
 > To all these holy ones above
 > I bow my head in reverence.
 
@@ -52,7 +52,7 @@
 > Then rotating rightward,
 > All while reciting the "hūṃ" syllable vidyā.
 > Next, contemplate that the buddhas eternally abide.
-> Having bowed and paid homage to the Three Jewels,
+> Having bowed and paid homage to the Three Treasures,
 > One then recites the purification vidyā,
 > With both hands forming the unopened lotus,
 > Empowering the heart, forehead, throat, and crown.

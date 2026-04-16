@@ -24,7 +24,7 @@ By the empowering force of this mantra, the karmas of body, speech, and mind are
 > In the practices and vows of the buddhas and bodhisattvas,
 > The merit born of the vajra three karmas,
 > That of pratyekabuddhas, śrāvakas, and sentient beings:
-> In all the wholesome roots they have gathered, I fully rejoice.
+> In all the roots of merit they have gathered, I fully rejoice.
 > All the lamps of the world who sit at the bodhimaṇḍa,
 > Whose awakened eye opens and shines upon the three realms of existence:
 > I now kneel and first exhort them

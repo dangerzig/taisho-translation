@@ -8,7 +8,7 @@ Translated from the Chinese. Tang dynasty, compiled by Fǎquán (法全).
 
 ---
 
-On the first day, empower one's own body with the Tathāgata's nature, make offerings, alert the earth deity, select the ground by removing all foul objects, and tamp it firmly. On the second day, within the altar dig one cubit deep, empower the five treasures with the Acala mantra one hundred and eight times, establish the positions of the holy ones, and mark the positions of the five buddhas and four bodhisattvas with white sandalwood dots. On the third day, place the vases and empower them with the Acala mantra one hundred and eight times. On the fourth day at dusk, next sprinkle the perfumed water mantra one hundred and eight times, then purify by sprinkling. On the fifth day, protect the body with offerings, reciting Acala or Trailokyavijaya one hundred and eight times, then recite the earth-holding mantra. On the sixth night, the master and disciple bathe and don clean garments, proceed to the altar and make offerings according to the rite. With mudrās in correspondence, press the hand upon the central court, reciting the mantra once per press up to seven times; the positions of all the holy ones are likewise established. On the seventh day, next teach the disciple the three refuges, confession, and arousing the mind of awakening.
+On the first day, empower one's own body with the Tathāgata's nature, make offerings, alert the earth deity, select the ground by removing all foul objects, and tamp it firmly. On the second day, within the altar dig one cubit deep, empower the five treasures with the Acala mantra one hundred and eight times, establish the positions of the holy ones, and mark the positions of the five buddhas and four bodhisattvas with white sandalwood dots. On the third day, place the vases and empower them with the Acala mantra one hundred and eight times. On the fourth day at dusk, next sprinkle the perfumed water mantra one hundred and eight times, then purify by sprinkling. On the fifth day, protect the body with offerings, reciting Acala or Trailokyavijaya one hundred and eight times, then recite the earth-holding mantra. On the sixth night, the master and disciple bathe and don clean garments, proceed to the altar and make offerings according to the rite. With mudrās in correspondence, press the hand upon the central court, reciting the mantra once per press up to seven times; the positions of all the holy ones are likewise established. On the seventh day, next teach the disciple the three refuges, confession, and arousing the mind of enlightenment.
 
 > I bow my head in homage
 > To all the Bhagavāns,
@@ -127,7 +127,7 @@ The mantra reads:
 > One thousand one hundred times,
 > Leaving behind all discursive thought.
 > When the count is complete, lie down peacefully,
-> Concentrating on the mind of awakening:
+> Concentrating on the mind of enlightenment:
 > A moon disk like a wish-fulfilling jewel,
 > Brilliantly luminous within and without.
 > Accomplishment or non-accomplishment
@@ -233,7 +233,7 @@ The mantra for sweeping the ground reads:
 > To purify and remove karma
 > Is liberation itself.
 > What can burn away past karma
-> Is the mind of awakening;
+> Is the mind of enlightenment;
 > This is called inner homa.
 > Just as worldly fire
 > Burns things to ashes,
@@ -264,7 +264,7 @@ The mantra for sweeping the ground reads:
 > Burn away karmic afflictions,
 > The stumps and roots of ignorance,
 > Until nothing remains.
-> Next contemplate the mind of awakening,
+> Next contemplate the mind of enlightenment,
 > Bathing it with the water of great compassion.
 > Visualize throughout the entire body
 > The flowing of white amṛta,
@@ -846,7 +846,7 @@ The farewell mantra reads:
 > One may dream of buddhas, bodhisattvas,
 > Vajra-holders, or kings,
 > Maṇḍala lords, mantra lords,
-> Vidyā-kings, or the Three Jewels,
+> Vidyā-kings, or the Three Treasures,
 > Brahmins or laypeople.
 > One sees oneself reciting mantras,
 > Wearing fine new white garments,

@@ -31,7 +31,7 @@ Translated from the Chinese. Tang dynasty, translated by Yijing (義淨)
 > Following the Buddha through a single lifetime, they spread the true teaching.
 > Each, according to their original conditions, accomplished their transforming work,
 > Then reduced the body to ash and extinguished knowledge in birthless quiescence.
-> I bow my head in reverence to all the Three Jewels,
+> I bow my head in reverence to all the Three Treasures,
 > The true cause that can universally bring deliverance.
 > Those foolish and deluded in birth-and-death, long sunk and drowning,
 > Are all caused to escape and reach bodhi.

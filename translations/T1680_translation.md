@@ -100,7 +100,7 @@ Composed by Mātṛceṭa (*Mózhǐlǐ Zhìzhā*, 摩咥里制吒). Translated b
 > He does not regard their faults and evils,
 > But constantly arises in great compassion.
 
-> The seed of right and perfect awakening
+> The seed of right and perfect enlightenment
 > His mind always treasures and enjoys.
 > The great hero's hard-to-conquer wisdom
 > Has no one who can equal it.
@@ -177,7 +177,7 @@ Composed by Mātṛceṭa (*Mózhǐlǐ Zhìzhā*, 摩咥里制吒). Translated b
 
 > But departing from all faults and troubles,
 > Tranquil, serene, unmoved,
-> The supreme wholesome roots:
+> The supreme roots of merit:
 > Nothing can serve as their analogy.
 
 > The Tathāgata's wisdom is deep and far-reaching,
@@ -235,7 +235,7 @@ Composed by Mātṛceṭa (*Mózhǐlǐ Zhìzhā*, 摩咥里制吒). Translated b
 > Crushing all heterodox schools:
 > How rare! Beyond compare!
 
-> The three wholesome roots perfected,
+> The three roots of merit perfected,
 > Attachment, aversion, and delusion forever extinguished.
 > Seeds and habits all removed:
 > His purity is beyond analogy.
@@ -520,7 +520,7 @@ Composed by Mātṛceṭa (*Mózhǐlǐ Zhìzhā*, 摩咥里制吒). Translated b
 > By balanced absorption he straightens crooked minds;
 > Those on the wrong path he returns to the right way.
 
-> For those whose wholesome roots have ripened,
+> For those whose roots of merit have ripened,
 > He conveys them by the three vehicles.
 > The obstinate and unruly:
 > Through compassion he temporarily sets them aside.
@@ -557,7 +557,7 @@ Composed by Mātṛceṭa (*Mózhǐlǐ Zhìzhā*, 摩咥里制吒). Translated b
 
 > He does not consider clan or lineage,
 > Appearance, strength, or years.
-> Whoever has wholesome roots,
+> Whoever has roots of merit,
 > All who seek are granted fulfillment.
 
 > Widely displaying various marvels,

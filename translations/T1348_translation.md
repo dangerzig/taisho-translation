@@ -13,7 +13,7 @@ At one time the Bhagavat was dwelling in the city of Rājagṛha on Mount Gṛdh
 
 Then the World-Honored One addressed Maitreya Bodhisattva: "Maitreya! To the east of this buddha-field, passing beyond buddha-fields equal in number to the atoms in ten ineffably many hundreds of thousands of koṭis of buddha-fields, there is a buddha-land called Liberation-Lord World. Within that world there is a buddha named Ākāśa-guṇa-viśuddhi-paramāṇu-sama-netra-sundaraguṇa-lakṣaṇa-prabhā-puṣpa-padma-vaiḍūrya-prabhā-ratnakāya-gandha-uttama-gandha-pūjā-kṛta-nānā-vyūha-cūḍā-ananta-aparimāṇa-sūryacandra-prabhā-praṇidhāna-vyūha-vikurvita-vyūha-dharmadhātu-udbhava-anāvaraṇa-rāja Tathāgata, Arhat, Samyak-saṃbuddha. He is presently abiding there, wandering freely as he pleases, and teaching the Dharma wherever he goes.
 
-"If any good man or good woman has committed the four grave offenses, the five acts of immediate retribution, slander of the Three Jewels, or the four pārājikas, the sins of such a person are heavy. Suppose the earth of Jambudvīpa were reduced to fine atoms, and each atom became one kalpa: that person would have sins equal to that many kalpas. Yet if they call upon the name of this single buddha and make one prostration, all these sins will be eliminated. How much more so for one who day and night receives, upholds, reads, recites, remembers, and does not forget! The merit of such a person is inconceivable.
+"If any good man or good woman has committed the four grave offenses, the five acts of immediate retribution, slander of the Three Treasures, or the four pārājikas, the sins of such a person are heavy. Suppose the earth of Jambudvīpa were reduced to fine atoms, and each atom became one kalpa: that person would have sins equal to that many kalpas. Yet if they call upon the name of this single buddha and make one prostration, all these sins will be eliminated. How much more so for one who day and night receives, upholds, reads, recites, remembers, and does not forget! The merit of such a person is inconceivable.
 
 "Within that buddha-world there is a bodhisattva named Anupama. The Tathāgata Anāvaraṇa-rāja has given that bodhisattva a prediction that they will attain buddhahood, with the name Keśa-lakṣaṇa-sūryacandra-prabhā-puṣpa-ratna-padma-dṛḍha-vajrakāya-vairocana-anāvaraṇa-netra-paripūrṇa-daśadiś-raśmi-prabhāsa-sarva-buddhakṣetra-lakṣaṇa-rāja Tathāgata, Arhat, Samyak-saṃbuddha, Sugata, Knower of the World, Unsurpassed One, Tamer of Humans, Teacher of Devas and Humans, Buddha, World-Honored One.
 
@@ -37,7 +37,7 @@ Then the World-Honored One addressed Maitreya Bodhisattva: "Maitreya! To the eas
 
 "In the zenith there is a buddha named Suvarṇa-prabhā-tejarāja-sadṛśa Tathāgata, Arhat, Samyak-saṃbuddha. One should also call upon that buddha's name, cultivate reverence, recite his name, and be mindful of his name in one's heart."
 
-Then the Buddha addressed Maitreya: "If any good man or good woman of right faith, while calling upon the names of these twelve buddhas, practices for ten days repenting of all sins, rejoicing in the merit of all sentient beings, requesting all buddhas to long abide in the world, and transferring all wholesome roots to the Dharma-realm, at that time all their sins will be eliminated and all their karmic obstructions purified. They will accomplish and adorn all buddha-fields, attain complete fearlessness, accomplish the adornment of bodily characteristics, accomplish a retinue of bodhisattvas surrounding them, accomplish immeasurable dhāraṇīs, accomplish immeasurable samādhis, accomplish the adornment of buddha-fields at will, and accomplish immeasurable good friends. They will swiftly accomplish all that has been described above, neither more nor less, practicing anuttarā-samyak-saṃbodhi within the midst of afflictions, and will attain the karmic reward of being handsome and delightful. They will also have abundant wealth and treasures, will always be born into families of great lineage and noble clan, will have perfect physical characteristics, and will be surrounded by harmonious relatives."
+Then the Buddha addressed Maitreya: "If any good man or good woman of right faith, while calling upon the names of these twelve buddhas, practices for ten days repenting of all sins, rejoicing in the merit of all sentient beings, requesting all buddhas to long abide in the world, and transferring all roots of merit to the Dharma-realm, at that time all their sins will be eliminated and all their karmic obstructions purified. They will accomplish and adorn all buddha-fields, attain complete fearlessness, accomplish the adornment of bodily characteristics, accomplish a retinue of bodhisattvas surrounding them, accomplish immeasurable dhāraṇīs, accomplish immeasurable samādhis, accomplish the adornment of buddha-fields at will, and accomplish immeasurable good friends. They will swiftly accomplish all that has been described above, neither more nor less, practicing anuttarā-samyak-saṃbodhi within the midst of afflictions, and will attain the karmic reward of being handsome and delightful. They will also have abundant wealth and treasures, will always be born into families of great lineage and noble clan, will have perfect physical characteristics, and will be surrounded by harmonious relatives."
 
 Then the World-Honored One, restating this meaning, spoke in verse:
 
@@ -86,7 +86,7 @@ When the World-Honored One had spoken this mantra, he again spoke in verse:
 > They will attain dhāraṇī-samādhi,
 > The most wondrous and supreme state,
 > Receiving and upholding without forgetting,
-> All the way to awakening,
+> All the way to enlightenment,
 > All through the power of the buddha-names
 > And this dhāraṇī.
 >
@@ -230,7 +230,7 @@ When the World-Honored One had spoken this mantra, he again spoke in verse:
 > The buddha-fields and sentient beings,
 > Chosen at will as they please.
 > Born in those buddha-fields,
-> They will swiftly attain perfect awakening,
+> They will swiftly attain perfect enlightenment,
 > Turn the unsurpassed Dharma-wheel,
 > And enter nirvāṇa at will.
 >
@@ -265,7 +265,7 @@ When the World-Honored One had spoken this mantra, he again spoke in verse:
 > Therefore I now say:
 > Maitreya, listen to me!
 > A person of great wisdom,
-> Skillful in understanding expedient means,
+> Skillful in understanding skillful means,
 > Constantly diligent and not heedless,
 > Always drawing near to good friends,
 > Will hear this sūtra

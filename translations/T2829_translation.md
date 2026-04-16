@@ -77,7 +77,7 @@ We further vow: may this merit ensure that the Emperor and Empress enjoy an endl
 
 The voice of Brahmā: "How does one attain long life and a vajra indestructible body? By what causes and conditions does the Buddha attain great and firm power? How does one, through this sūtra, ultimately reach the other shore? We pray the Buddha will open the subtle and esoteric and broadly explain for all sentient beings."
 
-For the twenty-eight heavens, Indra, and Brahmā Kings, we reverently worship the ever-abiding Three Jewels. For the patron, to be adorned with merit and wisdom, we reverently worship the ever-abiding Three Jewels. For sentient beings of the six destinies, to depart from obstructions and attain liberation, we bow to all the worthies and sages.
+For the twenty-eight heavens, Indra, and Brahmā Kings, we reverently worship the ever-abiding Three Treasures. For the patron, to be adorned with merit and wisdom, we reverently worship the ever-abiding Three Treasures. For sentient beings of the six destinies, to depart from obstructions and attain liberation, we bow to all the worthies and sages.
 
 ### Verse for the Food Offering
 
@@ -97,7 +97,7 @@ Universal recitation: "Abiding in the world like empty space, like a lotus unatt
 
 All practices are preceded by giving. Through generosity, one departs from stinginess and greed. Therefore the present patron, having completed the fast, fears the fruit may not be complete, and further offers pure wealth as an act of giving. May the deceased be reborn in the Western Land. May those now living see their own nature and accomplish the buddha-way.
 
-All respectfully: "I take refuge in the Buddha. May all sentient beings embody the correct awakening and arouse the bodhi-mind. I take refuge in the Dharma. May all sentient beings enter deeply into the treasury of sūtras, with wisdom like the ocean. I take refuge in the Saṃgha. May all sentient beings govern the great assembly, with all things unobstructed."
+All respectfully: "I take refuge in the Buddha. May all sentient beings embody the correct enlightenment and arouse the bodhi-mind. I take refuge in the Dharma. May all sentient beings enter deeply into the treasury of sūtras, with wisdom like the ocean. I take refuge in the Saṃgha. May all sentient beings govern the great assembly, with all things unobstructed."
 
 The assembly of men, hear:
 
@@ -105,7 +105,7 @@ The assembly of men, hear:
 > Incomparable, inconceivable: therefore I now worship in reverence.
 > The Tathāgata's form is inexhaustible; his wisdom is likewise.
 > All dharmas are ever-abiding: therefore I take refuge.
-> We reverently worship the ever-abiding Three Jewels.
+> We reverently worship the ever-abiding Three Treasures.
 
 ---
 

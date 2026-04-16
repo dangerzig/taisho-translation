@@ -64,7 +64,7 @@ Translated from the Chinese. Author unknown.
 >
 > Prostration, offering, and confession,
 > Requesting, rejoicing, and exhortation:
-> Whatever small wholesome roots I have accumulated,
+> Whatever small roots of merit I have accumulated,
 > All of these I dedicate to bodhi.
 >
 > All buddhas of the past throughout the ten directions,
@@ -269,7 +269,7 @@ Translated from the Chinese. Author unknown.
 >
 > Swiftly proceeding to the sovereign bodhi tree,
 > For the benefit of sentient beings, sitting there,
-> Attaining perfect, complete awakening, turning the Dharma-wheel,
+> Attaining perfect, complete enlightenment, turning the Dharma-wheel,
 > Vanquishing all the hosts of māras.
 >
 > Whoever upholds, recites, and explains
@@ -284,7 +284,7 @@ Translated from the Chinese. Author unknown.
 >
 > All the supremely good ones traversing the three times,
 > Their dedications among the most excellent:
-> All my wholesome roots like these
+> All my roots of merit like these
 > I dedicate for the practice of Samantabhadra's conduct.
 >
 > When I approach the time of death,

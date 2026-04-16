@@ -24,7 +24,7 @@ By the empowerment of this mantra, the karmas of body, speech, and mind are all 
 > In the practices and vows of the buddhas and bodhisattvas,
 > The merit born of the vajra three karmas,
 > That of pratyekabuddhas, śrāvakas, and sentient beings:
-> In all the wholesome roots they have gathered, I fully rejoice.
+> In all the roots of merit they have gathered, I fully rejoice.
 > All the lamps of the world who sit at the bodhimaṇḍa,
 > Whose awakened eye opens and shines upon the three realms of existence:
 > I now kneel and first exhort them
@@ -84,7 +84,7 @@ Cross the fingers inward, right over left. Extend both middle fingers upright wi
 
 By forming this mudrā and reciting the mantra, one is as if clad in vajra armor. All vināyakas and māras who create obstacles retreat and flee. They see the practitioner's body radiant with majestic virtue and sovereign power. Whether in mountain forests or amidst dangers, one is entirely without fear. Disasters of water, fire, and all calamities; tigers, wolves, and lions; blades, cudgels, fetters, and shackles: all such things are extinguished, and all who see one are delighted. After death, one does not fall into the evil destinies but is born in the pure and wondrous buddha-lands.
 
-Next, one forms the Vajracakra Great Bodhisattva great power seal. Having entered the maṇḍala, one receives the three unobstructed samaya disciplines of the three ages. By entering the maṇḍala, in body and mind one is endowed with the anākṣarika samaya precepts equal to the dust-motes of world-systems in ten directions of dust-mote realms. Whether through bending the body, bowing, speaking, breathing, stirring the mind, or shifting one's thoughts, should one forget the mind of bodhi or lose the wholesome roots, by the supreme skillful means of this mudrā-seal and secret mantra, through recitation and directed attention, one can remove all transgressions. The samaya is restored and shines even more brightly. Because it purifies body, speech, and mind, it constitutes entering all maṇḍalas and obtaining the abhiṣeka samaya. One should form the mudrā and recite the mantra seven times. Cross both hands inward. Extend both middle fingers. Wind both ring fingers around the middle fingers. Extend both index fingers straight. Place the mudrā at the heart. Sincerely recite seven times. The mantra says:
+Next, one forms the Vajracakra Great Bodhisattva great power seal. Having entered the maṇḍala, one receives the three unobstructed samaya disciplines of the three ages. By entering the maṇḍala, in body and mind one is endowed with the anākṣarika samaya precepts equal to the dust-motes of world-systems in ten directions of dust-mote realms. Whether through bending the body, bowing, speaking, breathing, stirring the mind, or shifting one's thoughts, should one forget the mind of bodhi or lose the roots of merit, by the supreme skillful means of this mudrā-seal and secret mantra, through recitation and directed attention, one can remove all transgressions. The samaya is restored and shines even more brightly. Because it purifies body, speech, and mind, it constitutes entering all maṇḍalas and obtaining the abhiṣeka samaya. One should form the mudrā and recite the mantra seven times. Cross both hands inward. Extend both middle fingers. Wind both ring fingers around the middle fingers. Extend both index fingers straight. Place the mudrā at the heart. Sincerely recite seven times. The mantra says:
 
 *Namaḥ strīya-dhvikānāṃ sarva-tathāgatānāṃ āṃ viraji viraji mahā-cakra-vajri sata sata sārate sārate trayi trayi vidhamani saṃbhañjani tramati siddha-gṛtāṃ svāhā*
 
@@ -197,4 +197,4 @@ The mantra says:
 > One who thus practices in accord with the dharma
 > Swiftly gathers merit and wisdom and attains spiritual powers.
 > In this present life, one enters the bhūmi of joy,
-> And after sixteen lifetimes, one attains true awakening."
+> And after sixteen lifetimes, one attains true enlightenment."

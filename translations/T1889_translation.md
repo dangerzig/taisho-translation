@@ -9,7 +9,7 @@ Translated from the Chinese. Silla, composed by Myŏnghyo (明皛).
 
 The great Way is boundless; it cannot be sought through narrow practice. The ultimate principle is deep and abstruse; it cannot be known through shallow wisdom. If one enters the Way with a confined disposition, the Way does not admit confined entry. If one seeks the principle by grasping at teachings, the principle does not yield to grasping. Only through boundless and great practice can one begin to merit the name "Way." Only through penetrating, empty, and perfect wisdom can one truly encounter the principle. Therefore I invite the noble persons of the future to share in the spirit of entrusting oneself to the fish-trap while forgetting the fish.
 
-> Homage to the Three Jewels throughout
+> Homage to the Three Treasures throughout
 > The dharmadhātu of the ten directions.
 > I wish to repay the Buddha's kindness
 > By briefly expounding the meaning of the sūtras,
@@ -20,7 +20,7 @@ The great Way is boundless; it cannot be sought through narrow practice. The ult
 
 ### The Ocean-Seal Samādhi
 
-The treatise states: There is a great samādhi called the Ocean Seal. It swiftly causes practitioners to reach the stage of non-retrogression. Using small expedient means, one obtains great benefit. Within this seal, the essential meaning is expressed in verse as a dhāraṇī. It comprehensively holds the essential meaning of all sūtras. It universally contains all the merit of all buddhas.
+The treatise states: There is a great samādhi called the Ocean Seal. It swiftly causes practitioners to reach the stage of non-retrogression. Using small skillful means, one obtains great benefit. Within this seal, the essential meaning is expressed in verse as a dhāraṇī. It comprehensively holds the essential meaning of all sūtras. It universally contains all the merit of all buddhas.
 
 This dhāraṇī has, in brief, two kinds: dharma and meaning.
 
@@ -82,9 +82,9 @@ The verse, read from the center:
 
 ### Explanation
 
-The treatise states: This Dharma-gate can open the wisdom-eye of all bodhisattvas and can fulfill the aspirations of all bodhisattvas. All practitioners who wish to be born in the Pure Land should rely upon this gate and practice it, thought after thought, in their studies. At all times they should not allow any interruption. Those who ride this Dharma use small expedient means to swiftly reach the buddha-fruit. It is like a person who boards a ship to cross the ocean to the other shore: catching a favorable wind, with small expedient means one swiftly reaches the other shore. Those who ride this Dharma, whether walking, standing, sitting, or lying down, at all times constantly enter the samādhi of cessation. Those who ride this Dharma will before long attain the ground of unobstructed patience. There are such various benefits that even if all buddhas were to dwell for innumerable kalpas, they could not fully describe them. The secret Dharma-treasury of the buddhas of the three times is nothing beyond this dhāraṇī verse.
+The treatise states: This Dharma-gate can open the wisdom-eye of all bodhisattvas and can fulfill the aspirations of all bodhisattvas. All practitioners who wish to be born in the Pure Land should rely upon this gate and practice it, thought after thought, in their studies. At all times they should not allow any interruption. Those who ride this Dharma use small skillful means to swiftly reach the buddha-fruit. It is like a person who boards a ship to cross the ocean to the other shore: catching a favorable wind, with small skillful means one swiftly reaches the other shore. Those who ride this Dharma, whether walking, standing, sitting, or lying down, at all times constantly enter the samādhi of cessation. Those who ride this Dharma will before long attain the ground of unobstructed patience. There are such various benefits that even if all buddhas were to dwell for innumerable kalpas, they could not fully describe them. The secret Dharma-treasury of the buddhas of the three times is nothing beyond this dhāraṇī verse.
 
-If there are practitioners who wish to swiftly advance toward unsurpassed bodhi, they should first arouse vast and wondrous vows. They should generate a mind of great compassion toward all sentient beings. They should regard good teachers as difficult to encounter. They should revere the Three Jewels and destroy arrogance. Relying on the Mahāyāna sūtras, they should sincerely repent of all karmic obstructions. After that, they should single-mindedly seek out great good teachers and ask about the essentials of the Dharma. Having heard the teaching, they should concentrate their thoughts in contemplation. They should practice as taught, at all times without interruption of mind. If one can do this, before long one will enter the dhāraṇī gate.
+If there are practitioners who wish to swiftly advance toward unsurpassed bodhi, they should first arouse vast and wondrous vows. They should generate a mind of great compassion toward all sentient beings. They should regard good teachers as difficult to encounter. They should revere the Three Treasures and destroy arrogance. Relying on the Mahāyāna sūtras, they should sincerely repent of all karmic obstructions. After that, they should single-mindedly seek out great good teachers and ask about the essentials of the Dharma. Having heard the teaching, they should concentrate their thoughts in contemplation. They should practice as taught, at all times without interruption of mind. If one can do this, before long one will enter the dhāraṇī gate.
 
 As described above, the ocean-seal samādhi comes from the Ten Grounds Chapter of the *Avataṃsaka Sūtra*. As for the form of the seal, it was arranged according to meaning. As for the verse text, it summarizes the essential meaning of the entire sūtra in verse form.
 

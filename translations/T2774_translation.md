@@ -23,7 +23,7 @@ This principle being profound and hidden is called "deep." That which can serve 
 
 "Skilled in the perfection of wisdom" refers to the substance of wisdom itself. It is precisely because the perfection of prajñā-wisdom is complete that one can enter the profound Dharma-gate.
 
-From "penetrating expedient means" onward through "being firmly established in the Great Vehicle," this clarifies the practice of existence. "Penetrating expedient means" means that skillful ingenuity without attachment is called "expedient means." Being unobstructed in affairs is called "penetrating." Having the ability to reach somewhere is called "arriving."
+From "penetrating skillful means" onward through "being firmly established in the Great Vehicle," this clarifies the practice of existence. "Penetrating skillful means" means that skillful ingenuity without attachment is called "skillful means." Being unobstructed in affairs is called "penetrating." Having the ability to reach somewhere is called "arriving."
 
 "Great vows accomplished" means that the bodhisattva has earnestly aspired to the fruit of buddhahood and vowed to liberate sentient beings. "Clearly knowing the tendencies of sentient beings' minds" means skillfully recognizing whether sentient beings' minds tend toward good or evil. "Also able to distinguish the sharpness or dullness of their faculties" means that the upper, middle, and lower grades of capacity for awakening differ in ten thousand ways, yet he can fully know them all. This is recognizing the illness.
 
@@ -91,4 +91,4 @@ He teaches the elders the supreme dharma of the buddha-dharma. "Householders, he
 
 "If among the world-protectors, he causes them to protect sentient beings": the Four Heavenly Kings command the spirits and do not allow them to harm people. If stationed in their command, they cause the spirits to guard and protect, making this their business, thus protecting all sentient beings.
 
-In this way, Vimalakīrti, through traces manifested in ten thousand different ways, appearing everywhere, uses immeasurable expedient means to compassionately shelter the six destinies. "Benefiting sentient beings" is the conclusion.
+In this way, Vimalakīrti, through traces manifested in ten thousand different ways, appearing everywhere, uses immeasurable skillful means to compassionately shelter the six destinies. "Benefiting sentient beings" is the conclusion.

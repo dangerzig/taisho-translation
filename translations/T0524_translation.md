@@ -39,7 +39,7 @@ the World-Honored One then told King Udayana: "Great king, you should now unders
 
 "What are the virtues of a king? Great king, the virtues of a king are briefly of ten kinds: First, his lineage is exalted. Second, he has great autonomy. Third, his nature is not violent. Fourth, his anger is mild. Fifth, his generosity is strong. Sixth, he accepts upright words. Seventh, his actions are carefully considered and accord with the former teachings. Eighth, he cherishes wholesome dharmas. Ninth, he is skilled in discernment. Tenth, he does not indulge himself and does not practice heedlessness.
 
-"What does it mean that a king's lineage is exalted? It means that there is a king who, through planting good roots in the past and by the power of great vows, was born into a royal family, inherited the throne, and nurtures the myriad people with benevolence, having pure faith in the Three Jewels. This is called a king whose lineage is exalted.
+"What does it mean that a king's lineage is exalted? It means that there is a king who, through planting good roots in the past and by the power of great vows, was born into a royal family, inherited the throne, and nurtures the myriad people with benevolence, having pure faith in the Three Treasures. This is called a king whose lineage is exalted.
 
 "What does it mean that a king has great autonomy? It means that there is a king who freely acts as he wishes, enjoying the five exquisite pleasures in amusement and play. Whatever rewards and grants he issues are made according to his will, and the edicts he promulgates to all officials are carried out without obstruction. This is called a king who has great autonomy.
 

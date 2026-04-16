@@ -24,7 +24,7 @@ Composed by Bodhisattva Nāgārjuna (*Lóngshù Púsà*, 龍樹菩薩). Translat
 > Shines with increased brilliance when moonlight descends upon it.
 
 > The Buddha teaches that the six recollections should be cultivated:
-> The Three Jewels, generosity, precepts, and the heavens.
+> The Three Treasures, generosity, precepts, and the heavens.
 > Practice the ten wholesome deeds and purify the three karmas;
 > Keep far from wine, heedlessness, and wrong livelihood.
 
@@ -444,7 +444,7 @@ Composed by Bodhisattva Nāgārjuna (*Lóngshù Púsà*, 龍樹菩薩). Translat
 
 > Some are born among the asuras and give rise to arrogance;
 > Anger, jealousy, greed, and harm increase their afflictions.
-> Though the devas have wholesome roots and practices,
+> Though the devas have roots of merit and practices,
 > Through miserliness and jealousy they lose benefit and joy.
 > Therefore know that the fetter of jealousy
 > Is a deeply evil dharma that should be cast aside.
@@ -508,13 +508,13 @@ Composed by Bodhisattva Nāgārjuna (*Lóngshù Púsà*, 龍樹菩薩). Translat
 
 > O king, you should emulate the worthy and holy ones,
 > As Avalokiteśvara (*Guānyīn*, 觀音) and others deliver beings.
-> In the future you will surely accomplish perfect awakening,
+> In the future you will surely accomplish perfect enlightenment,
 > In a land free of birth, old age, and the three poisons.
 
 > Great king, if you cultivate the above-described good,
 > Your fine reputation will spread far.
 > Then, with this, teach and transform others,
-> Universally causing all to accomplish perfect awakening.
+> Universally causing all to accomplish perfect enlightenment.
 
 > The swift river of afflictions sweeps away beings;
 > It is a cause of deep dread and blazing suffering.

@@ -21,19 +21,19 @@ Then the World-Honored One spoke the dhāraṇī:
 
 *Tadyathā: jvale mahā-jvale jvala-ni mahā-jvala-ni tapa-ni mahā-tapa-ni jvala-ti ukti mukti saṃbhani mahā-saṃbhani svāhā.*
 
-"Ānanda! I have already told you that these verses of the great dhāraṇī were proclaimed by seventy-seven koṭi buddha-tathāgatas, and I now proclaim it again. Ānanda! If any good man or good woman receives and upholds these verses of the great dhāraṇī with a mind of faith, whether reading, reciting, or contemplating them, and makes various offerings, they will attain the knowledge of past lives, knowing the events of seven lifetimes, and will never regress from the mind of awakening."
+"Ānanda! I have already told you that these verses of the great dhāraṇī were proclaimed by seventy-seven koṭi buddha-tathāgatas, and I now proclaim it again. Ānanda! If any good man or good woman receives and upholds these verses of the great dhāraṇī with a mind of faith, whether reading, reciting, or contemplating them, and makes various offerings, they will attain the knowledge of past lives, knowing the events of seven lifetimes, and will never regress from the mind of enlightenment."
 
 Then the World-Honored One spoke another dhāraṇī:
 
 *Tadyathā: aṇi maṇi kṣami kṣa-maye mānane anānu-hure mahā-hure tanake gaṃ-bhīri-nu prasahi sahi svāhā.*
 
-"Ānanda! These verses of the great dhāraṇī were proclaimed by eighty-eight koṭi buddha-tathāgatas of the past, and I too rejoice in them and now proclaim them again. Ānanda! If any good man or good woman receives and upholds these verses of the great dhāraṇī with a mind of faith, whether reading, reciting, contemplating, or making offerings, that person will attain the knowledge of past lives, knowing the events of fourteen lifetimes, and will never regress from the mind of awakening."
+"Ānanda! These verses of the great dhāraṇī were proclaimed by eighty-eight koṭi buddha-tathāgatas of the past, and I too rejoice in them and now proclaim them again. Ānanda! If any good man or good woman receives and upholds these verses of the great dhāraṇī with a mind of faith, whether reading, reciting, contemplating, or making offerings, that person will attain the knowledge of past lives, knowing the events of fourteen lifetimes, and will never regress from the mind of enlightenment."
 
 Then the World-Honored One spoke yet another dhāraṇī:
 
 *Tadyathā: aṃ-ci-vanti chaṭa-ke chaṭa-rake chaṭa-ke chaṭa-rake asika-sma-kasi ire mire tire mire nau-rave mahā-nau-rave bhūtaṃ-gami bhūta-parāyaṇa-timi aṃ-gale mahā-timi-aṃ-gale saṃ-bhave mahā-saṃ-bhave svāhā.*
 
-"Ānanda! These verses of the great dhāraṇī possess great majestic virtue, immeasurable power and strength. If any good man or good woman receives, upholds, reads, recites, contemplates, and makes offerings to them with a mind of faith, they will attain the knowledge of past lives, knowing the events of twenty-one lifetimes, and will never regress from the mind of awakening."
+"Ānanda! These verses of the great dhāraṇī possess great majestic virtue, immeasurable power and strength. If any good man or good woman receives, upholds, reads, recites, contemplates, and makes offerings to them with a mind of faith, they will attain the knowledge of past lives, knowing the events of twenty-one lifetimes, and will never regress from the mind of enlightenment."
 
 Then the World-Honored One spoke yet another dhāraṇī:
 

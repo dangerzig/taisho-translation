@@ -11,7 +11,7 @@ Thus have I heard. At one time the Bhagavān was at the summit of Mount Potalaka
 
 At that time Avalokiteśvara Bodhisattva Mahāsattva, in the midst of that great ocean-assembly, arose from his seat, arranged his robes baring his right shoulder, placed his right knee on the ground, and joined his palms toward the Buddha. With a serene and joyful face, smiling, he addressed the Buddha:
 
-"Bhagavān! There is a heart-mantra called King Amoghapāśa. In the past, since I first generated the aspiration for awakening over ninety-one kalpas ago, in that kalpa there was a world called Avalokana, and in that land there was a buddha named Lokādhirāja Tathāgata, Arhat, Samyaksaṃbuddha. That Tathāgata, out of compassion for me, spoke this heart-mantra. At that time, from that Buddha World-Honored One, I received and upheld it without forgetting. By this power, from that time until now, I have constantly taught and transformed countless hundreds of thousands of Maheśvara great deva hosts, Śuddhāvāsa Deva Kings and deva-princes beyond measure, directing them toward anuttarā samyaksaṃbodhi.
+"Bhagavān! There is a heart-mantra called King Amoghapāśa. In the past, since I first generated the aspiration for enlightenment over ninety-one kalpas ago, in that kalpa there was a world called Avalokana, and in that land there was a buddha named Lokādhirāja Tathāgata, Arhat, Samyaksaṃbuddha. That Tathāgata, out of compassion for me, spoke this heart-mantra. At that time, from that Buddha World-Honored One, I received and upheld it without forgetting. By this power, from that time until now, I have constantly taught and transformed countless hundreds of thousands of Maheśvara great deva hosts, Śuddhāvāsa Deva Kings and deva-princes beyond measure, directing them toward anuttarā samyaksaṃbodhi.
 
 "World-Honored One! After I obtained this mantra from that buddha, I immediately attained ten thousand samādhis, including the samādhi of Unforgetting Wisdom Victory Adornment.
 
@@ -55,7 +55,7 @@ At that time Avalokiteśvara Bodhisattva Mahāsattva, gazing at the Honored One'
 
 "I now bow my head to our original teacher, Amitābha Tathāgata.
 
-"I now bow my head to the Eternally Abiding Three Jewels.
+"I now bow my head to the Eternally Abiding Three Treasures.
 
 "Homage to Avalokiteśvara Bodhisattva Mahāsattva, the greatly compassionate one."
 

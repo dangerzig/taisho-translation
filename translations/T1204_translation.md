@@ -106,7 +106,7 @@ Next, bow to the north and make this aspiration: "Tathāgatas are boundless; I v
 
 Next, bow to Vairocana Tathāgata and make this statement: "Unsurpassed bodhi I vow to realize." This is the cause of Dharmadhātu-Essence Wisdom, the realization of the position of Mahāvairocana-Samantabhadra, pervading the dharmadhātu and further benefiting sentient beings. Therefore this vow is made. At that time all buddhas of the ten directions simultaneously bear witness, praising: "Excellent!" Therefore all bodhisattvas and holy beings will jointly guard and protect such a one, who will before long attain the unsurpassed path.
 
-The general vow having been explained, all other particular vows should be stated as one wishes, and the wholesome roots thus generated should be dedicated to the equal benefit of self and others.
+The general vow having been explained, all other particular vows should be stated as one wishes, and the roots of merit thus generated should be dedicated to the equal benefit of self and others.
 
 Furthermore, one should not eat impure foods. The mind should be free of worry and sorrow, and one should not give rise to the afflictions of greed, anger, and delusion. One should not delight in worldly pleasures but deeply cultivate meditation.
 

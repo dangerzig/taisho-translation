@@ -64,7 +64,7 @@ Translated from the Chinese. Author unknown.
 >
 > Prostration, offering, and confession,
 > Rejoicing, exhortation, and requesting:
-> Whatever small wholesome roots I have accumulated,
+> Whatever small roots of merit I have accumulated,
 > All of these I dedicate to great bodhi.
 >
 > All sugatas of the past throughout the ten directions,
@@ -178,7 +178,7 @@ Translated from the Chinese. Author unknown.
 > May all buddha-fields be universally adorned.
 >
 > All the future world-honored ones
-> Who fully attain equal awakening and turn the Dharma-wheel,
+> Who fully attain equal enlightenment and turn the Dharma-wheel,
 > And display entering nirvāṇa and realizing the true limit:
 > I vow to go before all buddhas.
 >
@@ -269,7 +269,7 @@ Translated from the Chinese. Author unknown.
 >
 > For the benefit of all sentient beings,
 > Swiftly abiding beneath the bodhi tree,
-> Attaining perfect, complete awakening, turning the Dharma-wheel,
+> Attaining perfect, complete enlightenment, turning the Dharma-wheel,
 > Vanquishing all the hosts of māras.
 >
 > Whoever upholds, recites, or explains
@@ -284,7 +284,7 @@ Translated from the Chinese. Author unknown.
 >
 > All the supreme ones traversing the three times,
 > Their praises and dedications most excellent:
-> All my wholesome roots like these
+> All my roots of merit like these
 > I dedicate for the practice of Samantabhadra's conduct.
 >
 > When I am about to reach the time of death,

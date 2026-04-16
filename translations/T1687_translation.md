@@ -239,7 +239,7 @@ Compiled by Aśvaghoṣa (馬鳴). Translated from the Chinese. Song dynasty, tr
 > By relying on the teacher, one attains accomplishment.
 >
 > If the student is pure
-> And able to take refuge in the Three Jewels,
+> And able to take refuge in the Three Treasures,
 > Even if their life is about to end,
 > One should still proclaim the essential Dharma for them
 > And bestow the esoteric teachings,

@@ -337,7 +337,7 @@ The tathāgatas from the ten directions manifested a cloud of wondrous bliss and
 > The secret, true, pure meaning, the supreme practice-dharma vast as the ocean,
 > Born from Samantabhadra's body: I bow and praise the vajra wisdom.
 > The supreme great wisdom as the vehicle, abiding in the three vajras, indestructible,
-> Having reached the further shore, the great dharma-gate: I bow and praise the path to awakening.
+> Having reached the further shore, the great dharma-gate: I bow and praise the path to enlightenment.
 > For the supreme birth of all beings, causing all to enter the wisdom of the buddhas,
 > The buddhas' supreme self-nature purity: I bow and praise the saving of beings.
 > The pure dharma-body, great liberation, like a wish-fulfilling jewel, sovereign and free,
@@ -349,7 +349,7 @@ Vajrapāṇi answered: "If a bodhisattva arouses a thought free from doubt, they
 
 Then all the tathāgatas, having heard this, exclaimed that it was unprecedented, and a great person appeared in the assembly who bowed to Vajrapāṇi and asked: "Regarding this secret great vidyā practice dharma-gate of the first principle, among those who have faith and those who do not, what is the meaning?"
 
-Vajrapāṇi replied: "Suppose all sentient beings in a great trichiliocosm as numerous as dust-motes could all realize supreme awakening. Could this be believed? The secret dharma-gate should be seen in just this way. To see it thus is to see free from discriminative views."
+Vajrapāṇi replied: "Suppose all sentient beings in a great trichiliocosm as numerous as dust-motes could all realize supreme enlightenment. Could this be believed? The secret dharma-gate should be seen in just this way. To see it thus is to see free from discriminative views."
 
 The great person manifested by all the tathāgatas then felt great joy, exclaiming it was unprecedented, and spoke this gāthā:
 

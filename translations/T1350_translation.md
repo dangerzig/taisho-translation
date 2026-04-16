@@ -9,7 +9,7 @@ Translated from the Chinese. Song dynasty, translated by Dharmadeva (法賢).
 
 Thus have I heard:
 
-At one time the Buddha was in the land of Magadha, at the great Bodhi-seat of the Dharma-field, having just attained perfect awakening. He was together with an assembly of eighty thousand bodhisattva mahāsattvas, and also with eighty-four thousand great Brahmā-princes who were present at the site of awakening, all surrounding him and gazing upon the World-Honored One.
+At one time the Buddha was in the land of Magadha, at the great Bodhi-seat of the Dharma-field, having just attained perfect enlightenment. He was together with an assembly of eighty thousand bodhisattva mahāsattvas, and also with eighty-four thousand great Brahmā-princes who were present at the site of awakening, all surrounding him and gazing upon the World-Honored One.
 
 At that time, from within the assembly, a bodhisattva mahāsattva named Avalokiteśvara rose from his seat, bared his right shoulder, placed his right knee on the ground, joined his palms toward the Buddha, and addressed him: "World-Honored One! There is a Dhāraṇī of the Names of All the Tathāgatas. This Dhāraṇī of the Names of All the Tathāgatas has already been taught and will yet be taught by the buddhas and tathāgatas of the Glorious Kalpa, the Fortunate Kalpa, and the Constellation Kalpa. I now, by the majestic power of the Buddha, and also for the benefit and joy of all sentient beings, wish to proclaim it. We humbly pray that the World-Honored One will graciously protect us."
 

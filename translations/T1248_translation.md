@@ -47,7 +47,7 @@ If the practitioner sees the deity, offer the finest food and drink. By Vaiśrav
 
 "If one wishes to repel all ghosts and spirits, recite the spell over white mustard seeds and ghee, one per recitation, and cast them into the fire.
 
-"If there are officials who harbor unwholesome minds toward the Three Jewels or torment the Buddha's disciples, and one wishes to cause them to generate compassion, one must perform subjugation. Recite the spell over one's hand thirty-one times and strike from a distance. That person will immediately fall ill. If one wishes them well, recite once with a compassionate mind and they will be cured.
+"If there are officials who harbor unwholesome minds toward the Three Treasures or torment the Buddha's disciples, and one wishes to cause them to generate compassion, one must perform subjugation. Recite the spell over one's hand thirty-one times and strike from a distance. That person will immediately fall ill. If one wishes them well, recite once with a compassionate mind and they will be cured.
 
 "Recite the spell over earth twenty-one times and scatter it upon one's own body. All people who see you will revere and admire you. If one wishes one's own body to possess awesome radiance, recite the spell over ink and apply it to the forehead. All who see you will love and admire you. Recite the spell over ash twenty-one times and apply it to the body. In the midst of a great assembly, all who see you will perceive the appearance of merit and virtue, and the assembly will make offerings.
 

@@ -50,7 +50,7 @@ At that time the World-Honored One answered: "Ānanda, those who cultivate merit
 
 Ānanda again addressed the Buddha: "World-Honored One, what about those who cultivate merit but still do not see?"
 
-The World-Honored One told Ānanda: "Those who cultivate merit yet do not see my body have obstructed the Buddha's light and defiled the Three Jewels. This is why they cannot see me."
+The World-Honored One told Ānanda: "Those who cultivate merit yet do not see my body have obstructed the Buddha's light and defiled the Three Treasures. This is why they cannot see me."
 
 The Buddha told the bodhisattvas: "Those who hear this sūtra and give rise to joy in their hearts are like a child seeing its mother return from a long journey, like the hungry finding food, like the thirsty finding drink. For such persons, one should explain it with all one's heart."
 
@@ -64,7 +64,7 @@ The Buddha told the bodhisattvas: "Those in this present life who steal others' 
 
 The Buddha told the bodhisattvas: "Within a monastery, there are two kinds of mind: a wholesome mind and an unwholesome mind. What is an unwholesome person? If there are beings who, upon entering the monastery, only beg and demand from the saṃgha, or seek out the faults of monastics, or eat meritorious food without any shame, taking cakes, fruits, and vegetables and carrying them home: such persons after death fall into the Iron-Fork Hell.
 
-"What is a wholesome person? If there are beings who, upon entering the monastery, are respectful when they see monastics, bow when they see the Buddha, receive the precepts and repent, donate their wealth, manage the affairs of the Three Jewels without sparing their own lives, and protect and uphold the great dharma: for such persons, with each step they take, the heavenly realm spontaneously comes to receive them. Like Śuddhipanthaka (*Shùtíjiā*, 樹提伽): Śuddhipanthaka is called the supremely wholesome person."
+"What is a wholesome person? If there are beings who, upon entering the monastery, are respectful when they see monastics, bow when they see the Buddha, receive the precepts and repent, donate their wealth, manage the affairs of the Three Treasures without sparing their own lives, and protect and uphold the great dharma: for such persons, with each step they take, the heavenly realm spontaneously comes to receive them. Like Śuddhipanthaka (*Shùtíjiā*, 樹提伽): Śuddhipanthaka is called the supremely wholesome person."
 
 The Buddha addressed the great assembly: "The various causes and effects that I have discussed above: this sūtra has three names. The first is 'Extraordinary.' The second is 'Supreme.' The third is 'Bodhisattva.' If there are beings who hear this sūtra and even once give rise to a wholesome mind, they shall be born in the Pure Land."
 

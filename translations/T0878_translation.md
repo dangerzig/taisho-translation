@@ -61,7 +61,7 @@ Opening homage: requesting the Buddhas with Brahmā-praises, following the const
 
 "Homage to all the Tathāgatas' Delight, Vajralāsyā and all throughout empty space and the entire Dharma-realm, all bodhisattva mahāsattvas of the cloud-ocean of offerings.
 
-"Homage to all the Tathāgatas' Great Awakening, Vajramālā and all throughout empty space and the entire Dharma-realm, all bodhisattva mahāsattvas of the cloud-ocean of offerings.
+"Homage to all the Tathāgatas' great enlightenment, Vajramālā and all throughout empty space and the entire Dharma-realm, all bodhisattva mahāsattvas of the cloud-ocean of offerings.
 
 "Homage to all the Tathāgatas' Wondrous Dharma-Sound, Vajragītā and all throughout empty space and the entire Dharma-realm, all bodhisattva mahāsattvas of the cloud-ocean of offerings.
 
@@ -85,7 +85,7 @@ Opening homage: requesting the Buddhas with Brahmā-praises, following the const
 
 The above thirty-seven deities of the great maṇḍala of the Vajradhātu are all the inner retinue of the Dharma-Buddha's direct realization of bodhi, mutually embodied with Vairocana.
 
-"Homage to the eternally abiding, equally Three Jewels of the three times throughout all the inconceivable, inconceivable dust-mote world-oceans and assemblies of the lotus-treasury world-systems of the ten directions. Universally for the five classes: all the world-lords of the devas, parents of the nine realms both worldly and transcendent, all good teachers, donors to the place of practice, and all sentient beings throughout the realm without remainder, may all sever their obstructions. Taking refuge with devotion, I confess; with utmost sincerity I confess:
+"Homage to the eternally abiding, equally Three Treasures of the three times throughout all the inconceivable, inconceivable dust-mote world-oceans and assemblies of the lotus-treasury world-systems of the ten directions. Universally for the five classes: all the world-lords of the devas, parents of the nine realms both worldly and transcendent, all good teachers, donors to the place of practice, and all sentient beings throughout the realm without remainder, may all sever their obstructions. Taking refuge with devotion, I confess; with utmost sincerity I confess:
 
 > "Throughout beginningless cyclic existence in all states of being,
 > The transgressions born of karma of body, speech, and mind:

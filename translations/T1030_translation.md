@@ -11,7 +11,7 @@ All who wish to practice within this gate must know the proper sequence of proce
 
 All practitioners should first enter the great samaya altar of consecration, receive the bodhisattva precepts, generate the mind of great compassion, and relinquish body, life, and wealth to benefit sentient beings. With single-pointed aspiration for the buddhas and bodhisattvas, the body free from desire and anger, the mind diligent, courageous, gathered and undistracted, and loving-kindness, compassion, joy, and equanimity never for a moment ceasing, one leads immeasurable beings to the other shore. Internally and externally pure, maintaining the utmost cleanliness, one should always show respect toward elders, preceptors, and ācāryas. The mind should be without duplicity and one's words always sincere. When beggars come, give according to one's means and never send them away empty-handed. In all four postures and while attending to various tasks, at every moment one should settle the mind in stillness and carefully observe that all conditioned things are impermanent. In brief, all dharmas are like reflections in a mirror.
 
-Having understood this, one should don the armor of diligence, wield the secret vidyā-mantra sword that destroys the army of afflictions, shatter the bonds of the hindrances, emerge from the ocean of delusion in birth and death, arrive at the site of awakening and sit upon the vajra seat, firmly resolving not to allow retrogression. Only such a person should practice this supreme dharma gate within the Mahāyāna realm. Therefore I shall now explain in proper order.
+Having understood this, one should don the armor of diligence, wield the secret vidyā-mantra sword that destroys the army of afflictions, shatter the bonds of the hindrances, emerge from the ocean of delusion in birth and death, arrive at the site of enlightenment and sit upon the vajra seat, firmly resolving not to allow retrogression. Only such a person should practice this supreme dharma gate within the Mahāyāna realm. Therefore I shall now explain in proper order.
 
 Those who wish to recite should first purify the ground. The method of ground purification: the ground may be four cubits, eight cubits, twelve cubits, or sixteen cubits square; choose the measurement according to one's ability. Dig to knee depth or one cubit deep, removing insects, ants, potsherds, stones, hair, bones, ashes, charcoal, chaff, thorns, tree roots, and all impure objects. Fill with clean earth, pack it firm and level. Then upon it build the practice chamber and apply pure plaster to the room.
 
@@ -89,7 +89,7 @@ By the power of this mudrā and mantra, all māras are bound. Then visualize one
 
 The mudrā common to all three divisions: with the right hand, press the thumb upon the little fingernail and extend the other three fingers. Use this mudrā and mantra to sprinkle the body and clothes, empower water for bathing, and for putting on garments.
 
-When bathing, one should single-mindedly recollect the buddhas and bodhisattvas without distraction, visualizing the principal deity as no different from oneself. First visualize the principal deity and the Three Jewels as present before one's eyes, then offer three cupped-handfuls of bathing water. The mudrā: cup both hands as if holding water, but touch both thumbs to both index fingertips. First offer to the Buddha:
+When bathing, one should single-mindedly recollect the buddhas and bodhisattvas without distraction, visualizing the principal deity as no different from oneself. First visualize the principal deity and the Three Treasures as present before one's eyes, then offer three cupped-handfuls of bathing water. The mudrā: cup both hands as if holding water, but touch both thumbs to both index fingertips. First offer to the Buddha:
 
 *Oṃ tīre tīre buddhāya svāhā*
 
@@ -135,9 +135,9 @@ By reciting this vidyā-mantra and entering the samādhis, whatever the mind con
 
 *Oṃ svabhāva-śuddhaḥ sarva-dharma svabhāva-śuddho 'haṃ*
 
-Having purified the body by reciting this mantra, then make this declaration: "Through immeasurable kalpas I have drifted in birth and death, mired in the mud of afflictions, never meeting a good friend. Following deluded mind, I have been unable to escape. I have never sought the unsurpassed Way. Therefore, let me now generate the mind of awakening." One should then pronounce aloud the syllable A. The reason for pronouncing this syllable is that A signifies the unborn, the gate of emptiness and quiescence. This gate alone can distance one from dust and defilement. Those who follow this dharma can eliminate the sins of immeasurable kalpas, numerous as dust-motes. It is like a bright sun in clear sky illuminating universally; all darkness naturally disperses. The sun is the sun of wisdom; the sky is the sky of the mantra. This wisdom-sun illuminates the mantra-sky.
+Having purified the body by reciting this mantra, then make this declaration: "Through immeasurable kalpas I have drifted in birth and death, mired in the mud of afflictions, never meeting a good friend. Following deluded mind, I have been unable to escape. I have never sought the unsurpassed Way. Therefore, let me now generate the mind of enlightenment." One should then pronounce aloud the syllable A. The reason for pronouncing this syllable is that A signifies the unborn, the gate of emptiness and quiescence. This gate alone can distance one from dust and defilement. Those who follow this dharma can eliminate the sins of immeasurable kalpas, numerous as dust-motes. It is like a bright sun in clear sky illuminating universally; all darkness naturally disperses. The sun is the sun of wisdom; the sky is the sky of the mantra. This wisdom-sun illuminates the mantra-sky.
 
-With deep afflictions as darkness, contemplate the realm of space with a serene and pure mind. Throughout space are tathāgata forms, small as sesame seeds, yet complete with all marks and excellences. These tathāgatas are all before the practitioner. They snap their fingers as a wake-up call and say: "Good man, if you wish to generate the mind of awakening, you should contemplate your own mind."
+With deep afflictions as darkness, contemplate the realm of space with a serene and pure mind. Throughout space are tathāgata forms, small as sesame seeds, yet complete with all marks and excellences. These tathāgatas are all before the practitioner. They snap their fingers as a wake-up call and say: "Good man, if you wish to generate the mind of enlightenment, you should contemplate your own mind."
 
 Hearing these words, the practitioner should leap up joyfully from the seat and prostrate with all five limbs before each tathāgata with single-minded devotion. When prostrating, recite:
 
@@ -151,7 +151,7 @@ Reciting this vidyā-mantra, within one's own mind contemplate a moon, round and
 
 *Oṃ bodhicittam utpādayāmi*
 
-Reciting this and contemplating the heart-moon until it is extremely pure, then, to make the mind of awakening firm, contemplate upon the moon a vajra-lotus. When contemplating this flower, recite:
+Reciting this and contemplating the heart-moon until it is extremely pure, then, to make the mind of enlightenment firm, contemplate upon the moon a vajra-lotus. When contemplating this flower, recite:
 
 *Oṃ tiṣṭha vajra-padma*
 
@@ -199,7 +199,7 @@ Having made these offerings, confess, make vows, and dedicate merit before the h
 
 *Oṃ vajra-pramitra-samaya hūṃ*
 
-Recite seven times, then take up the rosary and recite the main mantra. After recitation, confess again. After confessing, make vows. After vows, recite various praises and hymns, singing of the immeasurable merit of the tathāgatas, the Three Jewels, and the principal deity. Then form the offering mudrās again and skillfully present the arghya offering. After the offering, dissolve the boundary. After dissolving the boundary, recite the dismissal mantra:
+Recite seven times, then take up the rosary and recite the main mantra. After recitation, confess again. After confessing, make vows. After vows, recite various praises and hymns, singing of the immeasurable merit of the tathāgatas, the Three Treasures, and the principal deity. Then form the offering mudrās again and skillfully present the arghya offering. After the offering, dissolve the boundary. After dissolving the boundary, recite the dismissal mantra:
 
 *Oṃ kṛtau-ba sarva-sattvārtha-siddhi-natāye-tha anugage-ca-tu-haṃ buddha-viṣayaṃ punar-āgamanāya oṃ padma muḥ*
 

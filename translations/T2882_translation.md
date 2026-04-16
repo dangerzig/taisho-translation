@@ -7,7 +7,7 @@ Translated from the Chinese. Author unknown.
 
 ---
 
-At that time, the Buddha was in the kingdom of Śrāvastī, with the Wondrous Nāga and all sentient beings. "The transgressions one commits are beyond reckoning. I shall teach the Way so that you may attain awakening. I shall now explain for you the visions of past and future.
+At that time, the Buddha was in the kingdom of Śrāvastī, with the Wondrous Nāga and all sentient beings. "The transgressions one commits are beyond reckoning. I shall teach the Way so that you may attain enlightenment. I shall now explain for you the visions of past and future.
 
 "In the past, at the time of the Void-King Buddha, in the Jetavana of the Solitary-Giver Garden, there was an old person who, before a fox-hole, burned fat-fires. At midnight, the sun, moon, and five planets descended, and he created sorcery and enchantments. Above, he summoned the heavenly spirits. Below, he summoned the five emperors. He further summoned the mountain spirits. He further summoned the river-lord generals. He further summoned the great spirits of the five paths. He called upon a hundred ghosts to create sorcery and enchantments.
 

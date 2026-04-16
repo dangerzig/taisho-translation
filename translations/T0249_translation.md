@@ -33,7 +33,7 @@ At that time, the World-Honored One addressed Śakra, Lord of the Devas: "Kauśi
 > With reverent faith in the supreme teacher,
 > I take refuge in the Buddhas of the ten directions,
 > Past, present, and future,
-> And the pāramitā of the Three Jewels.
+> And the pāramitā of the Three Treasures.
 > The ocean of immeasurable merit:
 > Making offerings to all the Tathāgatas,
 > The great and luminous true secret."

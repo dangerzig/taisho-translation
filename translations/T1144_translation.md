@@ -25,10 +25,10 @@ The Buddha told Ānanda: "Maitreya Bodhisattva Mahāsattva, in the past when he 
 > These are the seeds of my universal wisdom; may my path be without end.
 > In all the lands of the ten directions, whatever offerings have been made to the buddhas,
 > And whatever the buddhas have rejoiced in: I now rejoice in all of them.
-> Repenting of all offenses, rejoicing in all wholesome roots,
+> Repenting of all offenses, rejoicing in all roots of merit,
 > Paying homage to all the buddhas: may I attain great wisdom.
 > In all places of the ten directions, wherever there are great bodhisattvas
-> Who abide on the ten bhūmis: I beseech them to swiftly attain perfect awakening.
+> Who abide on the ten bhūmis: I beseech them to swiftly attain perfect enlightenment.
 > Having realized the heart of perfect enlightenment and vanquished all the hosts of Māra,
 > For the benefit of all sentient beings: I beseech them to turn the dharma wheel.
 > With the sound of the great dharma drum, may they ferry sentient beings beyond the shore of suffering;
@@ -75,7 +75,7 @@ The Buddha told Ānanda: "Maitreya Bodhisattva Mahāsattva, in the past when he 
 > Joyfully serving the Honored Maitreya,
 > And swiftly receive the prediction of bodhi."
 
-"Ānanda, you should know that Maitreya Bodhisattva Mahāsattva, by thus truly and skillfully cultivating pure practices, with a smooth and level path attained unsurpassed bodhi, perfect awakening, and accomplished the gate of true and great skillful means."
+"Ānanda, you should know that Maitreya Bodhisattva Mahāsattva, by thus truly and skillfully cultivating pure practices, with a smooth and level path attained unsurpassed bodhi, perfect enlightenment, and accomplished the gate of true and great skillful means."
 
 Translator's note: This sūtra has not been found in the Chinese or Tibetan canons, and no Tibetan edition exists either. However, the sages of India have composed considerable commentary upon it, and it is universally practiced as a regular devotional recitation, together with the "Chapter on Conduct and Vows" from the Avataṃsaka Sūtra and the "Chapter on the Thirty-Five Buddhas' Conduct and Vows," the three being called the Three Great Repentance-Aspirations. I have briefly summarized it here. It appears that when it was first translated from Sanskrit, it was perhaps excerpted from the essential portions of the Maitreya Ascent and Maitreya Descent sūtras. Now that peace prevails within the realm and the three teachings flourish together, with resources in no shortage and many people inclined toward goodness, I have recently heard of those who organize Dragon-Flower assemblies. Thinking that there may be those who wish to recite this, I have specially translated it into Chinese for the faithful to recite and pray.
 

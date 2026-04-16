@@ -102,7 +102,7 @@ By Sēngcàn (*Sēngcàn*, 僧璨), Third Patriarch of Chan, Sui dynasty.
 > Do not dislike the six sense-objects.
 >
 > The six sense-objects are not evil;
-> They are the same as true awakening.
+> They are the same as true enlightenment.
 > The wise person does nothing;
 > The fool binds himself.
 >

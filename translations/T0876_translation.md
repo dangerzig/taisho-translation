@@ -34,7 +34,7 @@ Written in the bǐngwǔ year of the Bǎodà era, winter, tenth month.
 > Having received the abhiṣeka position from the teacher,
 > Wondrously cultivates concentration and wisdom, constantly observing,
 > Deeply entering the gate of skillful application.
-> Guiding sentient beings to supreme awakening,
+> Guiding sentient beings to supreme enlightenment,
 > Embracing them with the four methods of attraction,
 > Never tiring of great compassion, never abandoning,
 > Upon seeing even small virtue, offering praise.
@@ -149,7 +149,7 @@ Mantra:
 > And rejoice in all accumulations of merit and wisdom:
 > In the practices and vows of buddhas and bodhisattvas,
 > Merit born from the three vajra karmas,
-> And the wholesome roots gathered by pratyekabuddhas,
+> And the roots of merit gathered by pratyekabuddhas,
 > Śrāvakas, and all sentient beings, I fully rejoice.
 > Contemplate all buddhas seated beneath the bodhi tree;
 > In person, I entreat each to turn the Dharma wheel.

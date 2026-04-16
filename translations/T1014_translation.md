@@ -377,7 +377,7 @@ He told Śāriputra: "The practitioner should, on fine white silk, paint images 
 
 "Such a practitioner should cultivate the dhāraṇī, generating true vows, remembering it with diligent effort, delighting in all wholesome dharmas, distributing charity, precepts, and equanimity broadly and generously, regardless of amount, without any grudging.
 
-"The practitioner who upholds this dhāraṇī should also honor the Buddha, Dharma, and Sangha, constantly generating reverence and awe toward the Three Jewels, and single-mindedly cultivate profound dharma patience."
+"The practitioner who upholds this dhāraṇī should also honor the Buddha, Dharma, and Sangha, constantly generating reverence and awe toward the Three Treasures, and single-mindedly cultivate profound dharma patience."
 
 When the World-Honored One taught this dhāraṇī, three thousand times the sands of the Ganges of hundred-thousand billion nayutas of bodhisattvas all attained this dhāraṇī gate named "Teaching the Immeasurable," and also realized the stage of non-retrogression, destined to attain supreme perfect enlightenment. Sixty *vimbara* devas and humans who had not yet generated the aspiration for supreme enlightenment all now generated the aspiration for the unsurpassed path.
 

@@ -6,7 +6,7 @@ Taishō 2919
 
 Translator unknown. An apocryphal text.
 
-At that time, the World-Honored One entered parinirvāṇa (*bān nièpán*, 般涅槃). Reclining between the twin śāla trees, he addressed the great assembly: "I am now about to enter parinirvāṇa and do not see Ānanda (*Ānán*, 阿難) or my Kāśyapa (*Jiāshè*, 迦葉). When they come, tell them: 'I and you shall not meet again.'" He then sent Upāli (*Yōupōlí*, 憂波梨) to ascend to the Trāyastriṃśa (*Dāolì*, 刀利) heaven to inform his mother, saying: "My entire body is in pain beyond description. May my mother come quickly to pay reverence to the Three Jewels."
+At that time, the World-Honored One entered parinirvāṇa (*bān nièpán*, 般涅槃). Reclining between the twin śāla trees, he addressed the great assembly: "I am now about to enter parinirvāṇa and do not see Ānanda (*Ānán*, 阿難) or my Kāśyapa (*Jiāshè*, 迦葉). When they come, tell them: 'I and you shall not meet again.'" He then sent Upāli (*Yōupōlí*, 憂波梨) to ascend to the Trāyastriṃśa (*Dāolì*, 刀利) heaven to inform his mother, saying: "My entire body is in pain beyond description. May my mother come quickly to pay reverence to the Three Treasures."
 
 At that time, during the middle of the night, the Buddha's mother had six kinds of evil dreams. First, she dreamed that a mountain of jewels collapsed. Second, she dreamed that the four seas dried up. Third, she dreamed that frost fell in the fifth month. Fourth, she dreamed that jeweled banners and pennants were cut down, and banner-flowers toppled. Fifth, she dreamed that four fires came to burn her body. Sixth, she dreamed that milk flowed spontaneously from both her breasts.
 

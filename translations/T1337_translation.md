@@ -58,7 +58,7 @@ If a person is able to single-mindedly circumambulate a stūpa in walking practi
 
 This mantra comes from the Ratnaketu Sūtra and was spoken by one billion bodhisattvas. Reciting the mantra once and bowing to the Buddha once surpasses the merit of bowing to the Buddha thousands of millions of billions of times. It is also called "the mantra for all buddhas to come and welcome at the end of life." It should be recited one hundred times each at dawn and at the hour of settling in. Brahmin monks frequently recite this mantra.
 
-## Mantra for Making Offerings to the Three Jewels
+## Mantra for Making Offerings to the Three Treasures
 
 *Namo sarva-buddha-dharma-saṃgha-ṣya. Namo āryāvalokiteśvarāya bodhisattvāya mahāsattvāya mahā-kāruṇikāya. Tadyathā: dūbhi dūbhi gāya-dūbhi vīra-vīra-ni svāhā.*
 
@@ -140,8 +140,8 @@ If a person is able to recite each of these two divine mantras once, they can el
 
 Mañjuśrī Bodhisattva explained this mantra in six thousand verses. The Tripiṭaka master said: reciting this mantra eliminates all sins and generates all good.
 
-## Mantra for Taking Refuge in the Three Jewels
+## Mantra for Taking Refuge in the Three Treasures
 
 *Namo buddhāya guruve, namo dharmāya tayane, namo saṃghāya mahate. Siddhi tri-bhyoḥ pi-sadā namo.*
 
-If one recites this mantra, in every place of rebirth one will constantly encounter the Three Jewels and attain the four intimate practices, which will follow one like a shadow follows form, never departing even for a moment.
+If one recites this mantra, in every place of rebirth one will constantly encounter the Three Treasures and attain the four intimate practices, which will follow one like a shadow follows form, never departing even for a moment.

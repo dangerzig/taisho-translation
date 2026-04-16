@@ -65,7 +65,7 @@ Then the World-Honored One, wishing to restate this meaning, spoke in verse:
 > Read this sūtra and proceed with burial;
 > Prosperity and glory for ten thousand generations."
 
-At that time, 77,000 people in the assembly, hearing what the Buddha taught, had their minds opened and their understanding cleared. They abandoned the deviant and returned to the correct, gained a share of the Buddha-dharma, forever severed their doubts, and all aroused the aspiration for supreme, perfect awakening.
+At that time, 77,000 people in the assembly, hearing what the Buddha taught, had their minds opened and their understanding cleared. They abandoned the deviant and returned to the correct, gained a share of the Buddha-dharma, forever severed their doubts, and all aroused the aspiration for supreme, perfect enlightenment.
 
 [The sūtra then addresses the topic of marriage in similar fashion, concluding that one should not worry about the five-element incompatibilities or zodiac conflicts, but should simply read this sūtra three times at the wedding ceremony.]
 
@@ -101,7 +101,7 @@ The Buddha said: "Listen carefully! 'Eight' (*bā*) means 'to distinguish'; 'yan
 
 ---
 
-When the Buddha taught this sūtra, the great earth quaked in six ways. Light illuminated heaven and earth without limit, vast and boundless beyond naming. All the dark realms became bright and clear. All the hells were entirely annihilated. All sinners were freed from suffering and all aroused the aspiration for supreme awakening.
+When the Buddha taught this sūtra, the great earth quaked in six ways. Light illuminated heaven and earth without limit, vast and boundless beyond naming. All the dark realms became bright and clear. All the hells were entirely annihilated. All sinners were freed from suffering and all aroused the aspiration for supreme enlightenment.
 
 At that time, 88,000 bodhisattvas in the assembly simultaneously attained buddhahood, with the title Tathāgata King of Emptiness, in the kalpa named Departure from Suffering, in the land named Boundless. All the people practiced the bodhisattva's six pāramitās and attained the dharma of non-obtainment. 66,000 bhikṣus, bhikṣuṇīs, upāsakas, and upāsikās obtained the great dhāraṇī and entered the gate of non-duality. Innumerable devas, nāgas, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, mahoragas, humans, and non-humans obtained the pure dharma-eye and practiced the bodhisattva path.
 

@@ -6,7 +6,7 @@ Taishō 1171
 
 Translated by Amoghavajra (*Bùkōng*), Tang dynasty.
 
-*Note: This is an esoteric ritual manual (yíguǐ) in two parts, both attributed to the Vajraśekhara Yoga tradition of Mañjuśrī Bodhisattva. The first part presents the famous five-syllable dhāraṇī of Mañjuśrī (a ra pa ca na), together with four types of maṇḍala (great maṇḍala, samaya maṇḍala, dharma maṇḍala, and karma maṇḍala), instructions for painting Mañjuśrī's image (five-topknotted youth, golden colored, holding the prajñā sword and Prajñāpāramitā manuscript, seated on a moon-disc), and the recitation counts required for various accomplishments (500,000 recitations for unlimited eloquence; one koṭi for freedom from suffering; five koṭi for anuttara-samyak-saṃbodhi). The second part is a detailed sādhana (念誦儀軌) in verse with mantras, presenting a complete practice session: preliminary prostrations to the four directional buddhas (Akṣobhya, Ratnasambhava, Avalokiteśvara-rāja, Amoghasiddhi), the purification of three karmas, vajra-binding, opening the heart-gate, visualization of the moon-disc and the seed-syllable "dhaṃ" transforming into the prajñā sword, identification with Mañjuśrī, and an extensive set of mudrā-mantra sequences (the vajra-sword mudrā, crown-mudrā, armor-mudrā, the four gathering-mudrās, the eight inner and outer offerings, and the one-hundred-syllable mantra of purification), culminating in the promise that diligent four-session daily practice leads to the first bhūmi in this life and full awakening within sixteen rebirths.*
+*Note: This is an esoteric ritual manual (yíguǐ) in two parts, both attributed to the Vajraśekhara Yoga tradition of Mañjuśrī Bodhisattva. The first part presents the famous five-syllable dhāraṇī of Mañjuśrī (a ra pa ca na), together with four types of maṇḍala (great maṇḍala, samaya maṇḍala, dharma maṇḍala, and karma maṇḍala), instructions for painting Mañjuśrī's image (five-topknotted youth, golden colored, holding the prajñā sword and Prajñāpāramitā manuscript, seated on a moon-disc), and the recitation counts required for various accomplishments (500,000 recitations for unlimited eloquence; one koṭi for freedom from suffering; five koṭi for anuttara-samyak-saṃbodhi). The second part is a detailed sādhana (念誦儀軌) in verse with mantras, presenting a complete practice session: preliminary prostrations to the four directional buddhas (Akṣobhya, Ratnasambhava, Avalokiteśvara-rāja, Amoghasiddhi), the purification of three karmas, vajra-binding, opening the heart-gate, visualization of the moon-disc and the seed-syllable "dhaṃ" transforming into the prajñā sword, identification with Mañjuśrī, and an extensive set of mudrā-mantra sequences (the vajra-sword mudrā, crown-mudrā, armor-mudrā, the four gathering-mudrās, the eight inner and outer offerings, and the one-hundred-syllable mantra of purification), culminating in the promise that diligent four-session daily practice leads to the first bhūmi in this life and full enlightenment within sixteen rebirths.*
 
 ---
 
@@ -513,7 +513,7 @@ Having done this, again form the samaya mudrā, recite the empowerment mantra, a
 > If a wise person practices according to this method,
 > Diligently cultivating four sessions day and night,
 > In this very life they will realize the Stage of Joy [first bhūmi],
-> And after sixteen rebirths, attain perfect awakening.
+> And after sixteen rebirths, attain perfect enlightenment.
 
 ### The Mañjuśrī Wrathful Dhāraṇī
 

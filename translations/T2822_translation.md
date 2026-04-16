@@ -46,7 +46,7 @@ Turbid yet always not turbid. Clear yet not clear either. Clear and turbid, join
 
 One awakening is original awakening. The principle of not yet knowing original awakening is like someone who obtains a gold coin: what is obtained is also not obtained.
 
-Space gives rise to the great awakening within. Like seaweed growing in the ocean, the lands of outflowing motes of dust all arise from empty space. When the bubbles vanish, space is originally without anything. How much more so the three realms of existence?
+Space gives rise to the great enlightenment within. Like seaweed growing in the ocean, the lands of outflowing motes of dust all arise from empty space. When the bubbles vanish, space is originally without anything. How much more so the three realms of existence?
 
 If dharmas arise, then make the view of cessation disappear. If dharmas cease, then make the view of cessation and existence disappear.
 

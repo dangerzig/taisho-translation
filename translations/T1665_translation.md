@@ -6,7 +6,7 @@ Taishō 1665
 
 Translated by Amoghavajra (*Bùkōng*, 不空) of the Tang dynasty.
 
-*Note: This is a key esoteric Buddhist treatise on the generation of bodhicitta (the aspiration to supreme awakening) from the perspective of the Vajraśekhara (Diamond Crown) yoga tradition. Attributed to Amoghavajra (705-774), the great translator of esoteric texts, it presents bodhicitta through three gates: (1) the vow-and-practice gate (xíngyuàn, 行願), emphasizing compassion and benefiting beings; (2) the ultimate-truth gate (shèngyì, 勝義), realizing the emptiness of all dharmas; and (3) the samādhi gate (sānmódì, 三摩地), the distinctive esoteric practice of visualizing a white moon-disk in the heart, representing the inherently pure bodhicitta. The treatise draws on the Avataṃsaka, Vimalakīrti, Nirvāṇa, and Mahāvairocana sūtras, and explains the thirty-seven deities of the Vajradhātu maṇḍala, the five wisdoms of the five buddhas, the significance of the syllable "a" (non-arising), and the five stages of becoming the deity (wǔxiàng chéngshēn, 五相成身). It is widely studied in Shingon Buddhism.*
+*Note: This is a key esoteric Buddhist treatise on the generation of bodhicitta (the aspiration to supreme enlightenment) from the perspective of the Vajraśekhara (Diamond Crown) yoga tradition. Attributed to Amoghavajra (705-774), the great translator of esoteric texts, it presents bodhicitta through three gates: (1) the vow-and-practice gate (xíngyuàn, 行願), emphasizing compassion and benefiting beings; (2) the ultimate-truth gate (shèngyì, 勝義), realizing the emptiness of all dharmas; and (3) the samādhi gate (sānmódì, 三摩地), the distinctive esoteric practice of visualizing a white moon-disk in the heart, representing the inherently pure bodhicitta. The treatise draws on the Avataṃsaka, Vimalakīrti, Nirvāṇa, and Mahāvairocana sūtras, and explains the thirty-seven deities of the Vajradhātu maṇḍala, the five wisdoms of the five buddhas, the significance of the syllable "a" (non-arising), and the five stages of becoming the deity (wǔxiàng chéngshēn, 五相成身). It is widely studied in Shingon Buddhism.*
 
 ---
 
@@ -67,7 +67,7 @@ As the *Avataṃsaka Sūtra* says:
 > Born into the family of the Tathāgata,
 > The lineage is without blemish.
 > Equal with the Buddha,
-> One will certainly attain the supreme awakening.
+> One will certainly attain the supreme enlightenment.
 > Having just generated such a mind,
 > One immediately enters the first stage.
 > The mind's joy cannot be shaken,
@@ -142,4 +142,4 @@ A gāthā praising the bodhicitta:
 > If a person seeks the Buddha's wisdom,
 > Penetrating the bodhicitta,
 > In this very body born of father and mother,
-> One swiftly realizes the stage of great awakening.
+> One swiftly realizes the stage of great enlightenment.

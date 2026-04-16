@@ -80,7 +80,7 @@ Translated from the Chinese. Author unknown.
 > The greatly compassionate World-Honored One himself bowed to the great assembly, revering the harmonious saṃgha of great virtue.
 > Even the buddhas themselves are so earnest in this; how much less should ordinary people treat the assembly with contempt?
 > Many people of faith in the world who honor the World-Honored One's disciples,
-> Upon hearing others speak of the Three Jewels' shortcomings, develop wrong views toward the saṃgha.
+> Upon hearing others speak of the Three Treasures' shortcomings, develop wrong views toward the saṃgha.
 
 > Because of this, they cause the retreat and ruin of good people, destroying the Tathāgata's pure assembly.
 > They do not see the thousand world-honored ones of this Fortunate Kalpa. Therefore the wise should ponder this.

@@ -50,7 +50,7 @@ The Buddha said: "Practice the meaning of the ten good deeds: the body does not 
 
 "There are four things that constitute true adornment. What are these four? First, firm faith. Second, the precepts. Third, samādhi. Fourth, wisdom. These are the four. A bodhisattva adorns herself through these, with mind set on the Great Vehicle. There is neither male nor female, just as in illusion. What a painter creates follows the intention and is accomplished accordingly. Understanding the wisdom of emptiness, all things are originally pure. Attaining the bodiless body and the four fearlessnesses, with the four kinds of unguarded action, one walks alone through the three realms and liberates all."
 
-The woman, hearing the Buddha's teaching, her mind opened and she leaped with joy. She immediately generated the mind of unsurpassed true awakening and attained the stage of non-retrogression.
+The woman, hearing the Buddha's teaching, her mind opened and she leaped with joy. She immediately generated the mind of unsurpassed true enlightenment and attained the stage of non-retrogression.
 
 Then Śakra came and stood behind the Buddha. He said to the woman: "The buddha-path is difficult to attain. It would be better to seek to transform from female to male, or to become the sun, the moon, a heavenly lord, or a wheel-turning holy king."
 
@@ -79,7 +79,7 @@ The woman's mind was immediately liberated, and she transformed into a man. He l
 
 The Buddha told her: "In a future age, after kalpas as numerous as the sands of the Ganges, you shall become a Buddha named Vimalārāja Tathāgata, Arhat, Samyaksaṃbuddha, Perfect in Knowledge and Conduct, Well-Gone, Knower of the World, Unsurpassed, Tamer of Persons, Teacher of Devas and Humans, Buddha, God of Gods, in an age called Light-Purity."
 
-At that time the assembly, together with countless thousands of devas and humans, seeing these transformations, all generated the mind of unsurpassed true awakening.
+At that time the assembly, together with countless thousands of devas and humans, seeing these transformations, all generated the mind of unsurpassed true enlightenment.
 
 Then all the servants of the elder's wife came forward and said to the Buddha: "Is there any difference between the noble and the lowly?"
 

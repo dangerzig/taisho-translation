@@ -35,7 +35,7 @@ When burning the incense, form the principal deity's mudrā and recite the princ
 
 [Diagram]
 
-One who enters this wheel attains unsurpassed awakening. If one wishes to recite the mantra constantly without interruption, yet has not yet abandoned mental grasping and tends toward laxity, one should simply rely on this wondrous seal and burn sandalwood, lotus, and other incenses. Performing this incense-burning method daily is equivalent to the constant practice of reciting the vajra dharma-vidyā. Why? Because all the syllable-meanings of the mantra described above are revealed through this incense seal.
+One who enters this wheel attains unsurpassed enlightenment. If one wishes to recite the mantra constantly without interruption, yet has not yet abandoned mental grasping and tends toward laxity, one should simply rely on this wondrous seal and burn sandalwood, lotus, and other incenses. Performing this incense-burning method daily is equivalent to the constant practice of reciting the vajra dharma-vidyā. Why? Because all the syllable-meanings of the mantra described above are revealed through this incense seal.
 
 The root mudrā: form the vajra-bond with both hands, touch both index fingertips together like lotus petals, and stand both thumbs upright side by side. The mantra says:
 

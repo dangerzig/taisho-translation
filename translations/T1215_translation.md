@@ -9,7 +9,7 @@ Translated from the Chinese. Translator unknown.
 
 ### Chapter Thirty
 
-At that time, Vajrapāṇi, the great yakṣa general, observed the great bodhisattvas and devas in the assembly, rose from his seat, bared his right shoulder, placed his right knee on the ground, and with palms joined in reverence addressed the Buddha: "World-Honored One! Mañjuśrī, the youthful true one, has not extensively explained Yamāntaka Wrathful King. I observe that in the future, after the Tathāgata's nirvāṇa, when the Buddha's teaching is hidden and obscured, in the time of great terror in the final dharma age, when there are no śrāvakas or pratyekabuddhas and buddha-fields are far distant: for the sake of protecting the true dharma, for the sake of the dharmadhātu's long abiding, for the sake of subduing all unruly, rebellious, and illegitimate kings, and for those who do not benefit the Three Jewels, the bodhisattva through skillful means uses this inconceivable dharma to discipline and subdue them to satisfaction. Through inconceivable dharma, beings are matured and freed from evil destinies. When the Buddhadharma is being destroyed, those who uphold the Buddhadharma should, in accordance with the teaching, recite and uphold Yamāntaka Wrathful King, and all will certainly attain accomplishment. For sentient beings who do not benefit the Buddha's teaching, and for rebellious and illegitimate kings who do not benefit the Buddha's teaching, one should employ Yamāntaka Wrathful King; no other class of being is appropriate."
+At that time, Vajrapāṇi, the great yakṣa general, observed the great bodhisattvas and devas in the assembly, rose from his seat, bared his right shoulder, placed his right knee on the ground, and with palms joined in reverence addressed the Buddha: "World-Honored One! Mañjuśrī, the youthful true one, has not extensively explained Yamāntaka Wrathful King. I observe that in the future, after the Tathāgata's nirvāṇa, when the Buddha's teaching is hidden and obscured, in the time of great terror in the final dharma age, when there are no śrāvakas or pratyekabuddhas and buddha-fields are far distant: for the sake of protecting the true dharma, for the sake of the dharmadhātu's long abiding, for the sake of subduing all unruly, rebellious, and illegitimate kings, and for those who do not benefit the Three Treasures, the bodhisattva through skillful means uses this inconceivable dharma to discipline and subdue them to satisfaction. Through inconceivable dharma, beings are matured and freed from evil destinies. When the Buddhadharma is being destroyed, those who uphold the Buddhadharma should, in accordance with the teaching, recite and uphold Yamāntaka Wrathful King, and all will certainly attain accomplishment. For sentient beings who do not benefit the Buddha's teaching, and for rebellious and illegitimate kings who do not benefit the Buddha's teaching, one should employ Yamāntaka Wrathful King; no other class of being is appropriate."
 
 At that time the World-Honored One silently entered the samādhi of playful supernatural empowerment. Mañjuśrī Bodhisattva also abided in silent stillness. The entire assembled multitude experienced the six kinds of trembling. The heavenly hosts were all startled, terrified, and fearful. All the devas, nāgas, asura kings, all the mother-goddesses, all the planets and constellations, and the assemblies of devas and humans all trembled, their minds giving rise to anguish. The evil-minded pūtanas and violent ones all took refuge in the Dharma King's teaching, in the Secret Lord Vajrapāṇi yakṣa of great awesome virtue, and in the samaya of Mañjuśrī's youthful true words. They all spoke thus: "Mañjuśrī! We beseech your compassionate protection. We are being scorched by this wrathful true word; we all suffer in agony and collapse upon the ground."
 
@@ -19,7 +19,7 @@ Then the Great Awesome Virtue One, in the form of the youth Mañjuśrī, spoke t
 > And all the asura hosts: I proclaim the samaya
 > That none can transgress. Humans, non-humans, spirits,
 > And all the bhūtas: generate minds of loving-kindness
-> And be mindful of perfect awakening, the Dharma King,
+> And be mindful of perfect enlightenment, the Dharma King,
 > The honored one with two perfect feet, the Lion of the Śākyas, the benevolent king.
 >
 > "That Buddha proclaimed true words:
@@ -92,7 +92,7 @@ Then the Great Awesome Virtue One, in the form of the youth Mañjuśrī, spoke t
 > The Vast-Fruit and Merit-Born,
 > The devas of form and formless realms,
 > Those of great awesome virtue who have left desire,
-> Those who make offerings to the Three Jewels,
+> Those who make offerings to the Three Treasures,
 > Those of pure faith in the Buddha's teaching:
 > All of these are without possessions.
 > The fear of friend and foe alike
@@ -150,7 +150,7 @@ Then the Great Awesome Virtue One, in the form of the youth Mañjuśrī, spoke t
 > Who perform evil deeds without pure faith,
 > Who slander the sublime Dharma and Saṃgha jewels,
 > Whose minds are distracted and defiled,
-> Who pollute the Three Jewels,
+> Who pollute the Three Treasures,
 > Who dwell in impure realms,
 > Who do not keep secret the true-word teaching,
 > Who are constantly impure and without compassion,

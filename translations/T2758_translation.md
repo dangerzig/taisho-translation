@@ -57,7 +57,7 @@ Regarding practice birth: of the three kinds of mind-made bodies (意生身 *yì
 
 Regarding positional birth: this is the single birth of the vajra [concentration] at the eleventh stage.
 
-Regarding response-transformation birth: the bodhisattva, with shallow yet skillful expedient means, receives birth in Tusita Heaven (兜率天 *Dōushuài tiān*) to teach and transform. When he descends to the human realm, he immediately attains buddhahood. Since there is only the one birth in Tusita remaining, it is said "with one more birth, attaining bodhi."
+Regarding response-transformation birth: the bodhisattva, with shallow yet skillful skillful means, receives birth in Tusita Heaven (兜率天 *Dōushuài tiān*) to teach and transform. When he descends to the human realm, he immediately attains buddhahood. Since there is only the one birth in Tusita remaining, it is said "with one more birth, attaining bodhi."
 
 ### The Meaning of "Bodhi"
 

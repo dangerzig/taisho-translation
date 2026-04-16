@@ -49,7 +49,7 @@ The disciple asks: "Now, within the mind, how should one cultivate practice?"
 
 The Master answers: "Just, in all affairs, be aware that there is no mind. This itself is cultivation. There is no other, separate cultivation. Therefore, know that no-mind is everything. Quiescent extinction is no-mind."
 
-The disciple thereupon suddenly had a great awakening, and for the first time knew that beyond mind there are no things, and beyond things there is no mind. Every gesture, every movement and action was entirely free. The net of doubt was severed, and there were no further entanglements. He rose, made a bow, and inscribed a verse on no-mind:
+The disciple thereupon suddenly had a great enlightenment, and for the first time knew that beyond mind there are no things, and beyond things there is no mind. Every gesture, every movement and action was entirely free. The net of doubt was severed, and there were no further entanglements. He rose, made a bow, and inscribed a verse on no-mind:
 
 > The spirit of the mind tends toward quiescence, without color, without form.
 > Looking at it, one does not see it; listening for it, there is no sound.

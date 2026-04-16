@@ -69,7 +69,7 @@ Composed by Nāgārjuna (龍樹). Translated from the Chinese. Song dynasty, tra
 >
 > The Buddha, seeing them without rescue,
 > Gave rise to a compassionate mind.
-> Therefore he generated the aspiration for awakening
+> Therefore he generated the aspiration for enlightenment
 > And broadly cultivated the practices of awakening.
 >
 > Having attained the unsurpassed fruit of wisdom,

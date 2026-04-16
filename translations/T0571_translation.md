@@ -35,6 +35,6 @@ When the woman saw the Buddha, her mind immediately became settled, and she was 
 
 The Buddha then taught the sūtra, revealing merit and wrongdoing: "Human life is impermanent. Those who meet must part. Those who are born must die. None who are born do not come to an end. All things are originally empty. They arise and cease through one's own actions. One revolves through the five destinies like a turning wheel. Having understood that there was originally nothing, one no longer gives rise to distinctions."
 
-The woman, hearing the Buddha's words, her mind was opened and she understood. She immediately generated the mind of unsurpassed true awakening and at that very moment attained the stage of non-retrogression. Her sorrow was removed, like the sun with no clouds.
+The woman, hearing the Buddha's words, her mind was opened and she understood. She immediately generated the mind of unsurpassed true enlightenment and at that very moment attained the stage of non-retrogression. Her sorrow was removed, like the sun with no clouds.
 
 When the Buddha had spoken thus, the fourfold assembly was filled with joy. The devas, nāgas, and spirits bowed their heads and withdrew.

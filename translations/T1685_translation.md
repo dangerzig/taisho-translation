@@ -12,7 +12,7 @@ At that time, the World-Honored One addressed the bhikṣus: "I shall now procla
 > In King Śuddhodana's capital, the city of Kapilavastu,
 > Lumbinī Garden, where the Buddha was born;
 > Beside the Nairañjanā River in Magadha,
-> Beneath the Bodhi tree, supreme awakening was attained;
+> Beneath the Bodhi tree, supreme enlightenment was attained;
 > In the city of Vārāṇasī in the kingdom of Kāśī,
 > The great Dharma wheel was turned in twelve aspects;
 > Within Jetavana in the great city of Śrāvastī,

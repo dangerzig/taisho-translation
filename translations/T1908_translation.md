@@ -16,7 +16,7 @@ Why is this so? In the ten directions and three times, in a single mote of dust 
 
 Now in this place, the Lotus Treasury World (*Liánhuā Zàng Jiè*, 蓮花藏界), the Buddha Vairocana (*Lúshěnà Fó*, 盧舍那佛) sits upon the lotus platform, releasing boundless light, gathering immeasurable sentient beings, turning the great-vehicle dharma-wheel that turns without anything being turned. The great assembly of bodhisattvas fills space, receiving the great-vehicle dharma-joy that is received without anything being received.
 
-Yet now we are together present in this place of the One Reality and the Three Jewels, a place without error, and we neither see nor hear, as if deaf and blind, without any Buddha-nature. Why is this so? Ignorance and inversion deludedly create external objects. Clinging to self and what belongs to self, we create all kinds of karma. We cover and obstruct ourselves and cannot see or hear. It is like hungry ghosts who, approaching a river, see fire.
+Yet now we are together present in this place of the One Reality and the Three Treasures, a place without error, and we neither see nor hear, as if deaf and blind, without any Buddha-nature. Why is this so? Ignorance and inversion deludedly create external objects. Clinging to self and what belongs to self, we create all kinds of karma. We cover and obstruct ourselves and cannot see or hear. It is like hungry ghosts who, approaching a river, see fire.
 
 Therefore, now before the buddhas, we deeply give rise to shame and remorse. We arouse the bodhicitta and with sincere minds repent.
 
@@ -42,7 +42,7 @@ When one quietly reflects upon this, how extraordinary it is! It is like being a
 
 Before one awakens, one has another dream within the dream, thinking: "What I saw earlier was a dream, not real." Because the mind-nature is acute, within the dream one recognizes the dream. Regarding that drowning, one no longer gives rise to terror. But one does not yet know that one's body lies upon the bed. Moving the head, waving the hands, one diligently seeks to fully awaken.
 
-At the moment of full awakening, recalling the earlier dream, the water and the body being swept away are both without any real existence. One sees only the original, always lying still upon the bed.
+At the moment of full enlightenment, recalling the earlier dream, the water and the body being swept away are both without any real existence. One sees only the original, always lying still upon the bed.
 
 The long dream is also like this. Ignorance covers the mind and deludedly creates the six destinies. Revolving through the eight sufferings, inwardly through the inconceivable perfuming of all buddhas and outwardly through the power of all buddhas' great compassionate vows, one dimly comes to faith and understanding.
 

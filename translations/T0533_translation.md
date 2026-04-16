@@ -67,7 +67,7 @@ The Buddha then spoke in verse:
 > Purely cultivating the bodhisattva path,
 > With great compassion delivering the world."
 
-Thereupon Kṣemakara removed the pearl and jewel ornaments from his body and scattered them above the Buddha. By the Buddha's supernatural power, what he had scattered remained suspended in midair and transformed into a jeweled canopy. Within it appeared five hundred transformation-beings, who also removed their pearl and jewel ornaments and scattered them above the Buddha, all proclaiming in unison: "May we give rise to the aspiration for unsurpassed right and true awakening!"
+Thereupon Kṣemakara removed the pearl and jewel ornaments from his body and scattered them above the Buddha. By the Buddha's supernatural power, what he had scattered remained suspended in midair and transformed into a jeweled canopy. Within it appeared five hundred transformation-beings, who also removed their pearl and jewel ornaments and scattered them above the Buddha, all proclaiming in unison: "May we give rise to the aspiration for unsurpassed right and true enlightenment!"
 
 Kṣemakara, seeing the transformation-beings, was elated with joy and asked the Buddha: "Where do these transformations come from? Have they come from heaven? From the four directions and four intermediate directions? Have they arisen from the earth?"
 

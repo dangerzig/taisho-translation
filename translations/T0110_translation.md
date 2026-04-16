@@ -27,9 +27,9 @@ At one time, the Bhagavān was in the Deer Park at the Ṛṣipatana in Vārā�
 
 "Bhikṣus! This noble truth of the path leading to the cessation of suffering is a Dharma to be fully understood. Thus it has been cultivated. When one attends wisely to the Dharma that has been heard, the eye, knowledge, clarity, and awakening arise.
 
-"Bhikṣus! If I had not fully understood the three turnings and twelve aspects of these Four Noble Truths, the eye, knowledge, clarity, and awakening would not have arisen. Then I would not have been able, among all the gods, māras, brahmās, śramaṇas, brāhmaṇas, and all worldly beings, to abandon afflictions, liberate the mind, and realize unsurpassed awakening.
+"Bhikṣus! If I had not fully understood the three turnings and twelve aspects of these Four Noble Truths, the eye, knowledge, clarity, and awakening would not have arisen. Then I would not have been able, among all the gods, māras, brahmās, śramaṇas, brāhmaṇas, and all worldly beings, to abandon afflictions, liberate the mind, and realize unsurpassed enlightenment.
 
-"Bhikṣus! Because I have fully understood the three turnings and twelve aspects of these Four Noble Truths, the eye, knowledge, clarity, and awakening have all arisen. Then I was able, among all the gods, māras, brahmās, śramaṇas, brāhmaṇas, and all worldly beings, to abandon afflictions, liberate the mind, and realize unsurpassed awakening."
+"Bhikṣus! Because I have fully understood the three turnings and twelve aspects of these Four Noble Truths, the eye, knowledge, clarity, and awakening have all arisen. Then I was able, among all the gods, māras, brahmās, śramaṇas, brāhmaṇas, and all worldly beings, to abandon afflictions, liberate the mind, and realize unsurpassed enlightenment."
 
 At that time, when the World-Honored One taught this Dharma, the Elder Kauṇḍinya and eighty thousand celestials became far removed from dust and defilement, attaining the purity of the Dharma eye. The Buddha asked Kauṇḍinya: "Do you understand this Dharma?"
 

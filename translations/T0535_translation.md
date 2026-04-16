@@ -57,7 +57,7 @@ Thereupon the Tathāgata rose and set forth on the road, releasing a great radia
 
 At that time, in Śṛgāla's house a golden radiance appeared, bright as the sun. Candradhvaja said: "Now the Buddha has manifested a golden radiance in our house. The Buddha is on his way, and this is the response. You should go and stop him; he need not come further." His father still did not believe.
 
-At that time, Śṛgāla's chief wife, named Yueyǔ, who was Candradhvaja's mother, seeing these wondrous signs, was filled with leaping joy. She immediately gave rise to the aspiration for unsurpassed right and true awakening.
+At that time, Śṛgāla's chief wife, named Yueyǔ, who was Candradhvaja's mother, seeing these wondrous signs, was filled with leaping joy. She immediately gave rise to the aspiration for unsurpassed right and true enlightenment.
 
 Thereupon Candradhvaja said to his mother: "You should now command the five hundred ladies of the household to adorn themselves and go out to see the Tathāgata. Why? The World-Honored One is rare to encounter; only once in a hundred thousand billion kalpas does a Buddha appear." The five hundred ladies all received the instruction and joyfully attended the Buddha.
 
@@ -77,7 +77,7 @@ The Buddha told Śṛgāla: "The elder's son of that time is now myself. When I 
 
 The elder Śṛgāla, hearing what the Buddha said, immediately attained the patience of the Dharma. He further exclaimed: "The Tathāgata's wisdom delivers all without exception. Now I clearly know that I shall not receive retribution for my sin. Why? Because in the distant past, Dīpaṃkara Tathāgata foretold my name. It was ordained that I would be transformed by the Buddha. Therefore I say I shall not receive retribution."
 
-At that time, as the Buddha taught the Dharma in the royal city, countless thousands of elders and householders, and the five hundred heterodox practitioners, all gave rise to the aspiration for unsurpassed right and true awakening. The five hundred ladies immediately attained the stage of non-retrogression. The Moonlight Boy rose from his seat. After praising the Buddha, he addressed the Buddha: "If in a future life I attain buddhahood, may all the people of my land be free of evil minds and be pure in nature. In lands where the people are stubborn and defiled, in the turbid age of the five corruptions, I vow to appear among them and transform them."
+At that time, as the Buddha taught the Dharma in the royal city, countless thousands of elders and householders, and the five hundred heterodox practitioners, all gave rise to the aspiration for unsurpassed right and true enlightenment. The five hundred ladies immediately attained the stage of non-retrogression. The Moonlight Boy rose from his seat. After praising the Buddha, he addressed the Buddha: "If in a future life I attain buddhahood, may all the people of my land be free of evil minds and be pure in nature. In lands where the people are stubborn and defiled, in the turbid age of the five corruptions, I vow to appear among them and transform them."
 
 The Buddha told Ānanda: "Did you hear what the Moonlight Boy said?"
 

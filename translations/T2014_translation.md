@@ -38,7 +38,7 @@ Translated from the Chinese. Tang dynasty, composed by Xuanjue (玄覺).
 > Release the four great elements; do not grasp at them.
 > Within the nature of quiescent extinction, eat and drink as you will.
 > All conditioned things are impermanent; everything is empty.
-> This is the Tathāgata's great perfect awakening.
+> This is the Tathāgata's great perfect enlightenment.
 
 > Speaking with certainty, I express the true saṃgha.
 > If anyone disagrees, let them challenge as they please.
@@ -302,7 +302,7 @@ Translated from the Chinese. Tang dynasty, composed by Xuanjue (玄覺).
 > The elephant-carriage advances majestically along the road.
 > Who has ever seen a mantis able to block its wheels?
 > The great elephant does not walk the rabbit's path.
-> Great awakening is not confined by petty rules.
+> great enlightenment is not confined by petty rules.
 > Do not use a reed-pipe view to slander the blue sky.
 > If you do not yet understand, I shall now give you the key.
 
@@ -342,4 +342,4 @@ He said: "Discrimination is also not meaning."
 
 The Patriarch exclaimed: "Excellent! Excellent! Please stay for one night."
 
-At that time, people called him "the overnight awakening." Master Ce then stayed. The next day, the Master descended the mountain and returned to the Wen River. Students gathered to him in great numbers. He was given the title Great Master of True Awakening. He composed the "Essentials of Realization and Cultivation in the Chan School's Perfect Teaching," proceeding from the shallow to the deep. The Prefect of Qingzhou, Wei Jing, compiled it into ten chapters, entitled the *Yongjia Collection*. Together with the *Song of Realizing the Way* in one piece, both circulated widely throughout the world.
+At that time, people called him "the overnight awakening." Master Ce then stayed. The next day, the Master descended the mountain and returned to the Wen River. Students gathered to him in great numbers. He was given the title Great Master of true enlightenment. He composed the "Essentials of Realization and Cultivation in the Chan School's Perfect Teaching," proceeding from the shallow to the deep. The Prefect of Qingzhou, Wei Jing, compiled it into ten chapters, entitled the *Yongjia Collection*. Together with the *Song of Realizing the Way* in one piece, both circulated widely throughout the world.

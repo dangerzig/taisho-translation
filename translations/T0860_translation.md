@@ -556,7 +556,7 @@ The five syllables adorning the body bring majestic accomplishment and blaze wit
 
 **The fire of great compassion at the heart**: Because the torch of samādhi-wisdom nurtures and fosters. Just as fire can burn all firewood, so the fire of all-knowledge burns the firewood of ignorance, extinguishes delusional karmic defilements, leaving no remainder, and in the darkness of ignorance serves as a great illumination.
 
-**The water of great compassion at the navel**: Because the milky ocean of merit nourishes and moistens. Just as water can flow from high to low, greatly benefiting and moistening grasses, trees, flowers, and fruits, its nature originally pure; so the wisdom-water of the Tathāgata flows from the dharmadhātu of true words into the worldly realm, moistening the Dharma practices that sustain and assist the path, producing great fruits, constantly washing the mind of awakening so that it remains undefiled.
+**The water of great compassion at the navel**: Because the milky ocean of merit nourishes and moistens. Just as water can flow from high to low, greatly benefiting and moistening grasses, trees, flowers, and fruits, its nature originally pure; so the wisdom-water of the Tathāgata flows from the dharmadhātu of true words into the worldly realm, moistening the Dharma practices that sustain and assist the path, producing great fruits, constantly washing the mind of enlightenment so that it remains undefiled.
 
 **The seat of great compassion at the earth boundary**: Because the vajra ground beneath the vajra seat upholds and supports. Just as earth can give birth to all things, bearing and supporting the entire world without being toppled; so the ground of all-knowledge is born from the Tathāgata's vajra nature. That which is born is ultimately unborn, yet it can give birth to the myriad virtues of awakening, upholding the mind-ground of all worthy and holy ones, indestructible.
 
@@ -638,7 +638,7 @@ All bodhisattvas mantra: (as above)
 > Making this aspiration:
 > "Just as the Great Enlightened World-Honored Ones
 > Dedicated their realized merit
-> Toward great awakening,
+> Toward great enlightenment,
 > So too do I now
 > Take all my accumulated merit
 > And share it with all dharmadhātu beings,

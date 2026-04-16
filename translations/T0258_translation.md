@@ -33,10 +33,10 @@ The Buddha told the Bodhisattva-Mahāsattva Holy Avalokiteśvara: "This supremel
 
 At that time, the Bodhisattva Holy Avalokiteśvara addressed the Buddha: "World-Honored One! For what reason do you further teach this Prajñāpāramitā Dhāraṇī?"
 
-The World-Honored One replied: "I do so out of compassion for all sentient beings of few wholesome roots, few skillful means, and much indolence. Therefore I teach this Prajñāpāramitā Dhāraṇī, so that they may receive, uphold, read, and recite it, whether copying it themselves or causing others to copy it. All such sentient beings will swiftly realize the supreme enlightenment."
+The World-Honored One replied: "I do so out of compassion for all sentient beings of few roots of merit, few skillful means, and much indolence. Therefore I teach this Prajñāpāramitā Dhāraṇī, so that they may receive, uphold, read, and recite it, whether copying it themselves or causing others to copy it. All such sentient beings will swiftly realize the supreme enlightenment."
 
 "So it is, so it is! The World-Honored One has well taught this Prajñāpāramitā Dhāraṇī."
 
-At that time, the Bodhisattva-Mahāsattva Holy Avalokiteśvara again addressed the Buddha: "World-Honored One! This Dharma is truly unprecedented. World-Honored One! This Dharma is truly unprecedented. The Sugata World-Honored One, out of great compassion, wishing to save and liberate all sentient beings of few wholesome roots, few skillful means, and much indolence, and to bring them benefit and joy, has taught this wondrous Dharma."
+At that time, the Bodhisattva-Mahāsattva Holy Avalokiteśvara again addressed the Buddha: "World-Honored One! This Dharma is truly unprecedented. World-Honored One! This Dharma is truly unprecedented. The Sugata World-Honored One, out of great compassion, wishing to save and liberate all sentient beings of few roots of merit, few skillful means, and much indolence, and to bring them benefit and joy, has taught this wondrous Dharma."
 
 At that time, when the World-Honored One had finished teaching this sūtra, all the great śrāvakas, all the bodhisattva-mahāsattvas, and all the devas, humans, asuras, gandharvas, and the entire world, hearing what the Buddha taught, were all greatly joyful, and they accepted it with faith and practiced it, bowed, and withdrew.

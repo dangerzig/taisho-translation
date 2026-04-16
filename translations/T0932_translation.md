@@ -29,7 +29,7 @@ Next, one should rejoice in the merit and wisdom accumulated by all buddhas, bod
 
 > "The buddhas of past, present, and future,
 > Bodhisattvas and all beings:
-> In all the wholesome roots they have gathered,
+> In all the roots of merit they have gathered,
 > I join palms and fully rejoice."
 
 Next, one should place the right knee on the ground and raise joined palms above the crown, visualizing prostration at the feet of all buddhas and bodhisattvas, and recite the mantra:
@@ -227,7 +227,7 @@ Recite three times to purify the mudrā. Then visualize in your own heart that t
 
 The syllable *oṃ* means "flowing continuity" and also "unborn and undying"; among all dharmas it is the supreme meaning. The syllable *a* means "unborn" and is the quiescent wisdom within the dharma of all tathāgatas. The syllable *ru* means that all dharmas are without movement and also without arising or abiding. The syllable *li* means the unequaled awakening of all tathāgatas and also no grasping or rejecting. The syllable *svā* means the unequaled and inexpressible nature of all tathāgatas. The syllable *hā* means quiescence without cause and also no abiding in nirvāṇa.
 
-The syllable meanings explained above are all meanings of syllables that have nothing to be expressed. Having understood that there are no syllables, one contemplates that the meaning and principle are truly without anything to express. Continue continuously from beginning to end, without counting or recording, and without interruption. "Without interruption" is the meaning of flowing continuity, unborn and undying. Because there is no birth or death, there is no movement. Because there is no movement, there is no opposition. Because there is no opposition, there is no arising or abiding. Because there is no arising or abiding, there is unequaled awakening and no grasping or rejecting. Because there is no grasping or rejecting, there is equality and inexpressibility. Because of equal inexpressibility, there is quiescence without cause and no abiding in nirvāṇa. Because of quiescence without cause and no abiding in nirvāṇa, this is the unborn, undying, supreme dharma gate of all tathāgatas, called samādhi recitation.
+The syllable meanings explained above are all meanings of syllables that have nothing to be expressed. Having understood that there are no syllables, one contemplates that the meaning and principle are truly without anything to express. Continue continuously from beginning to end, without counting or recording, and without interruption. "Without interruption" is the meaning of flowing continuity, unborn and undying. Because there is no birth or death, there is no movement. Because there is no movement, there is no opposition. Because there is no opposition, there is no arising or abiding. Because there is no arising or abiding, there is unequaled enlightenment and no grasping or rejecting. Because there is no grasping or rejecting, there is equality and inexpressibility. Because of equal inexpressibility, there is quiescence without cause and no abiding in nirvāṇa. Because of quiescence without cause and no abiding in nirvāṇa, this is the unborn, undying, supreme dharma gate of all tathāgatas, called samādhi recitation.
 
 Next, form the samādhi mudrā. Cross both palms face up. Raise the index fingers back to back and upright. Press the thumbs against the tips of the index fingers. Place upon the crossed legs.
 
@@ -266,7 +266,7 @@ Then recite this mantra:
 
 *Oṃ siṃhara-padma*
 
-Having recited this mantra, one is immediately endowed with sarvajñā wisdom and attains perfect, complete awakening!
+Having recited this mantra, one is immediately endowed with sarvajñā wisdom and attains perfect, complete enlightenment!
 
 Next, perform the empowerment secret mudrā. Cross the middle, ring, and six outer fingers externally. Raise the index fingers touching like a lotus. Place the thumbs together upright like a banner. Stamp the mudrā on heart, forehead, throat, and crown. The mantra is:
 
@@ -391,4 +391,4 @@ Next, form the dismissal mudrā. From the root mudrā, raise from the navel to t
 
 *Oṃ vajra-padma muḥ*
 
-Having dismissed the principal deity, make whatever vows you wish. Then apply the armor mudrā for protection. With the Hayagrīva Vidyārāja boundary mudrā, rotate leftward to release the boundary, and move about freely. Maintain purity, offer incense and flowers, read and recite the Mahāyāna, and in all four deportments constantly be mindful of the principal deity without interruption. If any sentient being cultivates this teaching, in the present life they will realize the Ground of Joy. After sixteen lifetimes, they will attain perfect, complete awakening!
+Having dismissed the principal deity, make whatever vows you wish. Then apply the armor mudrā for protection. With the Hayagrīva Vidyārāja boundary mudrā, rotate leftward to release the boundary, and move about freely. Maintain purity, offer incense and flowers, read and recite the Mahāyāna, and in all four deportments constantly be mindful of the principal deity without interruption. If any sentient being cultivates this teaching, in the present life they will realize the Ground of Joy. After sixteen lifetimes, they will attain perfect, complete enlightenment!

@@ -2,7 +2,7 @@
 
 # Abhidharma Sūtra on the Five Dharma Categories
 
-*Note: This text was translated by An Shigao (Ān Shìgāo 安世高) during the Later Han dynasty. It is an early Abhidharma catechetical manual that systematically defines the five dharma categories (wǔfǎ 五法): form (sè 色), mind (yì 意/心), mental factors (suǒniàn fǎ 所念法), factors dissociated from mind (biélí yì xíng 別離意行), and the unconditioned (wúwéi 無為). The text opens with the Four Noble Truths and their "knowledge-understanding" (xiá kě 黠可) analysis, presents the sixteen aspects of the Four Noble Truths, and then proceeds to define each dharma category in detail: the four great elements, the five sense faculties, their objects, the six consciousnesses, mental factors (feeling, perception, formation, intention, desire, concentration, wisdom, faith, vigor, etc.), the three roots of merit and three unwholesome roots, the five indeterminate roots, the nine fetters (jiǔjié 九結), the seven types of pride, the three wrong views, the seven latent tendencies (qīshǐ 七使), and the ten kinds of knowledge. An Shigao's archaic Chinese translation style is characteristically terse.*
+*Note: This text was translated by An Shigao (Ān Shìgāo 安世高) during the Later Han dynasty. It is an early Abhidharma catechetical manual that systematically defines the five dharma categories (wǔfǎ 五法): form (sè 色), mind (yì 意/心), mental factors (suǒniàn fǎ 所念法), factors dissociated from mind (biélí yì xíng 別離意行), and the unconditioned (wúwéi 無為). The text opens with the Four Noble Truths and their "knowledge-understanding" (xiá kě 黠可) analysis, presents the sixteen aspects of the Four Noble Truths, and then proceeds to define each dharma category in detail: the four great elements, the five sense faculties, their objects, the six consciousnesses, mental factors (feeling, perception, formation, intention, desire, concentration, wisdom, faith, vigor, etc.), the three roots of merit and three unroots of merit, the five indeterminate roots, the nine fetters (jiǔjié 九結), the seven types of pride, the three wrong views, the seven latent tendencies (qīshǐ 七使), and the ten kinds of knowledge. An Shigao's archaic Chinese translation style is characteristically terse.*
 
 ---
 
@@ -58,7 +58,7 @@ What is mind? What is meant by mind is mental consciousness. What is this? It is
 
 ### 3. Mental Factors
 
-What are the mental factors? They are the dharmas that are contemplated and that accompany the mind. What are they? Feeling, perception, formation, sensation, mindfulness, desire, mental concentration, and understanding. Also faith, vigor, reflection, mindfulness, craving, non-craving, roots of merit, unwholesome roots, indeterminate roots, all fetters and bonds including effort, and the arising of understanding, insight, and essentials, as well as all such dharmas that accompany the mind. These are called "mental factors."
+What are the mental factors? They are the dharmas that are contemplated and that accompany the mind. What are they? Feeling, perception, formation, sensation, mindfulness, desire, mental concentration, and understanding. Also faith, vigor, reflection, mindfulness, craving, non-craving, roots of merit, unroots of merit, indeterminate roots, all fetters and bonds including effort, and the arising of understanding, insight, and essentials, as well as all such dharmas that accompany the mind. These are called "mental factors."
 
 ### 4. Factors Dissociated from Mind
 
@@ -98,7 +98,7 @@ Eye-consciousness is: dependent on the eye, with form as condition, one knows. E
 
 **Three roots of merit**: absence of craving, absence of anger, absence of delusion.
 
-**Three unwholesome roots**: craving, anger, delusion.
+**Three unroots of merit**: craving, anger, delusion.
 
 **Five indeterminate roots**: attachment-indeterminacy, pride-indeterminacy, delusion-indeterminacy, doubt-indeterminacy, and action-indeterminacy.
 

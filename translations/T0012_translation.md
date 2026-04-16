@@ -35,7 +35,7 @@ Then the venerable Śāriputra, learning of this matter, thought to himself: "Th
 
 "Furthermore, three wholesome kinds of thought are taught by the Buddha: thought of renouncing desire, thought free from ill-will, and thought of non-harmfulness.
 
-"Furthermore, three unwholesome roots are taught by the Buddha: the unwholesome root of desire, the unwholesome root of hatred, and the unwholesome root of delusion.
+"Furthermore, three unroots of merit are taught by the Buddha: the unwholesome root of desire, the unwholesome root of hatred, and the unwholesome root of delusion.
 
 "Furthermore, three roots of merit are taught by the Buddha: the wholesome root of non-desire, the wholesome root of non-hatred, and the wholesome root of non-delusion.
 

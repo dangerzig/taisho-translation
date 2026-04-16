@@ -132,7 +132,70 @@ The treatise states: In Uttarakuru the clothing weighs one liang. In the heaven 
 
 The clothing of the form-realm heavens cannot be weighed. If those realms have weight, why say it cannot be weighed? The devas of the form realm, according to their body-size, wear garments that are like radiant purity; therefore one cannot speak of them [in terms of weight].
 
-[The text continues with detailed discussions of manifest form, the six defects in defining unmanifest form, the distinction between "earth" and "earth element," the aggregates and bases, and citations of numerous verses from sūtras and the Abhidharma itself.]
+Now manifest form shall be discussed. The verse says:
+
+> In distracted mind, in mindlessness, and the like,
+> Continuing to flow, whether pure or impure:
+> Being of a nature produced by the great elements,
+> This is therefore called "unmanifest form."
+
+The six defects summarized in a verse:
+
+> The first lacks continuity; the next treats it as merely conventional;
+> In mindlessness, the flow mixes with manifest characteristics;
+> The repeated placement of terms fails to distinguish properly:
+> Therefore in this account there are six defects.
+
+The six defects each arise from a divergent intention. The verse says:
+
+> Action and the rest, in other states of mind and the like,
+> As well as in mindlessness, being karmically determinate,
+> Non-resistant and of a nature produced by the great elements:
+> This is what is called "unmanifest form."
+
+What is the difference between "earth" and "earth element"? The treatise-verse says:
+
+> "Earth" refers to manifest and shape-color;
+> The name is established following conventional understanding.
+> Water and fire are likewise;
+> Wind is the same as its element.
+
+The *Arthavargīya* section states:
+
+> People who pursue desires
+> Constantly give rise to hopes.
+> When desires are not fulfilled,
+> They are tormented as if struck by arrows.
+
+The following treatise-verse says:
+
+> Feeling has the nature of experiencing and receiving according to contact;
+> Perception has the nature of apprehending characteristics.
+> The remaining four are called the "formation aggregate."
+> Thus feeling and the other three,
+> Together with unmanifest form and the unconditioned,
+> Are called the dharma-āyatana and dharma-dhātu.
+
+Three aggregates and seven matters, as a verse states:
+
+> Three aggregates, unmanifest form,
+> And three kinds of unconditioned:
+> These are subsumed under the dharma-āyatana;
+> The dharma-dhātu is likewise.
+
+The verse says:
+
+> Consciousness is individual discernment;
+> This is called the mind-āyatana
+> And, one should know, the seven dhātus.
+> The six consciousnesses turn and become "mind."
+
+The verse says:
+
+> All dharmas are fully subsumed
+> By the one aggregate, āyatana, and dhātu.
+> Each subsumes its own nature and not others,
+> Because it is separate from the nature of others.
 
 ---
 
@@ -147,13 +210,69 @@ The lineage-meaning is the element-meaning. Just as within a single mountain the
 > The inverted perception within ignorance
 > Defiles and afflicts in just the same way.
 
-[The text continues with discussions of the eighty thousand dharma-collections, the difference between space-element and consciousness-element, visibility and resistance among the eighteen elements, and the three types of discrimination (intrinsic, deliberative, and recollective).]
+The aggregate called "perception" is stated in a verse:
+
+> The Sage taught that the dharma-aggregates
+> Number eighty thousand.
+> Their substance is either speech or name;
+> These are necessarily subsumed under the formation aggregate.
+
+The treatise-verse says:
+
+> The space-element refers to apertures and gaps;
+> Tradition says it consists of light and darkness.
+> The consciousness-element is contaminated consciousness,
+> The support upon which sentient beings' lives depend.
+
+Fascicle two of the treatise:
+
+Among the eighteen elements, how many are visible and how many invisible? How many are resistant and how many non-resistant? How many are wholesome, how many unwholesome, and how many neutral? The verse says:
+
+> One is visible, namely form.
+> Ten material elements are resistant.
+> These eight, excluding form and sound,
+> Are neutral; they admit all three kinds.
+> Five are without discrimination;
+> Through calculation and recollection,
+> That is, by the scattered wisdom of the mental ground
+> And all types of remembrance as their substance.
+
+The treatise states: Discrimination is of three kinds in brief: first, intrinsic discrimination; second, calculative discrimination; third, recollective discrimination. Although the five sense-consciousness groups possess intrinsic discrimination, they lack the other two. To say there are eight kinds of discrimination is incorrect. They have only intrinsic discrimination, without calculative or recollective discrimination. Having only one kind of discrimination, they are called "without discrimination."
 
 ---
 
 ## Fascicle Four
 
-[Discusses the momentary nature of dharmas, the eight kinds of views, which elements are "seeing" and which are "non-seeing," the relationships between eye, form, and eye consciousness across different existential levels, and the twenty-two faculties.]
+One moment (kṣaṇa). The verse says:
+
+> The inner five have maturation and nourishment;
+> Sound is not of maturation-birth.
+> Eight are unobstructed and outflowing,
+> Also of maturation-birth nature.
+> The remaining three are truly dharma alone;
+> Only the last three are momentary.
+
+The inner five are the five elements of the eye and so forth. Among the eighteen elements, how many are "seeing" and how many "non-seeing"? The verse says:
+
+> The eye and one part of the dharma-element,
+> Eight kinds, are called "seeing."
+> The wisdom co-arising with the five consciousnesses
+> Is not seeing, because it does not range beyond.
+> The eye sees form in its concordant aspect,
+> Not through the consciousness that depends upon it.
+> Tradition says it cannot observe
+> Forms that are obstructed.
+
+The treatise states: The eye in its entirety is seeing. One part of the dharma-element, consisting of eight kinds, is seeing; all the rest are non-seeing. The treatise now briefly explains the definitive characteristics. The verse says:
+
+> The eye is not lower than the body;
+> Form and consciousness are not higher than the eye.
+> Form in relation to consciousness applies universally;
+> For both, in relation to the body, the same holds.
+> As with the eye, so too the ear.
+> The next three are all of their own level.
+> Body-consciousness pertains to its own and lower levels;
+> Mind is indeterminate, one should know.
 
 The treatise states: "The sūtra speaks of twenty-two faculties: eye faculty, ear faculty, nose faculty, tongue faculty, body faculty, mental faculty, female faculty, male faculty, life faculty, pleasure faculty, pain faculty, joy faculty, sorrow faculty, equanimity faculty, faith faculty, effort faculty, mindfulness faculty, concentration faculty, wisdom faculty, the faculty of 'I shall come to know the unknown,' the faculty of full knowledge, and the faculty of one who has fully known."
 
@@ -163,7 +282,14 @@ What sūtra teaches this? There was a brahmin named Jānussonin who came to the 
 
 ## Fascicle Five: Analysis of Faculties (*Indriyanirdeśa*), Part One
 
-[The text discusses the five physical faculties as having dominance over four functions, the four [mental] faculties over two, and the remaining faculties over various aspects of the path. It includes the famous verse:]
+The verse says:
+
+> Tradition says the five have dominance over four;
+> The four faculties have dominance over two.
+> The five, eight, in the impure and the pure,
+> Each has separate dominance.
+
+The treatise states: the eye and the other five faculties have dominance over four, from hearing sounds and beyond. The verse says:
 
 > Just as a person with clear eyes
 > Can avoid visible dangers,
@@ -175,7 +301,51 @@ What sūtra teaches this? There was a brahmin named Jānussonin who came to the 
 > Much learning discards what is meaningless;
 > Much learning attains nirvāṇa.
 
-[The text discusses nutrition and the life-faculty, male and female entry into the womb, the contaminated mind that drives rebirth, the twenty-two faculties' dominance in their respective domains, the definitions of the five feeling-faculties, the three roots established in relation to the paths of seeing, cultivation, and beyond-learning, and the life-faculty as exclusively karmic-maturation.]
+The verse says:
+
+> The body abides through food;
+> Life is sustained by food.
+> Having eaten, the mind becomes
+> Contented, pleased, and at ease.
+
+If a male enters the womb, he generates desire toward the mother and aversion toward the father. If a female enters the womb, she generates desire toward the father and aversion toward the mother. From this one knows that what perpetuates subsequent existence is entirely the contaminated mind. Thus the mental faculty has dominance over the continuation of subsequent existence.
+
+A sūtra says: "When the father's and mother's essence and blood enter the womb, it is through being taken up by consciousness that the kalala can be formed."
+
+The commentary states: This demonstrates the meaning that body and speech follow the turning of the mind. As the sūtra says: "The mind leads the world; the mind universally takes hold of and receives. Thus this single dharma of the mind freely governs all that follows." The verse says:
+
+> Understanding one's own domain, with dominance:
+> Thus the six faculties are established in general.
+> From the body, two faculties are established;
+> Female and male have emotional dominance.
+> Over co-habitation, mixed habitation,
+> And purity, with dominance:
+> One should know that life, the five feelings,
+> Faith and the rest are established as faculties.
+> "Not-yet-known-what-shall-be-known," "having-known,"
+> And "possessing-complete-knowledge" are likewise;
+> Over attaining the successive paths
+> And nirvāṇa and the rest, they have dominance.
+
+The treatise-verse says:
+
+> Bodily displeasure is called "suffering";
+> The pleasant counterpart is called "pleasure"
+> (Including the mental pleasure of the third dhyāna;
+> Elsewhere this is called "joy").
+> Mental displeasure is called "sorrow."
+> The neutral equanimity, both being without distinction:
+> Based on the paths of seeing, cultivation, and beyond-learning,
+> Three faculties are established in dependence on nine.
+
+The verse says:
+
+> Only the last three are exclusively uncontaminated.
+> Material form, life, sorrow, and suffering
+> Are always known to be exclusively contaminated.
+> The remaining nine faculties admit of both.
+
+The last three faculties are definitely uncontaminated; apart from these three, no others admit of the uncontaminated.
 
 The verse:
 
@@ -184,7 +354,7 @@ The verse:
 > In this continent [Jambudvīpa], the lifespan is indefinite.
 > At the end it is ten [years]; at the beginning, it is immeasurable.
 
-[The text concludes with the story of Brahmā requesting the Buddha to turn the Dharma wheel, presented in full narrative detail, ending with Brahmā's verse and the Buddha's acceptance:]
+A sūtra says: At that time, the World-Honored One, having attained perfect enlightenment, reflected thus: "The Dharma I have realized is extremely profound and subtle, difficult to see and difficult to understand, inconceivable, beyond the sphere of discursive thought. It is known by the wise, not attainable by the foolish and common. These sentient beings have long practiced wrong teachings, are attached to existence, and are confused by various views; therefore they cannot comprehend it. Because they cannot comprehend, they cannot believe or accept, and they give rise to vexation. My words would bring no benefit; the effort would be in vain. It would be better to abide in the peaceful Dharma and enjoy the bliss of liberation." Having thought this, he remained silent. At that time, the lord of the sahā world, Mahābrahmā, the Great Brahmā King, knew that the Buddha, the World-Honored One, had such thoughts, and himself reflected: "The sentient beings of this world suffer great loss and destruction. Now the Buddha, the World-Honored One, has realized the supreme Dharma, profound and subtle, yet he is concerned that sentient beings cannot believe and accept it, and so he dwells in seclusion enjoying the bliss of the present Dharma. I should go to him and request the World-Honored One to turn the wondrous Dharma wheel." Having thought this, just as a strong man can flex and extend his arm in an instant, he vanished from the Brahmā palace and arrived before the Buddha. He bowed at the Buddha's feet, circumambulated three times, then stood to one side, joined his palms reverently, and addressed the Buddha: "World-Honored One! The sentient beings of this world have long practiced heterodox teachings, ensnared by the fetters of views, transmigrating in birth-and-death without refuge and without protection. The World-Honored One, through vast kalpas, has cultivated practice and guided beings; now you have attained supreme perfect enlightenment and realized the supreme Dharma, appearing in the world like the udumbara flower. Yet you do not teach sentient beings according to their capacities, but dwell in seclusion, silent and still. We beg the World-Honored One to bestow great compassion, take pity on the world, and teach the essentials of the true Dharma to all sentient beings. There are sentient beings whose fetters are slight, whose capacities are ripe, and whose sharp faculties make them easy to transform; without hearing the Dharma, they naturally diminish and lose the great benefit of the Dharma. We beg the World-Honored One to open the gate of sweet dew for all sentient beings, to teach the subtle and wondrous Dharma, so that all beings may gain benefit and happiness." At that time, the Great Brahmā King entreated the World-Honored One and spoke this verse:
 
 > The World-Honored One's appearance is like the udumbara flower;
 > Through vast kalpas it is hard to encounter, yet now we meet it once.
@@ -198,7 +368,16 @@ The World-Honored One, hearing Brahmā's verse of supplication, aroused great co
 > I shall now expound it broadly for you and all,
 > So that through the long night you may obtain peace and happiness.
 
-[The text ends with discussions of the life-faculty as exclusively karmic-maturation, lifespans across the four continents, and the verse on the holy life.]
+The verse says:
+
+> The life-faculty alone is exclusively karmic-maturation.
+> Sorrow and the last eight are not.
+> Material form, mind, the remaining four feelings:
+> Each and every one admits of both.
+
+The treatise states: The life-faculty alone is exclusively karmic-maturation. The commentary says: there is no instance of a life-faculty that is not karmic-maturation.
+
+Sentient beings in the world who possess remaining merit universally make the aspiration: "May I live long!" They do not specifically aspire: "May I live to one hundred years, or to ninety or eighty years." Venerable elders and close friends likewise constantly bless them, saying "May you live long!" without specifying a definite period. This is because the people of this continent, in all the karma they create, are accompanied by a desirous mind when making such aspirations. A sūtra says: "Bhikṣus, you should know: in the time of Vipaśyin Buddha, people lived eighty thousand years; down to the time of Kāśyapa Buddha, people lived twenty thousand years. Now that I have appeared in the world, people live one hundred years, and few exceed this while most fall short." If the lifespan were without a definite limit, why would the World-Honored One speak thus? At the beginning of the kalpa, the faculties and great elements were superior, and so lifespans were long. In the present age, they have gradually deteriorated, so lifespans can hardly reach ten years. When merit is exhausted, one dies; it is not due to the life-faculty itself. Repairing ancient stūpas and monasteries can extend one's lifespan. The verse says:
 
 > The holy life wondrously established,
 > The noble path well cultivated,

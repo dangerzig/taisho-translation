@@ -104,7 +104,9 @@ There are four kinds: (1) expressing one's own consent, (2) expressing consent o
 
 **Receiving the saṃghāṭī:** "Venerable, may you give your attention with one mind. I, bhikṣu so-and-so, this robe is a saṃghāṭī of fifteen strips. I receive and hold it as a cut-and-sewn robe of three long and one short [strips]." The other says: "So be it."
 
-**Receiving the seven-strip robe (uttarāsaṅga)** and **five-strip robe (antaravāsaka):** [Similar formulae.]
+**Receiving the seven-strip robe (uttarāsaṅga):** "Venerable, may you give your attention with one mind. I, bhikṣu so-and-so, this robe is an uttarāsaṅga of seven strips. I receive and hold it as a cut-and-sewn robe of two long and one short [strips]."
+
+**Receiving the five-strip robe (antaravāsaka):** "Venerable, may you give your attention with one mind. I, bhikṣu so-and-so, this robe is an antaravāsaka of five strips. I receive and hold it as a cut-and-sewn robe of one long and one short [strips]."
 
 **Relinquishing a robe:** "Venerable, may you give your attention with one mind. I, bhikṣu so-and-so, this saṃghāṭī is one of my three robes, previously received and held. Now, for the purpose of replacement, I relinquish it."
 

@@ -317,7 +317,117 @@ May I, together with all sentient beings, be reborn in the Land of Peace and Bli
 
 ### Adornments of the Pure Land
 
-[The hymn continues with verses praising: the surpassing beauty of the Pure Land inhabitants compared to worldly beings (from beggars to wheel-turning kings to the six heavens, each a thousand-million-fold inferior); the wish-fulfilling provisions (jeweled halls, food, clothing all manifesting according to desire); the Pure Land's sustenance (seeing color and smelling fragrance suffice as food, which then vanishes when finished); the innumerable bodhisattvas and śrāvakas from the ten directions who have been born, are being born, and will be born there; the merit of hearing Amitābha's name (even a single thought yields great benefit); the coming of bodhisattvas from the eastern and all other directions to pay homage and make offerings.]
+> The bodhisattvas and śrāvakas of the Land of Peace and Bliss,
+> Their wisdom of devas and humans entirely penetrating,
+> Their bodily adornments without distinction,
+> Are listed separately only to follow the conventions of other lands.
+> Their countenances are beautiful beyond compare;
+> Their refined and wondrous forms are neither human nor heavenly.
+> Bodies of emptiness, of boundless substance:
+> Therefore I bow to the Power of Equality.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> Those who can attain birth in the Land of Peace and Bliss
+> All abide in the stage of right assurance.
+> Wrong assurance and indeterminate stages do not exist in that land;
+> All buddhas praise it: therefore I bow.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> All who hear the name of Amitābha Buddha,
+> With hearts of faith, joyfully praising and looking upward in devotion,
+> Down to even a single thought of sincerity:
+> Those who transfer merit and aspire to rebirth shall all be reborn.
+> Only those who commit the five heinous offenses or slander the correct Dharma are excluded:
+> Therefore I bow, aspiring to rebirth.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> The bodhisattvas and śrāvakas of the Land of Peace and Bliss
+> Cannot be compared with those of this world.
+> Even if Śākyamuni, with unhindered great eloquence,
+> Were to contrive various comparisons to show a small portion:
+> The lowliest beggar alongside an emperor,
+> The emperor compared to a wheel-turning king,
+> And so on successively up through the six heavens,
+> Each surpassing the one before as at the very start;
+> If the celestial beauty were compared to those beings,
+> A thousand million-fold would not approach their likeness.
+> All this is accomplished by Dharmākara's vow-power:
+> I bow my head in homage to the power of the Great Aspiration.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> All that devas and humans could ever need
+> Manifests without fail according to their wishes.
+> One treasure, two treasures, immeasurable treasures:
+> Provisions for use transform according to the mind.
+> Halls, food, and drink are all like this:
+> Therefore I bow to the Buddha Beyond Praise.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> All who are born there fully possess
+> Pure form-bodies beyond compare.
+> Supernatural powers, merit, and palaces,
+> Clothing and adornments like the six heavens.
+> Jeweled bowls, fit for receiving, appear of themselves;
+> Hundreds of fine flavors fill them in an instant.
+> Seeing color and smelling fragrance suffice as food;
+> Suddenly sated, one feels contentment and ease.
+> When the flavors are consumed, they vanish with purity and no attachment;
+> When the meal is done, the earth opens and they disappear without a trace.
+> The peace and happiness approach nirvāṇa:
+> Therefore I bow with utmost sincerity.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> From the buddha-lands of the ten directions,
+> Bodhisattvas and bhikṣus are born in the Land of Peace and Bliss,
+> Immeasurable, innumerable, beyond reckoning:
+> Those already born, those now being born, and those yet to be born.
+> All have made offerings to innumerable buddhas,
+> Gathering a hundred thousand steadfast dharmas.
+> Such great beings have all gone to be born there:
+> Therefore I bow to Amitābha.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> If one hears the name of Amitābha's virtues
+> And with joyful praise and devotion takes refuge in him,
+> Down to even a single thought, one gains great benefit;
+> Such a one is fully endowed with the treasure of merit.
+> Even if a great conflagration filled the whole great-thousand world,
+> One should pass straight through it to hear the Buddha's name.
+> Hearing Amitābha, one never regresses:
+> Therefore I bow with utmost sincerity.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> The divine power of Amitābha is boundless;
+> Buddhas of the ten directions without measure praise him.
+> From the eastern direction, bodhisattvas numerous as the sands of the Ganges
+> All go to pay homage,
+> Likewise making offerings in the Land of Peace and Bliss
+> To the bodhisattvas, śrāvakas, and the great assembly,
+> Receiving the sūtras and Dharma, proclaiming and transforming.
+> The remaining nine directions are likewise.
+> Śākyamuni Tathāgata spoke verses
+> Of immeasurable merit: therefore I bow.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> The immeasurable bodhisattvas who have come
+> Plant roots of virtue with earnest devotion.
+> Some play music and sing in praise of the Buddha;
+> Some extol the Buddha's wisdom illuminating the world.
+> Some offer celestial flowers and garments in offering;
+> Some, beholding the Pure Land, give rise to equal aspiration.
+> Such holy assemblies all appear before him,
+> Receiving the eight Brahmā-sounds and the prediction of buddhahood.
+> All bodhisattvas increase their vow-practices:
+> Therefore I bow to the Bhagavān.
 
 ---
 
@@ -383,7 +493,71 @@ May I, together with all sentient beings, be reborn in the Land of Peace and Bli
 > The six faculties encountering these all attain dharma-patience:
 > Therefore I bow to the Bodhi-Tree of the Place of Awakening.
 
-[Additional verses praise the bodhi-tree's power to purify the six faculties, tracing its efficacy to the Tathāgata's five powers (divine power, original vow, fulfilled vows, clear understanding and firmness, and ultimate vow); the music of the Pure Land surpassing that from earthly kings through the six heavens; the jeweled trees and their mutual reflection; the jeweled nets with golden threads and pearl-jewels covering the land; the gentle wind scattering flowers; and the lotus flowers filling the world with their radiance.]
+> Receiving the bodhi-tree's engagement with the six faculties,
+> Even unto the attainment of buddhahood, the faculties become clear and penetrating.
+> Its sounds are gentle and harmonious, granting the patience of non-arising;
+> According to the depth or shallowness of their capacity, all attain realization.
+> The majestic virtue of this tree arises from
+> The Tathāgata's five kinds of power:
+> Divine power, the original vow, vows fulfilled,
+> Clear understanding and firmness, and the ultimate vow.
+> Compassion and skillful means beyond description:
+> I take refuge and bow to the True Immeasurable One.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> From worldly emperors up through the six heavens,
+> Music grows more wondrous through eight ascending levels.
+> Each surpassing the one before by hundreds of millions,
+> The music of the jeweled trees is likewise exquisite.
+> There are also naturally wondrous musical performances;
+> The Dharma-sounds are clear and harmonious, delighting the mind.
+> Plaintive and elegant, bright and clear, surpassing the ten directions:
+> Therefore I bow to the Pure Music.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> Forests of seven-jeweled trees encircle the world;
+> Their radiance, brilliant and clear, reflects one upon another.
+> Flowers, fruits, branches, and leaves mutually display each other:
+> I bow to the assemblage of merit from the original vow.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> Gentle breezes from time to time blow through the jeweled trees,
+> Producing the five tones, harmonious in gōng and shāng.
+> Subtle and elegant melodies arise of themselves:
+> Therefore I bow to the Pure Fragrance.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> The land, vast without bound,
+> Is everywhere covered above with jeweled nets of many treasures.
+> Golden threads and pearl-jewels, rare and marvelous,
+> Adorned with gems of indescribable names.
+> Jeweled bells hang all around the four sides;
+> Gentle breezes stir them, producing the wondrous Dharma.
+> Harmonious, virtuous fragrance constantly pervades;
+> Those who hear it find no habits of defilement arising.
+> When this breeze touches the body, one receives blissful ease,
+> As a bhikṣu attaining the samādhi of cessation.
+> The breeze scatters flowers, filling the buddha-land;
+> Arranged by color in sequence, without disorder.
+> The flowers are soft and yielding, richly fragrant;
+> When one treads upon them, they give way four inches.
+> When one lifts the foot, they spring back to their former state;
+> When their use is done, the ground opens and they vanish without a trace.
+> Six times in each season the flowers return;
+> I bow to this inconceivable reward.
+
+May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
+
+> Jeweled lotus flowers fill the world,
+> Each flower with a hundred thousand million petals.
+> Their light shines in colors without limit:
+> Vermilion, purple, red, and green, interspersed among the five colors.
+> Blazing and brilliant, outshining the sun:
+> Therefore I bow with single-minded sincerity.
 
 ---
 

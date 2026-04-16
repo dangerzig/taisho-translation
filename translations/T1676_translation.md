@@ -9,13 +9,13 @@ Composed by Nāgārjuna (龍樹). Translated from the Chinese. Song dynasty, tra
 
 > All beings of every kind,
 > In past, future, and present worlds without end,
-> And in buddha-fields vast and boundless—
+> And in buddha-fields vast and boundless...
 > Those boundless fields are filled with dust motes.
 >
 > Furthermore, each and every dust mote becomes a field,
 > And vast buddha-fields are as numerous as dust.
 > In each and every field, the Honored Perfectly Awakened Ones
-> Are as countless as dust motes—to all of them I bow.
+> Are as countless as dust motes; to all of them I bow.
 >
 > In buddha-fields gathered in multiples of those dust motes,
 > In each field I praise every buddha.
@@ -82,22 +82,22 @@ Composed by Nāgārjuna (龍樹). Translated from the Chinese. Song dynasty, tra
 > Able to proclaim the Dharma beyond the analogy of space,
 > May I be like Ākāśagarbha.
 >
-> Earth that nourishes all the world—
+> Earth that nourishes all the world...
 > In universal benefit, may I be like the Honored Kṣitigarbha.
 > Ending poverty and suffering to benefit beings,
 > May I be no different from the spirit Ratnagarbha.
 >
-> From whose speech issue inexhaustible treasures of wondrous Dharma—
+> From whose speech issue inexhaustible treasures of wondrous Dharma...
 > May I be like Dharmodgata.
 > With wisdom sharp and firm, ever diligent,
 > May I be no different from the Honored Sadāprarudita.
 >
 > These supreme children of the buddhas,
 > Whose boundless gatherings of supreme merit
-> And whose renown is vast and inexhaustible—
+> And whose renown is vast and inexhaustible...
 > May my renown also be thus.
 >
 > This gathering of merit from my praise of the buddhas,
-> Supreme, excellent, and vastly great—
+> Supreme, excellent, and vastly great...
 > I universally aspire that all sentient beings in the world
 > May abide in that supreme gathering of merit.

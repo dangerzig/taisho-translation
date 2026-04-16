@@ -47,7 +47,7 @@ The Buddha told Kāśyapa: "If the one who acts is identical with the one who ex
 
 When the Buddha had finished teaching this sūtra, Acela Kāśyapa, far removed from dust and free from defilement, attained the purification of the Dharma-eye.
 
-Then Acela Kāśyapa, having seen the Dharma, attained the Dharma, known the Dharma, and entered the Dharma, having crossed beyond all doubt, not relying on the knowledge of others and not depending on the guidance of others, in the correct Dharma and discipline his mind was fearless. He joined his palms and addressed the Buddha: "World-Honored One! I have now crossed over. From this day forth, I take refuge in the Buddha, take refuge in the Dharma, and take refuge in the Saṅgha. For the rest of my life I shall be an upāsaka. Bear witness and acknowledge me."
+Then Acela Kāśyapa, having seen the Dharma, attained the Dharma, known the Dharma, and entered the Dharma, having crossed beyond all doubt, not relying on the knowledge of others and not depending on the guidance of others, in the correct Dharma and discipline his mind was fearless. He joined his palms and addressed the Buddha: "World-Honored One! I have now crossed over. From this day forth, I take refuge in the Buddha, take refuge in the Dharma, and take refuge in the Sangha. For the rest of my life I shall be an upāsaka. Bear witness and acknowledge me."
 
 Acela Kāśyapa, hearing the Buddha's teaching, rejoiced and was delighted, made obeisance, and departed.
 

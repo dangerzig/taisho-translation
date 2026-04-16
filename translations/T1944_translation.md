@@ -24,7 +24,7 @@ With one mind, I bow in homage to all the buddhas mentioned throughout the Lotus
 
 With one mind, I bow in homage to the Wondrous Dharma Lotus Sūtra, the Dharma-treasure of the wondrous word.
 
-With one mind, I bow in homage to all the bodhisattvas, śrāvakas, and pratyekabuddhas mentioned throughout the Lotus Sūtra, and to all the Saṅgha of worthy and noble ones who have attained the path throughout the ten directions and three times.
+With one mind, I bow in homage to all the bodhisattvas, śrāvakas, and pratyekabuddhas mentioned throughout the Lotus Sūtra, and to all the Sangha of worthy and noble ones who have attained the path throughout the ten directions and three times.
 
 With one mind, I bow in homage to Bodhisattva Mahāsattva Samantabhadra.
 
@@ -34,4 +34,4 @@ Now I pay homage and reverence to the Wondrous Dharma Lotus Sūtra. With these r
 
 May all the tathāgatas always be present, expounding the Dharma. For all merits, may we give rise to a mind of sympathetic joy. May we dedicate these merits toward bodhi and attain the fruit of eternal bliss. At the day of death, may right-mindfulness appear before us. May we behold face to face Amitābha and all the holy assembly. In an instant may we be born within a lotus flower. May all sentient beings universally attain the buddha-path.
 
-Namo Buddha. Namo Dharma. Namo Saṅgha. Namo Śākyamuni Buddha. Namo the Wondrous Dharma Lotus Sūtra. Namo Bodhisattva Mañjuśrī. Namo Bodhisattva Samantabhadra.
+Namo Buddha. Namo Dharma. Namo Sangha. Namo Śākyamuni Buddha. Namo the Wondrous Dharma Lotus Sūtra. Namo Bodhisattva Mañjuśrī. Namo Bodhisattva Samantabhadra.

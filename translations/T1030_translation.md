@@ -97,7 +97,7 @@ Next, offer to the Dharma:
 
 *Oṃ tīre tīre dharmāya svāhā*
 
-Next, offer to the Saṅgha:
+Next, offer to the Sangha:
 
 *Oṃ tīre tīre saṅghāya svāhā*
 

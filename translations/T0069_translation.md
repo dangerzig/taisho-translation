@@ -156,8 +156,8 @@ At that time, the Venerable One spoke these verses:
 
 At that time, the great king of Kuru, having heard the Venerable One speak these verses, joyfully accepted them with faith and further said: "The Venerable Huguo has excellently accomplished the going forth. Therefore, I now take refuge in the Venerable One."
 
-Huguo said: "Great King, do not take refuge in me. The one in whom I take refuge is the Buddha the World-Honored One, along with the Dharma and the Saṅgha. The Great King should take refuge in them."
+Huguo said: "Great King, do not take refuge in me. The one in whom I take refuge is the Buddha the World-Honored One, along with the Dharma and the Sangha. The Great King should take refuge in them."
 
-The king said: "Just so, just so! I now take refuge in the Buddha, the Dharma, and the Saṅgha, and for the rest of my life I shall uphold the precepts of an upāsaka."
+The king said: "Just so, just so! I now take refuge in the Buddha, the Dharma, and the Sangha, and for the rest of my life I shall uphold the precepts of an upāsaka."
 
 At that time, the great king, having made this vow, reverently paid his respects to the Venerable One and returned to his royal palace.

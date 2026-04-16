@@ -22,7 +22,7 @@ Having rejoiced, I take refuge and bow to the Three Jewels.
 
 Having transferred, I take refuge and bow to the Three Jewels.
 
-**Vows.** With wholehearted sincerity, I make vows: may all sentient beings give rise to the bodhi-mind. May their hearts constantly contemplate the buddhas of the ten directions. Furthermore, may all sentient beings forever shatter all afflictions and clearly see the buddha-nature, just as Mañjuśrī (*Miàodé*, 妙德, "Wondrous Virtue") does.
+**Vows.** With wholehearted sincerity, I make vows: may all sentient beings give rise to the bodhi-mind. May their hearts constantly contemplate the buddhas of the ten directions. Furthermore, may all sentient beings forever shatter all afflictions and clearly see the Buddha-nature, just as Mañjuśrī (*Miàodé*, 妙德, "Wondrous Virtue") does.
 
 Having made vows, I take refuge and bow to the Three Jewels.
 

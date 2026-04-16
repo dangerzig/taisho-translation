@@ -19,7 +19,7 @@ Thus have I heard. At one time the Buddha was in the country of Śrāvastī, in 
 
 *Khajñi khaju khavijñi gaṃśu gaṃśu dajñi vājñi*
 
-"Why? Because the Saṅgha is the supreme field of merit in this world, revered by humans and devas, guarded by all spirits." He then spoke the spell:
+"Why? Because the Sangha is the supreme field of merit in this world, revered by humans and devas, guarded by all spirits." He then spoke the spell:
 
 *Khajñi khaju khavijñi gaṃśu gaṃśu dajñi vājñi hiṃtī aniti ājhūtī*
 

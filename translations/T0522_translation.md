@@ -65,7 +65,7 @@ The Buddha said: "When we are about to arrive, I will manifest my supernatural p
 
 Then the Buddha, together with the bhikṣus, set out. When they were still some tens of miles away, the king and all the ministers, following the renunciant, went out of the city with flowers and incense to welcome the Buddha. Beholding the Buddha's majestic supernatural presence, they were at once joyful and awed. They prostrated with all five limbs and touched their foreheads to the ground in reverence, and welcomed the Buddha up into the palace to take his seat.
 
-The king knelt and, with palms joined, said to the Buddha: "We have troubled the World-Honored One and the saṅgha to come from so far to this place."
+The king knelt and, with palms joined, said to the Buddha: "We have troubled the World-Honored One and the sangha to come from so far to this place."
 
 The king and ministers were anxious lest their preparations prove insufficient. The Buddha, knowing their thoughts, said to Ānanda: "Tell the king not to worry about the preparations. Wherever the Buddha goes, how could anything be lacking?"
 

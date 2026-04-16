@@ -97,7 +97,7 @@ Total: thirty booklets.
 
 Sixth day of the sixth month, eighteenth year of Jōgan [876 CE]. Acting Vinaya Master Shinnen.
 
-Petition to supply: booklets, the *Sūtra of the Great Peacock Queen of Dhāraṇīs* (*Mahāmāyūrī-vidyārājñī-sūtra*), and other ritual texts—eight types in total—along with paper for copying.
+Petition to supply: booklets, the *Sūtra of the Great Peacock Queen of Dhāraṇīs* (*Mahāmāyūrī-vidyārājñī-sūtra*), and other ritual texts, eight types in total, along with paper for copying.
 
 The matters involving Esuku have been returned and concluded; received by Shinnen.
 

@@ -127,7 +127,7 @@ The questioner should know that the author's main intention is twofold: first, a
 > I urge them: carefully observe and contemplate, and activate the wondrous bliss of right awakening.
 > I bow my head to the Dharma of the ten directions. Deeply compassionate toward those who contemplate the mind,
 > I urge them: carefully observe and contemplate, and attain the true Dharma, freed from suffering.
-> I bow my head to the Saṅgha of the ten directions. If one can skillfully observe and contemplate,
+> I bow my head to the Sangha of the ten directions. If one can skillfully observe and contemplate,
 > One enters the great ocean of harmony, with a joyful mind beyond measure.
 > I bow my head to the master Nāgārjuna. May he bless those who contemplate the mind,
 > Causing them to swiftly attain enlightenment and also to bless the abandoning of the three minds.

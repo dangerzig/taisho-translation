@@ -18,13 +18,13 @@ The fundamental essence of cultivating the Way requires one to recognize that on
 
 **Question:** How do we know that our own mind is originally pure?
 
-**Answer:** The *Daśabhūmika Sūtra* (*Shídì Jīng*, 十地經) says: "Within the bodies of sentient beings there exists the vajra buddha-nature. Like the sun, its essence is bright, perfectly complete, vast, and boundless. It is merely covered by the black clouds of the five aggregates, like a lamp inside a jar whose light cannot shine forth." Suppose, for example, that clouds and mist arise in all eight directions, and the whole world is cast in darkness. Is the sun destroyed? Why is there no light? The light was never destroyed; it is merely covered by clouds and mist.
+**Answer:** The *Daśabhūmika Sūtra* (*Shídì Jīng*, 十地經) says: "Within the bodies of sentient beings there exists the vajra Buddha-nature. Like the sun, its essence is bright, perfectly complete, vast, and boundless. It is merely covered by the black clouds of the five aggregates, like a lamp inside a jar whose light cannot shine forth." Suppose, for example, that clouds and mist arise in all eight directions, and the whole world is cast in darkness. Is the sun destroyed? Why is there no light? The light was never destroyed; it is merely covered by clouds and mist.
 
 The pure mind of all sentient beings is likewise. It is merely covered by the clinging to conditions, deluded thoughts, afflictions, and the black clouds of various views. If one can simply settle the mind in stillness, without generating deluded thoughts, the dharma of nirvāṇa will naturally become manifest. Therefore we know that our own mind is originally pure.
 
 **Question:** How do we know that our own mind is originally unborn and undying?
 
-**Answer:** The *Vimalakīrti Sūtra* (*Wéimó Jīng*, 維摩經) says: "Suchness has no birth; suchness has no death." "Suchness" means true suchness, the buddha-nature, self-nature purity. Purity is the source of the mind. True suchness originally exists and does not arise from conditions.
+**Answer:** The *Vimalakīrti Sūtra* (*Wéimó Jīng*, 維摩經) says: "Suchness has no birth; suchness has no death." "Suchness" means true suchness, the Buddha-nature, self-nature purity. Purity is the source of the mind. True suchness originally exists and does not arise from conditions.
 
 It also says: "All sentient beings are suchness. All the worthy sages are also suchness." "All sentient beings" means us. "All the worthy sages" means the buddhas. Although the names and characteristics differ, the true suchness dharma-nature within the body is the same. Because it is unborn and undying, it says "all are suchness." Therefore we know that our own mind is originally unborn and undying.
 
@@ -44,7 +44,7 @@ It also says: "Surpasses" is merely a word of encouragement, urging people to pr
 
 All sentient beings are deluded about the true nature. Not recognizing the mind's foundation, they pursue various deluded conditions. Not cultivating right mindfulness, they give rise to attachment and aversion. Because attachment and aversion arise, the vessel of the mind is cracked and leaks. Because the vessel of the mind is cracked, there is birth-and-death. Because there is birth-and-death, all sufferings naturally manifest.
 
-The *Heart-King Sūtra* (*Xīnwáng Jīng*, 心王經) says: "The true-suchness buddha-nature is submerged in the ocean of the six consciousnesses of knowing and seeing. Sinking and drowning in birth-and-death, one cannot attain liberation." Strive to understand this! Guard the fundamental true mind. When deluded thoughts do not arise and the mind of "I" and "mine" is extinguished, one is naturally equal to the Buddha, without any duality.
+The *Heart-King Sūtra* (*Xīnwáng Jīng*, 心王經) says: "The true-suchness Buddha-nature is submerged in the ocean of the six consciousnesses of knowing and seeing. Sinking and drowning in birth-and-death, one cannot attain liberation." Strive to understand this! Guard the fundamental true mind. When deluded thoughts do not arise and the mind of "I" and "mine" is extinguished, one is naturally equal to the Buddha, without any duality.
 
 **Question:** If the true-suchness dharma-nature is one and non-dual, then delusion should be universal, and awakening should be universal. Why is it that the Buddha awakens to the [true] nature while sentient beings are confused?
 
@@ -66,7 +66,7 @@ As the sūtra says: "Concentrating the mind in one place, there is nothing that 
 
 **Answer:** Throughout all the sūtras, the Tathāgata teaches about all sins and merits, all causes, conditions, and fruits, drawing upon all mountains, rivers, the great earth, grasses, trees, and every kind of thing to create innumerable, boundless analogies, or manifesting innumerable supernatural powers and various transformations. All of this is simply the Buddha using expedient means to guide sentient beings who lack wisdom and who, having minds of various desires and ten thousand different mental dispositions, are taught by the Tathāgata through the appropriate mental gate, leading them into the one vehicle.
 
-Since I already know by direct experience that the buddha-nature of sentient beings is originally pure, like the sun beneath clouds, I simply need to clearly guard the fundamental true mind. When the clouds of deluded thought are gone, the sun of wisdom naturally appears. Why would one need to study further, accumulating knowledge that generates the suffering of birth-and-death, along with all doctrinal principles and matters of the three times?
+Since I already know by direct experience that the Buddha-nature of sentient beings is originally pure, like the sun beneath clouds, I simply need to clearly guard the fundamental true mind. When the clouds of deluded thought are gone, the sun of wisdom naturally appears. Why would one need to study further, accumulating knowledge that generates the suffering of birth-and-death, along with all doctrinal principles and matters of the three times?
 
 It is like polishing a mirror: when the dust is gone, the brightness naturally appears. Now, whatever is learned within the mind of ignorance will ultimately prove inadequate. If one can clearly maintain right mindfulness and learn within the unconditioned mind, this is true learning. Although I speak of "true learning," ultimately there is nothing learned. Why? Because both "I" and nirvāṇa are empty. There is no further duality, no unity. Therefore there is nothing to learn.
 
@@ -98,7 +98,7 @@ If you do not attain concentration and do not see any mental images, you need no
 
 The reason all the buddhas have extensively taught so many words, teachings, and analogies is simply that sentient beings' dispositions and practices are varied, so the gates of the teaching differ. In truth, the eighty-four thousand dharma-gates, the three vehicles, the eight stages of the path, the seventy-two ranks of the worthy, and the essence of all practice: none goes beyond one's own mind as the foundation.
 
-If one can recognize one's own fundamental mind and, thought after thought, polish it without fixation, one will see the buddha-nature of oneself. In every thought-moment, one constantly makes offerings to all the buddhas of the ten directions, numerous as the sands of the Ganges, and constantly turns the twelve divisions of the canon.
+If one can recognize one's own fundamental mind and, thought after thought, polish it without fixation, one will see the Buddha-nature of oneself. In every thought-moment, one constantly makes offerings to all the buddhas of the ten directions, numerous as the sands of the Ganges, and constantly turns the twelve divisions of the canon.
 
 If you thoroughly penetrate this mind-source, all the meanings of all mental phenomena naturally become manifest. All vows are fulfilled, all practices are complete, all is accomplished, and one does not undergo further existence.
 
@@ -136,7 +136,7 @@ My purpose in speaking these words is to earnestly exhort you: when deluded thou
 
 **Question:** Those practitioners who seek the true, constant, and quiescent merely delight in mundane, impermanent, coarse goodness and do not delight in the true, constant, and wondrous goodness of the first principle. They have not yet seen its truth. They merely wish to generate a mind that conditions meaning, and pursue thoughts. But the arising of the mind of awareness is itself the leaking mind. They merely wish to extinguish the mind, but this is the darkness of ignorance and torpor, which is also not in accord with the principle. They merely wish not to halt the mind and not to condition meaning, but this is grasping at emptiness in a wrong way. Although one has received a human body, one practices as an animal.
 
-At such a time, there are no skillful means of concentration and wisdom, and one cannot clearly understand and see the buddha-nature. This is merely the place where practitioners sink. How can one transcend to reach the nirvāṇa without remainder? Please reveal the true mind.
+At such a time, there are no skillful means of concentration and wisdom, and one cannot clearly understand and see the Buddha-nature. This is merely the place where practitioners sink. How can one transcend to reach the nirvāṇa without remainder? Please reveal the true mind.
 
 **Answer:** Understand this! With faith sufficient and aspiration accomplished, calmly and gently still the mind. I will instruct you once more.
 
@@ -148,7 +148,7 @@ The cessation of this consciousness is the cessation of the obstructive delusion
 
 If these sūtras are truly mastered, and one can, in walking, standing, sitting, and lying down, and in the face of the five desires and eight winds, not lose this mind, then this person's pure practice is established, and what was to be done has been done. One will ultimately never again receive the body of birth-and-death.
 
-The five desires are form, sound, smell, taste, and touch. The eight winds are gain and loss, defamation and praise, fame and blame, suffering and pleasure. These are the grounds upon which the practitioner polishes the buddha-nature.
+The five desires are form, sound, smell, taste, and touch. The eight winds are gain and loss, defamation and praise, fame and blame, suffering and pleasure. These are the grounds upon which the practitioner polishes the Buddha-nature.
 
 Do not be alarmed that in this present body you have not attained freedom. The sūtra says: "In the mundane world, where no buddha abides, the bodhisattva cannot manifest its use." One must shed this retribution-body.
 

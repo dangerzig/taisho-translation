@@ -108,7 +108,7 @@ Then the World-Honored One spoke these verses:
 > Craving, aversion, and delusion:
 > These three are the great poisons of the world.
 > The World-Honored One's pure assembly is not touched by poison;
-> The true power of the Saṅgha can destroy all poison.
+> The true power of the Sangha can destroy all poison.
 
 > Among all the poisons in the world,
 > The poison of craving is the greatest.

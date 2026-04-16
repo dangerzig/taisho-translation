@@ -66,7 +66,7 @@ At that time, Śakra said: "World-Honored One! In former times I heard that when
 > "'I was formerly a woman,
 > Wise, named Gopikā;
 > Loathing the female, I sought the male form,
-> Constantly making offerings to the Buddha, Dharma, and Saṅgha.
+> Constantly making offerings to the Buddha, Dharma, and Sangha.
 > At that time I saw you three
 > Practicing the śrāvaka path;
 > Now reborn in a lower lineage,
@@ -263,7 +263,7 @@ The Buddha said: "Lord of the Devas! Excellent, excellent. Lord of the Devas! It
 
 Śakra said: "World-Honored One! I have no other cause; it is precisely from having heard the true Dharma from the Buddha that I have aroused deep faith, and through the power of aspiration I realize such a fruit. World-Honored One! Today, in this assembly, having heard the true Dharma, through the power of the Dharma my wisdom has increased and my lifespan too has increased."
 
-At that time, having made this aspiration, Śakra attained the pure Dharma eye, far from dust, apart from defilement. Moreover, eighty thousand heavenly beings also obtained the purity of the Dharma eye. At that time, Śakra, lord of the devas, having heard the Dharma and seen the Dharma and being able to understand it, was established in the Dharma and firm, with all doubts severed. Having thus realized, he rose from his seat, bared his right shoulder, joined his palms, bowed his head, and said to the Buddha: "World-Honored One! I am liberated! I am liberated! From this day onward, for the rest of my life, I take refuge in the Buddha, the Dharma, and the Saṅgha, and uphold the precepts of an upāsaka."
+At that time, having made this aspiration, Śakra attained the pure Dharma eye, far from dust, apart from defilement. Moreover, eighty thousand heavenly beings also obtained the purity of the Dharma eye. At that time, Śakra, lord of the devas, having heard the Dharma and seen the Dharma and being able to understand it, was established in the Dharma and firm, with all doubts severed. Having thus realized, he rose from his seat, bared his right shoulder, joined his palms, bowed his head, and said to the Buddha: "World-Honored One! I am liberated! I am liberated! From this day onward, for the rest of my life, I take refuge in the Buddha, the Dharma, and the Sangha, and uphold the precepts of an upāsaka."
 
 At that time, Śakra, lord of the devas, turned before the Buddha and spoke to Pañcaśikha, prince of the gandharvas, saying: "You have now brought about great good benefit for me and for the welfare of many. Because you came earlier and offered that wondrous music to the Buddha, I and the others were thereby enabled to hear the Dharma and attain the fruit. When I return to my palace, I shall fulfill your wish."
 

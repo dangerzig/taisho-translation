@@ -1,4 +1,4 @@
-# Catalog of Various Sutras (眾經目錄)
+# Catalog of Various Sūtras (眾經目錄)
 
 ## Taisho T2146
 
@@ -11,49 +11,49 @@
 
 ## Fascicle One
 
-### Division One: Mahayana Sutra Collection (大乘修多羅藏錄)
+### Division One: Mahayana Sūtra Collection (大乘修多羅藏錄)
 
 A combined total of 645 texts in 1,478 fascicles.
 
-#### Section One: Single Translations of Various Sutras
+#### Section One: Single Translations of Various Sūtras
 
 A combined total of 133 texts in 421 fascicles.
 
-The above 133 sutras are all original single translations. Though passages and fascicle sections have been separately translated and circulate independently, the main texts remain undiminished. Therefore they are properly entered in the definitive catalog.
+The above 133 sūtras are all original single translations. Though passages and fascicle sections have been separately translated and circulate independently, the main texts remain undiminished. Therefore they are properly entered in the definitive catalog.
 
-#### Section Two: Variant Translations of Various Sutras
+#### Section Two: Variant Translations of Various Sūtras
 
 A combined total of 195 texts in 530 fascicles.
 
 [The catalog lists groups of texts identified as "same original, variant translations" (同本異譯 tóngběn yìyì), organized by the number of variant versions: pairs of texts sharing a common source, groups of three, groups of four, groups of five, up to groups of nine sharing the same original.]
 
-Of the preceding 162 sutras, all are variant translations of the main texts of various sutras.
+Of the preceding 162 sūtras, all are variant translations of the main texts of various sūtras.
 
-The next 13 sutras are all separate translations of individual chapters of the *Avataṃsaka Sutra* (華嚴經 *Huáyán jīng*).
+The next 13 sūtras are all separate translations of individual chapters of the *Avataṃsaka Sūtra* (華嚴經 *Huáyán jīng*).
 
-The next 2 sutras are separate translations of individual chapters of the *Mahaparinirvana Sutra* (大般涅槃經 *Dà bān nièpán jīng*).
+The next 2 sūtras are separate translations of individual chapters of the *Mahaparinirvana Sūtra* (大般涅槃經 *Dà bān nièpán jīng*).
 
-The next 11 sutras are all separate translations of individual chapters of the *Mahāsaṃnipāta Sutra* (大集經 *Dàjí jīng*).
+The next 11 sūtras are all separate translations of individual chapters of the *Mahāsaṃnipāta Sūtra* (大集經 *Dàjí jīng*).
 
-The next 2 sutras are separate translations of individual chapters of the *Saṃdhinirmocana Sutra* (深密經 *Shēnmì jīng*).
+The next 2 sūtras are separate translations of individual chapters of the *Saṃdhinirmocana Sūtra* (深密經 *Shēnmì jīng*).
 
-The next 1 sutra is a separate translation of the Bowl-Offering Chapter of the *Viśeṣacintā-brahma-paripṛcchā Sutra* (普超經 *Pǔchāo jīng*).
+The next 1 sūtra is a separate translation of the Bowl-Offering Chapter of the *Viśeṣacintā-brahma-paripṛcchā Sūtra* (普超經 *Pǔchāo jīng*).
 
-The next 1 sutra is a separate translation of an individual chapter of the *Lotus Sutra* (法華經 *Fǎhuá jīng*).
+The next 1 sūtra is a separate translation of an individual chapter of the *Lotus Sūtra* (法華經 *Fǎhuá jīng*).
 
-The next 3 sutras are separate translations of individual chapters of the *Pratyutpanna-buddha-saṃmukhāvasthita-samādhi Sutra* (般舟三昧經 *Bānzhōu sānmèi jīng*). The preceding 33 sutras are all variant translations of individual chapters of various sutras.
+The next 3 sūtras are separate translations of individual chapters of the *Pratyutpanna-buddha-saṃmukhāvasthita-samādhi Sūtra* (般舟三昧經 *Bānzhōu sānmèi jīng*). The preceding 33 sūtras are all variant translations of individual chapters of various sūtras.
 
-The above 195 sutras are all re-translations: either complete texts translated anew, or individual chapters translated separately. Since times change and literary styles alternate between plain and ornate, and since there are no Sanskrit originals for collation, all should properly be entered in the definitive catalog.
+The above 195 sūtras are all re-translations: either complete texts translated anew, or individual chapters translated separately. Since times change and literary styles alternate between plain and ornate, and since there are no Sanskrit originals for collation, all should properly be entered in the definitive catalog.
 
 #### Section Three: Lost-Translator Texts
 
 A combined total of 134 texts in 275 fascicles.
 
-Of these, 123 sutras are single texts with unknown translators.
+Of these, 123 sūtras are single texts with unknown translators.
 
 [Additional groups identified as same-original re-translations with unknown translators.]
 
-The preceding 134 sutras all have unknown translators. Although the translator's identity and circumstances have been lost, they are all recorded in ancient catalogs, and their doctrinal principles are not in error. They are therefore also entered in the definitive catalog.
+The preceding 134 sūtras all have unknown translators. Although the translator's identity and circumstances have been lost, they are all recorded in ancient catalogs, and their doctrinal principles are not in error. They are therefore also entered in the definitive catalog.
 
 ---
 
@@ -63,79 +63,79 @@ The preceding 134 sutras all have unknown translators. Although the translator's
 
 A combined total of 221 texts in 263 fascicles.
 
-[The catalog identifies texts extracted from major sutras:]
+[The catalog identifies texts extracted from major sūtras:]
 
-6 sutras extracted from the *Avataṃsaka Sutra* (華嚴經).
+6 sūtras extracted from the *Avataṃsaka Sūtra* (華嚴經).
 
-2 sutras extracted from the *Daśabhūmika Sutra* (漸備經 *Jiànbèi jīng*).
+2 sūtras extracted from the *Daśabhūmika Sūtra* (漸備經 *Jiànbèi jīng*).
 
-1 sutra extracted from the *Nirvana Sutra* (涅槃經).
+1 sūtra extracted from the *Nirvāṇa Sūtra* (涅槃經).
 
-6 sutras extracted from the *Prajnaparamita Sutra* (大品經 *Dàpǐn jīng*).
+6 sūtras extracted from the *Prajnaparamita Sūtra* (大品經 *Dàpǐn jīng*).
 
-39 sutras extracted from the *Mahāsaṃnipāta Sutra* (大集經).
+39 sūtras extracted from the *Mahāsaṃnipāta Sūtra* (大集經).
 
-2 sutras extracted from the *Saddharmapuṇḍarīka* (妙法蓮花經 *Miàofǎ liánhuā jīng*).
+2 sūtras extracted from the *Saddharmapuṇḍarīka* (妙法蓮花經 *Miàofǎ liánhuā jīng*).
 
-1 sutra extracted from the *Zhèng fǎhuá jīng* (正法華經).
+1 sūtra extracted from the *Zhèng fǎhuá jīng* (正法華經).
 
-19 sutras extracted from the *Karuṇāpuṇḍarīka Sutra* (悲華經 *Bēihuá jīng*).
+19 sūtras extracted from the *Karuṇāpuṇḍarīka Sūtra* (悲華經 *Bēihuá jīng*).
 
-5 sutras extracted from the *Mañjuśrī-buddhakṣetra-guṇavyūha Sutra* (文殊師利佛土嚴淨經).
+5 sūtras extracted from the *Mañjuśrī-buddhakṣetra-guṇavyūha Sūtra* (文殊師利佛土嚴淨經).
 
-1 sutra extracted from the *Bhadrakalpika Sutra* (賢劫經 *Xiánjié jīng*).
+1 sūtra extracted from the *Bhadrakalpika Sūtra* (賢劫經 *Xiánjié jīng*).
 
-1 sutra extracted from the *Viśeṣacintā-brahma Sutra* (持心梵天經).
+1 sūtra extracted from the *Viśeṣacintā-brahma Sūtra* (持心梵天經).
 
-1 sutra extracted from the *Daśabhūmika-vibhāṣā* (十住斷結經).
+1 sūtra extracted from the *Daśabhūmika-vibhāṣā* (十住斷結經).
 
-1 sutra extracted from the lower fascicle of the *Bodhisattvapiṭaka Sutra* (菩薩藏經).
+1 sūtra extracted from the lower fascicle of the *Bodhisattvapiṭaka Sūtra* (菩薩藏經).
 
-6 sutras extracted from the *Aṅgulimālīya Sutra* (央掘魔羅經).
+6 sūtras extracted from the *Aṅgulimālīya Sūtra* (央掘魔羅經).
 
-6 sutras extracted from the *Viśeṣacintā-brahma-samādhi Sutra* (普超三昧經).
+6 sūtras extracted from the *Viśeṣacintā-brahma-samādhi Sūtra* (普超三昧經).
 
-6 sutras extracted from the *Mahāmegha Sutra* (大雲經 *Dàyún jīng*).
+6 sūtras extracted from the *Mahāmegha Sūtra* (大雲經 *Dàyún jīng*).
 
-2 sutras extracted from the *Īśvararāja-paripṛcchā Sutra* (自在王菩薩經).
+2 sūtras extracted from the *Īśvararāja-paripṛcchā Sūtra* (自在王菩薩經).
 
-1 sutra extracted from the beginning of the *Avaivartika Sutra* (阿惟越致遮經).
+1 sūtra extracted from the beginning of the *Avaivartika Sūtra* (阿惟越致遮經).
 
-1 sutra extracted from the Meat-Abstinence Chapter of the *Laṅkāvatāra Sutra* (楞伽經 *Léngqié jīng*).
+1 sūtra extracted from the Meat-Abstinence Chapter of the *Laṅkāvatāra Sūtra* (楞伽經 *Léngqié jīng*).
 
-1 sutra excerpted from the meditation practice section of the *Ratnamegha Sutra* (寶雲經 *Bǎoyún jīng*).
+1 sūtra excerpted from the meditation practice section of the *Ratnamegha Sūtra* (寶雲經 *Bǎoyún jīng*).
 
-[Further individual extractions from various sutras.]
+[Further individual extractions from various sūtras.]
 
-18 sutras are extracted from various sutras. Since the original texts have not been seen, they are provisionally appended to this catalog.
+18 sūtras are extracted from various sūtras. Since the original texts have not been seen, they are provisionally appended to this catalog.
 
 [Further groups of extractions.]
 
-The preceding 221 sutras were all excerpted by later persons according to their own preferences, extracting portions from the main texts to circulate independently, or taking verses and making them into separate fascicle divisions. Because of this tendency, as time passes, proliferation increases and spurious interpolations grow daily. They should now be subsumed back in to reinforce the original sources.
+The preceding 221 sūtras were all excerpted by later persons according to their own preferences, extracting portions from the main texts to circulate independently, or taking verses and making them into separate fascicle divisions. Because of this tendency, as time passes, proliferation increases and spurious interpolations grow daily. They should now be subsumed back in to reinforce the original sources.
 
 #### Section Five: Suspicious Texts
 
 A combined total of 20 texts in 29 fascicles.
 
-The preceding 21 sutras mostly have discrepancies in their title annotations and catalog records, and their text and doctrinal content are mixed. Their authenticity has not been determined. The matter requires further investigation. They are provisionally appended to the suspicious catalog.
+The preceding 21 sūtras mostly have discrepancies in their title annotations and catalog records, and their text and doctrinal content are mixed. Their authenticity has not been determined. The matter requires further investigation. They are provisionally appended to the suspicious catalog.
 
 #### Section Six: Spurious and Forged Texts
 
 A combined total of 80 texts in 217 fascicles.
 
-From the *Avataṃsaka* onward, these 23 sutras were all produced by Xiao Ziliang (蕭子良 Xiāo Zǐliáng), Prince of Jingling during the Southern Qi dynasty, who recklessly followed his own ideas and, within the main texts, either added to or deleted material, cobbling together sutras through his own selection. These violate the sacred teachings and corrupt the authentic scriptures. Therefore they are appended under spurious texts, as a warning to later generations.
+From the *Avataṃsaka* onward, these 23 sūtras were all produced by Xiao Ziliang (蕭子良 Xiāo Zǐliáng), Prince of Jingling during the Southern Qi dynasty, who recklessly followed his own ideas and, within the main texts, either added to or deleted material, cobbling together sūtras through his own selection. These violate the sacred teachings and corrupt the authentic scriptures. Therefore they are appended under spurious texts, as a warning to later generations.
 
-The next 1 sutra: according to Sengyou's catalog, in the ninth year of Tianjian (天監 Tiānjiàn) of the Liang dynasty, a wandering ascetic named Miaoguang (妙光) from Yingzhou went to the Hongpu Temple (弘普寺) in the Yangzhou administrative seat and fabricated this sutra, gathering followers and deceiving the masses. The Liang court punished and banished him. This must therefore be clearly identified as a warning to later students.
+The next 1 sūtra: according to Sengyou's catalog, in the ninth year of Tianjian (天監 Tiānjiàn) of the Liang dynasty, a wandering ascetic named Miaoguang (妙光) from Yingzhou went to the Hongpu Temple (弘普寺) in the Yangzhou administrative seat and fabricated this sūtra, gathering followers and deceiving the masses. The Liang court punished and banished him. This must therefore be clearly identified as a warning to later students.
 
-From the *Bǎodǐng* onward, these 21 sutras in 35 fascicles were produced at the end of the Southern Qi dynasty by the daughter of the Imperial Academy scholar Jiang Mi (江泌), a nun named Sengfa (僧法), who at the age of eight or nine would sometimes sit quietly with eyes closed and recite texts aloud. The Buddhist and lay communities of Yangzhou all proclaimed this a divine transmission. However, since these sutras did not come from the golden mouth of the Buddha, and their doctrinal content has no basis in translation, even if they happen to agree in places, they cannot serve as instruction. Therefore they are appended to the spurious catalog.
+From the *Bǎodǐng* onward, these 21 sūtras in 35 fascicles were produced at the end of the Southern Qi dynasty by the daughter of the Imperial Academy scholar Jiang Mi (江泌), a nun named Sengfa (僧法), who at the age of eight or nine would sometimes sit quietly with eyes closed and recite texts aloud. The Buddhist and lay communities of Yangzhou all proclaimed this a divine transmission. However, since these sūtras did not come from the golden mouth of the Buddha, and their doctrinal content has no basis in translation, even if they happen to agree in places, they cannot serve as instruction. Therefore they are appended to the spurious catalog.
 
-The preceding 81 sutras all diverge from authenticity. Some plagiarize the Buddha's golden words at the beginning but append popular prophecies at the end. Some begin by discussing worldly arts but later assume the guise of Buddhist terminology. Some invoke yin-yang fortune-telling. Some describe the blessings and misfortunes of spirits and ghosts. All texts of this sort are clearly spurious and forged. They should now be suppressed to prevent harm to the world.
+The preceding 81 sūtras all diverge from authenticity. Some plagiarize the Buddha's golden words at the beginning but append popular prophecies at the end. Some begin by discussing worldly arts but later assume the guise of Buddhist terminology. Some invoke yin-yang fortune-telling. Some describe the blessings and misfortunes of spirits and ghosts. All texts of this sort are clearly spurious and forged. They should now be suppressed to prevent harm to the world.
 
 ---
 
 ## Fascicle Three
 
-### Division Two: Hinayana Sutra Collection (小乘修多羅藏錄)
+### Division Two: Hinayana Sūtra Collection (小乘修多羅藏錄)
 
 A combined total of 779 texts in 1,183 fascicles.
 
@@ -143,7 +143,7 @@ A combined total of 779 texts in 1,183 fascicles.
 
 A combined total of 72 texts in 292 fascicles.
 
-The above 72 sutras are all original single translations. Though passages and fascicle sections have been separately translated and circulate independently, the main texts remain undiminished. Therefore they are properly entered in the definitive catalog.
+The above 72 sūtras are all original single translations. Though passages and fascicle sections have been separately translated and circulate independently, the main texts remain undiminished. Therefore they are properly entered in the definitive catalog.
 
 #### Section Two: Variant Translations
 
@@ -151,31 +151,31 @@ A combined total of 100 texts in 270 fascicles.
 
 [Groups of texts identified as same-original variant translations, in pairs and larger groups.]
 
-Of the preceding 22 sutras, all are variant translations of the main texts of various sutras.
+Of the preceding 22 sūtras, all are variant translations of the main texts of various sūtras.
 
-The next 18 sutras are all variant translations of individual chapters of the *Ekottarāgama* (增一阿含 *Zēngyī āhán*).
+The next 18 sūtras are all variant translations of individual chapters of the *Ekottarāgama* (增一阿含 *Zēngyī āhán*).
 
-The next 29 sutras are all variant translations of individual chapters of the *Madhyamāgama* (中阿含 *Zhōng āhán*).
+The next 29 sūtras are all variant translations of individual chapters of the *Madhyamāgama* (中阿含 *Zhōng āhán*).
 
-The next 16 sutras are all variant translations of individual chapters of the *Saṃyuktāgama* (雜阿含 *Zá āhán*).
+The next 16 sūtras are all variant translations of individual chapters of the *Saṃyuktāgama* (雜阿含 *Zá āhán*).
 
-The next 14 sutras are all variant translations of individual chapters of the *Dīrghāgama* (長阿含 *Cháng āhán*).
+The next 14 sūtras are all variant translations of individual chapters of the *Dīrghāgama* (長阿含 *Cháng āhán*).
 
-The next 1 sutra is a variant translation of an individual chapter of the *Jātaka Sutra* (生經 *Shēng jīng*).
+The next 1 sūtra is a variant translation of an individual chapter of the *Jātaka Sūtra* (生經 *Shēng jīng*).
 
-The preceding 78 sutras are all variant translations of individual chapters of various sutras.
+The preceding 78 sūtras are all variant translations of individual chapters of various sūtras.
 
-The above 100 sutras are all re-translations: either complete texts translated anew, or individual chapters translated separately. Since times change and literary styles alternate between plain and ornate, and since there are no Sanskrit originals for collation, all should properly be entered in the definitive catalog.
+The above 100 sūtras are all re-translations: either complete texts translated anew, or individual chapters translated separately. Since times change and literary styles alternate between plain and ornate, and since there are no Sanskrit originals for collation, all should properly be entered in the definitive catalog.
 
 #### Section Three: Lost-Translator Texts
 
 A combined total of 250 texts in 271 fascicles.
 
-Of these, 241 sutras are single texts.
+Of these, 241 sūtras are single texts.
 
-[Additional groups identified as same-original re-translations, including 2 texts that are separate chapters re-translated from the *Mātaṅgī Sutra* (摩登伽經 *Módēngqié jīng*).]
+[Additional groups identified as same-original re-translations, including 2 texts that are separate chapters re-translated from the *Mātaṅgī Sūtra* (摩登伽經 *Módēngqié jīng*).]
 
-The preceding 250 sutras all have unknown translators. Although the translator's identity and circumstances have been lost, they are all recorded in ancient catalogs, and their doctrinal principles are not in error. They are therefore also entered in the definitive catalog.
+The preceding 250 sūtras all have unknown translators. Although the translator's identity and circumstances have been lost, they are all recorded in ancient catalogs, and their doctrinal principles are not in error. They are therefore also entered in the definitive catalog.
 
 ---
 
@@ -187,49 +187,49 @@ A combined total of 341 texts in 346 fascicles.
 
 [Extractions from major Hinayana collections:]
 
-1 sutra extracted from the *Saddharma-smṛtyupasthāna Sutra* (正法念經 *Zhèngfǎ niàn jīng*).
+1 sūtra extracted from the *Saddharma-smṛtyupasthāna Sūtra* (正法念經 *Zhèngfǎ niàn jīng*).
 
-25 sutras extracted from the *Ekottarāgama*.
+25 sūtras extracted from the *Ekottarāgama*.
 
-40 sutras extracted from the *Madhyamāgama*.
+40 sūtras extracted from the *Madhyamāgama*.
 
-128 sutras extracted from the *Saṃyuktāgama*.
+128 sūtras extracted from the *Saṃyuktāgama*.
 
-4 sutras extracted from the *Dīrghāgama*.
+4 sūtras extracted from the *Dīrghāgama*.
 
-50 sutras extracted from the *Jātaka Sutra* (生經).
+50 sūtras extracted from the *Jātaka Sūtra* (生經).
 
-5 sutras extracted from the *Damamūka Sutra* (賢愚經 *Xiányú jīng*).
+5 sūtras extracted from the *Damamūka Sūtra* (賢愚經 *Xiányú jīng*).
 
-12 sutras extracted from the *Yogācārabhūmi Sutra* (修行道地經 *Xiūxíng dàodì jīng*).
+12 sūtras extracted from the *Yogācārabhūmi Sūtra* (修行道地經 *Xiūxíng dàodì jīng*).
 
-1 sutra extracted from the *Mahādvādaśamukha Sutra* (大十二門經).
+1 sūtra extracted from the *Mahādvādaśamukha Sūtra* (大十二門經).
 
-8 sutras extracted from the *Arthavargīya Sutra* (義足經 *Yìzú jīng*).
+8 sūtras extracted from the *Arthavargīya Sūtra* (義足經 *Yìzú jīng*).
 
-3 sutras extracted from the *Saptasthāna-trividha Sutra* (七處三觀經).
+3 sūtras extracted from the *Saptasthāna-trividha Sūtra* (七處三觀經).
 
-1 sutra extracted from the *Lalitavistara* (普曜經 *Pǔyào jīng*).
+1 sūtra extracted from the *Lalitavistara* (普曜經 *Pǔyào jīng*).
 
-1 sutra extracted from the *Zhōng běnqǐ jīng* (中本起經).
+1 sūtra extracted from the *Zhōng běnqǐ jīng* (中本起經).
 
-1 sutra extracted from the *Xīngqǐ xíng jīng* (興起行經).
+1 sūtra extracted from the *Xīngqǐ xíng jīng* (興起行經).
 
-61 sutras are extracted from various sutras. Since the original texts have not been seen, they are provisionally appended. The preceding 342 sutras were all excerpted by later persons according to their own preferences, extracting portions from the main texts to circulate independently, or taking verses and making them into separate fascicle divisions. Because of this tendency, proliferation increases and spurious interpolations grow daily. They should now be subsumed back in to reinforce the original sources.
+61 sūtras are extracted from various sūtras. Since the original texts have not been seen, they are provisionally appended. The preceding 342 sūtras were all excerpted by later persons according to their own preferences, extracting portions from the main texts to circulate independently, or taking verses and making them into separate fascicle divisions. Because of this tendency, proliferation increases and spurious interpolations grow daily. They should now be subsumed back in to reinforce the original sources.
 
 #### Section Five: Suspicious Texts
 
 A combined total of 29 texts in 31 fascicles.
 
-The above 29 sutras mostly have discrepancies in their title annotations and catalog records, causing confusion. Their text and doctrinal content are mixed. Their authenticity has not been determined. The matter requires further investigation. They are provisionally appended to the suspicious catalog.
+The above 29 sūtras mostly have discrepancies in their title annotations and catalog records, causing confusion. Their text and doctrinal content are mixed. Their authenticity has not been determined. The matter requires further investigation. They are provisionally appended to the suspicious catalog.
 
 #### Section Six: Spurious and Forged Texts
 
 A combined total of 53 texts in 93 fascicles.
 
-From the *Dharmapada* onward, these 8 sutras were all composed by Xiao Ziliang. Therefore they are appended to the spurious catalog.
+From the *Dharmapada* onward, these 8 sūtras were all composed by Xiao Ziliang. Therefore they are appended to the spurious catalog.
 
-The preceding 53 sutras all diverge from authenticity. Some plagiarize the Buddha's golden words at the beginning but append popular prophecies at the end. Some discuss worldly arts, then later assume the guise of Buddhist terminology. Some invoke yin-yang fortune-telling. Some describe the blessings and misfortunes of spirits and ghosts. All texts of this sort are clearly spurious and forged. They should now be suppressed to prevent harm to the world.
+The preceding 53 sūtras all diverge from authenticity. Some plagiarize the Buddha's golden words at the beginning but append popular prophecies at the end. Some discuss worldly arts, then later assume the guise of Buddhist terminology. Some invoke yin-yang fortune-telling. Some describe the blessings and misfortunes of spirits and ghosts. All texts of this sort are clearly spurious and forged. They should now be suppressed to prevent harm to the world.
 
 ---
 
@@ -245,7 +245,7 @@ A combined total of 48 texts in 82 fascicles.
 
 **Lost-Translator Texts:** 12 texts in 14 fascicles. All have unknown translators.
 
-**Excerpted Texts:** 16 texts in 16 fascicles. [Extractions from the *Bodhisattva Precept Sutra* (菩薩戒經), *Upāliparipṛcchā* (決定毘尼經), *Śāriputra-kaukṛtya* (舍利弗悔過經), *Upāsaka-śīla Sutra* (優婆塞戒經), *Karmāvaraṇa-viśuddhi Sutra* (淨業障經), and 10 miscellaneous vinaya excerpts.]
+**Excerpted Texts:** 16 texts in 16 fascicles. [Extractions from the *Bodhisattva Precept Sūtra* (菩薩戒經), *Upāliparipṛcchā* (決定毘尼經), *Śāriputra-kaukṛtya* (舍利弗悔過經), *Upāsaka-śīla Sūtra* (優婆塞戒經), *Karmāvaraṇa-viśuddhi Sūtra* (淨業障經), and 10 miscellaneous vinaya excerpts.]
 
 **Suspicious Texts:** 1 text in 2 fascicles.
 
@@ -277,7 +277,7 @@ A combined total of 68 texts in 282 fascicles.
 
 **Lost-Translator Texts:** 1 text in 2 fascicles.
 
-**Excerpted Texts:** 15 texts in 19 fascicles. [Extractions from the *Daśabhūmika-vibhāṣā* (十住毘婆沙論), *Bodhisattvabhūmi* (地持論), *Suvarṇaprabhāsa Sutra* (善戒經), and 12 miscellaneous treatise excerpts.]
+**Excerpted Texts:** 15 texts in 19 fascicles. [Extractions from the *Daśabhūmika-vibhāṣā* (十住毘婆沙論), *Bodhisattvabhūmi* (地持論), *Suvarṇaprabhāsa Sūtra* (善戒經), and 12 miscellaneous treatise excerpts.]
 
 **Suspicious Texts:** 1 text in 1 fascicle.
 
@@ -303,7 +303,7 @@ A combined total of 116 texts in 489 fascicles.
 
 ## Fascicle Six
 
-### Division Seven: Post-Nirvana Compilations (佛滅度後撰集錄)
+### Division Seven: Post-Nirvāṇa Compilations (佛滅度後撰集錄)
 
 #### Part One: Compiled by Western Sages
 
@@ -327,7 +327,7 @@ Of these, 21 texts are Mahayana compilations. The remaining 29 are Hinayana comp
 
 All 97 texts are Chinese compilations.
 
-### Division Eight: Post-Nirvana Biographies and Records (佛涅槃後傳記錄)
+### Division Eight: Post-Nirvāṇa Biographies and Records (佛涅槃後傳記錄)
 
 A combined total of 68 texts in 186 fascicles.
 
@@ -341,15 +341,15 @@ A combined total of 68 texts in 186 fascicles.
 
 16 texts are Chinese Buddhist biographical records.
 
-21 records concern Mahayana sutras. 5 concern Hinayana sutras. 1 concerns Mahayana vinaya. 6 concern Hinayana vinaya. 3 concern Mahayana treatises. 2 concern Hinayana treatises. 1 concerns a Mahayana compilation. All 55 texts are Chinese biographical records.
+21 records concern Mahayana sūtras. 5 concern Hinayana sūtras. 1 concerns Mahayana vinaya. 6 concern Hinayana vinaya. 3 concern Mahayana treatises. 2 concern Hinayana treatises. 1 concerns a Mahayana compilation. All 55 texts are Chinese biographical records.
 
-### Division Nine: Post-Nirvana Compositions (佛滅度後著述錄)
+### Division Nine: Post-Nirvāṇa Compositions (佛滅度後著述錄)
 
 #### Part One: Western Sages' Compositions
 
-4 texts are prefaces to Mahayana sutras. 3 texts are prefaces to Hinayana sutras. All 7 prefaces are Western [Indian] compositions.
+4 texts are prefaces to Mahayana sūtras. 3 texts are prefaces to Hinayana sūtras. All 7 prefaces are Western [Indian] compositions.
 
-4 texts are Mahayana sutra commentaries. 2 texts are Hinayana sutra commentaries. All 6 commentaries are Western [Indian] compositions.
+4 texts are Mahayana sūtra commentaries. 2 texts are Hinayana sūtra commentaries. All 6 commentaries are Western [Indian] compositions.
 
 2 treatises are Western [Indian] compositions.
 
@@ -357,9 +357,9 @@ The preceding 15 prefaces, commentaries, and treatises are all compositions by W
 
 #### Part Two: Chinese Scholars' Compositions
 
-23 prefaces to Mahayana sutras. 15 prefaces to Hinayana sutras. 1 preface to Hinayana vinaya. 6 prefaces to Mahayana treatises. 11 prefaces to Hinayana treatises. 1 preface to a Mahayana compilation. 2 prefaces to Hinayana compilations. The preceding 59 texts are Chinese prefaces.
+23 prefaces to Mahayana sūtras. 15 prefaces to Hinayana sūtras. 1 preface to Hinayana vinaya. 6 prefaces to Mahayana treatises. 11 prefaces to Hinayana treatises. 1 preface to a Mahayana compilation. 2 prefaces to Hinayana compilations. The preceding 59 texts are Chinese prefaces.
 
-12 commentaries on Mahayana sutras. 5 commentaries on Hinayana sutras. The preceding 17 texts are all Chinese commentaries.
+12 commentaries on Mahayana sūtras. 5 commentaries on Hinayana sūtras. The preceding 17 texts are all Chinese commentaries.
 
 ---
 
@@ -369,19 +369,19 @@ The preceding 15 prefaces, commentaries, and treatises are all compositions by W
 
 The monks of the Translation Bureau at Daxingshan Temple (大興善寺 *Dàxīngshàn sì*), led by Fajing (法經) and others, respectfully address the Emperor, the Great Patron:
 
-On the tenth day of the fifth month, the Grand Master of Ceremonies Niu Hong (牛弘), by imperial decree, ordered the compilation of a catalog of all sutras. We, Fajing and the others, have accordingly compiled and completed this work. The grand total of all sutras amounts to 2,257 texts in 5,310 fascicles, organized in seven fascicles: six fascicles of detailed catalogs and one fascicle of the general catalog. The copying has just been completed, and we respectfully submit it.
+On the tenth day of the fifth month, the Grand Master of Ceremonies Niu Hong (牛弘), by imperial decree, ordered the compilation of a catalog of all sūtras. We, Fajing and the others, have accordingly compiled and completed this work. The grand total of all sūtras amounts to 2,257 texts in 5,310 fascicles, organized in seven fascicles: six fascicles of detailed catalogs and one fascicle of the general catalog. The copying has just been completed, and we respectfully submit it.
 
 We further respectfully state: We humbly reflect that the unsurpassed Dharma-treasure, whose influence extends without limit, reached this land in the middle period of the Semblance Dharma. Long ago, Dongfang Shuo (方朔) observed the ashes beneath Kunming Pool and suggested consulting the Western Regions for an explanation. When Liu Xiang (劉向) collated the imperial library's records, Buddhist scriptures were already found there. Thus we know that the true Dharma had long since arrived in the Former Han dynasty, and that its transmission to this land did not begin only with the Later Han.
 
-However, as the Way grew faint and human inclinations grew refined, the distinction between true and false teachings became obscured. People rarely honored the Dharma with genuine devotion; though it existed, it was treated as though it did not. This led to Emperor Ming's dream-vision of the golden form appearing, which must have been because the sacred Way relies upon the support of emperors and kings to greatly inaugurate an era of reverent devotion. Thereupon envoys were dispatched to the Western Regions specifically to seek Buddhist scriptures. Through this, Kāśyapa Mātaṅga (摩騰 Móténg) and Dharmarakṣa (法蘭 Fǎlán) first produced the *Sutra in Forty-Two Sections*. An Shigao (世高) and Lokakṣema (支讖 Zhī Chèn) then broadly translated various other scriptural texts. Afterwards, scholars versed in the Way continued to arrive one after another.
+However, as the Way grew faint and human inclinations grew refined, the distinction between true and false teachings became obscured. People rarely honored the Dharma with genuine devotion; though it existed, it was treated as though it did not. This led to Emperor Ming's dream-vision of the golden form appearing, which must have been because the sacred Way relies upon the support of emperors and kings to greatly inaugurate an era of reverent devotion. Thereupon envoys were dispatched to the Western Regions specifically to seek Buddhist scriptures. Through this, Kāśyapa Mātaṅga (摩騰 Móténg) and Dharmarakṣa (法蘭 Fǎlán) first produced the *Sūtra in Forty-Two Sections*. An Shigao (世高) and Lokakṣema (支讖 Zhī Chèn) then broadly translated various other scriptural texts. Afterwards, scholars versed in the Way continued to arrive one after another.
 
 By the time of the Wei and Jin dynasties, when the capitals were at Luoyang (洛陽), although Zhi Qian (支謙) and Kang Senghui (康會) energetically propagated the Dharma in Jinling [Nanjing], and Dharmarakṣa (竺護) and others translated in the Yong and Luo regions, faith and devotion were still limited and practice was meager.
 
-It was not until the Eastern Jin and the two Qin states that the scriptures and vinaya became roughly complete. But since the Dharma depends on people to propagate it, and worthy and enlightened persons increased in number, Dharma-master Dao'an (道安) first compiled a catalog of various sutras, evaluating translation materials and clarifying their dates. He sought out what was missing and completed the catalog format. From that time to the present, some two hundred years, those who have compiled scripture catalogs number more than a dozen, each organizing by different criteria: some by numerical systems, some by title, some by chronological period, some by translator. Each recorded only what was within their own scope of knowledge.
+It was not until the Eastern Jin and the two Qin states that the scriptures and vinaya became roughly complete. But since the Dharma depends on people to propagate it, and worthy and enlightened persons increased in number, Dharma-master Dao'an (道安) first compiled a catalog of various sūtras, evaluating translation materials and clarifying their dates. He sought out what was missing and completed the catalog format. From that time to the present, some two hundred years, those who have compiled scripture catalogs number more than a dozen, each organizing by different criteria: some by numerical systems, some by title, some by chronological period, some by translator. Each recorded only what was within their own scope of knowledge.
 
 Only the Vinaya Master Sengyou (僧祐) of Yangzhou, who compiled the *Collection of Records on the Tripitaka* (三藏記錄), comes close to being adequate. Yet even his work does not distinguish between Mahayana and Hinayana, mixes the Three Baskets together, confuses excerpted compilations with canonical texts, and intermingles biographical records with scriptures. Examining it from beginning to end, it fails to achieve comprehensive completeness. As for the other catalogs, they are too numerous to mention.
 
-Since we monks have not been able to obtain and examine all the scriptural texts from the three regions [India, Central Asia, and China] to compare and verify their similarities and differences, we have for now relied only upon the various existing catalogs. We have pruned and simplified where needed, identified what should be accepted or rejected, and established general guidelines. We have organized the material into nine divisions with distinct categories, comprising 42 sections. The first six divisions have 36 sections, which broadly indicate the distinction between Mahayana and Hinayana across the three baskets of sutras, vinaya, and abhidharma, and roughly reveal the differences between authentic and spurious in the transmission and translation. The last three divisions cover compilations, biographies, records, and commentaries. The first three sections in each are compositions by Western [Indian] sages, which are given separate catalogs since they are not canonical scriptures of the Three Baskets proper. The last three sections are works by eminent Chinese scholars: although these differ from Western [Indian] compositions, they all serve to assist and illuminate the canonical scriptures, clarify the fundamental teachings, bring luster to the legacy of predecessors, and open the way forward for later students. Therefore they are also included.
+Since we monks have not been able to obtain and examine all the scriptural texts from the three regions [India, Central Asia, and China] to compare and verify their similarities and differences, we have for now relied only upon the various existing catalogs. We have pruned and simplified where needed, identified what should be accepted or rejected, and established general guidelines. We have organized the material into nine divisions with distinct categories, comprising 42 sections. The first six divisions have 36 sections, which broadly indicate the distinction between Mahayana and Hinayana across the three baskets of sūtras, vinaya, and abhidharma, and roughly reveal the differences between authentic and spurious in the transmission and translation. The last three divisions cover compilations, biographies, records, and commentaries. The first three sections in each are compositions by Western [Indian] sages, which are given separate catalogs since they are not canonical scriptures of the Three Baskets proper. The last three sections are works by eminent Chinese scholars: although these differ from Western [Indian] compositions, they all serve to assist and illuminate the canonical scriptures, clarify the fundamental teachings, bring luster to the legacy of predecessors, and open the way forward for later students. Therefore they are also included.
 
 We, Fajing and the others, further reflect privately: the various existing catalogs were mostly compiled by worthy sages of previous ages. With due respect, we judge that those earlier sages were all distinguished scholars of their time. The reason their compilations did not achieve full thoroughness was not that they lacked talent or learning. It was simply that in their day, the empire was divided and fragmented, with no single sovereign over all. Each major province and capital proclaimed itself an imperial domain, and the contested borders became battlegrounds. Scriptures produced in different places were entirely unknown to one another. Scholars might hear of them from afar but could never see them in their lifetimes. Therefore, despite the talent of those earlier sages, if they did not encounter the right era, they had no means to fully accomplish their work.
 

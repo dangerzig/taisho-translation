@@ -17,4 +17,4 @@ Subhūti addressed the Buddha, saying: "World-Honored One, the Tathāgata has al
 
 ---
 
-**Translator's note:** This text breaks off here, as the extant Chinese version (139 characters) concludes at this point without a response from the Buddha. The text appears to be a fragment of what would originally have been a longer exchange. The scene depicts the moment just after the parinirvāṇa teaching at Kuśinagara, with Subhūti's question—why does the Buddha weep if nirvāṇa is truly deathless?—left unanswered in the surviving text.
+**Translator's note:** This text breaks off here, as the extant Chinese version (139 characters) concludes at this point without a response from the Buddha. The text appears to be a fragment of what would originally have been a longer exchange. The scene depicts the moment just after the parinirvāṇa teaching at Kuśinagara, with Subhūti's question, why does the Buddha weep if nirvāṇa is truly deathless?, left unanswered in the surviving text.

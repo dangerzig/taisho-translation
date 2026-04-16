@@ -10,7 +10,7 @@ Translated from the Chinese. Tang dynasty, composed by Xuanjue (玄覺).
 > Have you not seen?
 > The person of the Way, beyond learning and without contrivance, at ease,
 > Neither eliminating delusive thought nor seeking the true.
-> The real nature of ignorance is the buddha-nature itself;
+> The real nature of ignorance is the Buddha-nature itself;
 > The illusory, empty body is the dharma-body itself.
 > When the dharma-body is awakened, there is not a single thing.
 > The original source, the self-nature, is the innate buddha.
@@ -125,7 +125,7 @@ Translated from the Chinese. Tang dynasty, composed by Xuanjue (玄覺).
 > Self-benefit and benefit of others will never be exhausted.
 > The moon over the river shines; the pine-wind blows.
 > What is there to do in the long, clear night?
-> The buddha-nature, precept-pearl, seal of the ground of mind,
+> The Buddha-nature, precept-pearl, seal of the ground of mind,
 > Mist, dew, clouds, and haze are garments upon its body.
 
 > The dragon-taming bowl, the tiger-subduing staff,

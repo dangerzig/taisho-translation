@@ -13,9 +13,9 @@ One who cultivates yoga should first, in a quiet place, establish a maṇḍala,
 
 One should further take a personal vow and receive the three refuges, speaking as follows:
 
-"May the buddhas and bodhisattvas have compassion and protect me. I, [name], from this day forward until I sit upon the seat of enlightenment, take refuge in the tathāgatas' unsurpassed three bodies. I take refuge in the vast Mahāyāna dharma treasury. I take refuge in the saṅgha assembly of bodhisattvas."
+"May the buddhas and bodhisattvas have compassion and protect me. I, [name], from this day forward until I sit upon the seat of enlightenment, take refuge in the tathāgatas' unsurpassed three bodies. I take refuge in the vast Mahāyāna dharma treasury. I take refuge in the sangha assembly of bodhisattvas."
 
-"I, [name], have taken refuge in the Buddha. I have taken refuge in the Dharma. I have taken refuge in the Saṅgha. From now until I attain buddhahood, I will not take refuge in any other, whether of the two vehicles or of non-Buddhist paths. May all the buddhas compassionately receive me."
+"I, [name], have taken refuge in the Buddha. I have taken refuge in the Dharma. I have taken refuge in the Sangha. From now until I attain buddhahood, I will not take refuge in any other, whether of the two vehicles or of non-Buddhist paths. May all the buddhas compassionately receive me."
 
 Next, one should offer one's body, speaking as follows:
 

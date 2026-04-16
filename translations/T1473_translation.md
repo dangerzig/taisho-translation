@@ -79,9 +79,9 @@ Translated from the Chinese. Song dynasty, translated by Dānapāla (施護).
 > The dwelling place of great persons, I myself have been there,"
 > Or even mentions gandharvas, nāgas, yakṣas together,
 > Mahoragas, kiṃnaras,
-> Preta ghosts and the like, saying "they always converse with me" —
+> Preta ghosts and the like, saying "they always converse with me" ...
 > All this is false speech. Or to say "I have attained the five supernatural powers,
-> The true path and the four fruits, I understand the most profound Dharma" —
+> The true path and the four fruits, I understand the most profound Dharma" ...
 > To claim attainment of what one has not attained: such false speech
 > Causes permanent sinking into the evil destinies. One must not engage in divisive speech,
 > Separating others' good friends, or in coarse and abusive words,

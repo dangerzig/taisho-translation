@@ -37,7 +37,7 @@ Translated from the Chinese. Translator unknown (失譯)
 > The entire ocean is turned into an empty pit.
 > The number of motes of dust can be reckoned;
 > His mind knows all sentient beings.
-> Heavenly palaces and lofty towers—a point of his finger transforms them into conjured cities.
+> Heavenly palaces and lofty towers; a point of his finger transforms them into conjured cities.
 > Whatever is needed, all is obtained without effort or exertion.
 > In movement, vast and unimpeded; in stillness, deep and unwavering, never tilting.
 > With the flesh eye alone, he perceives the affairs of the three ages;

@@ -16,7 +16,7 @@ Afterward, when the age of the semblance dharma fills the world and the true dha
 
 My original dwelling was in the Eastern Sea. This was the pure land affinity of my past lives. Because sentient beings were stubborn and foolish, difficult to convert, and did not believe in the buddha-dharma, creating much evil karma, I left my original place and went to the western lands to teach and convert sentient beings, where I was known as Śākyamuni (*Shìjiāmóuní*, 釋迦牟尼) Buddha. The eastern lands were then submerged by five hundred poisonous dragons, turning into a great sea. All sentient beings sank into the sea and were transformed into turtles, crocodiles, fish, and tortoises.
 
-Afterward, my body came again from the western barbarian lands to be reborn in Jambudvīpa, to save and deliver those with good affinities and the seeds of buddha-nature.
+Afterward, my body came again from the western barbarian lands to be reborn in Jambudvīpa, to save and deliver those with good affinities and the seeds of Buddha-nature.
 
 I see that the sentient beings of Jambudvīpa are everywhere vicious and evil, devouring one another. They cannot be converted. Therefore I now enter nirvāṇa. May my relics and original bones remain at Sizhou (*Sìzhōu*, 泗州).
 
@@ -32,4 +32,4 @@ If there are those who are not among my six kinds of people, who see this sūtra
 
 Good men and good women, copy this sūtra with sincere intention, receive and uphold it. If you encounter the kalpa of flood, the kalpa of fire, black wind, or the darkening of the heavens, I will emit immeasurable radiance to illuminate you. Through this affinity you will all come to the buddha-land, together entering the Transformation City, and will all attain liberation.
 
-[Dhāraṇī:] *Namo Sēngqié. Namo Sēngjìnzhà. Suōhē. Dáduō zhídì tuōyē. Ǎn bálè shè. Suōpóhē.*
+[Dhāraṇī:] *Namo saṃghāya. Namo saṃghaṃ jaṭa svāhā. Tadyathā. Oṃ vajra-kṣa svāhā.*

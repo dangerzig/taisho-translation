@@ -22,7 +22,7 @@ As for the Siddhaṃ chapter: in the past, the Mahāyāna was on Laṅkā Mounta
 
 *Zhǐlǐngshèng zhǐlǐngshèng.* The second is to abide in mind and always contemplate purity. Seeing and hearing are without gazing or listening. When arising and ceasing are both forgotten, one is still not yet fully realized. Receiving instruction from the teacher, samādhi is then manifest. To see the dharma-body of the Buddha is without duality.
 
-*Xìng dǐnglǐng jìng lǔliú lúlóu zhǐlǐngshèng.* Children of the Buddha, do not be angry or deceitful. When the three poisons suddenly arise, there is no buddha-nature. The deluded and mad mind runs wild, troubling the worthy and holy. The eye craves visible forms, the ear is bound by sound. Turning away from heaven, one heads down the evil path. *Yínglìngjīn*, cultivate samādhi. *Suōhē yē*, return to what is right.
+*Xìng dǐnglǐng jìng lǔliú lúlóu zhǐlǐngshèng.* Children of the Buddha, do not be angry or deceitful. When the three poisons suddenly arise, there is no Buddha-nature. The deluded and mad mind runs wild, troubling the worthy and holy. The eye craves visible forms, the ear is bound by sound. Turning away from heaven, one heads down the evil path. *Yínglìngjīn*, cultivate samādhi. *Suōhē yē*, return to what is right.
 
 ### Third: Contemplating Mind and the Need to Be Upright
 

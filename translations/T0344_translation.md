@@ -21,9 +21,9 @@ The prince addressed the Buddha: "By what causes does a bodhisattva know the pro
 
 The Buddha told the prince: "The bodhisattva delights in copying sūtras, reciting, studying, and teaching them. By this cause one knows the profound sūtras and wisdom. The bodhisattva always loves concentrating the mind in tranquility. By this cause one attains the peace and comfort of samādhi. The bodhisattva speaks always with sincerity, never deceiving or being negligent toward others. By this cause one's words are sincere and trusted, and those who hear them are all joyful."
 
-The prince addressed the Buddha: "By what causes are the deeds of the body, words of the mouth, and thoughts of the mind of a bodhisattva all pure? By what causes can Māra not find an opening? By what causes do the people not dare to slander the Buddha's sūtras and path, or the saṅgha of bhikṣus?"
+The prince addressed the Buddha: "By what causes are the deeds of the body, words of the mouth, and thoughts of the mind of a bodhisattva all pure? By what causes can Māra not find an opening? By what causes do the people not dare to slander the Buddha's sūtras and path, or the sangha of bhikṣus?"
 
-The Buddha told the prince: "The bodhisattva delights in attending upon the Buddha, in the sūtras and the path, and in the saṅgha of bhikṣus. By this cause one attains purity. The bodhisattva, day and night, practices with diligence. By this cause Māra cannot find an opening. The bodhisattva speaks always with sincerity and without deception. By this cause the people do not dare to slander the Buddha's sūtras and path, or the saṅgha of bhikṣus."
+The Buddha told the prince: "The bodhisattva delights in attending upon the Buddha, in the sūtras and the path, and in the sangha of bhikṣus. By this cause one attains purity. The bodhisattva, day and night, practices with diligence. By this cause Māra cannot find an opening. The bodhisattva speaks always with sincerity and without deception. By this cause the people do not dare to slander the Buddha's sūtras and path, or the sangha of bhikṣus."
 
 The prince addressed the Buddha: "By what causes does a bodhisattva obtain a long lifespan? By what causes is one free from illness? By what causes does one's household live in harmony and mutual respect, without others causing separation?"
 
@@ -41,9 +41,9 @@ The prince addressed the Buddha: "By what causes does a bodhisattva obtain the s
 
 The Buddha told the prince: "The bodhisattva who gives generously, providing carriages, horses, elephants, mules, donkeys, camels, and sandals to others: by this cause obtains the supernatural flight of the four bases of power. The bodhisattva who delights in mindfulness of all the Buddhas' samādhis and supernatural abilities, studying from them and delighting in teaching others: by this cause can remember the events of immeasurable past kalpas. When the bodhisattva attains the Buddha's intention free from attachment: by this cause one enters parinirvāṇa."
 
-The prince addressed the Buddha: "By what causes does a bodhisattva preside over a buddha-land? By what causes does one know that in a future life one will have a saṅgha of bhikṣus? By what causes does one's radiance illuminate the ten directions?"
+The prince addressed the Buddha: "By what causes does a bodhisattva preside over a buddha-land? By what causes does one know that in a future life one will have a sangha of bhikṣus? By what causes does one's radiance illuminate the ten directions?"
 
-The Buddha told the prince: "The bodhisattva who constantly makes many vows: by this cause presides over a buddha-land. The bodhisattva who gives generously to the people and delights in teaching them to practice the six pāramitā sūtras: by this cause obtains a saṅgha of bhikṣus in the future. The bodhisattva who makes parasols of the seven treasures as offerings to the Buddha and the Buddha's temples: by this cause one's radiance illuminates the ten directions."
+The Buddha told the prince: "The bodhisattva who constantly makes many vows: by this cause presides over a buddha-land. The bodhisattva who gives generously to the people and delights in teaching them to practice the six pāramitā sūtras: by this cause obtains a sangha of bhikṣus in the future. The bodhisattva who makes parasols of the seven treasures as offerings to the Buddha and the Buddha's temples: by this cause one's radiance illuminates the ten directions."
 
 When the Buddha had explained these matters in detail for the prince, the prince was exceedingly joyful, and all five hundred sons of elders were also greatly joyful.
 

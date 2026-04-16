@@ -9,7 +9,7 @@ Translated from the Chinese. Song dynasty, translated by Dharmadeva (法天)
 
 Thus have I heard:
 
-At one time, the Buddha was in the land of Sukhāvatī, in the Great Good Dharma Hall, seated in serene composure. At that time, Amitāyus Tathāgata, Arhat, Samyak-saṃbuddha, addressed the holy Avalokiteśvara Bodhisattva-mahāsattva: "Good man! For the sake of all sentient beings who are afflicted by illness and suffering and who have short life-spans, in order to benefit them, there is the Dharma-gate of the Uṣṇīṣavijaya Supreme Dhāraṇī of All the Tathāgatas. If a person receives, upholds, reads, and recites it, they will swiftly obtain freedom from illness, long life, and peace."
+At one time, the Buddha was in the land of Sukhāvatī, in the Great Good Dharma hall, seated in serene composure. At that time, Amitāyus Tathāgata, Arhat, Samyak-saṃbuddha, addressed the holy Avalokiteśvara Bodhisattva-mahāsattva: "Good man! For the sake of all sentient beings who are afflicted by illness and suffering and who have short life-spans, in order to benefit them, there is the Dharma-gate of the Uṣṇīṣavijaya Supreme Dhāraṇī of All the Tathāgatas. If a person receives, upholds, reads, and recites it, they will swiftly obtain freedom from illness, long life, and peace."
 
 At that time, Avalokiteśvara Bodhisattva-mahāsattva rose from his seat, joined his palms in reverence, and addressed the Buddha: "World-Honored One! I now wish to hear this Dharma-gate of the Uṣṇīṣavijaya Supreme Dhāraṇī of All the Tathāgatas. May it be well proclaimed and well taught."
 

@@ -107,7 +107,7 @@ Because the Buddha had just attained the path, he was so overjoyed that he did n
 
 The nāga said to the Buddha: "From this day forward, I take refuge in the Buddha and take refuge in the Dharma."
 
-The Buddha said to the nāga: "In the future there will be many arhats and a saṅgha of bhikṣus. You should also take refuge in them."
+The Buddha said to the nāga: "In the future there will be many arhats and a sangha of bhikṣus. You should also take refuge in them."
 
 Among the animals, Mucalinda was the first to take refuge in the Buddha. The Buddha's supernatural powers were penetrating and complete. The devas all assembled and came before him to pay homage.
 

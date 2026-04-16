@@ -10,9 +10,9 @@ Translated from the Chinese. Tang dynasty, translated by Amoghavajra (不空)
 The mantra is as given in the sūtra.
 
 > Practicing this dhāraṇī of the infinite gate of arising,
-> Directing the three kinds of karma toward [transformation], relying on the three gates of mystery —
+> Directing the three kinds of karma toward [transformation], relying on the three gates of mystery ...
 > Namely the three vajras: the body-mudrā, speech-mantra,
-> And the mind abiding in samādhi, by entering the three equalities —
+> And the mind abiding in samādhi, by entering the three equalities ...
 > Through skillful abiding in yoga, one's own body becomes identical with the honored deity.
 > While yet an ordinary being, one attains perfect enlightenment; this Dharma is the most profound secret.
 >

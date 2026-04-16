@@ -11,7 +11,7 @@ Original Chinese composition. Five Dynasties, Later Tang dynasty, 2nd year of th
 
 One bolt of cloth. One piece of camel hide. One folio of paper.
 
-The foregoing — establishing the altar, reciting the sūtras, supplying the monks, chanting the Buddha's name, lighting lamps, and making offerings and donations — these are the intentions hereby set forth:
+The foregoing; establishing the altar, reciting the sūtras, supplying the monks, chanting the Buddha's name, lighting lamps, and making offerings and donations; these are the intentions hereby set forth:
 
 May the dragon-heaven and the eight classes of beings guard and protect Dunhuang. May Brahmā, Śakra, and the Four Heavenly Kings bring peace to the people and tranquility to the frontier. May all auspiciousness drive the old year far away to distant lands. May all good omens and auspicious signs attend the lord of the prefecture throughout the realm.
 

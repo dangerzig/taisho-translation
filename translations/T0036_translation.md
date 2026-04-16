@@ -9,7 +9,7 @@ Translated from the Chinese. Later Han dynasty, translated by An Shigao (安世�
 
 Thus have I heard.
 
-At one time, the Buddha was dwelling in the Jeta Grove, Anāthapiṇḍada's Park, in the country of Śrāvastī. The Buddha then addressed the bhikṣus: "Originally, craving for existence was neither seen nor understood. Now it is seen that existence arises from craving for existence. If this original craving for existence did not exist, neither would the present existence arise — this is now clearly seen. From this fundamental condition, craving for existence is brought about. Craving for existence, O bhikṣus, arises from a cause; it does not arise without a cause. And what, O bhikṣus, is the cause from which craving for existence arises? It is said to be delusion.
+At one time, the Buddha was dwelling in the Jeta Grove, Anāthapiṇḍada's Park, in the country of Śrāvastī. The Buddha then addressed the bhikṣus: "Originally, craving for existence was neither seen nor understood. Now it is seen that existence arises from craving for existence. If this original craving for existence did not exist, neither would the present existence arise; this is now clearly seen. From this fundamental condition, craving for existence is brought about. Craving for existence, O bhikṣus, arises from a cause; it does not arise without a cause. And what, O bhikṣus, is the cause from which craving for existence arises? It is said to be delusion.
 
 "Delusion also, O bhikṣus, arises from a cause; it does not arise without a cause. And what, O bhikṣus, is the cause from which delusion arises? It is said to be the five hindrances.
 

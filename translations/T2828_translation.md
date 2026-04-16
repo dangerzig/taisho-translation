@@ -15,7 +15,7 @@ Translated from the Chinese. Translator unknown (失譯)
 > The ultimate mind has no place to dwell;
 > In liberation attained, clear contemplation;
 > Thought is like no-thought.
-> Great sound, yet soundless—
+> Great sound, yet soundless...
 > Know that there is no gate;
 > The wisdom mirror slays delusion.
 >
@@ -26,7 +26,7 @@ Translated from the Chinese. Translator unknown (失譯)
 > Briefly arriving at the other shore, standing firm,
 > Washing away the mud within the mind.
 >
-> Pure, undefiled by dust and stain—
+> Pure, undefiled by dust and stain...
 > May one thereby realize bodhi.
 > The wisdom mirror harbors no spiritual darkness;
 > The wise constantly use it, and it illuminates.
@@ -37,11 +37,11 @@ Translated from the Chinese. Translator unknown (失譯)
 > Within them flows the Dharma-nature;
 > Flowers open, and the transformation-born child arises.
 > Speaking of my original root and cause:
-> Dwelling in contemplation, constantly observing—
+> Dwelling in contemplation, constantly observing...
 > The Samādhi of the Precious King is true.
 >
 > Circling through the count of the Tripiṭaka,
-> Unable to remove the mud within the mind—
+> Unable to remove the mud within the mind...
 > There are those who single-mindedly recite the Buddha's name.
 > Reciting the Buddha, one enters deep dhyāna;
 > In the early night, sitting with upright mind,
@@ -54,7 +54,7 @@ Translated from the Chinese. Translator unknown (失譯)
 > The Pure Land is within the mind;
 > Foolish people seek it outwardly.
 >
-> Within the depths there is a precious mirror—
+> Within the depths there is a precious mirror...
 > Not recognizing it, one's whole life is wasted.
 > All Buddhas are within the mind;
 > Seeking thus outwardly, one cannot find them.
@@ -72,14 +72,14 @@ Translated from the Chinese. Translator unknown (失譯)
 > Let dust and defilements not come to pass.
 > The exceptional mind's name pervades throughout;
 > Self-nature originally awakens to principle.
-> Cultivating toward it, recite the Buddha's name—
+> Cultivating toward it, recite the Buddha's name...
 > This is immediately entry into the unborn.
 >
-> Fragments not yet refined into gold ore—
+> Fragments not yet refined into gold ore...
 > Within the ore, the gold does not appear.
 > One who knows can melt and smelt it;
 > True gold is seen within the interior.
-> Buddha-thought empty—no-thought;
+> Buddha-thought empty; no-thought;
 > True Suchness: quiescent, unspeaking.
 >
 > The mouth speaks textual teachings;
@@ -93,7 +93,7 @@ Translated from the Chinese. Translator unknown (失譯)
 > Outsiders have never heard of it.
 > The Lesser Vehicle harbors hatred and much slander.
 > The vow: let it not be transmitted and spread abroad.
-> On the Way, even the worthy among bridge-builders who wish to transmit it by their own hands—
+> On the Way, even the worthy among bridge-builders who wish to transmit it by their own hands...
 > On the Way, unwavering: worthy ones, children and mothers alike, do not transmit it to one another.
 
 ---

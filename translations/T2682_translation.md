@@ -225,7 +225,7 @@ Then Yama's agents answer with wrathful hearts:
 > Foolish one, having already done evil,
 > What use is remorse now?
 > Neither gods, nor asuras,
-> Nor gandharvas, nor nāgas, nor ghosts —
+> Nor gandharvas, nor nāgas, nor ghosts ...
 > Bound by the fetters of karma,
 > No one can rescue you.
 > As from the great ocean
@@ -255,7 +255,7 @@ As for the great Avīci Hell, not even one-thousandth of it has been described h
 
 Outside the four gates of this hell there are likewise sixteen subsidiary places. Among them is a place called the **Place of Iron Jackals.** The sinners' bodies blaze with fire for a span of ten yojanas. Of all the hells, this suffering is the most extreme. Moreover, iron bricks rain down like a summer torrent, shattering their bodies like dried jerky. Flame-fanged jackals constantly come to devour them. At every moment their suffering does not cease. Those who in former lives burned images of the Buddha, burned monks' quarters, or burned monks' bedding fall into this place.
 
-There is also a place called the **Place of Black Bellies.** Hunger and thirst burn their bodies. They eat their own flesh; when consumed, it grows back, and they eat it again. Black-bellied serpents coil around the sinners, gnawing upward from the toenails. Or they are cast into fierce fire to be burned. Or they are placed in iron vessels to be boiled. For countless hundred millions of years they suffer thus. Those who in former lives took the property of the Buddha and the Saṅgha for their own use fall into this place.
+There is also a place called the **Place of Black Bellies.** Hunger and thirst burn their bodies. They eat their own flesh; when consumed, it grows back, and they eat it again. Black-bellied serpents coil around the sinners, gnawing upward from the toenails. Or they are cast into fierce fire to be burned. Or they are placed in iron vessels to be boiled. For countless hundred millions of years they suffer thus. Those who in former lives took the property of the Buddha and the Sangha for their own use fall into this place.
 
 There is also a place called the **Place of Raining Mountains.** Iron mountains, each one yojana in size, fall from above and strike the sinners, crushing them like grains of sand. Crushed, they revive; revived, they are crushed again. There are also eleven kinds of flame that burn their entire bodies. Wardens slice every part of their bodies with knives, and scalding-hot molten tin is poured into the wounds. All four hundred and four diseases afflict them constantly, and their suffering endures without end and without reckoning of years. Those who in former lives stole the food of a pratyekabuddha, ate it themselves, and would not share it fall into this place.
 
@@ -321,7 +321,7 @@ Some ghosts are born on ocean islands, where there are no trees, forests, or riv
 
 Some ghosts constantly go to cemeteries and eat the fire of burning corpses, yet can never be satisfied. Those who in former lives were wardens of prisons and stole the food and drink of the inmates receive this retribution.
 
-Some ghosts are born within trees, their bodies pressed and squeezed as a woodworm is pressed within wood, suffering immensely. Those who in former lives felled shade trees or cut down the orchards and groves of the Saṅgha, their hair becomes like blades that slice and cut their bodies, or transforms into fire that burns them all around.
+Some ghosts are born within trees, their bodies pressed and squeezed as a woodworm is pressed within wood, suffering immensely. Those who in former lives felled shade trees or cut down the orchards and groves of the Sangha, their hair becomes like blades that slice and cut their bodies, or transforms into fire that burns them all around.
 
 Some ghosts give birth to five children every day and night, and as each is born, they eat it, yet still they are not sated. They crack open their own skulls and eat their brains.
 
@@ -540,7 +540,7 @@ A verse from the *Ratnakūṭa Sūtra* says:
 > Who can share in the suffering you must bear?
 >
 > Father, mother, brother, wife, and child,
-> Friends, servants, and precious possessions —
+> Friends, servants, and precious possessions ...
 > Death always tells the sinner:
 > "Not the slightest sin did I impose upon you.
 > You yourself committed the sins, and now you come.
@@ -555,7 +555,7 @@ And a verse from the *Mahāsaṃnipāta Sūtra* says:
 
 > Wife, children, jewels, and royal throne:
 > At the moment of death, none of these will follow.
-> Only morality, generosity, and heedfulness —
+> Only morality, generosity, and heedfulness ...
 > These alone, in this life and the next, are one's companions.
 
 Thus, in this endless cycle of doing evil and enduring suffering, one is born in vain and dies in vain; the wheel of transmigration turns without limit. As a sūtra verse says:
@@ -961,11 +961,11 @@ That world has lapis lazuli for its ground, with golden cords marking its paths.
 
 Pools with golden bottoms have silver sand. Pools with silver bottoms have golden sand. Crystal pools have lapis lazuli sand. Lapis lazuli pools have crystal sand. Coral, amber, giant clam shell, and agate; white jade and purple gold are likewise. The water of eight excellent qualities fills them to the brim. Jeweled sand shines through; no depth is unsounded. Jeweled flowers cover the pools completely. Blue lotuses emit blue light. Yellow lotuses emit yellow light. Red and white lotuses each emit their own light. Gentle breezes blow, and the lights of the flowers whirl and interlace. Within each flower is a bodhisattva. Within each ray of light are transformation-buddhas. Gentle ripples flow and circle, pouring into one another. The waters flow with tranquil ease, neither too slow nor too swift. Their sound is subtle and wondrous, expounding nothing other than the buddha-dharma. Some streams set forth suffering, emptiness, non-self, and the pāramitās. Some pour forth the sounds of the ten powers, the four fearlessnesses, and the dharmas exclusive to buddhas. Or the voice of great compassion. Or the voice of the patience of non-arising. Whatever one hears brings immeasurable joy, in accord with the truth of purity, quiescence, and cessation, in accord with the paths practiced by bodhisattvas and śrāvakas.
 
-And there are geese, mandarin ducks, herons, storks, swans, and cranes; peacocks, parrots, kalavinkas, and other hundred-jeweled-colored birds. Day and night, throughout the six periods, they produce harmonious and elegant sounds, praising mindfulness of the Buddha, mindfulness of the Dharma, and mindfulness of the Saṅgha, and proclaiming the five faculties, the five powers, and the seven factors of awakening. The name of the three evil paths and their afflictions is nowhere to be found. There are only the spontaneous sounds of bliss.
+And there are geese, mandarin ducks, herons, storks, swans, and cranes; peacocks, parrots, kalavinkas, and other hundred-jeweled-colored birds. Day and night, throughout the six periods, they produce harmonious and elegant sounds, praising mindfulness of the Buddha, mindfulness of the Dharma, and mindfulness of the Sangha, and proclaiming the five faculties, the five powers, and the seven factors of awakening. The name of the three evil paths and their afflictions is nowhere to be found. There are only the spontaneous sounds of bliss.
 
 When the bodhisattvas and the assembly of śrāvakas enter the jeweled pools to bathe, the water becomes shallow or deep according to their wish, never contrary to their hearts. It washes away the defilements of the mind. Clear, bright, pure, and pellucid, when they have finished bathing, each goes their own way. Some dwell in the sky, some beneath the trees. There are those who expound the sūtras and those who recite them, those who receive the teaching and those who listen to it, those who sit in meditation and those who practice walking meditation. Among them, those who have not yet attained the fruit of stream-entry attain stream-entry, and so on up to those who have not yet attained arhatship, who attain arhatship. Those who have not yet reached the stage of non-retrogression reach non-retrogression. All attain the path, and none is without joy.
 
-There are also clear streams, their beds spread with golden sand, shallow or deep, cool or warm as desired. Winding among sandalwood trees, row upon row aligned, leaf upon leaf rustling together, with leaves of purple gold and branches of white silver, flowers of coral and fruits of jade, of one jewel or of seven jewels, pure or variegated. Branches, leaves, flowers, and fruits are all splendidly adorned. Gentle breezes come in due time and blow through the jeweled trees. The jeweled nets sway gently. Exquisite flowers drift slowly down and scatter with the wind, spreading their fragrance, mingling their scent with the flowing water. And there come forth subtle, wondrous sounds, with tones harmonizing as in song. It is as if hundreds of thousands of kinds of music were all played at once. Those who hear them naturally become mindful of the Buddha, the Dharma, and the Saṅgha. The ten thousand kinds of music in the Sixth Heaven cannot match even a single strain from these trees.
+There are also clear streams, their beds spread with golden sand, shallow or deep, cool or warm as desired. Winding among sandalwood trees, row upon row aligned, leaf upon leaf rustling together, with leaves of purple gold and branches of white silver, flowers of coral and fruits of jade, of one jewel or of seven jewels, pure or variegated. Branches, leaves, flowers, and fruits are all splendidly adorned. Gentle breezes come in due time and blow through the jeweled trees. The jeweled nets sway gently. Exquisite flowers drift slowly down and scatter with the wind, spreading their fragrance, mingling their scent with the flowing water. And there come forth subtle, wondrous sounds, with tones harmonizing as in song. It is as if hundreds of thousands of kinds of music were all played at once. Those who hear them naturally become mindful of the Buddha, the Dharma, and the Sangha. The ten thousand kinds of music in the Sixth Heaven cannot match even a single strain from these trees.
 
 Between the leaves, flowers grow; upon the flowers, fruits appear, and all emit radiance that transforms into jeweled canopies. All the deeds of the buddhas are reflected within those canopies. Indeed, when one wishes to see the magnificently pure buddha-fields of the ten directions, one sees them all illuminated among the jeweled trees. Above the trees are seven-tiered jeweled nets. Between the jeweled nets are five hundred billion wondrous flower palaces, and within the palaces are heavenly children, their necklaces shining, sporting freely.
 
@@ -1300,7 +1300,7 @@ Therefore the bodhisattva Nāgārjuna has said:
 
 Yet in that land there is no regression; one advances ever onward toward the path of buddhahood.
 
-First, because the power of the Buddha's compassionate vows constantly sustains and upholds one. Second, because the Buddha's light constantly shines, increasing the aspiration for awakening. Third, because the sounds of the water, birds, trees, groves, and wind-bells constantly cause one to give rise to mindfulness of the Buddha, mindfulness of the Dharma, and mindfulness of the Saṅgha. Fourth, because one has only bodhisattvas as good companions; there are no evil conditions without, and the deep afflictions within are subdued. Fifth, because one's lifespan equals the Buddha's, lasting for measureless kalpas, and one cultivates the path of buddhahood without the interruption of birth and death.
+First, because the power of the Buddha's compassionate vows constantly sustains and upholds one. Second, because the Buddha's light constantly shines, increasing the aspiration for awakening. Third, because the sounds of the water, birds, trees, groves, and wind-bells constantly cause one to give rise to mindfulness of the Buddha, mindfulness of the Dharma, and mindfulness of the Sangha. Fourth, because one has only bodhisattvas as good companions; there are no evil conditions without, and the deep afflictions within are subdued. Fifth, because one's lifespan equals the Buddha's, lasting for measureless kalpas, and one cultivates the path of buddhahood without the interruption of birth and death.
 
 A verse of the *Avataṃsaka Sūtra* says:
 
@@ -1445,7 +1445,7 @@ Fourth: "Once one hears the Buddha's name, this surpasses even the udumbara flow
 
 Fifth: "In a hundred koṭis of world-systems, two honored ones do not appear simultaneously. Therefore I take refuge and bow before the rare and great Dharma King."
 
-Sixth: "The ocean of merit of the Buddha, the Dharma, and the saṅgha is one body throughout the three times. Therefore I take refuge and bow before the honored one of perfectly interpenetrating myriad virtues."
+Sixth: "The ocean of merit of the Buddha, the Dharma, and the sangha is one body throughout the three times. Therefore I take refuge and bow before the honored one of perfectly interpenetrating myriad virtues."
 
 For those who delight in extensive practice, one should follow the twelve prostrations of Nāgārjuna Bodhisattva. There is also Master Shandao's six-period prostration liturgy, which cannot be set out in full here. Even if one has no other practice and relies solely on prostration, one can still attain birth in the Pure Land. As the *Sūtra of the Names of Ākāśagarbha Bodhisattva and Buddhas* states:
 
@@ -1486,7 +1486,7 @@ The verses are:
 > his beautiful words bring abundant benefit.
 > I now bow my head in veneration.
 >
-> All the noble saṅgha of worthies and sages,
+> All the noble sangha of worthies and sages,
 > together with the hosts of gods and humans,
 > all join in taking refuge.
 > Therefore I too pay homage.
@@ -1542,11 +1542,11 @@ In general terms, it is called the aspiration to become a buddha, also known as 
 
 **The Four Vows Directed toward Phenomena:**
 
-*First:* "Sentient beings are numberless; I vow to liberate them all." One should be mindful that all sentient beings possess the buddha-nature, and [vow]: "I shall cause them all to enter nirvāṇa without remainder." This aspiration is the precept of benefiting sentient beings. It is also called the mind of gratitude-virtue. It is also the contributory cause of buddha-nature and the cause of the nirmāṇakāya bodhi.
+*First:* "Sentient beings are numberless; I vow to liberate them all." One should be mindful that all sentient beings possess the Buddha-nature, and [vow]: "I shall cause them all to enter nirvāṇa without remainder." This aspiration is the precept of benefiting sentient beings. It is also called the mind of gratitude-virtue. It is also the contributory cause of Buddha-nature and the cause of the nirmāṇakāya bodhi.
 
-*Second:* "Afflictions are inexhaustible; I vow to sever them all." This is the precept of gathering in wholesome discipline. It is also the mind of severance-virtue, the direct cause of buddha-nature, and the cause of the dharmakāya bodhi.
+*Second:* "Afflictions are inexhaustible; I vow to sever them all." This is the precept of gathering in wholesome discipline. It is also the mind of severance-virtue, the direct cause of Buddha-nature, and the cause of the dharmakāya bodhi.
 
-*Third:* "Dharma gates are boundless; I vow to know them all." This is the precept of gathering in wholesome dharmas. It is also the mind of wisdom-virtue, the elucidating cause of buddha-nature, and the cause of the saṃbhogakāya bodhi.
+*Third:* "Dharma gates are boundless; I vow to know them all." This is the precept of gathering in wholesome dharmas. It is also the mind of wisdom-virtue, the elucidating cause of Buddha-nature, and the cause of the saṃbhogakāya bodhi.
 
 *Fourth:* "The unsurpassed bodhi; I vow to realize it." This is the aspiration to seek the fruit of buddhahood. That is, by fully fulfilling the preceding three vows and practices, one realizes the complete bodhi of the three bodies, and thereupon broadly liberates all sentient beings once more.
 
@@ -1619,11 +1619,11 @@ The *Dharmapada Sūtra* says:
 
 **Answer:** Those who produce such an understanding are called those who "wrongly grasp emptiness" and are decidedly not disciples of the Buddha. Let me pose a counter-question: If you would, on the grounds that affliction is bodhi, happily give rise to affliction and evil karma, then you should also, on the grounds that birth-and-death is nirvāṇa, happily endure the fierce sufferings of birth-and-death. Why is it that you find even a moment's suffering in its karmic consequences unbearable and wish to avoid it, yet for the cause of suffering lasting through endless kalpas, you happily indulge without restraint?
 
-Therefore one should know: affliction and bodhi, though one in essence, differ in their function according to the time, so that defilement and purity are not the same, just as water and ice [are the same substance but differ in state], and just as a seed and its fruit [are one in essence but differ according to time and function]. For this reason, those who cultivate the Way reveal the buddha-nature originally inherent within them; those who do not cultivate the Way will never have any principle revealed.
+Therefore one should know: affliction and bodhi, though one in essence, differ in their function according to the time, so that defilement and purity are not the same, just as water and ice [are the same substance but differ in state], and just as a seed and its fruit [are one in essence but differ according to time and function]. For this reason, those who cultivate the Way reveal the Buddha-nature originally inherent within them; those who do not cultivate the Way will never have any principle revealed.
 
 As the thirty-second fascicle of the *Nirvāṇa Sūtra* states:
 
-> Good man, if someone asks whether within a seed there is fruit or no fruit, one should definitively answer: both existent and nonexistent. Why? Apart from the seed, one cannot produce the fruit; therefore it is called "existent." The seed has not yet sprouted; therefore it is called "nonexistent." For this reason it is both existent and nonexistent. Why? The time differs, but the essence is one. The buddha-nature of sentient beings is likewise. If one says that within sentient beings there is a separate buddha-nature, this is not so. Why? Sentient beings are the buddha-nature; the buddha-nature is sentient beings. It is only because the time differs that there is purity and impurity.
+> Good man, if someone asks whether within a seed there is fruit or no fruit, one should definitively answer: both existent and nonexistent. Why? Apart from the seed, one cannot produce the fruit; therefore it is called "existent." The seed has not yet sprouted; therefore it is called "nonexistent." For this reason it is both existent and nonexistent. Why? The time differs, but the essence is one. The Buddha-nature of sentient beings is likewise. If one says that within sentient beings there is a separate Buddha-nature, this is not so. Why? Sentient beings are the Buddha-nature; the Buddha-nature is sentient beings. It is only because the time differs that there is purity and impurity.
 
 **Question:** [Lacking the capacity for advanced practice,] should one still arouse the universal vows?
 
@@ -1704,7 +1704,7 @@ A verse in the second fascicle of the *Mūlamadhyamakakārikā* says:
 > If one further produces a view that there is emptiness,
 > such a one the buddhas cannot transform.
 
-The *Buddha Treasury Sūtra*, in its chapter on mindfulness of the saṅgha, refutes attachment to "having something to be attained":
+The *Buddha Treasury Sūtra*, in its chapter on mindfulness of the sangha, refutes attachment to "having something to be attained":
 
 > Those who grasp at having something to be attained speak of self, person, lifespan, and living being. They conceptualize and discriminate dharmas that are without any [inherent existence]. They teach either annihilationism or eternalism, either action or non-action. My pure Dharma, by these causes and conditions, is gradually extinguished.
 
@@ -1733,13 +1733,13 @@ The *Mohe zhiguan* says, citing the *Ratnamegha Sūtra*:
 
 > A monk who does not cultivate the dharmas of a monk has no place in the entire great-thousand world-system even to spit, let alone to receive the offerings of others.
 
-Sixty monks wept and addressed the Buddha: "We would rather die than receive the offerings of others." The Buddha said: "That you give rise to a mind of shame is excellent, excellent indeed." One monk asked the Buddha: "What kind of monk can receive offerings?" The Buddha said: "One who is counted among the saṅgha, cultivates the practices of the saṅgha, and obtains the fruits of the saṅgha, such a person can receive offerings. The four fruits and their approaches constitute the saṅgha. The thirty-seven factors of awakening are the practices of the saṅgha. The four fruits are the fruits of the saṅgha."
+Sixty monks wept and addressed the Buddha: "We would rather die than receive the offerings of others." The Buddha said: "That you give rise to a mind of shame is excellent, excellent indeed." One monk asked the Buddha: "What kind of monk can receive offerings?" The Buddha said: "One who is counted among the sangha, cultivates the practices of the sangha, and obtains the fruits of the sangha, such a person can receive offerings. The four fruits and their approaches constitute the sangha. The thirty-seven factors of awakening are the practices of the sangha. The four fruits are the fruits of the sangha."
 
 The monks again addressed the Buddha: "What about one who has aroused the Mahāyāna aspiration?"
 
 The Buddha said:
 
-> If one arouses the Mahāyāna aspiration and seeks omniscience, even though one is not counted in the [śrāvaka] saṅgha, does not cultivate [their] practices, and does not obtain [their] fruits, one can still receive offerings.
+> If one arouses the Mahāyāna aspiration and seeks omniscience, even though one is not counted in the [śrāvaka] sangha, does not cultivate [their] practices, and does not obtain [their] fruits, one can still receive offerings.
 
 The monks asked in astonishment: "How can such a person receive offerings?"
 
@@ -1749,7 +1749,7 @@ The Buddha said:
 
 It is also said that the *Secret Treasury Sūtra of the Tathāgata* teaches:
 
-> If a person whose father is a pratyekabuddha kills him, steals the property of the Three Treasures, whose mother is an arhat and defiles her, slanders the Buddha with falsehoods, causes dissension among the noble saṅgha with divisive speech, reviles the sages with harsh words, [harbors ill intentions toward those seeking the Dharma], harbors the initial karmic anger of the five heinous crimes, harbors the greed of stealing from those who keep the precepts, and harbors the delusion of extreme views, making these ten evils, yet if this person can know the teaching of dependent arising expounded by the Tathāgata, [understanding] no self, no person, no sentient being, no lifespan, no birth, no cessation, no defilement, no attachment, primordially pure in nature, and furthermore knows that all dharmas are primordially pure in nature, and understands, knows, and enters with faith, I do not say that this person is headed for the hells or the evil destinies.
+> If a person whose father is a pratyekabuddha kills him, steals the property of the Three Treasures, whose mother is an arhat and defiles her, slanders the Buddha with falsehoods, causes dissension among the noble sangha with divisive speech, reviles the sages with harsh words, [harbors ill intentions toward those seeking the Dharma], harbors the initial karmic anger of the five heinous crimes, harbors the greed of stealing from those who keep the precepts, and harbors the delusion of extreme views, making these ten evils, yet if this person can know the teaching of dependent arising expounded by the Tathāgata, [understanding] no self, no person, no sentient being, no lifespan, no birth, no cessation, no defilement, no attachment, primordially pure in nature, and furthermore knows that all dharmas are primordially pure in nature, and understands, knows, and enters with faith, I do not say that this person is headed for the hells or the evil destinies.
 >
 > Why? Because dharmas have no accumulation. Dharmas do not gather and cause affliction. All dharmas are unborn and unabiding; they arise through the combination of causes and conditions, and having arisen, they cease. If the mind, having arisen, ceases, then all bonds and latent tendencies also arise and cease. For one who understands in this way, there is no place of transgression. If there were transgression and abiding, that would be impossible. It is like a room that has been dark for a hundred years: when a lamp is lit, the darkness cannot say, "I am the master of this room; I have dwelt here long and will not depart." When the lamp is born, the darkness is immediately extinguished. The meaning is the same.
 
@@ -1862,11 +1862,11 @@ Furthermore, when Megha, the great worthy, heard that the youth Sudhana had alre
 
 If it were not so, [the sūtra] would merely say: "Because one wishes to pull out the suffering of all sentient beings, and because one wishes to cause all sentient beings to attain great bodhi, and because one wishes to gather in sentient beings and bring them to birth in that buddha land." The treatise likewise simply says "aspires to become a buddha." This clarifies that the bodhicitta directed toward phenomena also fully repays the kindness of donors.
 
-What is called "initial" [in the scholastic classification] refers to the bodhicitta directed toward phenomena within the [saṃsāric] realm, as taught in the Tripiṭaka. How much more so if one deeply trusts that all sentient beings possess the buddha-nature and universally vows that self and other together [attain liberation]!
+What is called "initial" [in the scholastic classification] refers to the bodhicitta directed toward phenomena within the [saṃsāric] realm, as taught in the Tripiṭaka. How much more so if one deeply trusts that all sentient beings possess the Buddha-nature and universally vows that self and other together [attain liberation]!
 
 As [detailed] below in the gate of merit-dedication.
 
-**Question:** If one trusts and understands that sentient beings originally possess the buddha-nature, is this not [already the bodhicitta] directed toward principle?
+**Question:** If one trusts and understands that sentient beings originally possess the Buddha-nature, is this not [already the bodhicitta] directed toward principle?
 
 **Answer:** This is trusting and understanding the ultimate principle of the Mahāyāna. It is not necessarily the contemplative wisdom that accords with the emptiness of the first principle.
 
@@ -2215,7 +2215,7 @@ Master Shandao says:
 
 > Make the end of this life your deadline, and vow never to stop midway.
 
-**Second, practice with utmost sincerity.** This means that toward the Three Treasures of the Land of Utmost Bliss, the Buddha, the Dharma, and the Saṅgha, one's mind constantly recalls them and generates the deepest reverence. The *Yaojue* says:
+**Second, practice with utmost sincerity.** This means that toward the Three Treasures of the Land of Utmost Bliss, the Buddha, the Dharma, and the Sangha, one's mind constantly recalls them and generates the deepest reverence. The *Yaojue* says:
 
 > Whether walking, standing, sitting, or lying down, never turn your back on the west. When spitting, blowing your nose, or relieving yourself, never face the west.
 
@@ -2507,7 +2507,7 @@ A verse by Mañjuśrī praising the Buddha in the *Avataṃsaka Sūtra* says:
 
 A verse in the *Dajing* (大經, *Great Sūtra*) says:
 
-> All sentient beings, because they experience differently, slander the Tathāgata, the Dharma, and the Saṅgha.
+> All sentient beings, because they experience differently, slander the Tathāgata, the Dharma, and the Sangha.
 
 The *Da zhidu lun* (大智度論, *Great Treatise on the Perfection of Wisdom*) says:
 
@@ -2633,7 +2633,7 @@ The *Da zhidu lun* (*Great Treatise on the Perfection of Wisdom*) also says:
 
 A sūtra says:
 
-> If one gives rise to deviant thoughts and conceit, know that such a person is one of overweening pride who destroys and extinguishes the Buddha-Dharma, who causes many sentient beings to give rise to unwholesome minds, who disrupts the harmony of the Saṅgha, who displays anomalies to deceive sentient beings. Such a person is a companion of Mara. Though such an evil person may recollect the Buddha, he loses the taste of ambrosia. Wherever such a person is born, because of conceit, the body will be perpetually small and lowly, born into a base and impoverished family, adorned with innumerable evil karmas. Such are the manifold evils one must guard against.
+> If one gives rise to deviant thoughts and conceit, know that such a person is one of overweening pride who destroys and extinguishes the Buddha-Dharma, who causes many sentient beings to give rise to unwholesome minds, who disrupts the harmony of the Sangha, who displays anomalies to deceive sentient beings. Such a person is a companion of Mara. Though such an evil person may recollect the Buddha, he loses the taste of ambrosia. Wherever such a person is born, because of conceit, the body will be perpetually small and lowly, born into a base and impoverished family, adorned with innumerable evil karmas. Such are the manifold evils one must guard against.
 
 One should cultivate all good deeds. Without the power of patient endurance and the eye of wisdom, a single thought of anger can incinerate everything without remainder. The *Yijiao jing* (遺教經, *Sūtra of Bequeathed Teachings*) says:
 
@@ -3082,7 +3082,7 @@ If there are good friends and fellow practitioners who share this aspiration, th
 > Are established from the perfectly awakened mind
 > Of all tathāgatas.
 
-One should understand that birth-and-death is itself nirvāṇa, and that the afflictions are themselves bodhi. They are perfectly interpenetrating, without obstruction, neither two nor different. Yet through a single moment of deluded thought one has entered the realm of birth and death. Blinded by the disease of ignorance, one has long forgotten the path of original awakening. But all dharmas from the very beginning have always been of the nature of quiescent extinction: like an illusion, without fixed nature, they transform in accord with the mind. Therefore, the child of the Buddha should be mindful of the Three Jewels and turn from the wrong to the right. The Buddha is the king of physicians, the Dharma is the excellent medicine, the Saṅgha are the attendants of the sick. They remove the disease of ignorance, open the eye of right view, reveal the path of original awakening, and lead one to the Pure Land. Nothing surpasses the Buddha, the Dharma, and the Saṅgha. Therefore, the child of the Buddha should first generate the thought of the great physician-king and recollect the Buddha single-mindedly:
+One should understand that birth-and-death is itself nirvāṇa, and that the afflictions are themselves bodhi. They are perfectly interpenetrating, without obstruction, neither two nor different. Yet through a single moment of deluded thought one has entered the realm of birth and death. Blinded by the disease of ignorance, one has long forgotten the path of original awakening. But all dharmas from the very beginning have always been of the nature of quiescent extinction: like an illusion, without fixed nature, they transform in accord with the mind. Therefore, the child of the Buddha should be mindful of the Three Jewels and turn from the wrong to the right. The Buddha is the king of physicians, the Dharma is the excellent medicine, the Sangha are the attendants of the sick. They remove the disease of ignorance, open the eye of right view, reveal the path of original awakening, and lead one to the Pure Land. Nothing surpasses the Buddha, the Dharma, and the Sangha. Therefore, the child of the Buddha should first generate the thought of the great physician-king and recollect the Buddha single-mindedly:
 
 *Namo to the buddhas of the three times and the ten directions.*
 *Namo to our original teacher, Śākyamuni Buddha.*
@@ -3093,7 +3093,7 @@ Next, generate the thought of the wondrous excellent medicine and recollect the 
 *Namo to the Sūtra of the Lotus of the Wonderful Dharma of Equal Great Wisdom.*
 *Namo to the eighty thousand and twelve divisions of the correct Dharma.*
 
-Next, generate the thought of constant protective care and recollect the Saṅgha single-mindedly:
+Next, generate the thought of constant protective care and recollect the Sangha single-mindedly:
 
 *Namo to Avalokiteśvara Bodhisattva.*
 *Namo to Mahāsthāmaprāpta Bodhisattva.*
@@ -3509,7 +3509,7 @@ The *Contemplation Sūtra* says:
 
 The *Guanfo jing*, fascicle three. The Buddha told the Śākya clansmen:
 
-> "In the age of the semblance Dharma of Vipaśyin Buddha, there was a householder named Moonvirtue who had five hundred sons. They all contracted a serious illness. Their father came before his sons, weeping with palms joined, and said: 'You children hold wrong views and do not believe in the true Dharma. Now the knife of impermanence cuts your bodies. On what will you rely? There is a World-Honored One named Vipaśyin Buddha. You may recite his name.' The sons heard and, out of respect for their father, recited 'Namo Buddha.' The father further said: 'You may recite the Dharma. You may recite the Saṅgha.' Before they could recite it three times, the sons died. Because they had recited the Buddha's name, they were born in the Heaven of the Four Great Kings. When their heavenly lifespan ended, because of their previous wrong views, they fell into a great hell. When the hell-wardens and rākṣasas struck and ruined their eyes with hot iron forks, as they endured this suffering they recalled their father's instruction. Because of their recollection of the Buddha, they were reborn in the human realm."
+> "In the age of the semblance Dharma of Vipaśyin Buddha, there was a householder named Moonvirtue who had five hundred sons. They all contracted a serious illness. Their father came before his sons, weeping with palms joined, and said: 'You children hold wrong views and do not believe in the true Dharma. Now the knife of impermanence cuts your bodies. On what will you rely? There is a World-Honored One named Vipaśyin Buddha. You may recite his name.' The sons heard and, out of respect for their father, recited 'Namo Buddha.' The father further said: 'You may recite the Dharma. You may recite the Sangha.' Before they could recite it three times, the sons died. Because they had recited the Buddha's name, they were born in the Heaven of the Four Great Kings. When their heavenly lifespan ended, because of their previous wrong views, they fell into a great hell. When the hell-wardens and rākṣasas struck and ruined their eyes with hot iron forks, as they endured this suffering they recalled their father's instruction. Because of their recollection of the Buddha, they were reborn in the human realm."
 
 > "In the time of Śikhin Buddha, they only heard the Buddha's name but did not see the Buddha's form. And so on through the time of Kāśyapa Buddha, they also heard his name. Because of the karmic connection of hearing the names of six buddhas, they were born in my time. These bhikṣus, in their former lives, slandered the Buddha's true Dharma with evil minds. But solely because, out of respect for their father, they recited 'Namo Buddha,' in every subsequent life they were able to hear the names of all the buddhas. And now, in this present life, they have encountered my appearance in the world, removed all obstructions, and attained arhatship."
 
@@ -3589,7 +3589,7 @@ The *Mahākaruṇā Sūtra* (*Dabeijing*), fascicle two, says:
 
 **Answer:** The same sūtra, fascicle three. The Buddha told Ānanda:
 
-> "In the past, there was a great merchant leader who took a company of merchants out onto the great ocean. Their ship was suddenly attacked by a makara, a great fish that was about to swallow them. At that time, the merchant leader and all the merchants, with hair standing on end and hearts seized with terror, each began to weep and wail: 'Alas! How wonderful was Jambudvīpa! How rare and precious! A human body is so difficult to obtain! Now we must part from our parents, sisters, wives, children, relatives, and friends. Never again will we see them, nor will we see the Buddha, the Dharma, and the Saṅgha.' They wept and wailed bitterly."
+> "In the past, there was a great merchant leader who took a company of merchants out onto the great ocean. Their ship was suddenly attacked by a makara, a great fish that was about to swallow them. At that time, the merchant leader and all the merchants, with hair standing on end and hearts seized with terror, each began to weep and wail: 'Alas! How wonderful was Jambudvīpa! How rare and precious! A human body is so difficult to obtain! Now we must part from our parents, sisters, wives, children, relatives, and friends. Never again will we see them, nor will we see the Buddha, the Dharma, and the Sangha.' They wept and wailed bitterly."
 
 > "At that time, the merchant leader bared his right shoulder, placed his right knee on the ground, and standing upon the ship, single-mindedly recollected the Buddha. Joining his palms in homage, he cried out in a loud voice: 'Namo to the buddhas who have attained great fearlessness, the ones of great compassion, the ones who have pity on all sentient beings!' He called out thus three times. The merchants likewise called out three times in unison. When the makara heard the Buddha's name and the sound of homage, it was filled with great love and reverence. Upon hearing, it closed its mouth."
 
@@ -3630,7 +3630,7 @@ Therefore the *Soapberry Seed Sūtra* says:
 
 > The king of the country of Nanda, Vaidūrya, dispatched an envoy to address the Buddha: "I humbly beseech the World-Honored One to bestow upon me, out of special compassion, an essential method of practice, so that day and [p.0077] night I may easily cultivate it, and in future ages be far removed from all suffering."
 >
-> The Buddha replied: "Great King, if you wish to extinguish the obstructions of affliction and the obstructions of karmic retribution, you should string together one hundred and eight soapberry seeds and keep them always with you. Whether walking, sitting, or lying down, you should always recite with utmost sincerity and undistracted mind the names of Buddha, Dharma, and Saṅgha, passing one soapberry seed with each recitation. In this manner, whether ten, twenty, one hundred, one thousand, or even hundreds of thousands of millions of recitations, if you are able to complete two hundred thousand recitations with body and mind undisturbed and free of all dishonesty and crookedness, then upon relinquishing this life you will be born in the third heaven, that of Yāma. Clothing and food will come of themselves, and you will constantly enjoy peace and bliss. If further you are able to complete one million recitations, you will sever the one hundred and eight bonds of karmic affliction, turn your back on the current of birth and death, advance toward the path of nirvāṇa, and attain the unsurpassed fruit."
+> The Buddha replied: "Great King, if you wish to extinguish the obstructions of affliction and the obstructions of karmic retribution, you should string together one hundred and eight soapberry seeds and keep them always with you. Whether walking, sitting, or lying down, you should always recite with utmost sincerity and undistracted mind the names of Buddha, Dharma, and Sangha, passing one soapberry seed with each recitation. In this manner, whether ten, twenty, one hundred, one thousand, or even hundreds of thousands of millions of recitations, if you are able to complete two hundred thousand recitations with body and mind undisturbed and free of all dishonesty and crookedness, then upon relinquishing this life you will be born in the third heaven, that of Yāma. Clothing and food will come of themselves, and you will constantly enjoy peace and bliss. If further you are able to complete one million recitations, you will sever the one hundred and eight bonds of karmic affliction, turn your back on the current of birth and death, advance toward the path of nirvāṇa, and attain the unsurpassed fruit."
 
 The passages on this are very numerous. I excerpt ten in brief:
 
@@ -3690,7 +3690,7 @@ The *Larger Amitābha Sūtra* says:
 
 Now I shall explain for you: there are ten kinds of birth. What are the ten kinds of birth?
 
-> 1. Contemplating the body with right mindfulness and always harboring joy, offering food, drink, and clothing to the Buddha and the Saṅgha: one attains birth in the land of Amitābha Buddha.
+> 1. Contemplating the body with right mindfulness and always harboring joy, offering food, drink, and clothing to the Buddha and the Sangha: one attains birth in the land of Amitābha Buddha.
 >
 > 2. With right mindfulness, giving excellent medicine to a single sick monk and to all sentient beings: one attains birth in the land of Amitābha Buddha.
 >
@@ -4094,7 +4094,7 @@ Master [Huai]gan also says:
 
 However, there is a passage in a sūtra where a monk teaches other monks:
 
-> You should recollect the Buddha, recollect the Dharma, recollect the Saṅgha, recollect the precepts, recollect generosity, recollect the heavens. Contemplate in this way the peace, bliss, quiescence, and cessation of nirvāṇa. Cherish nirvāṇa alone, the ultimate purity.
+> You should recollect the Buddha, recollect the Dharma, recollect the Sangha, recollect the precepts, recollect generosity, recollect the heavens. Contemplate in this way the peace, bliss, quiescence, and cessation of nirvāṇa. Cherish nirvāṇa alone, the ultimate purity.
 
 And it says that one who teaches in this way is called a false teacher and an evil companion, and that such a person is one who slanders the Buddha, who aids non-Buddhist paths. It says: "Such an evil person I would not permit even a sip of water." And further: "Better to ripen the five deadly transgressions than to nurture the view of self, the view of beings, and the view of a lifespan." And: "Better to have a view of self as great as Mount Sumeru than to have a view of emptiness even as small as a mustard seed."
 
@@ -4401,11 +4401,11 @@ Knowing this, one should contemplate the great benevolence and virtue of the Bud
 
 And the *Mahāparinirvāṇa Sūtra*, explaining the definitive teaching of the Tathāgata, says:
 
-> All sentient beings possess the buddha-nature. The Tathāgata is eternal, without change or alteration.
+> All sentient beings possess the Buddha-nature. The Tathāgata is eternal, without change or alteration.
 
 And again:
 
-> All sentient beings will certainly attain *anuttarā samyaksaṃbodhi*. Therefore I say that all sentient beings possess the buddha-nature.
+> All sentient beings will certainly attain *anuttarā samyaksaṃbodhi*. Therefore I say that all sentient beings possess the Buddha-nature.
 
 And again:
 

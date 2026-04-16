@@ -9,11 +9,11 @@ Attributed to Bodhidharma (菩提達摩) of South India (南天竺國)
 
 Someone asked: What is called dhyāna-samādhi?
 
-Answer: Dhyāna is the non-arising of a disturbed mind. No movement, no thought — this is dhyāna-samādhi. Rectifying the mind and stilling thought; no arising, no ceasing; no going, no coming; serene and immovable — this is called dhyāna-samādhi.
+Answer: Dhyāna is the non-arising of a disturbed mind. No movement, no thought; this is dhyāna-samādhi. Rectifying the mind and stilling thought; no arising, no ceasing; no going, no coming; serene and immovable; this is called dhyāna-samādhi.
 
 What is called dhyāna-contemplation?
 
-Answer: The mind-spirit being clear and pure is called dhyāna. Illuminating principle with clarity is called contemplation. When dhyāna-contemplation is realized spontaneously, without error — therefore it is called dhyāna-contemplation. The mind-spirit being clear and pure, neither arising nor ceasing, neither coming nor going, tranquil and immovable — this is called dhyāna.
+Answer: The mind-spirit being clear and pure is called dhyāna. Illuminating principle with clarity is called contemplation. When dhyāna-contemplation is realized spontaneously, without error; therefore it is called dhyāna-contemplation. The mind-spirit being clear and pure, neither arising nor ceasing, neither coming nor going, tranquil and immovable; this is called dhyāna.
 
 Someone asked: What is called dhyāna-samādhi?
 
@@ -25,9 +25,9 @@ Answer: The Dharma of dhyāna proceeds in sequence through penetration. For one 
 
 As for the Gate of Settling the Mind: this refers to the mind being scattered and active, grasping at conditions without settling. One singularly gathers and focuses, keeping mindfulness settled, with no further wandering or agitation. Therefore it is called the Gate of Settling the Mind.
 
-As for the Gate of Emptying the Mind: this refers to watching the mind as it turns and pursues, awakening to the mind as empty and still — no going, no coming, no place of abiding, a mind with nothing to rely upon. Therefore it is called the Gate of Emptying the Mind.
+As for the Gate of Emptying the Mind: this refers to watching the mind as it turns and pursues, awakening to the mind as empty and still; no going, no coming, no place of abiding, a mind with nothing to rely upon. Therefore it is called the Gate of Emptying the Mind.
 
-As for the Gate of the Signless Mind: this refers to the mind being clear and pure, without any appearance or characteristics — neither blue nor yellow, neither red nor white; neither long nor short, neither great nor small; neither square nor round, tranquil and immovable. Therefore it is called the Gate of No-form.
+As for the Gate of the Signless Mind: this refers to the mind being clear and pure, without any appearance or characteristics; neither blue nor yellow, neither red nor white; neither long nor short, neither great nor small; neither square nor round, tranquil and immovable. Therefore it is called the Gate of No-form.
 
 As for the Gate of Liberation of the Mind: one knows the mind to be unfettered and unbound. All afflictions (kleśas) do not come to oppress the mind. Therefore it is called the Gate of Liberation of the Mind.
 

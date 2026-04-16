@@ -143,7 +143,7 @@ Mantra for universal worship:
 
 Mantra for ripening all beings:
 
-[Dhāraṇī]
+*Oṃ sarva-tathāgata-uṣṇīṣa-sarva-sattvānāṃ sarva-siddhayoḥ saṃpratyayantāṃ tathāgata-śāsana-adhiṣṭhāntāṃ.*
 
 ### Purification and Vajra-Binding
 
@@ -319,4 +319,4 @@ This mantra is used for body-protection, dispelling [evil], establishing boundar
 
 The Five-Syllable Dhāraṇī [with variant forms]:
 
-[Dhāraṇī]
+*Arapacana. Oṃ vajra-tīkṣṇa. Oṃ nukha-cida. Oṃ khaḍga-graha-khaṃ. Oṃ khaḍga-sattva.*

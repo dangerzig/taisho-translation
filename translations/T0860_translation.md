@@ -30,7 +30,7 @@ Mantra of skillful means for taking refuge:
 > "Through ignorance I have accumulated
 > Evil deeds of body, speech, and mind.
 > Because desire, anger, and delusion covered my heart,
-> Toward the Buddha, true Dharma, and noble Saṅgha,
+> Toward the Buddha, true Dharma, and noble Sangha,
 > Parents, both teachers, and spiritual friends,
 > And toward immeasurable sentient beings,
 > Throughout the cycle of birth and death since beginningless time,
@@ -716,7 +716,7 @@ Next, the mantra of Avalokiteśvara:
 
 Having placed the dharmadhātu heart syllable at the crown as before, and additionally empowered with this mantra, secret seal, and contemplation, read and recite sūtras according to one's ability, or construct caitya maṇḍalas. When the activities are complete, next rise from the seat and with a harmonious and respectful manner attend to worldly affairs.
 
-Furthermore, to sustain the body-wheel, next go on alms round, or accept a patron's invitation, or receive what is given in the saṅgha. One should avoid fish, meat, and pungent vegetables. After offering first to the honored one and all buddhas, one should not eat various leftover, overnight, or impure foods. All liquors and fruit-juice beverages that can cause intoxication should not be consumed.
+Furthermore, to sustain the body-wheel, next go on alms round, or accept a patron's invitation, or receive what is given in the sangha. One should avoid fish, meat, and pungent vegetables. After offering first to the honored one and all buddhas, one should not eat various leftover, overnight, or impure foods. All liquors and fruit-juice beverages that can cause intoxication should not be consumed.
 
 Next, take a portion of food and offer it to the honored one. Then perform the eating-as-one-wishes ritual. If there is a remainder, set aside another portion for the starving and those who beg for alms, generating this thought: "I accept this morsel of food to sustain the vessel of the body and practice the Way in peace, like greasing a wheel-axle to prevent damage and reach the destination. I should not partake for the sake of flavor." Neither increase nor decrease the mind's attachment, and do not generate thoughts of beautifying the body. Then contemplate the dharmadhātu heart syllable to purify all food, and empower the self-body with the karma vajra.
 

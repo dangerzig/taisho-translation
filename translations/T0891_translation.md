@@ -38,7 +38,7 @@ Then the Bhagavān Mahāvairocana Vajra Tathāgata further taught the visualizat
 
 Then Mahāvairocana Tathāgata, having taught this visualization, entered the great Amoghasiddhi vajra foremost ambrosia wrathful vajra samādhi. Emerging from samādhi, through the three vajra gates he spoke the great mantra of Aparājita, the wrathful great vidyā-king:
 
-[Dhāraṇī omitted]
+*Namaḥ samanta-buddhānāṃ. Namo vajra-krodhāya mahā-niṣṭhura-ṭaṅka-bhairavāya. Asi-musala-praśūpa-śastra-dhāya. Oṃ amṛta-kuṇḍali kha kha khāhi khāhi tiṣṭha tiṣṭha bandha bandha hana hana garjja garjja visphūṭaya visphūṭaya sarva-vighnān vināyakaṃ mahā-gaṇapatim vidhvaṃ-tākāraya hūṃ phaṭ svāhā.*
 
 When Mahāvairocana Tathāgata had spoken this great mantra, all Buddhas and bodhisattvas of great awesome power all praised it. All evil māras and non-Buddhist practitioners were greatly terrified, their bodies and minds trembling, with minds fixed only on Mahāvairocana Buddha.
 
@@ -108,7 +108,7 @@ When Amoghasiddhi Tathāgata had spoken this great mantra, the māra-palaces in 
 
 Then Akṣobhya, the Great Vajra Tathāgata, entered the universally transforming, adorning, great vajra samādhi. Emerging from samādhi, he spoke the great mantra of Mahābala:
 
-[Dhāraṇī omitted]
+*Namaḥ samanta-buddhānāṃ. Oṃ hūṃ hūṃ hūṃ phaṭ phaṭ phaṭ. Oṃ oṃ ugra-śūla-pāṇi hūṃ hūṃ hūṃ phaṭ phaṭ phaṭ. Oṃ jyotir-nirṇanda hūṃ hūṃ hūṃ phaṭ phaṭ phaṭ. Mahābalāya svāhā.*
 
 When Akṣobhya Tathāgata had spoken this great mantra, all celestial māras were terrified, with minds fixed only on Mahāvairocana Vajra Tathāgata. "The vidyā-holder who recites this great mantra can grant all wishes, including stopping rain or bringing rain, all according to one's desire."
 

@@ -35,7 +35,7 @@ The Buddha addressed the assembly: "There is a dharma-vinaya samādhi. Bodhisatt
 
 "There are those who study the Way and obtain profound sūtras from an illumined teacher. When faithful bodhisattvas who practice with sincere hearts wish to study under them, they cut them off and refuse, calling them unworthy. Yet when there are mere śrāvakas who have never seen the sūtras and whose faith and discipline are not yet established, and these people ask for sūtras, they give them instead. They then explain them by means of worldly language and analogies, and they pass on these deceptive teachings to one another, causing the true Way to become diluted and faint. They bring great blame upon themselves and mislead others as well. This is the eleventh self-burning.
 
-"There are those who study but lack genuine faith. Unable to discern true from false and without fear of wrongdoing, they flatter the powerful, and not understanding the Way, they follow along in disparaging the buddha-dharma and slandering the bhikṣu saṅgha. Such people not only cast themselves into the eight difficulties but increase others' wrongdoing as well. This is the twelfth self-burning.
+"There are those who study but lack genuine faith. Unable to discern true from false and without fear of wrongdoing, they flatter the powerful, and not understanding the Way, they follow along in disparaging the buddha-dharma and slandering the bhikṣu sangha. Such people not only cast themselves into the eight difficulties but increase others' wrongdoing as well. This is the twelfth self-burning.
 
 "Those who commit these offenses cannot remove their blame through repentance. Those emerging from the three evil paths still have some hope. But these twelve types are exceedingly difficult to liberate."
 

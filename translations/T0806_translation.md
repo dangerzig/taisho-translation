@@ -26,4 +26,4 @@ A few translator's notes on difficult passages:
 - **Śulibāru**: A phonetic transcription of an unidentified Sanskrit name, glossed in the text as meaning "compassion" (慈, *maitrī*).
 - **King Kuṇḍa** (群茶王): Phonetic transcription; identity uncertain.
 - **King Héng** (橫王): May be a Chinese rendering of a foreign name or a Chinese personal name; identity uncertain.
-- The compiler of the sūtras here is **Mahākāśyapa** (not Kāśyapa Buddha), paired with Ānanda as at the traditional First Council — though the text locates this activity at Saṃkāśya rather than the canonical Rājagṛha.
+- The compiler of the sūtras here is **Mahākāśyapa** (not Kāśyapa Buddha), paired with Ānanda as at the traditional First Council; though the text locates this activity at Saṃkāśya rather than the canonical Rājagṛha.

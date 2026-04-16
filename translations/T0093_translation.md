@@ -25,7 +25,7 @@ At one time, the Venerable Ānanda was dwelling at Rājagṛha, in the Kalandaka
 
 "Brahmin, do not take refuge in me. Just as I have taken refuge in the World-Honored One, so too should you take refuge in him."
 
-"Therefore, Ānanda, I now take refuge in that World-Honored One, the Dharma, and the Saṅgha of bhikṣus. I shall be an upāsaka of that World-Honored One. From this day forward I abstain from taking life. Today I pay my respects to the Venerable One."
+"Therefore, Ānanda, I now take refuge in that World-Honored One, the Dharma, and the Sangha of bhikṣus. I shall be an upāsaka of that World-Honored One. From this day forward I abstain from taking life. Today I pay my respects to the Venerable One."
 
 Thus spoke Ānanda. That Ājīvika, having heard what the Venerable Ānanda had said, rejoiced and was delighted.
 

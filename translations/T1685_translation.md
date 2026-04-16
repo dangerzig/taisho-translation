@@ -19,7 +19,7 @@ At that time, the World-Honored One addressed the bhikṣus: "I shall now procla
 > Supernatural powers pervaded the three realms;
 > In the city of Kanyākubja of the kingdom of Sāṃkāśya,
 > Descent was made from the palace of Trāyastriṃśa Heaven;
-> In the great city of Rājagṛha, the saṅgha was divided,
+> In the great city of Rājagṛha, the sangha was divided,
 > And the Tathāgata skillfully guided them, practicing compassion;
 > In the sacred stūpa of the great city of Vaiśālī,
 > The Tathāgata contemplated the measure of his lifespan;
@@ -43,7 +43,7 @@ At that time, the World-Honored One again addressed the bhikṣus: "Listen caref
 > Śiśunāga and Kauśāmbī,
 > The peak of Stūpa Mountain and the Great Wilderness,
 > Veṇu village and Verañjā,
-> King Śuddhodana's capital, the city of Kapilavastu—
+> King Śuddhodana's capital, the city of Kapilavastu...
 > One year each at these holy sites,
 > Śākyamuni Tathāgata sojourned and dwelled.
 > Thus for eighty years remaining in the world,

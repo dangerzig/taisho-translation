@@ -7,9 +7,9 @@ Translated from the Chinese. Eastern Jin, translated by Tan Wulan (曇無蘭)
 
 ---
 
-Homage to the Buddha. Homage to the Dharma. Homage to the Bhikṣu-Saṅgha. Homage to Śāriputra. Homage to the bhikṣu Mahāmaudgalyāyana. Homage throughout the realm of [his] renowned awakened mind.
+Homage to the Buddha. Homage to the Dharma. Homage to the Bhikṣu-Sangha. Homage to Śāriputra. Homage to the bhikṣu Mahāmaudgalyāyana. Homage throughout the realm of [his] renowned awakened mind.
 
-In the north, on Gandhamahāyana Mountain, there dwells a Worm King named Chāhōumu. He abides within the teeth of [Name]. Now I dispatch a messenger: you shall not dare to eat the teeth or tooth roots of [Name]. Worms within the tooth roots, worms at the sides of the teeth: if they do not immediately descend into the vessel, their heads shall split into seven pieces, like the *jūluóqínshàn* earthworm. Brahmā exhorts this spell. Homage to the Buddha — may all that I have spelled come to pass as wished.
+In the north, on Gandhamahāyana Mountain, there dwells a Worm King named Chāhōumu. He abides within the teeth of [Name]. Now I dispatch a messenger: you shall not dare to eat the teeth or tooth roots of [Name]. Worms within the tooth roots, worms at the sides of the teeth: if they do not immediately descend into the vessel, their heads shall split into seven pieces, like the *jūluóqínshàn* earthworm. Brahmā exhorts this spell. Homage to the Buddha; may all that I have spelled come to pass as wished.
 
 ---
 

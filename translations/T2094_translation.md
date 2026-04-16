@@ -25,7 +25,7 @@ In the thirteenth year of the Tianjian era of Emperor Wu of the Liang, for two h
 
 ## Shengyuan Monastery
 
-Shengyuan Monastery is none other than Waguan Monastery. It stands in the western corner of the city, looking out over the river, with its rear resting against a high ridge. It is the most ancient of all historical sites. Having repeatedly suffered destruction by the fires of warfare, scarcely a trace of it remains. During the time of the Li kings, the Shengyuan Pavilion was still standing — a surviving artifact from the Liang dynasty.
+Shengyuan Monastery is none other than Waguan Monastery. It stands in the western corner of the city, looking out over the river, with its rear resting against a high ridge. It is the most ancient of all historical sites. Having repeatedly suffered destruction by the fires of warfare, scarcely a trace of it remains. During the time of the Li kings, the Shengyuan Pavilion was still standing; a surviving artifact from the Liang dynasty.
 
 ## Great Reverent Love Monastery
 
@@ -45,4 +45,4 @@ During the Tianjian era of the Liang, Emperor Wu toured this mountain together w
 
 ## Changyu Monastery
 
-Five *li* to the south of Jiankang there is a mountain ridge, with flat land in between where common people live interspersed. There are places known as Great Changyu, Small Changyu, and East Changyu — all are place names. Small Changyu lies to the south of Waguan Monastery; at the western end of the lane one reaches the great river. In the early Liang dynasty, Changyu Monastery was established there.
+Five *li* to the south of Jiankang there is a mountain ridge, with flat land in between where common people live interspersed. There are places known as Great Changyu, Small Changyu, and East Changyu; all are place names. Small Changyu lies to the south of Waguan Monastery; at the western end of the lane one reaches the great river. In the early Liang dynasty, Changyu Monastery was established there.

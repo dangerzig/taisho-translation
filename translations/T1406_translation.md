@@ -15,11 +15,11 @@ In the north there is a mountain called Gandha-Mahāṣu. There dwells a King of
 
 There are four sisters. What are the four?
 
-*Andāni Yamāni Yemāni Muhāni* —
+*Andāni Yamāni Yemāni Muhāni* ...
 
 *Andāni*, causing the thief to become blind; *Muhāni*, causing the thief to halt; *Yemāni*, causing the thief to sit down; *Muhāni*, causing the thief to become utterly foolish and dull.
 
-Thus: *Aurali Murali Daṇḍīja Padmajā Kāli* — causing the thief's mouth and teeth to clench shut. Until the spell-cord is untied, the thief cannot be freed.
+Thus: *Aurali Murali Daṇḍīja Padmajā Kāli*; causing the thief's mouth and teeth to clench shut. Until the spell-cord is untied, the thief cannot be freed.
 
 Having recited this incantation, then declare: "On behalf of so-and-so and such-and-such persons, I perform protection and warding off of evil harm, granting them all peace and security."
 

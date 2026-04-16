@@ -18,13 +18,13 @@ At one time, the Buddha was dwelling in Mṛgāramātṛ Park in the Eastern Par
 At that time, the Venerable Ānanda, placing his right knee on the ground, knelt with joined palms and spoke this verse:
 
 > Pure-eyed one, without equal,
-> No matter remains unpracticed—
+> No matter remains unpracticed...
 > Wisdom unstained and unattached:
 > What, then, is called receiving the year?
 
 At that time, the World-Honored One replied to Ānanda with this verse:
 
-> In pravāraṇā, the three karmas are purified—
+> In pravāraṇā, the three karmas are purified...
 > Actions of body, speech, and mind.
 > Pair by pair, bhikṣus face one another
 > And each declares their own shortcomings.
@@ -36,13 +36,13 @@ At that time, the World-Honored One replied to Ānanda with this verse:
 At that time, Ānanda again questioned the ceremony with this verse:
 
 > The Buddhas of the past, countless as Ganges sands,
-> Pratyekabuddhas and śrāvakas too—
+> Pratyekabuddhas and śrāvakas too...
 > Is this the Dharma of all the Buddhas?
 > Or does it belong to Śākyamuni alone?
 
 At that time, the World-Honored One again replied to Ānanda with this verse:
 
-> The Buddhas of the past, countless as Ganges sands—
+> The Buddhas of the past, countless as Ganges sands...
 > Their disciples of purified mind
 > All observed this; it is the Dharma of all Buddhas,
 > Not the invention of the present Śākyamuni.
@@ -51,18 +51,18 @@ At that time, the World-Honored One again replied to Ānanda with this verse:
 > They depart alone, without companions,
 > And do not expound the Dharma to others.
 > The future Buddhas, World-Honored Ones,
-> Countless and incalculable as Ganges sands—
+> Countless and incalculable as Ganges sands...
 > They too will observe this pravāraṇā,
 > Just as Gautama does now.
 
 At that time, the Venerable Ānanda, having heard these words, was filled with joy and exultation beyond his ability to contain himself. He then ascended to the teaching hall, took the gaṇḍī in hand, and spoke thus: "I now strike this signal-drum of the Tathāgata. All who are disciples of the Tathāgata should now assemble together." At that time, Ānanda spoke this verse:
 
 > Having subdued the power of Māra and adversaries,
-> Having eliminated all fetters without remainder—
+> Having eliminated all fetters without remainder...
 > In the open air the gaṇḍī is struck;
 > Bhikṣus who hear it should assemble.
 > All those who wish to hear the Dharma,
-> Who would cross the flowing sea of birth and death—
+> Who would cross the flowing sea of birth and death...
 > Upon hearing this wondrous resonant sound,
 > Let all quickly gather here.
 
@@ -72,11 +72,11 @@ At that time, the World-Honored One said to Ānanda: "Take your seat in proper o
 
 At that time, the World-Honored One silently observed the bhikṣus, then addressed them: "I wish now to observe the pravāraṇā. Have I committed any offense against any person here? Have I transgressed in body, speech, or mind?" After the Tathāgata spoke these words, the bhikṣus remained silent and gave no reply. The Tathāgata then addressed the bhikṣus a third time: "I wish now to observe the pravāraṇā. Have I truly committed no offense against any person here?"
 
-At that time, the Venerable Śāriputra rose from his seat, knelt with joined palms, and addressed the World-Honored One: "The assembly of bhikṣus, having observed the Tathāgata, perceives no transgression of body, speech, or mind. The reason is this: the World-Honored One brings across those not yet brought across, liberates those not yet liberated, causes those who have not yet attained nirvāṇa to attain nirvāṇa, becomes a refuge and protector for those without refuge, becomes eyes for the blind, becomes a king of physicians for the sick. He is the sole honored one in the three realms, whom none can equal—the most revered, the most supreme. He causes those who have not yet aroused the aspiration for the Way to arouse it, causes those not yet enlightened to become enlightened, causes those who have not yet heard the Dharma to hear it, and for those who are lost he opens a path, guiding them with the right Dharma. For these reasons, the Tathāgata has committed no offense against any person, nor has he transgressed in body, speech, or mind."
+At that time, the Venerable Śāriputra rose from his seat, knelt with joined palms, and addressed the World-Honored One: "The assembly of bhikṣus, having observed the Tathāgata, perceives no transgression of body, speech, or mind. The reason is this: the World-Honored One brings across those not yet brought across, liberates those not yet liberated, causes those who have not yet attained nirvāṇa to attain nirvāṇa, becomes a refuge and protector for those without refuge, becomes eyes for the blind, becomes a king of physicians for the sick. He is the sole honored one in the three realms, whom none can equal; the most revered, the most supreme. He causes those who have not yet aroused the aspiration for the Way to arouse it, causes those not yet enlightened to become enlightened, causes those who have not yet heard the Dharma to hear it, and for those who are lost he opens a path, guiding them with the right Dharma. For these reasons, the Tathāgata has committed no offense against any person, nor has he transgressed in body, speech, or mind."
 
 At that time, Śāriputra addressed the World-Honored One: "I too now declare myself before the Tathāgata. Have I committed any offense against the Tathāgata or the saṃgha of bhikṣus?"
 
-The World-Honored One replied: "You, Śāriputra, have committed no improper action whatsoever in body, speech, or mind. The reason is this: your wisdom is without equal—manifold wisdom, immeasurable wisdom, boundless wisdom, wisdom without peer, swift wisdom, keen wisdom, profound wisdom, equanimous wisdom. You are of few desires and content, delighting in seclusion, abundant in skillful means. Your mindfulness is undistracted; you possess the samādhi of dhāraṇī. Your foundational faculties are fully endowed with moral discipline; you have accomplished samādhi, accomplished wisdom, accomplished liberation, accomplished the knowledge and vision of liberation, accomplished courageous vigor. You can endure what is said to you; you recognize evil as contrary to the Dharma; your character is orderly and composed; and you do not act with sudden violence. Just as the greatest crown prince of a cakravartin king is destined to succeed to the royal throne and turn the precious wheel, so too does Śāriputra turn the unsurpassed pure Dharma-wheel—the wheel that all the gods and people of the world, nāgas, ghosts, and spirits, Māra and the hosts of Māra, have never turned. What you speak is always in accord with the principle of the Dharma; you have never gone contrary to reason."
+The World-Honored One replied: "You, Śāriputra, have committed no improper action whatsoever in body, speech, or mind. The reason is this: your wisdom is without equal, manifold wisdom, immeasurable wisdom, boundless wisdom, wisdom without peer, swift wisdom, keen wisdom, profound wisdom, equanimous wisdom. You are of few desires and content, delighting in seclusion, abundant in skillful means. Your mindfulness is undistracted; you possess the samādhi of dhāraṇī. Your foundational faculties are fully endowed with moral discipline; you have accomplished samādhi, accomplished wisdom, accomplished liberation, accomplished the knowledge and vision of liberation, accomplished courageous vigor. You can endure what is said to you; you recognize evil as contrary to the Dharma; your character is orderly and composed; and you do not act with sudden violence. Just as the greatest crown prince of a cakravartin king is destined to succeed to the royal throne and turn the precious wheel, so too does Śāriputra turn the unsurpassed pure Dharma-wheel, the wheel that all the gods and people of the world, nāgas, ghosts, and spirits, Māra and the hosts of Māra, have never turned. What you speak is always in accord with the principle of the Dharma; you have never gone contrary to reason."
 
 At that time, Śāriputra addressed the Buddha: "These five hundred bhikṣus should all observe the pravāraṇā. Have all five hundred committed no offense against the Tathāgata?"
 
@@ -90,7 +90,7 @@ At that time, Vaṅgīsa, who was among the assembly, rose from his seat, approa
 > Craving shall arise no more.
 > Like a great wheel-turning sage-king
 > Surrounded by his retinue of ministers,
-> He pervades all the worlds—
+> He pervades all the worlds...
 > The heavens above and the human realm.
 > A great general guiding the multitudes,
 > He serves as teacher and guide for all.

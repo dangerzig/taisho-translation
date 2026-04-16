@@ -176,7 +176,7 @@ Composed by Nāgārjuna (龍樹). Translated from the Chinese. Song dynasty, tra
 > All relies on the Buddha's words and teachings.
 > As he expounded,
 > The dharmas of the skandhas, āyatanas, and dhātus,
-> The great elements and consciousness —
+> The great elements and consciousness ...
 > All that was proclaimed is entirely equal.
 > When that wisdom is directly realized,
 > There is no error and no discrimination.
@@ -271,7 +271,7 @@ Composed by Nāgārjuna (龍樹). Translated from the Chinese. Song dynasty, tra
 >
 > As when the foolish see a reflection
 > And wrongly conceive it as real:
-> The bondage of the world is likewise —
+> The bondage of the world is likewise ...
 > Wisdom is ensnared by the net of delusion.
 >
 > Nature, likened to a reflection,

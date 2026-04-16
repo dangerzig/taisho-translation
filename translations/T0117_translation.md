@@ -19,11 +19,11 @@ The Buddha said to Ānanda: "The fragrance that pervades the ten directions whet
 
 At that time, the World-Honored One spoke these verses:
 
-> All the flowers and fruits in the world, and all the aloeswood, sandalwood, ambergris, and musk—
+> All the flowers and fruits in the world, and all the aloeswood, sandalwood, ambergris, and musk...
 > Such fragrances as these do not pervade everywhere; only the fragrance of precepts pervades all.
-> Candana, saffron, and styrax, utpala lotus and mālatī blossoms—
+> Candana, saffron, and styrax, utpala lotus and mālatī blossoms...
 > Among all these wondrous floral fragrances, only the fragrance of precepts is supreme.
-> All the aloeswood and sandalwood of the world—their scent is faint and does not pervade everywhere;
+> All the aloeswood and sandalwood of the world; their scent is faint and does not pervade everywhere;
 > If a person upholds the fragrance of the Buddha's pure precepts, all the devas hear it throughout and cherish and revere them.
 > Thus having complete and pure precepts, and always practicing all virtuous actions,
 > Such a person can release the bonds of the world, and all māras will always keep far away.

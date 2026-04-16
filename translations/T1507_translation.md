@@ -45,7 +45,7 @@ Regarding "all dharmas are exceedingly profound," this refers to the twelve link
 
 1. **Sūtras** (*qìjīng*): The Buddha's spoken dharma, taught to gods, kings, or non-Buddhist seekers, analyzed according to circumstances so that each could attain understanding. *Qì* ("contract/thread") means connecting, stringing together reasoned principles into a method of practice.
 
-2. **Vinaya** (*pínī*): The rules of discipline, taught for the two saṅghas (monks and nuns), checking evil and restraining wrongdoing, whether 250 or 500 rules. Like a king's secret treasury that external officials may not handle.
+2. **Vinaya** (*pínī*): The rules of discipline, taught for the two sanghas (monks and nuns), checking evil and restraining wrongdoing, whether 250 or 500 rules. Like a king's secret treasury that external officials may not handle.
 
 3. **Abhidharma** (*āpítán*): The "great dharma." Why "great"? Because the great wisdom of the four noble truths is the banner of all dharmas, cutting off all wrong views, ignorance, and the flood of delusion. Also called the "incomparable dharma," because the eight knowledges, ten wisdoms, and undefiled right view transcend the obstacles of the three realms, having no equal. Kātyāyanīputra compiled and selected the essential wisdom from the sūtras and presented it to the Buddha for his seal of approval.
 
@@ -78,7 +78,7 @@ Maitreya's praise of the compilation of the six pāramitās into one division (t
 
 **2. Recollection of the Dharma:** Dharma precedes even the Buddha, for "the dharma produces all buddhas; the dharma gives rise to the buddha-path." Yet the Buddha is recollected first because dharma, however sublime, cannot be known without the Buddha, just as buried treasure cannot be found without a person of supernatural knowledge.
 
-**3. Recollection of the Saṅgha:** The saṅgha consists of four pairs and eight grades of noble persons. [The story of Brahmadatta, a monk of meager merit, illustrates the power of the saṅgha: wherever he went, the assembly could not receive food. The Buddha divided the assembly repeatedly until Brahmadatta was alone, revealing him as the cause. The Buddha personally gave him food and arranged for him to offer to monks in cessation-attainment and the four *brahmavihāras*, gradually building his merit.]
+**3. Recollection of the Sangha:** The sangha consists of four pairs and eight grades of noble persons. [The story of Brahmadatta, a monk of meager merit, illustrates the power of the sangha: wherever he went, the assembly could not receive food. The Buddha divided the assembly repeatedly until Brahmadatta was alone, revealing him as the cause. The Buddha personally gave him food and arranged for him to offer to monks in cessation-attainment and the four *brahmavihāras*, gradually building his merit.]
 
 **4. Recollection of Morality:** [The story of two monks crossing a waterless plain: one chose to die rather than drink insect-filled water and was reborn in heaven; the other drank and survived to see the Buddha, but the Buddha said: "Though you see me, you are far from me. He who died is always at my side."]
 
@@ -105,7 +105,7 @@ Maitreya's praise of the compilation of the six pāramitās into one division (t
 
 **Recollection of the Dharma:** [The story of Subhūti, who was praised by the Buddha as the first to see him, even before the nun Utpalavarṇā who transformed into a cakravartin king to push through the crowd. While she thought she was first, Subhūti was in a mountain cave mending his robe. When told the Buddha had descended from heaven, he reflected: "Where is the Buddha? Is the golden color the Buddha? But gold has no limits. The Buddha said: 'All dharmas are empty and without substance. If one understands that the twelve links are empty, neither made nor created, neither person nor self, neither alive nor dead, then one sees the dharma. To see the dharma without life or death is to see me.'" He clasped his hands and called out: "Homage!" then sat down and continued mending.]
 
-**Recollection of the Saṅgha (continued):** The four pairs and eight grades of noble persons are discussed. The saṅgha contains the three vehicles: arhat-saṅgha, pratyekabuddha, and Mahāyāna. Even the Buddha regularly confesses before the saṅgha, because "the ground of the saṅgha is thick and weighty."
+**Recollection of the Sangha (continued):** The four pairs and eight grades of noble persons are discussed. The sangha contains the three vehicles: arhat-sangha, pratyekabuddha, and Mahāyāna. Even the Buddha regularly confesses before the sangha, because "the ground of the sangha is thick and weighty."
 
 **Recollection of Morality (continued):** Two kinds of precepts: worldly (five precepts, ten good deeds) and path precepts (three samādhis, the four truths' sublime wisdom).
 
@@ -132,7 +132,7 @@ Maitreya's praise of the compilation of the six pāramitās into one division (t
 
 **Svāgata:** Foremost in contemplation of the impure, who upon seeing his sleeping wife's white teeth perceived only bone, then contemplated the thirty-six impure substances of the body.
 
-**Uruvilvā-Kāśyapa:** Foremost in attending to the saṅgha and providing the four requisites.
+**Uruvilvā-Kāśyapa:** Foremost in attending to the sangha and providing the four requisites.
 
 **Nadī-Kāśyapa:** Foremost in concentrated listening; his inner realization was so thorough that oil seeped from his pores like sweat.
 
@@ -148,7 +148,7 @@ Maitreya's praise of the compilation of the six pāramitās into one division (t
 
 **Revata:** Foremost in meditation. [He sat under one tree for six years without distinguishing whether it was alive or dead. When King Prasenajit hosted him for six years, Revata could not remember the king's name: "I sat under a tree for six years and did not know whether it was alive or dead. How could I know a person's name?"]
 
-**Therāpaṭamālā:** Foremost in organizing the saṅgha's duties, assigning monks to their proper divisions (sūtra study, vinaya, abhidharma, meditation, preaching, alms-begging, teaching).
+**Therāpaṭamālā:** Foremost in organizing the sangha's duties, assigning monks to their proper divisions (sūtra study, vinaya, abhidharma, meditation, preaching, alms-begging, teaching).
 
 **Rāṣṭrapāla:** Foremost in noble renunciation. Born into royal wealth, he refused to eat for six days until his parents consented to his ordination. Later, returning home for alms, he rejected his family's gold, jewels, and beautiful wives, saying: "These things only harm people."
 

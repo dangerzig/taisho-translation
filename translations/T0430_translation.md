@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 0430
 
-Translated from the Chinese. Liang dynasty, translated by Saṅghapāla (僧伽婆羅)
+Translated from the Chinese. Liang dynasty, translated by Sanghapāla (僧伽婆羅)
 
 ---
 

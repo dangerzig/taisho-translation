@@ -54,7 +54,7 @@ Composed by Nāgārjuna (龍樹). Translated from the Chinese. Song dynasty, tra
 >
 > Like a painter in the world
 > Who paints the image of a yakṣa,
-> Then frightens himself with his own painting—
+> Then frightens himself with his own painting...
 > This is called one without wisdom.
 >
 > Sentient beings generate defilements themselves,

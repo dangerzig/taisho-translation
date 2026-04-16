@@ -88,4 +88,4 @@ The king, knowing well that the bhikṣu was loftily brilliant and deeply accomp
 
 At this, the entire world knew he was no ordinary person. Because the horses understood his voice, he was thereupon called Bodhisattva Aśvaghoṣa (*Mǎmíng*, 馬鳴, "Horse-Neighing").
 
-In North India he broadly proclaimed the buddha-dharma, guiding and benefiting all beings. Skillful in expedient means, he accomplished others' merit. The fourfold assembly revered him. He was also universally called "the Sun of Merit" (*Gōngdé Rì*, 功德日).
+In North India he broadly proclaimed the buddha-dharma, guiding and benefiting all beings. Skillful in skillful means, he accomplished others' merit. The fourfold assembly revered him. He was also universally called "the Sun of Merit" (*Gōngdé Rì*, 功德日).

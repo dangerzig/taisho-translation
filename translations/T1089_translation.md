@@ -154,7 +154,7 @@ Join both hollow palms like an unopened lotus. When entrusting, follow the visua
 >
 > If one wishes to accomplish pacification,
 > First generate a patient and compassionate heart.
-> One should seek the ground of unsurpassed awakening
+> One should seek the ground of unsurpassed enlightenment
 > And not delight in the two-vehicle path of the śrāvakas.
 > If one further seeks to accomplish a great matter,
 > One must first perform the obstacle-removing method.
@@ -342,7 +342,7 @@ Join both hollow palms like an unopened lotus. When entrusting, follow the visua
 > This most profound secret oral teaching
 > Is the sequential recitation's all-encompassing gate.
 > If one can attend upon this Honored One,
-> It is not from planting wholesome roots in one life alone,
+> It is not from planting roots of merit in one life alone,
 > But from having been in the presence of immeasurable buddhas,
 > Cultivating the ultimate gate of bodhi.
 > If within that one meets a good teacher,

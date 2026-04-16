@@ -191,7 +191,7 @@ At that time the World-Honored One spoke this verse:
 > "Constantly creating the cause of evil karma, yet desiring the fruit of peace and happiness.
 > Far removed from human and heavenly states, one will be born in the Burning hell.
 > Beating and cursing teachers, father and mother, renunciants and brahmins.
-> Holding wrong views and severing wholesome roots: in the Extreme Heat one receives great suffering."
+> Holding wrong views and severing roots of merit: in the Extreme Heat one receives great suffering."
 
 Furthermore, the Buddha told the monks: "In the Avīci great hell, the comparative lifespan extends and then life comes to an end. If Devadatta or any deluded person generates an evil mind toward the Tathāgata, destroys stūpas and monasteries, burns sūtras and images, draws blood from the Buddha's body, or kills an arhat, or drives and enslaves monks and nuns, at death they will certainly fall into the Avīci great hell, to suffer without end."
 

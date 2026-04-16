@@ -126,32 +126,32 @@ If anyone copies this Sūtra of Infinite Life, either personally or by having ot
 
 *Namo bhagavate aparimitāyur-jñāna-suviniścitateja-rājāya tathāgatāya. Tadyathā: oṃ sarva-saṃskāra-pariśuddha dharmate gagana svāhā. Mucikati sarva-bhāva-viśuddhi mahānaya-parivāri svāhā.*
 
-> The power of generosity can accomplish perfect awakening.
+> The power of generosity can accomplish perfect enlightenment.
 > One who realizes the power of generosity is a lion among humans.
 > The power of generosity can make its sound heard everywhere.
 > Through the gradual steps of compassion, one enters most fully.
 >
-> The power of upholding precepts can accomplish perfect awakening.
+> The power of upholding precepts can accomplish perfect enlightenment.
 > One who realizes the power of precepts is a lion among humans.
 > The power of precepts can make its sound heard everywhere.
 > Through the gradual steps of compassion, one enters most fully.
 >
-> The power of patience can accomplish perfect awakening.
+> The power of patience can accomplish perfect enlightenment.
 > One who realizes the power of patience is a lion among humans.
 > The power of patience can make its sound heard everywhere.
 > Through the gradual steps of compassion, one enters most fully.
 >
-> The power of diligence can accomplish perfect awakening.
+> The power of diligence can accomplish perfect enlightenment.
 > One who realizes the power of diligence is a lion among humans.
 > The power of diligence can make its sound heard everywhere.
 > Through the gradual steps of compassion, one enters most fully.
 >
-> The power of meditation can accomplish perfect awakening.
+> The power of meditation can accomplish perfect enlightenment.
 > One who realizes the power of meditation is a lion among humans.
 > The power of meditation can make its sound heard everywhere.
 > Through the gradual steps of compassion, one enters most fully.
 >
-> The power of wisdom can accomplish perfect awakening.
+> The power of wisdom can accomplish perfect enlightenment.
 > One who realizes the power of wisdom is a lion among humans.
 > The power of wisdom can make its sound heard everywhere.
 > Through the gradual steps of compassion, one enters most fully.

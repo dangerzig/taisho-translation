@@ -215,7 +215,7 @@ Translated from the Chinese. Tang dynasty, translated by Amoghavajra (不空)
 > Of all the Buddhas and Tathāgatas, there is an eldest son:
 > His name is the honored Samantabhadra.
 > With wisdom and wondrous practice equal to his,
-> I dedicate all my wholesome roots.
+> I dedicate all my roots of merit.
 
 > May body, speech, and mind be purified,
 > All practices purified, and all lands purified.
@@ -280,11 +280,11 @@ Translated from the Chinese. Tang dynasty, translated by Amoghavajra (不空)
 > Like Mañjuśrī's courageous wisdom,
 > And like Samantabhadra's wisdom too:
 > When I learn and practice as they do,
-> I dedicate all my wholesome roots.
+> I dedicate all my roots of merit.
 
 > All the Tathāgatas of the three times
 > Praise this supreme vow of dedication.
-> All my wholesome roots
+> All my roots of merit
 > I have fully dedicated to Samantabhadra's practice.
 
 > When, at the time of death, I relinquish this life,
@@ -308,7 +308,7 @@ Translated from the Chinese. Tang dynasty, translated by Amoghavajra (不空)
 > Throughout the worlds of the ten directions by the power of wisdom.
 
 > If a person recites and upholds Samantabhadra's vows,
-> All the wholesome roots they have accumulated:
+> All the roots of merit they have accumulated:
 > In a single instant their wishes are fulfilled,
 > And thereby all beings attain the supreme vow.
 

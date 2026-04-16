@@ -20,7 +20,7 @@ These bodhisattvas immediately received the instruction and went forth, announci
 
 At that time, at the Great Forest Monastery's multi-storied lecture hall there gathered eighty billion hundred-thousand bodhisattvas who were one-birth-from-buddhahood, one billion hundred-thousand bodhisattvas who had attained non-retrogression, thirty billion bodhisattvas who had attained the patience of the non-arising of dharmas, and sixty billion bodhisattvas who had attained understanding-and-liberation. All these great beings gathered at once at the Great Forest Monastery's multi-storied lecture hall.
 
-At that time, the Venerable Śāriputra, seeing the great multitude of bodhisattvas assembling like clouds, thought: "I should, relying on the Buddha's divine power, respectfully question the World-Honored One, so that these bodhisattvas may be freed from the net of doubt and swiftly achieve the profound unobstructed eloquence: hearing the dharma spoken by all buddhas throughout the ten directions and lands as numerous as the sands of the Ganges, remembering and not forgetting, and swiftly accomplishing the unsurpassed, right, and true path of most perfect awakening.
+At that time, the Venerable Śāriputra, seeing the great multitude of bodhisattvas assembling like clouds, thought: "I should, relying on the Buddha's divine power, respectfully question the World-Honored One, so that these bodhisattvas may be freed from the net of doubt and swiftly achieve the profound unobstructed eloquence: hearing the dharma spoken by all buddhas throughout the ten directions and lands as numerous as the sands of the Ganges, remembering and not forgetting, and swiftly accomplishing the unsurpassed, right, and true path of most perfect enlightenment.
 
 "Also, may the bodhisattvas attain the four inexhaustible purities of dharma-gates. What are the four? First, purification of sentient beings; second, purification of dharma; third, purification of eloquence; fourth, purification and adornment of buddha-lands.
 
@@ -40,7 +40,7 @@ Thereupon the World-Honored One praised Śāriputra: "Excellent, excellent! Śā
 
 "Cultivating mindfulness of the Buddha, one does not contemplate the marks, does not contemplate the lineage, does not contemplate the retinue; neither precepts, nor concentration, nor wisdom, nor understanding, nor the liberation-knowledge-and-vision contemplation. Without abiding, without attainment, not exhausting afflictions. Not knowing through knowledge or through non-knowledge. Not speaking the dharma, not purifying sentient beings. Not for oneself, not for the other. Not dharma, not vinaya, not deportment. Without purification. Not contemplating body, not contemplating mind. Without the ultimate nirvāṇa. Not contemplating past, future, or present. Not from oneself, not from another. In all dharmas there is no receiver of practice.
 
-"Śāriputra! This is called 'embracing and receiving all dharmas, mindfulness of the Buddha in accordance.' It is called 'the fearless dhāraṇī gate entered by all dharmas, with wondrous phrases and meanings, all wishes completely fulfilled.' It is called 'accordance with the one-path samādhi.' It is also called 'all wholesome roots not obtained through another; lineage and marks arise from the dharma itself.' It is called 'right awakening, crossing beyond all māra-events.'
+"Śāriputra! This is called 'embracing and receiving all dharmas, mindfulness of the Buddha in accordance.' It is called 'the fearless dhāraṇī gate entered by all dharmas, with wondrous phrases and meanings, all wishes completely fulfilled.' It is called 'accordance with the one-path samādhi.' It is also called 'all roots of merit not obtained through another; lineage and marks arise from the dharma itself.' It is called 'right awakening, crossing beyond all māra-events.'
 
 "Śāriputra! This is the bodhisattva's dhāraṇī of producing infinite gateways. Whoever hears this dhāraṇī will attain non-retrogression from *anuttarā-samyak-saṃbodhi*. Why? From this dhāraṇī, the merits of all buddhas are brought to ultimate completion, and one can discern the courses of action of all sentient beings. Because one attains what is without attainment, it is called the dhāraṇī of producing infinite gateways."
 
@@ -93,7 +93,7 @@ At that time the World-Honored One spoke in verse:
 > The power of mindfulness, the power of vigor,
 > Samādhi and supreme wondrous dhāraṇī:
 > All appear before one;
-> Swiftly accomplish the most perfect awakening.
+> Swiftly accomplish the most perfect enlightenment.
 > The sentient beings of the three realms,
 > All of them becoming māras,
 > Cannot cause any interruption
@@ -193,7 +193,7 @@ At that time the World-Honored One spoke in verse:
 > Encourage and inspire those who practice the dhāraṇī.
 > Throughout all Ganges-sand lands in the ten directions,
 > With immeasurable buddhas present before one,
-> Attaining the seat of awakening with wondrous marks complete:
+> Attaining the seat of enlightenment with wondrous marks complete:
 > Diligently cultivate and practice this dhāraṇī."
 
 "Furthermore, Śāriputra! A bodhisattva who studies this dhāraṇī attains four benefits of merit. What are the four? First, being remembered by the buddhas of the ten directions; second, being free from all māra-events; third, swiftly purifying evil karmic obstructions; fourth, fully accomplishing unobstructed and conclusive eloquence. These are the four."

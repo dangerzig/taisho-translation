@@ -23,7 +23,7 @@ Translator unknown. An apocryphal liturgical text.
 > Following the Buddha through one lifetime, they propagated the true teaching.
 > Each, according to their original conditions, completed their transforming work,
 > Then cremated their bodies, extinguished their knowledge, and realized the unborn.
-> I bow my head and pay reverence to the Three Jewels together:
+> I bow my head and pay reverence to the Three Treasures together:
 > This is the right cause that can universally save.
 > Those lost in delusion through birth and death are forever sinking and drowning;
 > May all be caused to leave and depart, and reach bodhi.

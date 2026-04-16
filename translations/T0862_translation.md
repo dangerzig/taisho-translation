@@ -153,7 +153,7 @@ Next, the one to be consecrated is led forward: their left foot steps on the flo
 > The auspicious events of the devas' offerings:
 > May your abhiṣeka be just like this.
 > On the vajra-seat, for the sake of all beings,
-> In the last watch of the night, he vanquished Māra and attained perfect awakening;
+> In the last watch of the night, he vanquished Māra and attained perfect enlightenment;
 > The rare and auspicious events that manifested:
 > May you accomplish them all upon this seat.
 > Deer Park at Vārāṇasī, adorned by the river,
@@ -247,7 +247,7 @@ Next, to make the disciple firmly maintain joy, recite this verse:
 
 After the disciple receives the master's instruction, they prostrate at the master's feet and say: "As the master has instructed, I vow to practice."
 
-Dedication of merit and vows: "The disciple so-and-so, having come before the great maṇḍala of the great compassion womb-treasury, heard the true Dharma and given rise to pure faith. Having reverently invited the holy assembly of the ocean-gathering of sages, taken refuge in the Three Jewels, repented and purified sins, and received the Buddha's pure precepts; having cast the flower and formed a connection, received the embrace of the holy ones, and obtained the vajra title of abhiṣeka. In accordance with the merit of the holy stages, boundless and incalculable as grains of sand, I dedicate all of it to sentient beings throughout the dharma-realm. May they all leave suffering and attain peace and joy, abandon wrong and return to right, arouse bodhicitta, practice the bodhisattva-path and never retrogress, and in a future time all attain buddhahood together."
+Dedication of merit and vows: "The disciple so-and-so, having come before the great maṇḍala of the great compassion womb-treasury, heard the true Dharma and given rise to pure faith. Having reverently invited the holy assembly of the ocean-gathering of sages, taken refuge in the Three Treasures, repented and purified sins, and received the Buddha's pure precepts; having cast the flower and formed a connection, received the embrace of the holy ones, and obtained the vajra title of abhiṣeka. In accordance with the merit of the holy stages, boundless and incalculable as grains of sand, I dedicate all of it to sentient beings throughout the dharma-realm. May they all leave suffering and attain peace and joy, abandon wrong and return to right, arouse bodhicitta, practice the bodhisattva-path and never retrogress, and in a future time all attain buddhahood together."
 
 ---
 

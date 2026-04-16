@@ -23,7 +23,7 @@ The mantra:
 Next, one should rejoice in the merit and wisdom accumulated by all the Buddhas and bodhisattvas of the past, present, and future:
 
 > "The Buddhas of the three times, the bodhisattvas, and all sentient beings:
-> All the wholesome roots they have gathered, with palms joined, I entirely rejoice."
+> All the roots of merit they have gathered, with palms joined, I entirely rejoice."
 
 Next, with the right knee on the ground and open palms joined above the crown, visualize bowing at the feet of all the Buddhas, Tathāgatas, and bodhisattvas. Recite the mantra:
 
@@ -59,7 +59,7 @@ Next, form the Samādhi Seal. Both palms face up and cross; the forefingers stan
 
 *Oṃ samādhi-padma-nāma hrīḥ*
 
-With each breath, in and out, observe clearly. Contemplate innumerable Buddhas in empty space! At that moment, all snap their fingers to alert the practitioner, saying: "How will you now accomplish unsurpassed awakening, not knowing the Tathāgatas' essential Dharma of true reality?" The practitioner, hearing this alert, addresses the Buddhas: "What is called true reality? May the Tathāgatas explain it for me." At that time all the Buddhas tell the practitioner: "Excellent, excellent! You are able to ask thus. Visualize the syllable *aḥ* that was placed within your heart, shining and pervading the heart. Recite the mantra:
+With each breath, in and out, observe clearly. Contemplate innumerable Buddhas in empty space! At that moment, all snap their fingers to alert the practitioner, saying: "How will you now accomplish unsurpassed enlightenment, not knowing the Tathāgatas' essential Dharma of true reality?" The practitioner, hearing this alert, addresses the Buddhas: "What is called true reality? May the Tathāgatas explain it for me." At that time all the Buddhas tell the practitioner: "Excellent, excellent! You are able to ask thus. Visualize the syllable *aḥ* that was placed within your heart, shining and pervading the heart. Recite the mantra:
 
 "*Oṃ citta-prativediṃ-karumi*
 

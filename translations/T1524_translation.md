@@ -28,7 +28,7 @@ Composed by Bodhisattva Vasubandhu (*Póshǒu Pándòu*, 婆藪槃豆). Translat
 > Vast and without limit.
 
 > The great compassion of the right Way
-> Is born from wholesome roots that transcend the world.
+> Is born from roots of merit that transcend the world.
 > Pure radiance fills it completely,
 > Like a mirror or the disk of the sun and moon.
 
@@ -68,13 +68,13 @@ Composed by Bodhisattva Vasubandhu (*Póshǒu Pándòu*, 婆藪槃豆). Translat
 > The dharma-king, skillfully upholds [all].
 
 > The Tathāgata's pure lotus assembly:
-> From the flower of true awakening they are born by transformation.
+> From the flower of true enlightenment they are born by transformation.
 > They delight in the flavor of the buddha-dharma;
 > Meditation and samādhi are their food.
 
 > Forever free from affliction of body and mind,
 > Receiving bliss without interruption.
-> The Mahāyāna realm of wholesome roots:
+> The Mahāyāna realm of roots of merit:
 > Equally free from the name of blame and reproach.
 
 > Women, those with deficient faculties,
@@ -178,7 +178,7 @@ In brief, these eight phrases reveal the Tathāgata's meritorious adornment of b
 
 ### Four Kinds of Bodhisattva Practice
 
-How does one contemplate the meritorious adornment of the bodhisattvas? There are four kinds of correct cultivation: (1) Without moving from a single buddha-land, one pervades the ten directions with transformation-bodies, constantly performing buddha-deeds in true practice. (2) Those transformation-bodies, at all times without before or after, in a single mind and single thought emit great radiance pervading all worlds to teach sentient beings and eliminate all their suffering. (3) In all worlds without exception, they make vast offerings and praises to all tathāgatas. (4) In the ten directions, wherever the Three Jewels do not exist, they uphold and adorn the merit-ocean of the Buddha, Dharma, and Saṃgha, showing it universally.
+How does one contemplate the meritorious adornment of the bodhisattvas? There are four kinds of correct cultivation: (1) Without moving from a single buddha-land, one pervades the ten directions with transformation-bodies, constantly performing buddha-deeds in true practice. (2) Those transformation-bodies, at all times without before or after, in a single mind and single thought emit great radiance pervading all worlds to teach sentient beings and eliminate all their suffering. (3) In all worlds without exception, they make vast offerings and praises to all tathāgatas. (4) In the ten directions, wherever the Three Treasures do not exist, they uphold and adorn the merit-ocean of the Buddha, Dharma, and Saṃgha, showing it universally.
 
 ---
 
@@ -192,7 +192,7 @@ This purity has two kinds: (1) purity of the vessel-world (the environment), and
 
 ### Skillful Dedication and the Three Gates
 
-When the bodhisattva has accomplished the broad and concise cultivation of śamatha and vipaśyanā and attained a pliant mind, truly knowing the broad and concise dharmas, one thereby accomplishes the skillful means of dedication. What is the bodhisattva's skillful dedication? It means that all the merit and wholesome roots gathered through the five kinds of cultivation (prostration and the rest) are not sought for one's own abiding happiness, but rather, wishing to uproot the suffering of all sentient beings, one makes the vow to gather all sentient beings and together be born in the buddha-land of Peace and Bliss.
+When the bodhisattva has accomplished the broad and concise cultivation of śamatha and vipaśyanā and attained a pliant mind, truly knowing the broad and concise dharmas, one thereby accomplishes the skillful means of dedication. What is the bodhisattva's skillful dedication? It means that all the merit and roots of merit gathered through the five kinds of cultivation (prostration and the rest) are not sought for one's own abiding happiness, but rather, wishing to uproot the suffering of all sentient beings, one makes the vow to gather all sentient beings and together be born in the buddha-land of Peace and Bliss.
 
 The bodhisattva, having thus skillfully understood dedication, is far removed from three kinds of dharma contrary to the gate of bodhi. What three? (1) Relying on the gate of wisdom, not seeking happiness for oneself, being far from the mind of self-centered attachment to one's own person. (2) Relying on the gate of compassion, uprooting the suffering of all sentient beings, being far from the mind that neglects sentient beings. (3) Relying on the gate of skillful means, pitying all sentient beings, being far from the mind that seeks offerings and reverence for oneself.
 

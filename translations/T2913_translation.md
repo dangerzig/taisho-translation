@@ -99,7 +99,7 @@ One daughter said: "I beg to be without root, without beard, without branch, and
 
 Another daughter wished: "May I be forever without the five desires, forever dwelling in stillness and tranquility, my ears feasting on the sound of the dharma, my eyes beholding the holy teachings. This would be bliss."
 
-Another daughter wished: "In the deep darkness, like empty space, I aspire to profound awakening and to forever behold the holy countenance. This would be bliss."
+Another daughter wished: "In the deep darkness, like empty space, I aspire to profound enlightenment and to forever behold the holy countenance. This would be bliss."
 
 The heavenly lord said to the daughters: "Cease, cease! What you wish for is the realm of no-thought. I cannot grant it. The king among the sun and moon would have you attain it."
 

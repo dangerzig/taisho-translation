@@ -67,7 +67,7 @@ At that time the Buddha was teaching the sūtra, and the entire assembly was set
 > The girl's heart was filled with joy:
 > "Now I have found true peace.
 > I shall make offerings to the Buddha-Dharma."
-> And she generated the mind of awakening.
+> And she generated the mind of enlightenment.
 
 > When Māra heard of this,
 > In his heart he was filled with grief:
@@ -98,7 +98,7 @@ At that time the Buddha was teaching the sūtra, and the entire assembly was set
 > Throw yourself from this tower to the ground,
 > And I shall know you are truly sublime,
 > Diligent and free of attachment,
-> Able to attain unsurpassed awakening."
+> Able to attain unsurpassed enlightenment."
 
 > The girl stood at the railing
 > And joined her palms toward the Buddha:

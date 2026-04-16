@@ -209,15 +209,15 @@ The graduated teaching of the sixteen-foot body is the dharma of birth and death
 
 Second, all sentient beings, including everything spoken and unspoken, all forms and categories, are nothing but empty names. Only nirvāṇa is true principle.
 
-## The Three Jewels as the Wish-Fulfilling Tree
+## The Three Treasures as the Wish-Fulfilling Tree
 
-"How does one contemplate the Three Jewels as the divine wish-fulfilling tree?" The Three Jewels are called "standard and model." The Tathāgata appeared to demonstrate that the Three Jewels exist. Because the Three Jewels exist, one takes the three refuges and obtains the five precepts, and also obtains the merit of a snap of the fingers, and whatever one wishes to cultivate and whatever one wishes to obtain.
+"How does one contemplate the Three Treasures as the divine wish-fulfilling tree?" The Three Treasures are called "standard and model." The Tathāgata appeared to demonstrate that the Three Treasures exist. Because the Three Treasures exist, one takes the three refuges and obtains the five precepts, and also obtains the merit of a snap of the fingers, and whatever one wishes to cultivate and whatever one wishes to obtain.
 
-The Tathāgata is also called the wish-fulfilling Three Jewels, also called the Tathāgata's wish-fulfillment and sentient beings' wish-fulfillment. How is it sentient beings' wish-fulfillment? Because one can take the three refuges and five precepts as one wishes, up through the bodhisattva practices, all obtaining their fruit; hence "sentient beings' wish-fulfillment." The Tathāgata's wish-fulfillment: responding to the capacities of sentient beings; hence "wish-fulfillment."
+The Tathāgata is also called the wish-fulfilling Three Treasures, also called the Tathāgata's wish-fulfillment and sentient beings' wish-fulfillment. How is it sentient beings' wish-fulfillment? Because one can take the three refuges and five precepts as one wishes, up through the bodhisattva practices, all obtaining their fruit; hence "sentient beings' wish-fulfillment." The Tathāgata's wish-fulfillment: responding to the capacities of sentient beings; hence "wish-fulfillment."
 
-Now "nirvāṇa's wish-fulfillment": all suffering and bliss, good and evil, are nothing that is not principle; hence "wish-fulfillment." Hence "contemplating the Three Jewels as the divine wish-fulfilling tree."
+Now "nirvāṇa's wish-fulfillment": all suffering and bliss, good and evil, are nothing that is not principle; hence "wish-fulfillment." Hence "contemplating the Three Treasures as the divine wish-fulfilling tree."
 
-The simile: in the Paranirmitavaśavartin Heaven there is a tree that can fulfill whatever the devas wish; hence it is called the wish-fulfilling tree. The devas' practices over a long time produced this tree. The Three Jewels are likewise: sentient beings' practices over a long time produced the sixteen-foot body; hence "the Three Jewels are like the divine wish-fulfilling tree."
+The simile: in the Paranirmitavaśavartin Heaven there is a tree that can fulfill whatever the devas wish; hence it is called the wish-fulfilling tree. The devas' practices over a long time produced this tree. The Three Treasures are likewise: sentient beings' practices over a long time produced the sixteen-foot body; hence "the Three Treasures are like the divine wish-fulfilling tree."
 
 ## The Three Vehicles
 

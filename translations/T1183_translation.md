@@ -37,7 +37,7 @@ At that time Mañjuśrī addressed the great assembly: "I received this dhāra�
 
 "Another method: take tejovati medicine, empower it with the foregoing mantra eight thousand times, and place it in a bowl, then go begging for alms while holding the bowl. Whatever food, drink, clothing, or even gold, silver, and the seven treasures one needs will all be obtained. All people will love and revere one and compete to make offerings, and in all disputes one will be victorious.
 
-"Another method: on the eighth day of the bright fortnight, before this image of Mañjuśrī, light lamps, eat the three white foods, and offer white foods, various white flowers, and white sandalwood incense. Recite the mantra eight thousand times. When the recitations are complete, lie down and sleep before the image. Mañjuśrī will manifest his pure and wondrous body, all wishes will be fulfilled, and each day he will bestow one thousand gold coins. One must not accumulate them; all should be used to make offerings to the Three Jewels and cultivate merit.
+"Another method: on the eighth day of the bright fortnight, before this image of Mañjuśrī, light lamps, eat the three white foods, and offer white foods, various white flowers, and white sandalwood incense. Recite the mantra eight thousand times. When the recitations are complete, lie down and sleep before the image. Mañjuśrī will manifest his pure and wondrous body, all wishes will be fulfilled, and each day he will bestow one thousand gold coins. One must not accumulate them; all should be used to make offerings to the Three Treasures and cultivate merit.
 
 "Each day recite eight hundred times. According to one's ability, make offerings without interruption.
 
@@ -65,7 +65,7 @@ The four-direction boundary mantra:
 
 "Empower water with this mantra twenty-one times and sprinkle it on the four sides; this establishes the boundary.
 
-"If one constantly recites this mantra before Mañjuśrī Bodhisattva, eight hundred times daily without interruption, one will daily receive five hundred gold coins. These must be offered in service to the Three Jewels; one may use only one's own share for sustenance. One must not seek it for purposeless or teaching-contrary uses, and must never accumulate it.
+"If one constantly recites this mantra before Mañjuśrī Bodhisattva, eight hundred times daily without interruption, one will daily receive five hundred gold coins. These must be offered in service to the Three Treasures; one may use only one's own share for sustenance. One must not seek it for purposeless or teaching-contrary uses, and must never accumulate it.
 
 "One should each day offer various cakes and fruits to Mañjuśrī Bodhisattva, replacing them at the proper times so they do not become impure. One's own garments must be kept extremely clean, with frequent bathing to prevent uncleanliness.
 
@@ -77,7 +77,7 @@ The four-direction boundary mantra:
 
 "Another method: take three kinds of incense (benzoin, white sandalwood, and storax), and always use them for offerings. At all places, always burn this incense without interruption, and whatever one seeks will be swiftly fulfilled.
 
-"Another method: take five-colored thread one arm-length long. Recite the mantra to empower it one hundred and eight times, tying one knot, until there are twenty-one knots. Place the knotted cord in the bowl before the image, and make offerings according to one's ability. Each day Mañjuśrī will produce twenty-one liang of the finest gold within the bowl. This gold must never be stored or accumulated; it should be used for merit and offerings to the Three Jewels, and it will never be exhausted. If one hoards and accumulates it, it will immediately vanish and never appear again.
+"Another method: take five-colored thread one arm-length long. Recite the mantra to empower it one hundred and eight times, tying one knot, until there are twenty-one knots. Place the knotted cord in the bowl before the image, and make offerings according to one's ability. Each day Mañjuśrī will produce twenty-one liang of the finest gold within the bowl. This gold must never be stored or accumulated; it should be used for merit and offerings to the Three Treasures, and it will never be exhausted. If one hoards and accumulates it, it will immediately vanish and never appear again.
 
 "Another method: there are medicines called suśapatra (also called saśapa) and mahāvidā. If there is a great wind, heavy rain, or prolonged downpour without clearing: take both medicines, place them together, and empower them with the body mantra eight thousand times. Cast them into the sky, and the wind and rain will cease.
 

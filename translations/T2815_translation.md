@@ -76,7 +76,7 @@ The treatise says: "The non-arising and non-ceasing united with the arising-and-
 
 The treatise says: "This is called the ālayavijñāna (*ālíyē shí*, 阿黎耶識)."
 
-### Original Awakening and Actualized Awakening
+### Original enlightenment and Actualized Awakening
 
 **Commentary**: In the previous outline, "awakening" refers to original awakening, the nature-virtue of all beings. "Non-awakening" belongs to actualized awakening, within the gate of following conditions. "Awakening" in terms of nature-virtue [means that] in relation to defilement, one obtains the name by reversal. The treatise below says "original awakening": because this nature-virtue can bring about the fruit-stage, it is called "original awakening," which, returning to the original source, reveals actualized awakening as the dharma-body. Therefore the nature-virtue is called "original awakening," and this then illuminates actualized awakening.
 

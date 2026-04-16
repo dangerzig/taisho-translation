@@ -594,7 +594,7 @@ At that time, the World-Honored One restated this meaning in verse:
 > Having heard it, one can study.
 > If one can study this sūtra,
 > A fearless bodhisattva,
-> The most supreme awakening of bodhi:
+> The most supreme enlightenment of bodhi:
 > This is the phrase pointing toward bodhi."
 
 When the Buddha taught this sūtra, the brāhmaṇa Kāśyapa, the great assembly, the gandharvas, devas, humans, asuras, and others, having heard what the Buddha taught, rejoiced and practiced accordingly.

@@ -23,7 +23,7 @@ Composed by Nāgārjuna (龍樹). Translated from the Chinese. Song dynasty, tra
 > Throughout vast kalpas as numerous as dust motes.
 >
 > I bow to all buddhas and the assembly of the Dharma.
-> I constantly take refuge in the Three Jewels.
+> I constantly take refuge in the Three Treasures.
 > I present all manner of wondrous flowers
 > And heaps of precious treasures, constantly giving them universally.
 >
@@ -69,7 +69,7 @@ Composed by Nāgārjuna (龍樹). Translated from the Chinese. Song dynasty, tra
 >
 > With unobstructed supernatural powers and skillful means,
 > May I be like Vimalakīrti.
-> Skillfully guarding the wholesome roots of all beings,
+> Skillfully guarding the roots of merit of all beings,
 > In diligence and valor, may I be like Sadāpradhānaśūra.
 >
 > Skillfully teaching the dharmas of the pāramitās,

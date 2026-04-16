@@ -51,7 +51,7 @@ Demonstrating his own power, the meaning that he alone can teach: in the world, 
 > Foremost, immeasurable, beyond faults, / extinguishing the three sufferings,
 > Reverenced by devas and humans, / who well turns the foremost wheel.
 
-Furthermore, [the Buddha taught this] because only after immeasurable suffering and immeasurable accumulation does one attain *anuttara-samyak-saṃbodhi*. Lest beginning bodhisattvas, hearing this, become timid and weak, the Tathāgata, to remove their timidity, demonstrates this meaning: the stainless, perfect awakening, [attained] after immeasurable suffering and immeasurable accumulation, the fruit of *anuttara-samyak-saṃbodhi*, the dharma-wheel of immeasurable merit. In verse:
+Furthermore, [the Buddha taught this] because only after immeasurable suffering and immeasurable accumulation does one attain *anuttara-samyak-saṃbodhi*. Lest beginning bodhisattvas, hearing this, become timid and weak, the Tathāgata, to remove their timidity, demonstrates this meaning: the stainless, perfect enlightenment, [attained] after immeasurable suffering and immeasurable accumulation, the fruit of *anuttara-samyak-saṃbodhi*, the dharma-wheel of immeasurable merit. In verse:
 
 > Gold, jewels, pearls and the like, / wife, children, kingdom given in charity,
 > Head, limbs, eyes, bone, and marrow: / these are the supreme gifts of the body.

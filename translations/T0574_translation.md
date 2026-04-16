@@ -17,11 +17,11 @@ When the Buddha spoke these words, in the assembly there was an upāsikā named 
 
 "World-Honored One! In the past, through beginningless birth and death, and in the future through endless transmigration, I do not give rise to fear. Only for the sake of not severing the Buddha-seed, not severing the Tathāgata-seed, and not severing the seed of omniscience do I generate the mind of anuttarā samyaksaṃbodhi and cultivate the bodhisattva practice.
 
-"World-Honored One! I now generate the mind of awakening for the sake of bringing peace to all beings: to serve as a rescuer for those without a rescuer, as a friend for those without a friend, as a refuge for those without a refuge, and as a shelter for those without a shelter."
+"World-Honored One! I now generate the mind of enlightenment for the sake of bringing peace to all beings: to serve as a rescuer for those without a rescuer, as a friend for those without a friend, as a refuge for those without a refuge, and as a shelter for those without a shelter."
 
-At that time the Elder Śāriputra, in the great assembly, thought to himself: "This girl Sthirā, because she wishes to be a friend to all beings, has generated the mind of anuttarā samyaksaṃbodhi. Because of this generation of mind, the world will have śrāvakas and pratyekabuddhas." Having thought this, he told the girl: "Sister! Because you have generated the mind of awakening, in future lives you will see śrāvakas and pratyekabuddhas."
+At that time the Elder Śāriputra, in the great assembly, thought to himself: "This girl Sthirā, because she wishes to be a friend to all beings, has generated the mind of anuttarā samyaksaṃbodhi. Because of this generation of mind, the world will have śrāvakas and pratyekabuddhas." Having thought this, he told the girl: "Sister! Because you have generated the mind of enlightenment, in future lives you will see śrāvakas and pratyekabuddhas."
 
-Then the girl Sthirā said to Śāriputra: "From the distant past, throughout my transmigration in birth and death, I have never generated such a mind of awakening as this. Only now have I first generated it. Today I have obtained a great benefit. I have well obtained a human body and well obtained a lifespan. In past lives I encountered good teachers, yet I never once generated the mind of a śrāvaka or pratyekabuddha. Because of this cause, now again I am able to generate the mind of anuttarā samyaksaṃbodhi for all beings."
+Then the girl Sthirā said to Śāriputra: "From the distant past, throughout my transmigration in birth and death, I have never generated such a mind of enlightenment as this. Only now have I first generated it. Today I have obtained a great benefit. I have well obtained a human body and well obtained a lifespan. In past lives I encountered good teachers, yet I never once generated the mind of a śrāvaka or pratyekabuddha. Because of this cause, now again I am able to generate the mind of anuttarā samyaksaṃbodhi for all beings."
 
 Then Śāriputra told the girl Sthirā: "You have well obtained benefit, well obtained a human body, well obtained a lifespan, to be able to generate the mind of anuttarā samyaksaṃbodhi. As you have spoken, so should you practice."
 
@@ -59,13 +59,13 @@ At that time the Elder Śāriputra thought: "Although we have attained the fruit
 
 The girl Sthirā said: "Elder Śāriputra! Anuttarā samyaksaṃbodhi is the highest and most supreme among all dharmas, with nothing that surpasses it. This is called anuttarā samyaksaṃbodhi. Furthermore, Śāriputra! What is called anuttarā samyaksaṃbodhi: I do not see any dharma that is anuttarā samyaksaṃbodhi."
 
-Śāriputra said: "If you do not see any dharma called anuttarā samyaksaṃbodhi, then how do you generate the mind of awakening and wish to awaken to awakening?"
+Śāriputra said: "If you do not see any dharma called anuttarā samyaksaṃbodhi, then how do you generate the mind of enlightenment and wish to awaken to awakening?"
 
 The girl said: "I wish to cause those beings who walk the wrong path to abide in the right path. That is why I generate the mind of anuttarā samyaksaṃbodhi."
 
 Having heard this, Śāriputra asked the girl again: "When the Buddha attained anuttarā samyaksaṃbodhi, he did not see dharma, did not see path, did not see fruit. What benefit do you see, that you wish to awaken to awakening?"
 
-Hearing this, the girl said to Śāriputra: "Just so. When I attain anuttarā samyaksaṃbodhi, in my land there shall be disciples such as Śāriputra and Maudgalyāyana. It is for the sake of seeing such things that I wish to awaken to the unsurpassed awakening."
+Hearing this, the girl said to Śāriputra: "Just so. When I attain anuttarā samyaksaṃbodhi, in my land there shall be disciples such as Śāriputra and Maudgalyāyana. It is for the sake of seeing such things that I wish to awaken to the unsurpassed enlightenment."
 
 Śāriputra said: "Sister! In the unobtainable Dharma, how do you wish to awaken?"
 
@@ -87,7 +87,7 @@ Then the girl Sthirā said to the Buddha: "World-Honored One! Because this Dharm
 
 The Buddha said: "Excellent! Excellent! Being able to know thus, in the future you shall attain anuttarā samyaksaṃbodhi."
 
-The girl said: "World-Honored One! There is no one who sees this Dharma and does not attain awakening. Therefore I shall assuredly attain anuttarā samyaksaṃbodhi."
+The girl said: "World-Honored One! There is no one who sees this Dharma and does not attain enlightenment. Therefore I shall assuredly attain anuttarā samyaksaṃbodhi."
 
 The Buddha said: "Sister! In the future, will you teach and transform beings?"
 

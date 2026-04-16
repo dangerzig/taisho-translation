@@ -102,7 +102,7 @@ Not for a single instant may I be led astray by evil companions.
 
 In life after life, may I achieve complete understanding of reverent trust in cause and effect, renunciation, the wondrous bodhicitta, and the pure view. May my practice be free from mere hesitant experimentation, and may it never be interrupted.
 
-In every place of birth, may all the wholesome roots cultivated by body, speech, and mind be entirely dedicated to the benefit of others. May they all become causes of pure bodhi.
+In every place of birth, may all the roots of merit cultivated by body, speech, and mind be entirely dedicated to the benefit of others. May they all become causes of pure bodhi.
 
 > O World-Honored One, if that wondrous supreme fruit
 > I have not yet realized at present,

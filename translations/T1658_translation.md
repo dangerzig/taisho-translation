@@ -46,7 +46,7 @@ The syllable *hūṃ* is the dharmakāya; the syllable *āḥ* is the saṃbhoga
 
 Herein, the syllable *oṃ* is called the vajra activity of body; the syllable *āḥ* is the vajra activity of speech; the syllable *hūṃ* is the vajra activity of mind.
 
-Furthermore, the two syllables *a* and *āḥ* abide in emptiness-nature. Herein the syllable *āḥ* is also right wisdom; herein the syllable *a* is the supreme secret of perfect awakening.
+Furthermore, the two syllables *a* and *āḥ* abide in emptiness-nature. Herein the syllable *āḥ* is also right wisdom; herein the syllable *a* is the supreme secret of perfect enlightenment.
 
 Furthermore, the syllable *hūṃ* is the wisdom of mind, which realizes all dharmas. As stated above, all syllables should be known to arise from the three syllables *aṃ*, *a*, and *hūṃ*. From these, dharmas give rise to various characteristics, which shall now be distinguished. All dharmas are subsumed by the two syllables *aṃ* and *a* from beginning to end. Herein the syllable *hūṃ* produces all things: within the three realms, it manifests all forms. All devas, humans, nāgas, asuras, garuḍas, kiṃnaras, and gandharvas; accomplished vidyādharas; Śrī Devī, Sarasvatī, Umā Devī; Indra, Brahmā, Nārāyaṇa, Maheśvara; such devas and their consorts; all men and women within the realm of sentient beings; and even all buddhas and bodhisattvas: all emerge from this syllable *hūṃ* through transformation. Each and every mind abides in the characteristic of this syllable.
 

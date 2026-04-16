@@ -47,7 +47,7 @@ Translated from the Chinese. Tang dynasty, translated by Amoghavajra (不空).
 *Khaṃ vajra-dhātu*
 
 > One should fulfill Samantabhadra's conduct,
-> Seeking to accomplish the most perfect awakening.
+> Seeking to accomplish the most perfect enlightenment.
 > Body and mind unmoving,
 > In samādhi bow to all buddhas.
 > Recite the true word:

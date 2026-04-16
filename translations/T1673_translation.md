@@ -31,7 +31,7 @@ Composed by Bodhisattva Nāgārjuna (*Lóngshù Púsà*, 龍樹菩薩). Translat
 > As sunlight shines upon white cloth,
 > How could it not increase its brightness?
 
-> The Three Jewels, generosity, precepts, and the heavens:
+> The Three Treasures, generosity, precepts, and the heavens:
 > The Most Excellent One teaches the six recollections.
 > Following all forms of merit,
 > Observe them truly and well.
@@ -311,7 +311,7 @@ Composed by Bodhisattva Nāgārjuna (*Lóngshù Púsà*, 龍樹菩薩). Translat
 > The Buddha teaches it as the one-vehicle path.
 
 > Always bind the mind in mindfulness,
-> Guarding it skillfully with expedient means.
+> Guarding it skillfully with skillful means.
 > If one forgets right mindfulness,
 > One loses all wholesome dharmas.
 

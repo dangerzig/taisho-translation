@@ -91,7 +91,7 @@ The Buddha said: "Good man! Listen carefully, and I shall explain it for you. If
 
 "When walking upon a road, one should give rise to this thought: 'May all sentient beings practice according to principle and proceed upon the right path.'
 
-"When riding in a boat or vehicle, one should give rise to this thought: 'May all sentient beings ride the supreme vehicle and ascend the path of perfect awakening.'
+"When riding in a boat or vehicle, one should give rise to this thought: 'May all sentient beings ride the supreme vehicle and ascend the path of perfect enlightenment.'
 
 "Whenever one crosses over any place, one should give rise to this thought: 'May all sentient beings pass beyond the sufferings of the hells and never again enter them.'
 

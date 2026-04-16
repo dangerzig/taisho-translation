@@ -36,6 +36,6 @@ The Buddha said to Ānanda: "If good men and good women are able, for the sake o
 
 Ānanda rose from his seat, bared his right shoulder, knelt for a long time with palms joined, and said to the Buddha: "World-Honored One, what should this sūtra be called? How should we uphold it?"
 
-The Buddha said to Ānanda: "This sūtra is called the Sūtra on the Weightiness of Parents' Kindness. If there are any sentient beings who are able to create merit for their parents, produce sūtras, burn incense, invite the Buddha, bow in worship, and make offerings to the Three Jewels, or provide food for the sangha, they should know that such people are able to repay the kindness of their parents."
+The Buddha said to Ānanda: "This sūtra is called the Sūtra on the Weightiness of Parents' Kindness. If there are any sentient beings who are able to create merit for their parents, produce sūtras, burn incense, invite the Buddha, bow in worship, and make offerings to the Three Treasures, or provide food for the sangha, they should know that such people are able to repay the kindness of their parents."
 
 Śakra (*Dìshì*, 帝釋), Brahmā (*Fànwáng*, 梵王), the devas, all the people, and all sentient beings heard the sūtra and rejoiced. They gave rise to the bodhisattva-mind. Weeping and sobbing, shaking the earth, their tears falling like rain, they prostrated with all five limbs on the ground. They faithfully received the sūtra, bowed to the Buddha's feet, and joyfully put it into practice.

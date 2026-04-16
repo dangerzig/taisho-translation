@@ -95,7 +95,7 @@ This statement connects the preceding and introduces what follows.
 
 **"The buddhas of the three times, relying on prajñāpāramitā, attain anuttarā-samyak-saṃbodhi."**
 
-"The three times" means past, future, and present. "Anuttarā-samyak-saṃbodhi" means "unsurpassed, complete, perfect awakening" in Chinese. This says that it is not only the bodhisattva who cultivates and realizes in this way; all the buddhas without exception cultivate prajñā and thereby attain perfect awakening.
+"The three times" means past, future, and present. "Anuttarā-samyak-saṃbodhi" means "unsurpassed, complete, perfect enlightenment" in Chinese. This says that it is not only the bodhisattva who cultivates and realizes in this way; all the buddhas without exception cultivate prajñā and thereby attain perfect enlightenment.
 
 **"Therefore know that prajñāpāramitā is the great spiritual mantra, the great illumination mantra, the unsurpassed mantra, the unequaled mantra."**
 
@@ -111,4 +111,4 @@ This concludes that the function of prajñā is vast, removing suffering and obt
 
 *Gate gate pāragate pārasaṃgate bodhi svāhā*
 
-The above is the esoteric teaching of prajñā. This is one of the five categories that are not translated. Mantras are the secret words of the buddhas, not knowable to ordinary beings. The commentary on the Lotus Sūtra says: "Mantras are the names of kings among ghosts and spirits. When one pronounces the king's name, the subordinates respect their lord; therefore mantras can subdue all demons and malevolent spirits." Alternatively, it is said: "A mantra is like a secret password in an army. When the password matches, one passes without challenge." Again, "a mantra is a vow, like a wasp that raises a caterpillar, wishing it to become like itself. When buddhas and bodhisattvas speak mantras, they vow that all sentient beings may, like themselves, attain perfect awakening." Those who can recite this mantra will find that all their vows are fulfilled.
+The above is the esoteric teaching of prajñā. This is one of the five categories that are not translated. Mantras are the secret words of the buddhas, not knowable to ordinary beings. The commentary on the Lotus Sūtra says: "Mantras are the names of kings among ghosts and spirits. When one pronounces the king's name, the subordinates respect their lord; therefore mantras can subdue all demons and malevolent spirits." Alternatively, it is said: "A mantra is like a secret password in an army. When the password matches, one passes without challenge." Again, "a mantra is a vow, like a wasp that raises a caterpillar, wishing it to become like itself. When buddhas and bodhisattvas speak mantras, they vow that all sentient beings may, like themselves, attain perfect enlightenment." Those who can recite this mantra will find that all their vows are fulfilled.

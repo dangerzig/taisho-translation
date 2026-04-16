@@ -43,9 +43,9 @@ The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! How ma
 
 The Buddha addressed Avalokiteśvara: "There are twenty-two kinds of ignorance and eleven kinds of defects to be remedied. At the first stage: the ignorance of clinging to beings and dharmas, and the ignorance of the afflictions of the evil destinies; these are the defects to be remedied. At the second stage: the ignorance of subtle precept-violations, and the ignorance of the various karmic destinies; these are the defects to be remedied. At the third stage: the ignorance of desire and craving, and the ignorance of fulfilling hearing-retention; these are the defects to be remedied. At the fourth stage: the ignorance of attachment to samāpatti, and the ignorance of attachment to the dharma; these are the defects to be remedied. At the fifth stage: the ignorance of one-sidedly turning away from saṃsāra, and the ignorance of one-sidedly turning toward nirvāṇa; these are the defects to be remedied. At the sixth stage: the ignorance regarding the direct contemplation of the arising of conditioned phenomena, and the ignorance of the many characteristics of practice; these are the defects to be remedied. At the seventh stage: the ignorance of subtle characteristic-based activity, and the ignorance of the one-sided signless contemplation's skillful active methods; these are the defects to be remedied. At the eighth stage: the ignorance of signlessness without activation, and the ignorance of mastery over characteristics; these are the defects to be remedied. At the ninth stage: the ignorance of limitless dharma-teaching, limitless dharma-words and phrases, and the superior wisdom of eloquent delight and comprehensive retention of mastery, and the ignorance of mastery in eloquent delight; these are the defects to be remedied. At the tenth stage: the ignorance of great spiritual powers, and the ignorance of entering the subtle and secret; these are the defects to be remedied. At the buddha-stage: the ignorance of the subtle samāpattis of all radiant wisdom, and the ignorance of obstructions; these are the defects to be remedied.
 
-"Avalokiteśvara! These are called the twenty-two kinds of ignorance and eleven kinds of defects to be remedied. They are established at the various stages as being incompatible with supreme awakening."
+"Avalokiteśvara! These are called the twenty-two kinds of ignorance and eleven kinds of defects to be remedied. They are established at the various stages as being incompatible with supreme enlightenment."
 
-The bodhisattva Avalokiteśvara addressed the Buddha: "How wonderful, World-Honored One! Supreme awakening is of great benefit and great fruition. Those bodhisattvas who break through the great net of delusion and pass beyond the great offenses attain supreme awakening."
+The bodhisattva Avalokiteśvara addressed the Buddha: "How wonderful, World-Honored One! supreme enlightenment is of great benefit and great fruition. Those bodhisattvas who break through the great net of delusion and pass beyond the great offenses attain supreme enlightenment."
 
 The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! How many kinds of excellence are established within these stages?"
 
@@ -53,7 +53,7 @@ The Buddha addressed Avalokiteśvara: "There are eight: the purity of aspiration
 
 The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! For what reason is a bodhisattva's birth supreme among all beings of existence?"
 
-The Buddha addressed Avalokiteśvara: "There are four reasons: because of the gathering of thoroughly purified wholesome roots; because of taking rebirth in accordance with wisdom; because of compassionately saving all sentient beings; and because one has departed from defilement and also causes others to depart from it."
+The Buddha addressed Avalokiteśvara: "There are four reasons: because of the gathering of thoroughly purified roots of merit; because of taking rebirth in accordance with wisdom; because of compassionately saving all sentient beings; and because one has departed from defilement and also causes others to depart from it."
 
 The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! Why are the bodhisattva's vows called marvelous vows, superior vows, and power-vows?"
 
@@ -71,7 +71,7 @@ The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! Among 
 
 The Buddha addressed Avalokiteśvara: "The higher training in moral discipline is the equipment of merit. The higher training in wisdom is the equipment of wisdom. Meditation and diligence pervade all."
 
-The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! How does a bodhisattva train in these six training subjects?" The Buddha addressed Avalokiteśvara: "There are five things in accordance with the pāramitās: first, having supreme faith and understanding in the bodhisattva treasury of the correct dharma as previously taught; second, performing the ten dharma-practices within it; third, guarding the mind of awakening through the wisdoms of hearing, thinking, and meditation; fourth, drawing near to good spiritual teachers; fifth, skillfully cultivating uninterrupted wholesome actions."
+The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! How does a bodhisattva train in these six training subjects?" The Buddha addressed Avalokiteśvara: "There are five things in accordance with the pāramitās: first, having supreme faith and understanding in the bodhisattva treasury of the correct dharma as previously taught; second, performing the ten dharma-practices within it; third, guarding the mind of enlightenment through the wisdoms of hearing, thinking, and meditation; fourth, drawing near to good spiritual teachers; fifth, skillfully cultivating uninterrupted wholesome actions."
 
 The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! Why are these training subjects established as six?"
 
@@ -97,7 +97,7 @@ The Buddha addressed Avalokiteśvara: "Each has three kinds. The pāramitā of g
 
 The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! Why are these pāramitās called pāramitās?"
 
-The Buddha addressed Avalokiteśvara: "There are five reasons. First, non-obstruction: not being defiled by things contrary to the pāramitās. Second, non-regard: the mind is not bound to the rewards of the pāramitās or to present-life benefits. Third, non-error: in the pāramitās, one is free from the impure and unskillful methods of contaminated dharmas. Fourth, non-conceptualization: in the pāramitās, one does not cling to their own characteristics as verbally described. Fifth, dedication: the pāramitās, having been practiced and developed, are dedicated to the pursuit of the fruit of supreme great awakening."
+The Buddha addressed Avalokiteśvara: "There are five reasons. First, non-obstruction: not being defiled by things contrary to the pāramitās. Second, non-regard: the mind is not bound to the rewards of the pāramitās or to present-life benefits. Third, non-error: in the pāramitās, one is free from the impure and unskillful methods of contaminated dharmas. Fourth, non-conceptualization: in the pāramitās, one does not cling to their own characteristics as verbally described. Fifth, dedication: the pāramitās, having been practiced and developed, are dedicated to the pursuit of the fruit of supreme great enlightenment."
 
 The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! What things are contrary to the pāramitās?"
 
@@ -135,7 +135,7 @@ The Buddha addressed Avalokiteśvara: "I do not say that the pāramitās have an
 
 The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! What are the functions of those five?"
 
-The Buddha addressed Avalokiteśvara: "You should know there are five functions. The bodhisattva who has non-obstruction: in this present life one constantly and comprehensively practices the pāramitās without carelessness. One who has non-regard: one gathers the causes of future non-carelessness. One who has non-error: one cultivates and completes the pāramitās in purity. One who has non-conceptualization: through skillful means one swiftly brings the pāramitās to fulfillment. One who has dedication: in all births one constantly receives excellent fruition, and the pāramitās are inexhaustible, even until supreme perfect awakening."
+The Buddha addressed Avalokiteśvara: "You should know there are five functions. The bodhisattva who has non-obstruction: in this present life one constantly and comprehensively practices the pāramitās without carelessness. One who has non-regard: one gathers the causes of future non-carelessness. One who has non-error: one cultivates and completes the pāramitās in purity. One who has non-conceptualization: through skillful means one swiftly brings the pāramitās to fulfillment. One who has dedication: in all births one constantly receives excellent fruition, and the pāramitās are inexhaustible, even until supreme perfect enlightenment."
 
 The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! Which of the pāramitās is most excellent?"
 
@@ -165,11 +165,11 @@ The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! Why do
 
 The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! What virtue and power does each pāramitā possess?"
 
-The Buddha addressed Avalokiteśvara: "You should know each has four kinds. First, when the bodhisattva cultivates the pāramitās, one relinquishes miserliness, precept-violation, laziness, mental disturbance, and wrong views. Second, they are the true equipment for supreme awakening. Third, in this present life they gather self and others. Fourth, in the future one receives vast and inexhaustible fruition."
+The Buddha addressed Avalokiteśvara: "You should know each has four kinds. First, when the bodhisattva cultivates the pāramitās, one relinquishes miserliness, precept-violation, laziness, mental disturbance, and wrong views. Second, they are the true equipment for supreme enlightenment. Third, in this present life they gather self and others. Fourth, in the future one receives vast and inexhaustible fruition."
 
 The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! What are the cause, the fruit, and the purpose of the pāramitās?"
 
-The Buddha addressed Avalokiteśvara: "The cause of the pāramitās is compassion. Their fruit is receiving retribution and gathering sentient beings. Their great purpose is the fulfillment of supreme awakening."
+The Buddha addressed Avalokiteśvara: "The cause of the pāramitās is compassion. Their fruit is receiving retribution and gathering sentient beings. Their great purpose is the fulfillment of supreme enlightenment."
 
 The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! If a bodhisattva has inexhaustible wealth and also has a compassionate heart, then why are there poor and destitute sentient beings in the world?"
 
@@ -207,7 +207,7 @@ The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! When a
 
 The Buddha addressed Avalokiteśvara: "Their characteristic is non-defilement. Why? Because from the first stage, when the bodhisattva has entered the dharma-realm of all things, the bodhisattva knows when afflictions arise; it is not the case that one does not know. Therefore it is called the characteristic of non-defilement. Because it cannot cause suffering to arise in one's own body, there is no fault. Because it serves as a cause for sentient beings' liberation from suffering, when bodhisattvas give rise to afflictions, there is immeasurable merit."
 
-The bodhisattva Avalokiteśvara addressed the Buddha: "How wonderful, World-Honored One! It is truly of great meaning that awakening causes the bodhisattvas' arising of afflictions to surpass the wholesome roots and merits of all sentient beings, śrāvakas, and pratyekabuddhas, let alone their other merits."
+The bodhisattva Avalokiteśvara addressed the Buddha: "How wonderful, World-Honored One! It is truly of great meaning that awakening causes the bodhisattvas' arising of afflictions to surpass the roots of merit and merits of all sentient beings, śrāvakas, and pratyekabuddhas, let alone their other merits."
 
 The bodhisattva Avalokiteśvara addressed the Buddha: "World-Honored One! The World-Honored One has said that the śrāvaka vehicle and the great vehicle are precisely the one vehicle. What is the meaning of this?"
 

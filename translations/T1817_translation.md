@@ -97,7 +97,7 @@ Saying realms are like illusions: arising through karma and eventually ceasing.
 
 Using illusions to illustrate realms: created by the craftsman, but ultimately nonexistent.
 
-> The illusionist, skillful in expedient means,
+> The illusionist, skillful in skillful means,
 > Fashions various forms and appearances.
 > Their very substance is certainly not real;
 > All that is seen is entirely false.

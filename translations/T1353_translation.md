@@ -97,7 +97,7 @@ When the Buddha had spoken this sūtra, Śāriputra and all the bhikṣus, and a
 
 ## Dhāraṇī for Requesting Dreams to Know Good and Ill Fortune
 
-*Namo the Three Jewels. Namo Maṇibhadra, the great ghost-spirit general. Mahā-taṭa-dhāraṇī ni-ru-shi-na biṃ-ga-ri a-ri-ga-ri kaṃ-ta biṃ-ga-ri a-bha-ta-jā a-bha-ta-jā Maṇibhadra-liṃ mahā-gandhu-pa gandha.*
+*Namo the Three Treasures. Namo Maṇibhadra, the great ghost-spirit general. Mahā-taṭa-dhāraṇī ni-ru-shi-na biṃ-ga-ri a-ri-ga-ri kaṃ-ta biṃ-ga-ri a-bha-ta-jā a-bha-ta-jā Maṇibhadra-liṃ mahā-gandhu-pa gandha.*
 
 The four heavenly kings: Dhṛtarāṣṭra, Virūḍhaka, Viśramaṇa, Vaiśravaṇa. Trāyastriṃśa Heaven, Yāma Heaven, Tuṣita Heaven, Nirmāṇarati Heaven, Paranirmitavaśavartin Heaven, Māra's Transformation-Freedom Heaven. The Brahmā-Assemblage Wondrous Heaven, Brahmā-Ministers' Fortune Heaven, Mahābrahmā Heaven, Water-Practice Brahmā Heaven, Water-Subtle Brahmā Heaven, Water-Immeasurable Brahmā Heaven. Water-Responsive Grove Heaven, Moderate Purity Heaven, Universal Purity Brightness Heaven, Guarding-the-Wondrous Heaven, Subtle-Wondrous Heaven, Ultimate-Wondrous Heaven, Merit-Beloved-Victory Heaven, Near-the-Boundary Heaven, Universal Survey Heaven, Joyful-Vision Heaven, No-Bound-Reception Heaven, Akaniṣṭha Heaven, Pure-Radiance Heaven, Universal-Equality Heaven. These are the thirty-three.
 

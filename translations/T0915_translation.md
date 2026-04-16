@@ -11,9 +11,9 @@ Translated from the Chinese. Tang dynasty, translated by Amoghavajra (不空)
 > To all the Tathāgatas of the ten directions
 > Throughout the entirety of space and the Dharma-realm,
 > To the yoga dhāraṇī teaching and all the great bodhisattva hosts.
-> We also pay homage to the mind of awakening,
+> We also pay homage to the mind of enlightenment,
 > Which can fulfill the aggregation of merit and wisdom
-> And brings the attainment of unsurpassed awakening.
+> And brings the attainment of unsurpassed enlightenment.
 > For this reason, with bowed heads we pay homage."
 
 The mantra for paying homage to the Buddha:
@@ -68,7 +68,7 @@ Next, one should confess:
 > We vow never to conceal them.
 > From this confession forward,
 > We forever sever and never again commit them,
-> Until the attainment of true awakening,
+> Until the attainment of true enlightenment,
 > We shall never again transgress.
 > We humbly pray that all the Buddhas of the ten directions
 > And all the bodhisattva hosts
@@ -98,16 +98,16 @@ The mantra for the three refuges:
 Next, one should receive the bodhicitta precepts:
 
 > "We, your disciples, before all the Buddhas and bodhisattvas,
-> From this day forward until the attainment of true awakening,
-> We vow to generate the mind of awakening.
+> From this day forward until the attainment of true enlightenment,
+> We vow to generate the mind of enlightenment.
 >
 > Sentient beings are boundless: we vow to liberate them all.
 > Merit and wisdom are boundless: we vow to accumulate them all.
 > The Buddha-Dharma is boundless: we vow to study it all.
 > The Tathāgatas are boundless: we vow to serve them all.
-> Unsurpassed awakening: we vow to accomplish it.
+> unsurpassed enlightenment: we vow to accomplish it.
 >
-> The mind of awakening now generated
+> The mind of enlightenment now generated
 > Is far removed from all marks of self-nature:
 > The aggregates, realms, and sense-bases,
 > The grasping of subject and object.
@@ -116,7 +116,7 @@ Next, one should receive the bodhicitta precepts:
 > The self-mind is originally unborn,
 > Because the nature of emptiness is perfectly quiescent.
 > Just as all the Buddhas and bodhisattvas
-> Generated the great mind of awakening,
+> Generated the great mind of enlightenment,
 > So do we now generate it likewise.
 > For this reason, with utmost sincerity we pay homage."
 
@@ -128,21 +128,21 @@ Next, recite the mantra for receiving the bodhicitta precepts:
 
 ## Confession Text for Receiving and Generating the Bodhicitta Precepts of the Supreme Vehicle Teaching
 
-"We, your disciples, take refuge and pay homage to all the Buddhas and great bodhisattvas of the ten directions. The great mind of awakening is our great guide, able to cause us to leave the evil destinies and able to show devas and humans the way to enter great nirvāṇa. For this reason, we now pay homage with utmost sincerity."
+"We, your disciples, take refuge and pay homage to all the Buddhas and great bodhisattvas of the ten directions. The great mind of enlightenment is our great guide, able to cause us to leave the evil destinies and able to show devas and humans the way to enter great nirvāṇa. For this reason, we now pay homage with utmost sincerity."
 
 "We, your disciples, whatever supreme and wondrous offerings exist in all the worlds of the ten directions, fragrant flowers, banners, canopies, and all manner of offerings, we present to all the Buddhas and bodhisattvas. With utmost sincerity we pay homage."
 
 "We, your disciples, from the beginningless past until the present day: the various afflictions of desire, anger, and delusion, and the various secondary afflictions of resentment and hatred, have troubled our body and mind. We have extensively committed all manner of unwholesome bodily karma: killing, stealing, and sexual misconduct; unwholesome verbal karma: false speech, idle talk, harsh words, and divisive speech; and unwholesome mental karma: greed, anger, and wrong views. These various afflictions, continuing without beginning, have entangled and stained our minds, causing our body, speech, and mind to create immeasurable transgressions. We may have killed our fathers or mothers, killed an arhat, drawn the blood of a Buddha, or disrupted the harmony of the Saṃgha. We may have slandered the Three Treasures, beaten and bound sentient beings, broken the fasting rules, broken the precepts, drunk alcohol, eaten meat, or consumed the five pungent vegetables. Such transgressions as these are immeasurable and boundless, impossible to recall or reckon. Today, with sincere hearts, we openly confess and repent. Once confessed, we forever sever the continuity and dare not commit them again. We humbly pray that all the Buddhas and great bodhisattvas of the ten directions will empower, protect, and keep us in their thoughts, causing our karmic obstructions to be extinguished."
 
-"We, your disciples, from this present body until we sit upon the seat of awakening, during all the time between, take refuge in the Tathāgata's unsurpassed three bodies. Take refuge in the vast Mahāyāna Dharma-treasury. Take refuge in all the irreversible bodhisattva Saṃgha. Having taken refuge in the Buddha, having taken refuge in the Dharma, having taken refuge in the Saṃgha, from this time forward we shall never again take refuge in the Two Vehicles or non-Buddhist paths. We humbly pray that all the Buddhas of the ten directions will bear witness to us. With utmost sincerity we pay homage."
+"We, your disciples, from this present body until we sit upon the seat of enlightenment, during all the time between, take refuge in the Tathāgata's unsurpassed three bodies. Take refuge in the vast Mahāyāna Dharma-treasury. Take refuge in all the irreversible bodhisattva Saṃgha. Having taken refuge in the Buddha, having taken refuge in the Dharma, having taken refuge in the Saṃgha, from this time forward we shall never again take refuge in the Two Vehicles or non-Buddhist paths. We humbly pray that all the Buddhas of the ten directions will bear witness to us. With utmost sincerity we pay homage."
 
-"We, your disciples, beginning from this present body until we sit upon the seat of awakening, during all the time between, vow to generate the unsurpassed mind of awakening.
+"We, your disciples, beginning from this present body until we sit upon the seat of enlightenment, during all the time between, vow to generate the unsurpassed mind of enlightenment.
 
 > Sentient beings are boundless: we vow to liberate them all.
 > Merit and wisdom are boundless: we vow to accumulate them all.
 > Dharma-gates are boundless: we vow to study them all.
 > The Tathāgatas are boundless: we vow to serve them all.
-> Unsurpassed awakening: we vow to accomplish it."
+> unsurpassed enlightenment: we vow to accomplish it."
 
 "The mind now generated should furthermore be far removed from the two marks of self and dharmas, illuminating the original awakening. The mirror-wisdom of true suchness and equality manifests before us. Obtaining the skillful wisdom, one perfectly fulfills the mind of Samantabhadra. We humbly pray that all the Buddhas and great bodhisattvas of the ten directions will bear witness to us. With utmost sincerity we pay homage:
 

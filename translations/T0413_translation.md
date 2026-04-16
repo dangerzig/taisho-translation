@@ -185,7 +185,7 @@ Translated from the Chinese. Tang dynasty, translated by Amoghavajra (不空)
 > Covered by the net of afflictions,
 > It is called the mind.
 > If separated from afflictions,
-> It is called perfect awakening.
+> It is called perfect enlightenment.
 
 > The eye-consciousness conditions forms,
 > And reflections are utterly pure.

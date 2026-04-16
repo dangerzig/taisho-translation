@@ -27,7 +27,7 @@ Then the World-Honored One addressed the father and mother of the elder, the cla
 
 All these people said to the Buddha: "World-Honored One, we have never seen such a one."
 
-The Buddha further addressed the great assembly: "If you wish to be free from birth, old age, sickness, death, sorrow, grief, suffering, and torment, then no longer dwell on the bonds of attachment and love. Set your hearts upon right view and take refuge in the Three Jewels. Why? In all the world there is none who surpasses the Buddha, who can guide the blind and deluded masses. Among all caravan leaders and king physicians, none can compare with the Buddha's marks of excellence. Why? The body of the Tathāgata is itself the King of Medicine, and the Dharma taught by the Buddha is itself the finest medicine."
+The Buddha further addressed the great assembly: "If you wish to be free from birth, old age, sickness, death, sorrow, grief, suffering, and torment, then no longer dwell on the bonds of attachment and love. Set your hearts upon right view and take refuge in the Three Treasures. Why? In all the world there is none who surpasses the Buddha, who can guide the blind and deluded masses. Among all caravan leaders and king physicians, none can compare with the Buddha's marks of excellence. Why? The body of the Tathāgata is itself the King of Medicine, and the Dharma taught by the Buddha is itself the finest medicine."
 
 At that time the World-Honored One spoke in verse:
 
@@ -49,7 +49,7 @@ The Buddha told the great assembly: "Killing, stealing, sexual misconduct, false
 
 The Buddha further told the great assembly: "If a person is contrary and does not honor their parents, does not practice the true Dharma, and does not respect śramaṇas, brahmins, and elders, such a person is also called 'dead.'"
 
-He further told the assembly: "If a person does not revere the Three Jewels and the śramaṇas who keep the precepts and possess virtue, such a person is also called 'dead.'"
+He further told the assembly: "If a person does not revere the Three Treasures and the śramaṇas who keep the precepts and possess virtue, such a person is also called 'dead.'"
 
 He further told the assembly: "If a person is stingy and greedy, jealous and arrogant, does not keep the precepts, and the members of their household also do not keep them; if their speech is coarse and evil, delighting in injuring others; if they are deranged and lazy, with an unsettled mind; if their six faculties are deficient and they lack wisdom; if they cannot be upright but readily believe the words of others; if they constantly harbor jealousy and resentment while praising themselves; if they suppress the goodness of others and proclaim the faults of others; if they are self-aggrandizing and unable to draw near to śramaṇas and brahmins, and do not hear the true Dharma, such persons are also called 'dead.'"
 
@@ -58,7 +58,7 @@ At that time the World-Honored One spoke in verse:
 > "Whoever performs unwholesome deeds,
 > delighting in the ten evils,
 > whose mind is ever arrogant,
-> who does not revere the Three Jewels,
+> who does not revere the Three Treasures,
 > who cannot keep the pure precepts
 > and is lazy without diligence:
 > all such persons

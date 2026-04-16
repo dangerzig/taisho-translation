@@ -95,7 +95,7 @@ The Buddha said: "In a past life, because of being unfilial children to parents,
 
 At that time all the beings undergoing punishment, hearing the Buddha speak thus, wept in sorrow that shook the earth. Their tears fell like rain, and they said to the Buddha: "We humbly wish the World-Honored One to abide long and teach the Dharma, so that beings such as we may gain liberation!"
 
-The Buddha said: "If I were to abide long, those of meager virtue would not plant wholesome roots, thinking that I will always be here and not reflecting on impermanence. Good men! It is like an infant: when the mother is always at its side, no thought of how rare this is arises. But when the mother is away, the child gives rise to a heart of longing and yearning. When the mother returns, joy arises. Good men! I too am like this. I know the karmic conditions of all sentient beings, their wholesome and unwholesome deeds, and the beauty or ugliness of their retribution. Therefore I enter parinirvāṇa."
+The Buddha said: "If I were to abide long, those of meager virtue would not plant roots of merit, thinking that I will always be here and not reflecting on impermanence. Good men! It is like an infant: when the mother is always at its side, no thought of how rare this is arises. But when the mother is away, the child gives rise to a heart of longing and yearning. When the mother returns, joy arises. Good men! I too am like this. I know the karmic conditions of all sentient beings, their wholesome and unwholesome deeds, and the beauty or ugliness of their retribution. Therefore I enter parinirvāṇa."
 
 At that time the World-Honored One spoke these verses for all the beings undergoing punishment:
 

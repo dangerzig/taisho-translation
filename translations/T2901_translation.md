@@ -114,7 +114,7 @@ The Buddha said: "Excellent, excellent! Good man! You are able, for the sake of 
 
 "It is like a person who boards a sturdy ship to cross the great ocean: without moving body or mind, one arrives at the other shore. Good spiritual friends are just like this. With the great vow-ship, in the ocean of birth and death, they transport you. Without moving body or mind, you arrive at the shore of nirvāṇa.
 
-"Good man! It is like a person who wishes to traverse a dangerous road and relies on one person who is skilled in martial arts, with armor and weapons all prepared, along with a fine jeweled chariot drawn by five horses. Body and mind are fearless, and one arrives without difficulty. Good spiritual friends are just like this: the dharma-body is robust, skilled in expedient means, with the martial arts of the six perfections, the armor of kindness and compassion, all fully prepared. Coming in the Mahāyāna drawn by the five supernatural powers, they transport you to fearlessness, freeing you from the three evil paths and all the difficulties of birth and death.
+"Good man! It is like a person who wishes to traverse a dangerous road and relies on one person who is skilled in martial arts, with armor and weapons all prepared, along with a fine jeweled chariot drawn by five horses. Body and mind are fearless, and one arrives without difficulty. Good spiritual friends are just like this: the dharma-body is robust, skilled in skillful means, with the martial arts of the six perfections, the armor of kindness and compassion, all fully prepared. Coming in the Mahāyāna drawn by the five supernatural powers, they transport you to fearlessness, freeing you from the three evil paths and all the difficulties of birth and death.
 
 "Good man! It is like a person who relies on the laṅkā jewel and takes the sweet-dew elixir, eliminating all diseases so that life is not cut short. Good spiritual friends are just like this: relying on the great jewel of wisdom and taking the Dharma medicine, the illness of afflictions is eliminated, and the life of wisdom is inexhaustible.
 
@@ -134,9 +134,9 @@ The Buddha said: "Excellent, excellent! Good man! You are able, for the sake of 
 
 At that time, Bodhisattva Universal Light Adornment addressed the Buddha: "World-Honored One! How does one properly receive the profoundly essential Dharma phrases? What is meant by 'profound'?"
 
-The Buddha said: "Do not ask such a question. If I were to explain it now, śrāvakas, pratyekabuddhas, and newly-aspiring bodhisattvas, upon hearing this Dharma, would have their minds constricted, and their wholesome roots would be severed."
+The Buddha said: "Do not ask such a question. If I were to explain it now, śrāvakas, pratyekabuddhas, and newly-aspiring bodhisattvas, upon hearing this Dharma, would have their minds constricted, and their roots of merit would be severed."
 
-Bodhisattva Universal Light Adornment said: "World-Honored One! For the sake of beings like us, please demonstrate through expedient means, to create future merit for all sentient beings."
+Bodhisattva Universal Light Adornment said: "World-Honored One! For the sake of beings like us, please demonstrate through skillful means, to create future merit for all sentient beings."
 
 Then the World-Honored One spoke in verse:
 
@@ -214,7 +214,7 @@ Then the World-Honored One spoke in verse:
 > This is the path of bodhi.
 > If one wishes to realize this Dharma,
 > Draw near to good spiritual friends,
-> Learn well all expedient means,
+> Learn well all skillful means,
 > And deliver all sentient beings.
 > I now speak this Dharma
 > To gather in all sentient beings.

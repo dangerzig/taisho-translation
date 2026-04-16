@@ -46,7 +46,7 @@ All such merit has the ten wholesome courses of action as its nature. Through th
 
 The intent of the answer: worldly good companions are temporarily together and permanently separated, difficult to gather and easy to scatter, not enduring to the end. In the Dharma, the three kinds of meritorious wholesome karma are truly solid and firm, always assisting the practitioner with great benefit. Among all companions, these are the best.
 
-"Sin is the enemy with an evil mind" answers the second question. Destroying the Three Jewels, the five heinous crimes, and the ten evils are all called sin. Through this sin, sentient beings are cast into the three evil paths for long kalpas of suffering. The intent of this answer: a worldly evil-minded enemy harms only one lifetime, and is already called an enemy. In the Dharma, sinful karma can harm many lifetimes; is this not a great enemy? Therefore it says "sin is the enemy with an evil mind."
+"Sin is the enemy with an evil mind" answers the second question. Destroying the Three Treasures, the five heinous crimes, and the ten evils are all called sin. Through this sin, sentient beings are cast into the three evil paths for long kalpas of suffering. The intent of this answer: a worldly evil-minded enemy harms only one lifetime, and is already called an enemy. In the Dharma, sinful karma can harm many lifetimes; is this not a great enemy? Therefore it says "sin is the enemy with an evil mind."
 
 "Hell is the most extreme suffering" answers the third question. In Sanskrit, it is called naraka. The old translation "níli" (泥犁) is an error. In Chinese, it means "place of no pleasure." Since the place of no pleasure is precisely hell, and most are beneath the earth, it is called "hell" (dìyù 地獄, "earth-prison").
 

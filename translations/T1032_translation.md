@@ -45,7 +45,7 @@ Entering deeply into the pure realm of nothingness, one visualizes all buddhas f
 
 *Oṃ citta-prativediṃ karomi*
 
-The practitioner secretly recites this while contemplating their own mind as a pure moon. The buddhas say: "Good man, your mind is originally just like this, merely obscured by adventitious defilements. Know that this is the mind of awakening." They bestow another mantra:
+The practitioner secretly recites this while contemplating their own mind as a pure moon. The buddhas say: "Good man, your mind is originally just like this, merely obscured by adventitious defilements. Know that this is the mind of enlightenment." They bestow another mantra:
 
 *Oṃ bodhicittam utpādayāmi*
 
@@ -65,7 +65,7 @@ The lotus then transforms into Avalokiteśvara Bodhisattva, adorned with a jewel
 
 *Oṃ samayohaṃ mahāsamayohaṃ sarva-tathāgata-abhisambodhi-vajra-padmātmakuhaṃ*
 
-One who enters this samādhi is seen by all devas, nāgas, and the eight classes as no different from Avalokiteśvara. This eliminates the practitioner's immeasurable kalpas of grave karmic offenses. All supreme aspirations are without exception fulfilled. One presently obtains the complete vajra dharma-body, and contemplating this body, one attains perfect awakening.
+One who enters this samādhi is seen by all devas, nāgas, and the eight classes as no different from Avalokiteśvara. This eliminates the practitioner's immeasurable kalpas of grave karmic offenses. All supreme aspirations are without exception fulfilled. One presently obtains the complete vajra dharma-body, and contemplating this body, one attains perfect enlightenment.
 
 Next, form the empowerment mudrā: with the outward-crossing vajra-bond, bend both index fingers to press against both thumbs. Touch the seal to the heart, forehead, throat, and crown, reciting once each. The mantra says:
 

@@ -190,4 +190,4 @@ Translated from the Chinese. Tang dynasty, translated by Huìzhì (慧智).
 > By this praise of the Treasury of Merit,
 > May I realize the omniscience of the tathāgatas.
 
-By this praise of the merits of Avalokiteśvara Bodhisattva, may the merit ascend to benefit the Sage-Spirit Emperor, Our Sovereign Lord, that he may skillfully turn the golden wheel, his form, strength, and lifespan without end, his wisdom and reward beyond conception, ever ruling Jambudvīpa and abiding in the land of China, protecting the Three Jewels and benefiting all beings, so that all sentient beings may share in the sage's blessings.
+By this praise of the merits of Avalokiteśvara Bodhisattva, may the merit ascend to benefit the Sage-Spirit Emperor, Our Sovereign Lord, that he may skillfully turn the golden wheel, his form, strength, and lifespan without end, his wisdom and reward beyond conception, ever ruling Jambudvīpa and abiding in the land of China, protecting the Three Treasures and benefiting all beings, so that all sentient beings may share in the sage's blessings.

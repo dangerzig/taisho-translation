@@ -271,7 +271,7 @@ The mantra:
 > Eight arms holding weapons,
 > Standing in a T-shaped stance.
 > Entering this samādhi,
-> One should abide in the mind of awakening,
+> One should abide in the mind of enlightenment,
 > Deeply arousing compassion,
 > Extinguishing inner and outer obstacles.
 
@@ -401,7 +401,7 @@ The rosary-holding mantra:
 
 *Oṃ kiri kiri budhiri ti svāhā.*
 
-> Contemplate the wondrous mind of awakening,
+> Contemplate the wondrous mind of enlightenment,
 > A perfectly bright and pure moon-disc.
 > The secret syllable *aṃ*,
 > Radiant with the light of pure gold.

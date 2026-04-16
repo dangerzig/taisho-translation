@@ -48,13 +48,13 @@ The Buddha then spoke in verse:
 > Encouraging people to seek Buddhahood,
 > No one will ever be able to separate you from others."
 
-The Buddha said to Sumatī: "A bodhisattva has four more practices for being born by transformation in a thousand-petaled lotus, standing before the Dharma King. What are the four? First, finely crushing utpala flowers, padma flowers, kumuda flowers, and puṇḍarīka flowers, making the four kinds into powder as fine as dust to fill a *kumbha* measure, and offering it to the World-Honored One, or to a stūpa, or to relics. Second, never causing others to give rise to an angry mind. Third, making Buddha images seated upon lotuses. Fourth, upon attaining the supreme awakening, abiding in joy. These are the four practices. Because a bodhisattva practices these four, they are born by transformation in a thousand-petaled lotus, standing before the Dharma King."
+The Buddha said to Sumatī: "A bodhisattva has four more practices for being born by transformation in a thousand-petaled lotus, standing before the Dharma King. What are the four? First, finely crushing utpala flowers, padma flowers, kumuda flowers, and puṇḍarīka flowers, making the four kinds into powder as fine as dust to fill a *kumbha* measure, and offering it to the World-Honored One, or to a stūpa, or to relics. Second, never causing others to give rise to an angry mind. Third, making Buddha images seated upon lotuses. Fourth, upon attaining the supreme enlightenment, abiding in joy. These are the four practices. Because a bodhisattva practices these four, they are born by transformation in a thousand-petaled lotus, standing before the Dharma King."
 
 The Buddha then spoke in verse:
 
 > "Offering the four flowers filling a *kumbha* measure,
 > Removing resentment and hatred, receiving the Dharma's meaning,
-> Attaining the supreme awakening, standing before the Buddha,
+> Attaining the supreme enlightenment, standing before the Buddha,
 > Making images, one is born among the lotus flowers."
 
 The Buddha said to Sumatī: "A bodhisattva has four more practices for obtaining spiritual powers to travel from one buddha-land to another. What are the four? First, when seeing someone performing meritorious deeds, not interrupting them. Second, when seeing someone teaching the Dharma, not stopping them. Third, always lighting lamps in stūpas and monasteries. Fourth, seeking samādhi. These are the four practices. Because a bodhisattva practices these four, they obtain spiritual powers to travel from one buddha-land to another."
@@ -181,7 +181,7 @@ In the assembly there were five hundred bodhisattvas who, upon hearing the profo
 
 The Buddha said to Mañjuśrī: "Know that this sūtra brings abundant benefit. Is it not so? If, in the final age, there are bodhisattva-mahāsattvas, śramaṇas, good men, or good women who seek the bodhisattva path and practice the six pāramitās but have not yet understood *upāya-kauśalya*, it would be better for them to copy, uphold, recite, and chant this sūtra, to teach others to always be mindful of its contents, and to explain it broadly for all who wish to hear it."
 
-The Buddha further said to Mañjuśrī: "For bodhisattvas who have not yet heard what was previously unheard and have not yet practiced what was previously unpracticed, they should contemplate and uphold this teaching. Why is this? It is like when a cakravartin king rules the world: throughout his entire reign, the seven treasures are never diminished. But when the king's life ends, the seven treasures scatter. Just so, Mañjuśrī, when the Buddha's sūtras and Way abide in the world, the Buddha's seven factors of awakening are never diminished. But when the Buddha's Dharma perishes, the factors of awakening and all dharmas are entirely exhausted."
+The Buddha further said to Mañjuśrī: "For bodhisattvas who have not yet heard what was previously unheard and have not yet practiced what was previously unpracticed, they should contemplate and uphold this teaching. Why is this? It is like when a cakravartin king rules the world: throughout his entire reign, the seven treasures are never diminished. But when the king's life ends, the seven treasures scatter. Just so, Mañjuśrī, when the Buddha's sūtras and Way abide in the world, the Buddha's seven factors of awakening are never diminished. But when the Buddha's Dharma perishes, the factors of enlightenment and all dharmas are entirely exhausted."
 
 The Buddha said to Mañjuśrī: "One should seek by innumerable skillful means to gather the sūtras, diligently studying and copying them, teaching them to others, instructing all and broadly explaining their meaning. One should always be diligent; this is the Dharma teaching. Good men and good women who wish to seek the Buddha Way should never have regrets along the way."
 

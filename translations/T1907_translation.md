@@ -96,7 +96,7 @@ This person of subtraction commits heavy offense through roughly two kinds of fo
 
 **The first foolishness:** This subtractive view, among all views, is at the very bottom. It is even inferior to the heretics' view of self. Why? This person takes the most profound medicine and transforms it into a severe illness. The symptoms of severe illness closely resemble the absence of illness. Therefore, no medical art can cure this disease, and few people spontaneously recognize it as an affliction. It is like fundamental ignorance (根本無明 *gēnběn wúmíng*), the most extreme darkness, whose appearance closely resembles prajñā (般若 *bōrě*) light, because both are without subject and object. Because both are without subject and object, that ignorance is the most difficult to extinguish. This disease being difficult to cure should be understood likewise. As the verse says:
 
-> To remove the grasping of existence, the Tathagata taught emptiness.
+> To remove the grasping of existence, the Tathāgata taught emptiness.
 > If a person then grasps at emptiness, the Buddhas cannot transform them.
 
 Furthermore, this view arises from dim understanding and reckless faith. If one relies on this view and cultivates the mind until it becomes sharp, one will surely reject even faith itself and fall into great wrong views, suffering in the Avici hell for countless kalpas. Therefore the bodhisattva, out of deep compassion for others who might follow such a person, gives advance warning, saying: "All wise companions in the holy life should not dwell together with them." All the views of self produced by all non-Buddhist practitioners, though they deviate from principle, do not have this particular danger. As the verse says:

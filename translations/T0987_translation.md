@@ -8,7 +8,7 @@ Translated from the Chinese. Translator unknown.
 
 ---
 
-Homage to the Buddha. Homage to the Dharma. Homage to the Bhikṣu Sangha. Homage to the seven buddhas of right and perfect awakening. Homage to the pratyekabuddhas. Homage to all arhats. Homage to Maitreya and all bodhisattvas. Homage to all anāgāmins, homage to sakṛdāgāmins, homage to srotāpannas. Homage to those in the world who have right faith and aspiration.
+Homage to the Buddha. Homage to the Dharma. Homage to the Bhikṣu Sangha. Homage to the seven buddhas of right and perfect enlightenment. Homage to the pratyekabuddhas. Homage to all arhats. Homage to Maitreya and all bodhisattvas. Homage to all anāgāmins, homage to sakṛdāgāmins, homage to srotāpannas. Homage to those in the world who have right faith and aspiration.
 
 Having paid reverence to that assembly, I wish to expound the Great Peacock King Dhāraṇī Sūtra. May all wishes be fulfilled auspiciously!
 

@@ -24,9 +24,9 @@ At that time, Vajrapāṇi Bodhisattva, within the great assembly of Vairocana B
 
 *Oṃ sarva-tathāgata-pāda-vandanāṃ karomi*
 
-"Then kneel on the right knee with palms joined at the heart, and with sincere devotion make a full confession of all karmic obstacles since beginningless time. Then rejoice in all the meritorious deeds cultivated by all buddhas, bodhisattvas, śrāvakas, pratyekabuddhas, and all sentient beings. Furthermore, request that all tathāgatas in the worlds of the ten directions who have attained perfect awakening turn the Dharma wheel. Request that all tathāgatas who are about to manifest nirvāṇa remain long in the world and not enter parinirvāṇa.
+"Then kneel on the right knee with palms joined at the heart, and with sincere devotion make a full confession of all karmic obstacles since beginningless time. Then rejoice in all the meritorious deeds cultivated by all buddhas, bodhisattvas, śrāvakas, pratyekabuddhas, and all sentient beings. Furthermore, request that all tathāgatas in the worlds of the ten directions who have attained perfect enlightenment turn the Dharma wheel. Request that all tathāgatas who are about to manifest nirvāṇa remain long in the world and not enter parinirvāṇa.
 
-"Then make this vow: 'May all the immeasurable roots of goodness that I have accumulated through homage to the buddhas, confession, rejoicing, and exhortation, may I transfer this accumulated merit to all sentient beings. May all be reborn in the Land of Ultimate Bliss, see the Buddha, hear the Dharma, and swiftly realize unsurpassed perfect awakening.'
+"Then make this vow: 'May all the immeasurable roots of goodness that I have accumulated through homage to the buddhas, confession, rejoicing, and exhortation, may I transfer this accumulated merit to all sentient beings. May all be reborn in the Land of Ultimate Bliss, see the Buddha, hear the Dharma, and swiftly realize unsurpassed perfect enlightenment.'
 
 "Then sit in full cross-legged posture or half cross-legged posture, right leg pressing upon the left. Anoint the hands with perfume.
 
@@ -52,7 +52,7 @@ At that time, Vajrapāṇi Bodhisattva, within the great assembly of Vairocana B
 
 *Oṃ vajrodbhavāya svāhā*
 
-"Recite three or seven times with empowerment, place the mudrā at the crown, and release to the left. By forming this mudrā and reciting this mantra, Vajragarbha Bodhisattva and the holy assembly of the Vajra Division are alerted and come to empower the practitioner, enabling the purification of mental karma, the realization of the mind of awakening, the manifestation of samādhi, and swift liberation.
+"Recite three or seven times with empowerment, place the mudrā at the crown, and release to the left. By forming this mudrā and reciting this mantra, Vajragarbha Bodhisattva and the holy assembly of the Vajra Division are alerted and come to empower the practitioner, enabling the purification of mental karma, the realization of the mind of enlightenment, the manifestation of samādhi, and swift liberation.
 
 **Armor Protection**
 
@@ -62,7 +62,7 @@ At that time, Vajrapāṇi Bodhisattva, within the great assembly of Vairocana B
 
 *Oṃ vajra-gini praṇapta-ya svāhā*
 
-"Through forming this mudrā and reciting this mantra, by the power of a compassionate and caring mind, all heavenly māras and obstructors see the practitioner's majestic radiance blazing brilliantly like a solar disk. Each gives rise to a compassionate mind and is unable to create obstacles. Evil people likewise find no opportunity. Afflictions and karmic obstacles do not attach to the body. This also protects against the sufferings of the evil destinies in the future and hastens the realization of unsurpassed awakening.
+"Through forming this mudrā and reciting this mantra, by the power of a compassionate and caring mind, all heavenly māras and obstructors see the practitioner's majestic radiance blazing brilliantly like a solar disk. Each gives rise to a compassionate mind and is unable to create obstacles. Evil people likewise find no opportunity. Afflictions and karmic obstacles do not attach to the body. This also protects against the sufferings of the evil destinies in the future and hastens the realization of unsurpassed enlightenment.
 
 **Vajra Stake for the Ground Boundary**
 
@@ -201,7 +201,7 @@ At that time, Vajrapāṇi Bodhisattva, within the great assembly of Vairocana B
 
 *Namo ratna-trayāya. Namaḥ ārya-amitābhāya tathāgatāya arhate samyaksaṃbuddhāya. Tadyathā: oṃ amṛte amṛtodbhave amṛta-sambhave amṛta-garbhe amṛta-siddhe amṛta-teje amṛta-vikrānte amṛta-vikrānta-gāminī amṛta-gagana-kīrtikare amṛta-duṇḍubhi-svare sarva-artha-sādhane sarva-karma-kleśa-kṣayaṃkari svāhā*
 
-"Merely reciting this Amitāyus Tathāgata Dhāraṇī once destroys the ten evils, four grave offenses, and five sins of immediate retribution within the body. All karmic obstacles are entirely eliminated. If a bhikṣu or bhikṣuṇī has committed root offenses, upon reciting seven times, the purity of precepts is immediately restored. After reciting a full ten thousand times, one attains the samādhi of never forgetting the mind of awakening. The mind of awakening appears within the body, pure and luminous as a clear moon.
+"Merely reciting this Amitāyus Tathāgata Dhāraṇī once destroys the ten evils, four grave offenses, and five sins of immediate retribution within the body. All karmic obstacles are entirely eliminated. If a bhikṣu or bhikṣuṇī has committed root offenses, upon reciting seven times, the purity of precepts is immediately restored. After reciting a full ten thousand times, one attains the samādhi of never forgetting the mind of enlightenment. The mind of enlightenment appears within the body, pure and luminous as a clear moon.
 
 "At the time of death, one sees Amitāyus Tathāgata, surrounded by an immeasurable number of koṭis of bodhisattvas, coming to welcome the practitioner, bringing comfort to body and mind. One is immediately reborn in the Land of Ultimate Bliss at the highest grade of the highest birth and realizes the bodhisattva stage.
 
@@ -217,11 +217,11 @@ At that time, Vajrapāṇi Bodhisattva, within the great assembly of Vairocana B
 
 "Through the empowerment of Amitāyus Tathāgata, body and mind become purified. With eyes open or closed, one constantly sees Amitāyus Tathāgata. Within samādhi one hears the teaching of the most profound and wondrous Dharma. In each and every syllable and phrase, one realizes immeasurable samādhi gates, immeasurable dhāraṇī gates, and immeasurable liberation gates. This body becomes equal to Avalokiteśvara Bodhisattva, and one can swiftly reach that land.
 
-"When the recitation count is complete, hold the beads to the crown and make this vow: 'May all sentient beings be reborn in the Land of Ultimate Bliss, see the Buddha, hear the Dharma, and swiftly realize unsurpassed awakening.'
+"When the recitation count is complete, hold the beads to the crown and make this vow: 'May all sentient beings be reborn in the Land of Ultimate Bliss, see the Buddha, hear the Dharma, and swiftly realize unsurpassed enlightenment.'
 
 **Moon-Disk Bodhicitta Contemplation**
 
-"Next form the concentration mudrā. Contemplate within the body the mind of awakening, pure, luminous, and full like the full moon. Then make this further contemplation: 'The essence of the mind of awakening is apart from all objects. It is without aggregates, elements, or sense-bases, and apart from grasper and grasped. Because all dharmas are without self, they are of one mark and equal. The mind is originally unborn and empty by nature. Being empty by nature...'
+"Next form the concentration mudrā. Contemplate within the body the mind of enlightenment, pure, luminous, and full like the full moon. Then make this further contemplation: 'The essence of the mind of enlightenment is apart from all objects. It is without aggregates, elements, or sense-bases, and apart from grasper and grasped. Because all dharmas are without self, they are of one mark and equal. The mind is originally unborn and empty by nature. Being empty by nature...'
 
 "Then upon the full, pure moon-disk, visualize the syllable *hrīḥ*. From the syllable streams immeasurable light. Within each ray of light, contemplate the formation of the Land of Ultimate Bliss, with the holy assembly surrounding Amitāyus Buddha.
 
@@ -231,7 +231,7 @@ At that time, Vajrapāṇi Bodhisattva, within the great assembly of Vairocana B
 
 "Having thus completed the recitation, offerings, and vow-making, form the previous fire court mudrā and revolve leftward once to release the previously established boundary. Then form the jeweled chariot mudrā. Using the two thumbs to flick the middle finger tips outward, recite the root mantra to send off the holy assembly. Next form the three-division samaya mudrās, reciting each mantra three times. Then form the armor protection mudrā and stamp the five points of the body.
 
-"Before the root deity, make a sincere vow and bow. Then leave the practice hall and walk about as one pleases. One should always read and recite the Amitāyus Sūtra. Do not harbor a mind of arrogant conceit. With earnest diligence, recite mantras, make buddha-seals, seal stūpas, delight in performing altar generosity, and cultivate the precepts, patience, diligence, meditation, and wisdom. Transfer all good practices, sharing them with all sentient beings for common rebirth in the Pure Land at the highest grade of the highest birth, realizing the Stage of Joy, and attaining the prediction of unsurpassed awakening.
+"Before the root deity, make a sincere vow and bow. Then leave the practice hall and walk about as one pleases. One should always read and recite the Amitāyus Sūtra. Do not harbor a mind of arrogant conceit. With earnest diligence, recite mantras, make buddha-seals, seal stūpas, delight in performing altar generosity, and cultivate the precepts, patience, diligence, meditation, and wisdom. Transfer all good practices, sharing them with all sentient beings for common rebirth in the Pure Land at the highest grade of the highest birth, realizing the Stage of Joy, and attaining the prediction of unsurpassed enlightenment.
 
 **Amitāyus Tathāgata Heart Mantra**
 

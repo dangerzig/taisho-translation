@@ -8,23 +8,23 @@ Author unknown. A Dunhuang liturgical text.
 
 ### Repentance and Prostrations
 
-Having fully repented all sins of body, I take refuge and bow to the Three Jewels.
+Having fully repented all sins of body, I take refuge and bow to the Three Treasures.
 
 **Exhortation.** With wholehearted sincerity, I exhort and request: may the buddhas of the ten directions who are presently accomplishing the way, I beseech you to turn the dharma wheel, bringing peace and comfort to all sentient beings. May all the buddhas of the ten directions who intend to relinquish their lives, I now prostrate with my face to the ground and earnestly request that they remain long in the world.
 
-Having made this exhortation, I take refuge and bow to the Three Jewels.
+Having made this exhortation, I take refuge and bow to the Three Treasures.
 
 **Sympathetic Joy.** With wholehearted sincerity, I rejoice: whatever merit arises from generosity, upholding the precepts, cultivating meditation, and wisdom, generated from body, speech, and mind, in the past, present, and future; all who study the three vehicles and those who fully possess the one vehicle; the immeasurable merit of humans and devas; all of us rejoice together.
 
-Having rejoiced, I take refuge and bow to the Three Jewels.
+Having rejoiced, I take refuge and bow to the Three Treasures.
 
 **Transfer of Merit.** With wholehearted sincerity, I transfer: may all the meritorious deeds I have done be brought together in harmony. For the sake of liberating all sentient beings, I rightly transfer this toward the buddha-way. Sins should be repented in this manner. The merit of exhortation, sympathetic joy, and transfer is directed toward bodhi.
 
-Having transferred, I take refuge and bow to the Three Jewels.
+Having transferred, I take refuge and bow to the Three Treasures.
 
 **Vows.** With wholehearted sincerity, I make vows: may all sentient beings give rise to the bodhi-mind. May their hearts constantly contemplate the buddhas of the ten directions. Furthermore, may all sentient beings forever shatter all afflictions and clearly see the Buddha-nature, just as Mañjuśrī (*Miàodé*, 妙德, "Wondrous Virtue") does.
 
-Having made vows, I take refuge and bow to the Three Jewels.
+Having made vows, I take refuge and bow to the Three Treasures.
 
 ### Verses for the Assembly
 
@@ -70,13 +70,13 @@ Today at the early morning hour of purity, each person should keep the six recol
 
 We and all others, from immeasurable kalpas, have constantly been deceived by the six thieves. Dwelling within the single characteristic, we have together given rise to discrimination. The eye-faculty constantly craves forms. The ear discriminates among sounds. The nose is confused by and attached to various fragrances. The tongue ever covets various flavors. The body constantly delights in tactile sensations. The mind-faculty clings and grasps at everything. Because of such an upside-down mind, we have firmly sunk in the ocean of birth and death.
 
-Having repented, I take refuge and bow to the Three Jewels. May we, from this day until we realize bodhi, transform the six thieves into the six spiritual powers, transform the three poisons into the three liberations, and enter the single true suchness of equal awakening. Without abandoning birth and death, may we realize nirvāṇa. Forever within the six destinies, may we save all beings and together realize the unsurpassed way of the Tathāgata.
+Having repented, I take refuge and bow to the Three Treasures. May we, from this day until we realize bodhi, transform the six thieves into the six spiritual powers, transform the three poisons into the three liberations, and enter the single true suchness of equal awakening. Without abandoning birth and death, may we realize nirvāṇa. Forever within the six destinies, may we save all beings and together realize the unsurpassed way of the Tathāgata.
 
 ### Wholehearted Vows
 
 May my eye-faculty always see the Buddha. May my ears always hear the sound of the dharma being taught. May my nose never smell any unwholesome fragrance. May my mouth always recite the pāramitās. May my body never be defiled by unwholesome conditions. May my mind never cling to conditioned characteristics. May my heart be able to destroy the thief of afflictions. May I always arrive at the city of nirvāṇa. I vow that all sentient beings will become buddhas. I vow to universally realize the cause of nirvāṇa.
 
-Having made vows, I take refuge and bow to the Three Jewels.
+Having made vows, I take refuge and bow to the Three Treasures.
 
 > Sentient beings are boundless; I vow to save them all.
 > Afflictions are boundless; I vow to sever them all.

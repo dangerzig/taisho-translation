@@ -59,7 +59,7 @@ The Buddha told the bhikṣus: "At that time, the devaputra Candraprabha, in the
 
 "Having spoken this verse, he said to the brāhmaṇa: 'Do not disdain my head. It is bone, marrow, pus, and blood, skin and flesh joined together, without any purity. Yet I give it to you, to fulfill your original vow.'
 
-"The brāhmaṇa was greatly delighted. The king, about to sever his head, first removed his crown. At that moment, throughout the southern continent of Jambudvīpa, all crowns fell to the ground, and everyone was alarmed. The two counselors could not bear to see the king give up his body and life, and right then and there they ended their own lifespans. By the power of their wholesome roots, they were reborn in the Great Brahmā heaven.
+"The brāhmaṇa was greatly delighted. The king, about to sever his head, first removed his crown. At that moment, throughout the southern continent of Jambudvīpa, all crowns fell to the ground, and everyone was alarmed. The two counselors could not bear to see the king give up his body and life, and right then and there they ended their own lifespans. By the power of their roots of merit, they were reborn in the Great Brahmā heaven.
 
 "At that time, the yakṣa Bhūma cried out in the sky: 'Alas! The devaputra is now about to die!' Hundreds of thousands of millions of people rushed to the royal palace, weeping and shedding tears, grieving at the parting from their beloved. The king then taught the Dharma to comfort them and inspire them to generate the aspiration for the path.
 

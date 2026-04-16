@@ -15,7 +15,7 @@ At one time the Buddha was in Śrāvastī, in the Jeta Grove, Anāthapiṇḍada
 
 At that time the youth Mañjuśrī held a jeweled canopy, one hundred leagues in extent, and covered the Tathāgata with it.
 
-There was then a Tuṣita heaven god named Good Victory, who had attained irreversibility from supreme perfect awakening. Together with his retinue, being present in this assembly, he said to Mañjuśrī: "Venerable one! Has your offering to the Tathāgata still not reached its fullness?"
+There was then a Tuṣita heaven god named Good Victory, who had attained irreversibility from supreme perfect enlightenment. Together with his retinue, being present in this assembly, he said to Mañjuśrī: "Venerable one! Has your offering to the Tathāgata still not reached its fullness?"
 
 Mañjuśrī said: "What do you think? Does the ocean ever grow weary of receiving the many streams that flow into it?"
 
@@ -31,7 +31,7 @@ The heavenly being further asked: "Excellent, venerable one! A bodhisattva shoul
 
 Mañjuśrī said: "Listen carefully, listen carefully! Reflect well on this, and I shall teach you.
 
-"Heavenly son! A bodhisattva-mahāsattva should generate four kinds of superior aspiration. What are the four? The mind that gathers in all sentient beings; the mind that brings all sentient beings to maturity; the mind that accumulates all wholesome roots; the mind that awakens to all the buddha-dharmas. These are the four.
+"Heavenly son! A bodhisattva-mahāsattva should generate four kinds of superior aspiration. What are the four? The mind that gathers in all sentient beings; the mind that brings all sentient beings to maturity; the mind that accumulates all roots of merit; the mind that awakens to all the buddha-dharmas. These are the four.
 
 "Furthermore, a bodhisattva should generate four kinds of mountain-like mind. What are the four? The mind free of anger or resentment toward those who beg; the mind of compassion toward those heading for evil destinies; the mind that never abandons the perfection of wisdom; the mind that brings all practices to completion. These are the four.
 
@@ -53,9 +53,9 @@ Mañjuśrī said: "Listen carefully, listen carefully! Reflect well on this, and
 
 "Furthermore, a bodhisattva possesses four kinds of giving. What are the four? Giving of material goods; giving of the Dharma; giving of paper and brushes; giving by sincerely praising the Dharma teacher. These are the four.
 
-"Furthermore, a bodhisattva possesses four kinds of firm and excellent dharma. What are the four? Being able to practice what one has heard; being able to give when possessing wealth; being able to make offerings to the respected; being able to plant wholesome roots during one's lifespan. These are the four.
+"Furthermore, a bodhisattva possesses four kinds of firm and excellent dharma. What are the four? Being able to practice what one has heard; being able to give when possessing wealth; being able to make offerings to the respected; being able to plant roots of merit during one's lifespan. These are the four.
 
-"Furthermore, a bodhisattva possesses four kinds of non-abandonment. What are the four? Not abandoning the mind of awakening; not abandoning the true Dharma; not abandoning any sentient being; not abandoning the pursuit of all wholesome dharmas. These are the four.
+"Furthermore, a bodhisattva possesses four kinds of non-abandonment. What are the four? Not abandoning the mind of enlightenment; not abandoning the true Dharma; not abandoning any sentient being; not abandoning the pursuit of all wholesome dharmas. These are the four.
 
 "Furthermore, a bodhisattva possesses four kinds of garden. What are the four? Delighting in dwelling in forest solitude; delighting in sitting alone in the open; delighting in seeking the wholesome Dharma; delighting in liberating sentient beings through skillful means. These are the four.
 
@@ -71,7 +71,7 @@ Mañjuśrī said: "Listen carefully, listen carefully! Reflect well on this, and
 
 "Furthermore, a bodhisattva possesses four kinds of joy. What are the four? Joy upon seeing the Buddha; joy upon hearing the Dharma; joy in giving without regret; joy in bestowing peace and happiness on all sentient beings. These are the four.
 
-"Furthermore, a bodhisattva possesses four kinds of authenticity. What are the four? Not abandoning the mind of awakening; not abandoning the great vow; not abandoning those who come seeking refuge; not abandoning any word of beneficial counsel. These are the four.
+"Furthermore, a bodhisattva possesses four kinds of authenticity. What are the four? Not abandoning the mind of enlightenment; not abandoning the great vow; not abandoning those who come seeking refuge; not abandoning any word of beneficial counsel. These are the four.
 
 "Furthermore, a bodhisattva possesses four kinds of wholesome dharma. What are the four? Delighting in cultivating all wholesome dharmas; not looking down on beginners; regarding all sentient beings with equal mind toward friends and foes; being an unbidden friend who benefits sentient beings without thinking of reward. These are the four.
 
@@ -91,9 +91,9 @@ Mañjuśrī said: "Listen carefully, listen carefully! Reflect well on this, and
 
 "Furthermore, a bodhisattva possesses four kinds of self-possessed dharma. What are the four? The perfections; the factors of awakening; true and good spiritual friends; not committing any evil action. These are the four.
 
-"Furthermore, a bodhisattva possesses four kinds of immovability. What are the four? The mind of awakening; acting in accordance with one's vows; acting in accordance with one's words; diligently cultivating right practice. These are the four.
+"Furthermore, a bodhisattva possesses four kinds of immovability. What are the four? The mind of enlightenment; acting in accordance with one's vows; acting in accordance with one's words; diligently cultivating right practice. These are the four.
 
-"Furthermore, a bodhisattva possesses four kinds of provisions. What are the four? Calm abiding; insight; hearing all teachings; wholesome roots. These are the four.
+"Furthermore, a bodhisattva possesses four kinds of provisions. What are the four? Calm abiding; insight; hearing all teachings; roots of merit. These are the four.
 
 "Furthermore, a bodhisattva possesses four kinds of paired practice. What are the four? Generating aspiration and undertaking practice; giving and dedication; great loving-kindness and great compassion; wisdom and skillful means. These are the four.
 
@@ -111,11 +111,11 @@ Mañjuśrī said: "Listen carefully, listen carefully! Reflect well on this, and
 
 "Furthermore, a bodhisattva possesses four kinds of dream that indicate obtaining the marks of a great being. What are the four? Dreaming of a śāla tree full of wondrous flowers and fruit; dreaming of a great bronze vessel brimming with precious jewels; dreaming of the sky adorned with banners and canopies; dreaming of a wheel-turning king ruling the world through the Dharma. These are the four.
 
-"Furthermore, a bodhisattva possesses four kinds of dream that indicate non-retrogression. What are the four? Dreaming that a white silk band is tied around one's head; dreaming that one has set up an assembly of unrestricted giving; dreaming that one's body is seated on a Dharma seat; dreaming that the Buddha sits at the seat of awakening, teaching the Dharma for the assembly. These are the four.
+"Furthermore, a bodhisattva possesses four kinds of dream that indicate non-retrogression. What are the four? Dreaming that a white silk band is tied around one's head; dreaming that one has set up an assembly of unrestricted giving; dreaming that one's body is seated on a Dharma seat; dreaming that the Buddha sits at the seat of enlightenment, teaching the Dharma for the assembly. These are the four.
 
 "Furthermore, a bodhisattva possesses four kinds of dream that indicate vanquishing the army of Māra. What are the four? Dreaming of a great strongman overpowering a lesser one and carrying the victory banner away; dreaming of a great and brave general who conquers in battle and departs; dreaming that one receives the consecrated kingship; dreaming that one sits beneath the Bodhi tree and vanquishes the hosts of Māra. These are the four.
 
-"Furthermore, a bodhisattva possesses four kinds of dream that indicate sitting at the seat of awakening. What are the four? Dreaming that an auspicious vase is full; dreaming that a multitude circumambulates one's body to the right; dreaming that wherever one goes, the trees bow their branches; dreaming that golden light shines everywhere. These are the four."
+"Furthermore, a bodhisattva possesses four kinds of dream that indicate sitting at the seat of enlightenment. What are the four? Dreaming that an auspicious vase is full; dreaming that a multitude circumambulates one's body to the right; dreaming that wherever one goes, the trees bow their branches; dreaming that golden light shines everywhere. These are the four."
 
 When Mañjuśrī had taught this Dharma, the heavenly being Good Victory and his retinue leapt with joy and offered heavenly māndārava flowers, padma flowers, kumuda flowers, and puṇḍarīka flowers to Mañjuśrī, scattering them also upon the entire assembly. Through the Buddha's supernatural power, the scattered flowers rose into the sky and became great lotuses, each as large as a cart-wheel, exquisitely fragrant and pure, delighting the hearts of all. Upon the petal-thrones sat bodhisattvas, their bodies adorned with the thirty-two marks.
 
@@ -158,7 +158,7 @@ At that time the World-Honored One addressed the heavenly being Good Victory: "D
 
 The heavenly being said: "Indeed, I have seen them!"
 
-The Buddha said: "All these bodhisattvas were transformed and led by Mañjuśrī. Having come from the ten directions to hear these four Dharma gates, they all abide at the stage of one-birth supplement, and in the lands of the ten directions they shall each attain supreme perfect awakening, each under a different name."
+The Buddha said: "All these bodhisattvas were transformed and led by Mañjuśrī. Having come from the ten directions to hear these four Dharma gates, they all abide at the stage of one-birth supplement, and in the lands of the ten directions they shall each attain supreme perfect enlightenment, each under a different name."
 
 The heavenly being said: "World-Honored One! Can anyone calculate and know their number?"
 
@@ -168,25 +168,25 @@ At that time the World-Honored One asked Śāriputra: "Can you know?"
 
 The Buddha told Śāriputra: "Even if atoms of dust filled all of Jambudvīpa, they could be counted and known. But the number of these bodhisattvas is beyond the limits of knowledge."
 
-Śāriputra said: "Where could there be so many buddha-fields to accommodate these bodhisattvas attaining perfect awakening?"
+Śāriputra said: "Where could there be so many buddha-fields to accommodate these bodhisattvas attaining perfect enlightenment?"
 
 The Buddha said: "Say no more! Do not speak thus! The worlds among all world-systems that are empty and without a buddha are immeasurable and boundless.
 
-"Śāriputra! Suppose the Tathāgata were to abide in the world for as many kalpas as grains of sand in the Ganges, and each day were to teach as many dharmas as grains of sand in the Ganges, and in teaching each dharma were to bestow upon as many bodhisattvas as grains of sand in the Ganges the prediction of supreme perfect awakening; and suppose that for every such prediction, one would have to pass through as many buddha-fields to the east as grains of sand in the Ganges before a single bodhisattva attained buddhahood in one of them: even so, the buddha-less worlds to the east could not be exhausted. How much less the worlds in all ten directions that are empty and without a buddha?
+"Śāriputra! Suppose the Tathāgata were to abide in the world for as many kalpas as grains of sand in the Ganges, and each day were to teach as many dharmas as grains of sand in the Ganges, and in teaching each dharma were to bestow upon as many bodhisattvas as grains of sand in the Ganges the prediction of supreme perfect enlightenment; and suppose that for every such prediction, one would have to pass through as many buddha-fields to the east as grains of sand in the Ganges before a single bodhisattva attained buddhahood in one of them: even so, the buddha-less worlds to the east could not be exhausted. How much less the worlds in all ten directions that are empty and without a buddha?
 
 "Śāriputra! All these immeasurable worlds are what the Tathāgata's physical eye can see. All the sentient beings within them are what the Tathāgata's mind can know."
 
 At that time the great śrāvakas and the entire assembly felt wonder in their hearts and said: "Today we have all gained a great benefit, having met such a teacher endowed with vast merit and wisdom!" Then the bodhisattvas who had come through the sky all descended from the air, prostrated before the Tathāgata and Mañjuśrī, reverently circumambulated them to the right, and each returned to their own land.
 
-At that time the heavenly being Good Victory said to Mañjuśrī: "Excellent, venerable one! You do the Buddha's work, having been able to transform these immeasurable bodhisattvas and establish them in great awakening. Please teach me the dharmas that accomplish their abiding in awakening."
+At that time the heavenly being Good Victory said to Mañjuśrī: "Excellent, venerable one! You do the Buddha's work, having been able to transform these immeasurable bodhisattvas and establish them in great enlightenment. Please teach me the dharmas that accomplish their abiding in awakening."
 
 Mañjuśrī said: "Heavenly son! There are thirty-five dharmas that accomplish a bodhisattva's abiding in awakening. They are: one should always act in a timely manner without missing the right occasion. One should rouse and discipline the sense faculties. One should gather the mind without wavering. One should cultivate the perfections. One should follow skillful means. One should generate a superior aspiration. One should establish great loving-kindness. One should give rise to great compassion. One should not abandon the Mahāyāna. One should keep far from the lesser vehicles. One should always be truthful. One should act in accordance with truth. One should protect the true Dharma. One should practice in accordance with what one has heard. One should understand that the nature of sentient beings is equal and non-dual. One should regard those who break precepts and those who keep precepts alike as fields of merit. One should be aware of all the workings of Māra. One should fulfill the great vow. One should not grow weary of birth and death. One should vanquish the hosts of Māra. One should know kindness and repay it. One should enter the dharmas that cause cessation. One should not be frightened by the gates of liberation. One should make offerings to all buddhas. One should do whatever sentient beings require. One should not be tainted by worldly dharmas. One should delight in forest solitude. One should practice having few desires. One should be mindful of contentment. One should cause those not yet liberated to be liberated. One should cause those not yet understanding to understand. One should cause those not yet at peace to be at peace. One should cause those not yet in nirvāṇa to enter nirvāṇa. One should preserve the lineage of the Three Treasures without interruption. One should incorporate the merit and adornment of all buddhas' pure lands. These are the thirty-five dharmas that accomplish a bodhisattva's abiding in awakening. One should study them thus.
 
-"Furthermore, heavenly son! A bodhisattva should be free from ten kinds of pride. They are: pride in self; pride in learning; pride in eloquence; pride in gain, fame, and renown; pride in dwelling in forest solitude; pride in ascetic virtues; pride in wealth, status, and retinue; pride in being served by Śakra, Brahmā, and the world-protectors; pride in dhyāna and supernatural powers; pride arising from receiving the unshakable faith of the Buddha, Dharma, and Sangha, together with the reverence and praise of devas, nāgas, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, and mahoragas. If a bodhisattva can be free from these ten kinds of pride, then one will not retrogress from supreme perfect awakening and will not be damaged or defeated by any heterodox path or māra-enemy."
+"Furthermore, heavenly son! A bodhisattva should be free from ten kinds of pride. They are: pride in self; pride in learning; pride in eloquence; pride in gain, fame, and renown; pride in dwelling in forest solitude; pride in ascetic virtues; pride in wealth, status, and retinue; pride in being served by Śakra, Brahmā, and the world-protectors; pride in dhyāna and supernatural powers; pride arising from receiving the unshakable faith of the Buddha, Dharma, and Sangha, together with the reverence and praise of devas, nāgas, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, and mahoragas. If a bodhisattva can be free from these ten kinds of pride, then one will not retrogress from supreme perfect enlightenment and will not be damaged or defeated by any heterodox path or māra-enemy."
 
 The heavenly being Good Victory said to Mañjuśrī: "Wherever the venerable one abides, one should know that this Dharma gate is present there. It is as if the Tathāgata had appeared in that place and turned the wheel of the true Dharma."
 
-The Buddha said: "Just so, just so! It is as you have said. In whatever land Mañjuśrī teaches this Dharma gate, it is as if the Dharma King abides therein. If any sentient being practices this Dharma, that person is a true child of the Buddha. If anyone can believe, understand, receive, and uphold this Dharma, that person is called a true practitioner. Such a person has already been tamed by the Buddha and will not retrogress from supreme perfect awakening."
+The Buddha said: "Just so, just so! It is as you have said. In whatever land Mañjuśrī teaches this Dharma gate, it is as if the Dharma King abides therein. If any sentient being practices this Dharma, that person is a true child of the Buddha. If anyone can believe, understand, receive, and uphold this Dharma, that person is called a true practitioner. Such a person has already been tamed by the Buddha and will not retrogress from supreme perfect enlightenment."
 
 At that time the World-Honored One addressed the Bodhisattva Maitreya, Kāśyapa, and Ānanda: "Good men! I now entrust this Dharma gate to you. You should receive, uphold, read, recite, practice it as taught, and explain it widely for others. After my nirvāṇa, you should use this Dharma to do great buddha-work, enabling all sentient beings to attain peace and happiness."
 

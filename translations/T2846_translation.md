@@ -23,6 +23,6 @@ Thereafter, may herdsmen rejoice in the tranquil reign of Shun. May village elde
 
 May the court's envoys soon be received in the imperial presence. May the frontier conditions they report receive gracious attention. May the sage sovereign quickly dispel all difficulties and offer encouragement. May the howling of enemies be stilled and their weapons laid down; may beacon fires and frontier snares be completely extinguished.
 
-Now, on the occasion of the altar's conclusion, all who have gathered at this site, thirsting for the Way, venerate the Three Jewels. We humbly pray that this merit be dedicated to these aspirations.
+Now, on the occasion of the altar's conclusion, all who have gathered at this site, thirsting for the Way, venerate the Three Treasures. We humbly pray that this merit be dedicated to these aspirations.
 
 26th day of the 12th month of the 2nd year of the Changxing era [931 CE], the western Guiyi Army.

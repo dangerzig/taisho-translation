@@ -66,7 +66,7 @@ Therefore, with single mind, I take refuge and bow my head.
 With single mind, I bow my head to the Lord of the Nirvāṇa Teaching, the World-Honored One of the Sahā Realm, in the body he manifested when accepting Cunda's offering of food, Śākyamuni Buddha.
 
 > The Tathāgata had long realized the Vairocana substance,
-> Yet by expedient means he displayed the ceremony of a final offering.
+> Yet by skillful means he displayed the ceremony of a final offering.
 > He who could transform a hair-tip into myriad bodies
 > Accepted this offering of grain from the Flower-Clan.
 > The six sense-objects, though said to be empty and without characteristics,
@@ -117,7 +117,7 @@ With single mind, I bow my head to the Lord of the Nirvāṇa Teaching, the Worl
 > With a deer's body, how can one repay the virtue of cultivating causes?
 > Through dust-mote kalpas, it is hard to meet the conditions of a buddha's appearance.
 > The parting instructions are earnest and entrusted to the future:
-> Take refuge in the Three Jewels, and all shall receive them.
+> Take refuge in the Three Treasures, and all shall receive them.
 
 Therefore, with single mind, I take refuge and bow my head.
 
@@ -262,7 +262,7 @@ With utmost mind, I repent. I and all sentient beings of the dharmadhātu: we po
 
 Through what conditions of past planting were we born in the human realm, encountered the Dharma of Śākyamuni, and numbered among the bhikṣu-saṃgha? Yet because we did not carefully observe the discipline and deportment, the factors of the path were difficult to accomplish. The teaching of the complete meaning of the One Vehicle has not yet opened our true wisdom. The regulations of the seven categories for preventing error have been frequently violated with deep transgression. Sustaining the body with impure things, following ignorance in our actions. The inflated skin-bag has holes; truly we harbor the worry of drowning in the sea. The ornate house stands empty; how can we receive the gift of entering through the gate? Now, with eyes downcast, I gaze toward nirvāṇa and personally undertake the rites of repentance. Having fully confessed the root of transgression, I shall purely eliminate all karmic obstructions. The Buddha's compassion covers all; the Dharma's power pervades in hidden ways. Therefore, taking refuge, I trust that protection and mindfulness will surely be extended.
 
-Having repented, with utmost mind I take refuge in the Three Jewels.
+Having repented, with utmost mind I take refuge in the Three Treasures.
 
 ### Exhortation
 
@@ -277,13 +277,13 @@ With utmost mind, I reverently exhort:
 > Even when, following conditions, they manifest extinction,
 > I pray them, with vast compassion, to extend their lifespan through the kalpas.
 
-Having exhorted, with utmost mind I take refuge in the Three Jewels.
+Having exhorted, with utmost mind I take refuge in the Three Treasures.
 
 ### Sympathetic Joy
 
 With utmost mind, I share in joy:
 
-> The perfect penetration has already opened expedient means;
+> The perfect penetration has already opened skillful means;
 > The five vehicles are all nothing other than the One Vehicle.
 > Throughout past, present, and future, wherever there is cultivation,
 > In all deeds of body, speech, and mind, I share in joy.
@@ -292,7 +292,7 @@ With utmost mind, I share in joy:
 > For all the jealousy and anger ever harbored in my mind,
 > I now repent, and praise all equally.
 
-Having shared in joy, with utmost mind I take refuge in the Three Jewels.
+Having shared in joy, with utmost mind I take refuge in the Three Treasures.
 
 ### Dedication
 
@@ -307,7 +307,7 @@ With utmost mind, I dedicate:
 > As all waters flow toward the great ocean:
 > So too is dedication, without any difference.
 
-Having dedicated, with utmost mind I take refuge in the Three Jewels.
+Having dedicated, with utmost mind I take refuge in the Three Treasures.
 
 ### Vow
 
@@ -322,4 +322,4 @@ With utmost mind, I make this vow:
 > I universally pray that, like the wondrous Mañjuśrī,
 > All may simultaneously awaken to the nature of the Tathāgata.
 
-Having vowed, with utmost mind I take refuge in the Three Jewels.
+Having vowed, with utmost mind I take refuge in the Three Treasures.

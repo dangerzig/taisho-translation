@@ -17,7 +17,7 @@ Translated from the Chinese. Dynasty and translator unknown (失譯)
 
 Amitābha Buddha of the Western [Pure Land], Bodhisattva Avalokiteśvara, and Bodhisattva Mahāsthāmaprāpta possess this power: those who recite the names of these one Buddha and two Bodhisattvas will be liberated from the suffering of birth and death and will never enter the hells. They will always encounter good spiritual friends. Those who have doubts or face difficulties; if they recite this sūtra one thousand times, they will immediately attain liberation.
 
-> First vow: May the Three Jewels always stand firm.
+> First vow: May the Three Treasures always stand firm.
 > Second vow: May wind and rain follow their proper seasons.
 > Third vow: May the king live ten thousand years.
 > Fourth vow: May the borderlands be free from mounds of blades.

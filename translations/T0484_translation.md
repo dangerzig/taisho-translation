@@ -420,7 +420,7 @@ The Buddha said: "Infant, by accomplishing four dharmas, a bodhisattva swiftly a
 
 "There are another four dharmas, namely: contemplating the Buddha through the Dharma and not through form, contemplating the Dharma through non-attachment and not through self, contemplating the Saṃgha through the unconditioned and not through the multitude, and purifying the wisdom eye. These are the four.
 
-"There are another four dharmas, namely: fulfilling all the pāramitās, not abandoning the four means of gathering, skillfully knowing expedient means, and teaching that there are no sentient beings while practicing great compassion. These are the four.
+"There are another four dharmas, namely: fulfilling all the pāramitās, not abandoning the four means of gathering, skillfully knowing skillful means, and teaching that there are no sentient beings while practicing great compassion. These are the four.
 
 "Infant, these are the dharmas by which a bodhisattva, having accomplished them in sets of four, swiftly attains anuttarā-samyak-saṃbodhi and the profound Dharma-patience."
 

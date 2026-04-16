@@ -462,7 +462,7 @@ May I, together with all sentient beings, be reborn in the Land of Peace and Bli
 > The world's radiance is wondrously supreme;
 > Delightful, peaceful, and serene, without the four seasons.
 > The power of benefiting self and others is perfectly complete:
-> I take refuge in the Skillfully Adorned One through Expedient Means.
+> I take refuge in the Skillfully Adorned One through skillful means.
 > The jeweled ground is clear, still, and level as the palm,
 > Without mountains, rivers, ridges, or valleys.
 > If, through the Buddha's divine power, they are needed, they then appear:

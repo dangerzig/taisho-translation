@@ -79,7 +79,7 @@ Another interpretation: "Not forsaking the mind of bodhi," "skillfully knowing a
 
 **Regarding "if each were enumerated, it would become extensive."** This is an implicit objection: within the sūtra title, if one simply placed "faculty, mind, thought, consciousness," that would suffice. Why is "I heard" necessary? **Answer:** If one places the meaning, it becomes extensive. Why not mention only one? **Answer:** If one mentioned only one, its function would be incomplete. Another implicit objection: if so, why not in the sūtra...
 
-**Regarding "there is no 'I' who heard."** To lead non-Buddhists into the Dharma, one provisionally establishes "I heard." Just as the Buddha, by expedient means, provisionally established a self for the long-nailed brāhmaṇa who questioned him.
+**Regarding "there is no 'I' who heard."** To lead non-Buddhists into the Dharma, one provisionally establishes "I heard." Just as the Buddha, by skillful means, provisionally established a self for the long-nailed brāhmaṇa who questioned him.
 
 **Regarding "skillfully according with timeliness."** If before the meal there are those who can be converted, one converts them then. If after the meal there are those who can be converted, one converts them then.
 

@@ -58,7 +58,7 @@ Each of the eight directional buddhōṣṇīṣa kings radiated light of their 
 
 At that time, when all the buddhōṣṇīṣa wheel-kings had been assigned their eight directional seats and each had manifested the form of eight types of buddhōṣṇīṣa wheel-kings, the World-Honored One further manifested the seven-jeweled retinue: the jewel-woman, the jewel-horse, the jewel-treasury-guardian spirit, the jewel-wheel, the jewel-elephant, the wish-fulfilling jewel, and the jewel-army, surrounding the great wheel on all four sides.
 
-At that time, the World-Honored One further entered the Hook-Summoning Samādhi, summoning throughout the entire dharmadhātu of space, in order to establish all sentient beings and swiftly lead them to the path of unsurpassed awakening, to enable those dwelling in birth and death to directly realize the buddha-body. Then the koṭis of buddhas of the ten directions, hearing the hook-summoning of the All-Gathering Buddhōṣṇīṣa Wheel-King, all from within samādhi manifested supernatural powers, raining jeweled rains, jeweled flowers, jeweled garlands, jeweled incense, jeweled lamps, jeweled silk, and other offerings, all arriving at the Great Vajra Jewel-Peak Pavilion in the dharmadhātu of space. Gathered in space, they all said: "World-Honored One Wheel-King, why do you not speak the ten-syllable Dharma, to enable all sentient beings in this present life to swiftly attain the buddha-body?"
+At that time, the World-Honored One further entered the Hook-Summoning Samādhi, summoning throughout the entire dharmadhātu of space, in order to establish all sentient beings and swiftly lead them to the path of unsurpassed enlightenment, to enable those dwelling in birth and death to directly realize the buddha-body. Then the koṭis of buddhas of the ten directions, hearing the hook-summoning of the All-Gathering Buddhōṣṇīṣa Wheel-King, all from within samādhi manifested supernatural powers, raining jeweled rains, jeweled flowers, jeweled garlands, jeweled incense, jeweled lamps, jeweled silk, and other offerings, all arriving at the Great Vajra Jewel-Peak Pavilion in the dharmadhātu of space. Gathered in space, they all said: "World-Honored One Wheel-King, why do you not speak the ten-syllable Dharma, to enable all sentient beings in this present life to swiftly attain the buddha-body?"
 
 At that time, the All-Gathering Buddhōṣṇīṣa King, having heard these words, wishing to display great supernatural power and might, wishing to teach the root practice realized by all the buddhas, the practice of the buddhas of the past, the practice of the buddhas of the present, and the practice of the buddhas of the future, in order to enable good men and good women in this very life, without transforming their physical bodies, to accomplish great buddha-deeds, and for the benefit of all sentient beings to attain the buddha-body, he spoke the Vajra Blazing-Light Buddhōṣṇīṣa Wheel-King Sovereign Ten-Syllable True Words:
 
@@ -69,12 +69,12 @@ After speaking this true words, throughout the three-thousandfold great-thousand
 > "Blazingly radiant, without equal,
 > Supremely wondrous, auspicious, sovereign in wisdom,
 > Able to tame and turn the wheel in birth and death,
-> Swiftly enabling sentient beings to attain perfect awakening."
+> Swiftly enabling sentient beings to attain perfect enlightenment."
 
 At that time, the World-Honored One Wheel-King further spoke these secret words in reply to the koṭis of tathāgatas of the ten directions:
 
 > "I now speak these words of truth
-> To benefit sentient beings and bring them to perfect awakening.
+> To benefit sentient beings and bring them to perfect enlightenment.
 > May the buddhas of the ten directions swiftly grant empowerment
 > And cause those beings to fully realize me."
 
@@ -148,7 +148,7 @@ Then Vajrapāṇi and the eight great bodhisattvas performed this method before 
 
 At that time, the World-Honored One said: "Although you have attained the buddha-body, you have not yet repaid the Buddha's kindness." The eight great bodhisattvas addressed the Buddha: "What constitutes repaying the Buddha's kindness?" The Buddha said: "Having all attained buddhahood, you must broadly liberate sentient beings. You must not abide in tranquility and enjoy quiescence for yourselves alone."
 
-At that time, the buddha-bodhisattvas, having heard this teaching, immediately reversed their transformation and returned to being bodhisattvas, bowing at the Buddha's feet. The Buddha addressed Vajrapāṇi: "You should use this Dharma to broadly liberate sentient beings and swiftly enable them to attain buddhahood." Vajrapāṇi and the others said: "If I do not use this Dharma to liberate sentient beings and cause them all to attain buddhahood, I vow not to attain perfect awakening."
+At that time, the buddha-bodhisattvas, having heard this teaching, immediately reversed their transformation and returned to being bodhisattvas, bowing at the Buddha's feet. The Buddha addressed Vajrapāṇi: "You should use this Dharma to broadly liberate sentient beings and swiftly enable them to attain buddhahood." Vajrapāṇi and the others said: "If I do not use this Dharma to liberate sentient beings and cause them all to attain buddhahood, I vow not to attain perfect enlightenment."
 
 At that time, the World-Honored One Wheel-King further addressed Vajrapāṇi: "Good son! I shall now further teach you the heart within the heart, the secret within the secret: the one-syllable gate of the syllable *a*. If a good man constantly abides in this one-syllable gate, within birth and death there is neither arising nor ceasing, and without transforming the physical body, one realizes this Dharma. This one-syllable gate is that in which the buddhas of the past three times, the present three times, and the future three times all constantly abide. If accomplishment is sought apart from this Dharma, that is impossible."
 

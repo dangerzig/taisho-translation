@@ -98,7 +98,7 @@ Next, visualize within the heart the Saṃgha-Altar position. Contemplate the sy
 
 *Citta-vajra-dhara-śrī-mandana-tri-vajra-bhinīya-bha-vina-adhiṣṭhāna-pānumī-niyāṃ-karu-toṃ-citta-vajrī-nāda-śana-ṇdhi-saṃsthita-buddha-kuśa-vaṃ-tu-citta-vajrī-nā. Oṃ sarva-tathāgata-citta-vajra-svā-bhavātmako 'haṃ.*
 
-> When the Three Jewels are visualized complete, settle the mind in stillness and immobility.
+> When the Three Treasures are visualized complete, settle the mind in stillness and immobility.
 > Then with a vajra lasso bind and close the six sense-gates.
 > With each thought, each binding, as if donning vajra armor.
 
@@ -110,7 +110,7 @@ Next, one should with earnest mind take refuge in the Three-Jewel Altar. Recite 
 
 *Namo buddhāya, namo dharmāya, namo saṃghāya. Abhavai-bha-vanā-bha-vanā-bha-vanā-deva-bha-vanā iti bhavai-mā-bha-vasiyāṃ-bhavānām-anu-pāra-bhiyate anīyāmī-sapharaṃ-jarā-vaṃ anīyāmī-sapharan-tā-pa anīyāmī-sapharan-dhiyānāṃ anīyāmī-vinī-mokṛ-tāṃ.*
 
-> Having taken refuge in the Three Jewels, visualize before you a single altar.
+> Having taken refuge in the Three Treasures, visualize before you a single altar.
 > Below are the Wind, Fire, and Water wheels; the Earth wheel sits uppermost.
 > Upon the earth, four-colored iron; upon the iron, a triangular earthen platform:
 > This is the ground of mixed jewels. Next, with both hands interlaced,

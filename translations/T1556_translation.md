@@ -6,7 +6,7 @@ Taishō 1556
 
 Translated by Fǎchéng (*Fǎchéng*, 法成) of the Tang dynasty.
 
-*Note: This is a systematic Abhidharma treatise of the Sarvāstivāda school classifying all dharmas into five categories (pañcavastu): form (rūpa), mind (citta), mental factors (caitasika), formations not associated with mind (cittaviprayuktasaṃskāra), and the unconditioned (asaṃskṛta). It provides precise definitions for each dharma within these categories, covering the four great elements, sense faculties, sense objects, the six consciousnesses, fifty-some mental factors (including the wholesome roots, unwholesome roots, indeterminate roots, nine fetters, seven forms of conceit, five views, ten knowledges, and the latent afflictions classified by realm and path of abandonment), as well as the formations not associated with mind (acquisition, attainments, life-faculty, homogeneous class, etc.) and the three unconditioned dharmas. This text reflects the mature Sarvāstivāda Abhidharma taxonomy as transmitted in the Dunhuang manuscripts.*
+*Note: This is a systematic Abhidharma treatise of the Sarvāstivāda school classifying all dharmas into five categories (pañcavastu): form (rūpa), mind (citta), mental factors (caitasika), formations not associated with mind (cittaviprayuktasaṃskāra), and the unconditioned (asaṃskṛta). It provides precise definitions for each dharma within these categories, covering the four great elements, sense faculties, sense objects, the six consciousnesses, fifty-some mental factors (including the roots of merit, unwholesome roots, indeterminate roots, nine fetters, seven forms of conceit, five views, ten knowledges, and the latent afflictions classified by realm and path of abandonment), as well as the formations not associated with mind (acquisition, attainments, life-faculty, homogeneous class, etc.) and the three unconditioned dharmas. This text reflects the mature Sarvāstivāda Abhidharma taxonomy as transmitted in the Dunhuang manuscripts.*
 
 ---
 
@@ -22,7 +22,7 @@ What are called mind dharmas? Mind (*citta*), mentation (*manas*), and conscious
 
 ### Mental-Factor Dharmas
 
-What are called mental-factor dharmas? Dharmas associated with mind. What are these? Feeling (*vedanā*), perception (*saṃjñā*), volition (*cetanā*), contact (*sparśa*), attention (*manaskāra*), desire (*chanda*), resolve (*adhimokṣa*), faith (*śraddhā*), vigor (*vīrya*), mindfulness (*smṛti*), concentration (*samādhi*), wisdom (*prajñā*), investigation (*vitarka*), examination (*vicāra*), heedlessness (*pramāda*), non-heedlessness (*apramāda*), wholesome roots, unwholesome roots, indeterminate roots, the fetters, bonds, latent tendencies in their subtle and extensive forms, the secondary afflictions, entanglements and stable states, cognitions, views, and all direct realizations. There are further dharmas associated with mind; all such are called mental-factor dharmas.
+What are called mental-factor dharmas? Dharmas associated with mind. What are these? Feeling (*vedanā*), perception (*saṃjñā*), volition (*cetanā*), contact (*sparśa*), attention (*manaskāra*), desire (*chanda*), resolve (*adhimokṣa*), faith (*śraddhā*), vigor (*vīrya*), mindfulness (*smṛti*), concentration (*samādhi*), wisdom (*prajñā*), investigation (*vitarka*), examination (*vicāra*), heedlessness (*pramāda*), non-heedlessness (*apramāda*), roots of merit, unwholesome roots, indeterminate roots, the fetters, bonds, latent tendencies in their subtle and extensive forms, the secondary afflictions, entanglements and stable states, cognitions, views, and all direct realizations. There are further dharmas associated with mind; all such are called mental-factor dharmas.
 
 ### Formations Not Associated with Mind
 
@@ -76,7 +76,7 @@ What is attention? The turning of mind. It is of three kinds: of a learner, of o
 
 What is desire? The nature of wishing to act. What is resolve? That in which the mind delights, the nature of delight and wishing to act. What is faith? Supreme clarity of mind. What is vigor? Delight of mind. What is mindfulness? The nature of clear remembering of mind. What is concentration? One-pointedness of mind. What is wisdom? Discernment of dharmas. What is investigation? Coarseness of mind in nature. What is examination? Subtlety of mind in nature. What is heedlessness? Not cultivating wholesome dharmas. What is non-heedlessness? Cultivating wholesome dharmas.
 
-**Wholesome roots**: three wholesome roots: the wholesome root of non-attachment (*alobha*), the wholesome root of non-aversion (*adveṣa*), and the wholesome root of non-delusion (*amoha*).
+**Roots of merit**: three roots of merit: the wholesome root of non-attachment (*alobha*), the wholesome root of non-aversion (*adveṣa*), and the wholesome root of non-delusion (*amoha*).
 
 **Unwholesome roots**: three unwholesome roots: the unwholesome root of attachment (*lobha*), the unwholesome root of aversion (*dveṣa*), and the unwholesome root of delusion (*moha*).
 

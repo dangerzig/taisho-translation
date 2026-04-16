@@ -464,7 +464,7 @@ The buddha-homage mantra:
 > And show me the way of skillful practice.
 > Whatever supreme deeds I accomplish,
 > I bestow upon all sentient beings,
-> That they may all ascend to true awakening."
+> That they may all ascend to true enlightenment."
 > Having addressed the holy assembly,
 > Further, at the Wheel King's heart,
 > Visualize a moon disc installed within.

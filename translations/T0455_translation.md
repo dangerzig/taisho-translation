@@ -238,7 +238,7 @@ Then Śāriputra addressed the World-Honored One in gāthā:
 > Following the method of prognostication,
 > The father will know the child has two destinies:
 > As a householder, he would be a wheel-turning king;
-> As a renunciant, he will achieve perfect awakening.
+> As a renunciant, he will achieve perfect enlightenment.
 
 > Once the bodhisattva has come of age,
 > Compassionate toward all beings,
@@ -303,7 +303,7 @@ Then Śāriputra addressed the World-Honored One in gāthā:
 > Its branches will spread in all four directions,
 > Their shade extending six krośas.
 > The great compassionate Maitreya
-> Will attain perfect awakening beneath it.
+> Will attain perfect enlightenment beneath it.
 
 > Supreme among humans,
 > Endowed with the eight Brahmā tones,

@@ -20,7 +20,7 @@ Answer: According to the *Vinaya in Four Parts*, there are four kinds: (1) "Welc
 
 Question: How many kinds of grounds for losing [the precepts] are there?
 
-Answer: According to the *Abhidharmakośa*, there are five kinds: (1) losing precepts by death; (2) losing by cutting off wholesome roots; (3) losing by developing both sexual organs; (4) losing by formal renunciation; (5) losing by transgression.
+Answer: According to the *Abhidharmakośa*, there are five kinds: (1) losing precepts by death; (2) losing by cutting off roots of merit; (3) losing by developing both sexual organs; (4) losing by formal renunciation; (5) losing by transgression.
 
 Question: How many kinds of karma-procedures (*jiémó*, 羯磨) are there, and what is the meaning?
 

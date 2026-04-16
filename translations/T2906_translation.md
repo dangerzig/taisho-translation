@@ -119,7 +119,7 @@ Think of Dragon-Lineage Supreme Honored King and universally make vows for swift
 
 "First: from beginningless time, revolving in the six destinies, the heavy obstructions of the three kinds of karma, upon seeing this seal, are immediately extinguished. One attains the supreme reward of coolness and purity."
 
-"Second: from immeasurable kalpas of unfilial conduct, shedding the Buddha's blood, killing arhats, slandering the Three Jewels, and other such grave transgressions, this seal permanently severs and eliminates the immeasurable heavy obstructions. One attains pure abiding."
+"Second: from immeasurable kalpas of unfilial conduct, shedding the Buddha's blood, killing arhats, slandering the Three Treasures, and other such grave transgressions, this seal permanently severs and eliminates the immeasurable heavy obstructions. One attains pure abiding."
 
 "Third: for those constantly in the hells, hungry ghost, and animal realms, one attains a body adorned with immeasurable hundreds of merits."
 

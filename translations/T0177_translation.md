@@ -33,6 +33,6 @@ The Buddha told the bhikṣus: "Mahāmati of that time is my present self. The h
 
 Ānanda straightened his robes, bowed to the Buddha, and said: "At that time, by what merit did Mahāmati come to encounter these four treasure cities, receive offerings everywhere, and obtain the four luminous pearls, with treasures following after?"
 
-The Buddha said: "Long ago, in the time of Vipaśyin Buddha, Mahāmati once built a stūpa of the four treasures for the Buddha, made offerings to the Three Jewels, and observed the fast for seven days. At that time, there were five hundred people who together built a monastery. Some hung silk banners and lit lamps; some burned incense and scattered flowers; some made offerings to the sangha of bhikṣus; some chanted sūtras and expounded the path. All of them have now come to this assembly."
+The Buddha said: "Long ago, in the time of Vipaśyin Buddha, Mahāmati once built a stūpa of the four treasures for the Buddha, made offerings to the Three Treasures, and observed the fast for seven days. At that time, there were five hundred people who together built a monastery. Some hung silk banners and lit lamps; some burned incense and scattered flowers; some made offerings to the sangha of bhikṣus; some chanted sūtras and expounded the path. All of them have now come to this assembly."
 
 Ānanda and the fourfold assembly of disciples, hearing the sūtra, were joyful, and came forward to bow to the Buddha.

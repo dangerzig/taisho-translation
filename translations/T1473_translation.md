@@ -40,7 +40,7 @@ Translated from the Chinese. Song dynasty, translated by Dānapāla (施護).
 > If the Dharma is taught inappropriately, the hearer's mind does not esteem it,
 > And at death one suffers greatly. If a person administers poison
 > Or employs spells and such methods to cause another's death,
-> Or further uses various expedient means to carry out killing,
+> Or further uses various skillful means to carry out killing,
 > Such causes of breaking the precepts lead to permanent sinking into the three evil destinies:
 > Hell, hungry ghosts, and animals, receiving punishment in that order.
 > Even the hosts of devas, if they too should kill living beings,
@@ -150,4 +150,4 @@ Translated from the Chinese. Song dynasty, translated by Dānapāla (施護).
 > Chant and recite without ceasing. During the middle watch, when sleeping,
 > Lie like a lion. All the Dharma that has been taught:
 > Practice it with a sincere mind. Plant the seeds of virtue in the consciousness.
-> Afflictions will be severed of themselves, and one will swiftly accomplish unsurpassed awakening.
+> Afflictions will be severed of themselves, and one will swiftly accomplish unsurpassed enlightenment.

@@ -41,7 +41,7 @@ The seven meanings [correspond to the opening verse as follows]: "The extinction
 
 Form dharmas, mind dharmas, mental-factor dharmas, dharmas not associated with mind, and unconditioned dharmas: among these five categories of knowable objects, the world is entirely ignorant of them, while only the Buddha alone understands them, having forever severed all afflictions.
 
-"The extremely remote in time" means: beyond three incalculable eons in the past and future, śrāvakas and pratyekabuddhas cannot know. How do we know this? Once there was a man who sought ordination from Śāriputra. At that time Śāriputra observed that for two incalculable eons this man had no wholesome roots for going forth, and so refused him. The man then went to the Buddha to seek ordination. The World-Honored One observed that beyond the incalculable eons, this man had a small wholesome root, and so permitted his ordination. He spoke this verse:
+"The extremely remote in time" means: beyond three incalculable eons in the past and future, śrāvakas and pratyekabuddhas cannot know. How do we know this? Once there was a man who sought ordination from Śāriputra. At that time Śāriputra observed that for two incalculable eons this man had no roots of merit for going forth, and so refused him. The man then went to the Buddha to seek ordination. The World-Honored One observed that beyond the incalculable eons, this man had a small wholesome root, and so permitted his ordination. He spoke this verse:
 
 > That person's seed of liberation
 > I perceive to be extremely subtle,

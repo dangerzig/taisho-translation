@@ -7,7 +7,7 @@ Translated from the Chinese. Translator unknown (失譯)
 
 ---
 
-With one mind, I bow in homage to the eternally dwelling Three Jewels throughout all dharma-realms of the ten directions. May this cloud of incense and flowers pervade all realms of the ten directions, making offerings to all buddhas, to the Wondrous Dharma Lotus Sūtra, and to the assembly of bodhisattvas and śrāvakas, to be received and used for the work of buddhahood.
+With one mind, I bow in homage to the eternally dwelling Three Treasures throughout all dharma-realms of the ten directions. May this cloud of incense and flowers pervade all realms of the ten directions, making offerings to all buddhas, to the Wondrous Dharma Lotus Sūtra, and to the assembly of bodhisattvas and śrāvakas, to be received and used for the work of buddhahood.
 
 > I bow my head to the buddhas of the ten directions, who perfect the supreme and complete vehicle.
 > Original ground and traces open two gates; through teachings and parables, the true and secret is expounded.

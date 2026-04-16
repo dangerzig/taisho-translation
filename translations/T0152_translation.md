@@ -59,7 +59,7 @@ At one time the Buddha was on Mount Gṛdhrakūṭa in Rājagṛha, together wit
 
 "The hawk, seeing the king's unwavering resolve, resumed his true form along with the subordinate king. Śakra prostrated himself: 'Great King! What do you aspire to, that you endure such suffering?'
 
-"The king said: 'I do not seek the throne of Śakra or the position of a universal monarch. I see beings sunk in darkness, unable to see the Three Jewels or hear the Buddha's teaching, indulging in calamitous deeds and casting themselves into the hell of no escape. Seeing this foolishness, I am moved to pity. I vow to seek buddhahood and rescue beings from their afflictions, bringing them to nirvāṇa.'
+"The king said: 'I do not seek the throne of Śakra or the position of a universal monarch. I see beings sunk in darkness, unable to see the Three Treasures or hear the Buddha's teaching, indulging in calamitous deeds and casting themselves into the hell of no escape. Seeing this foolishness, I am moved to pity. I vow to seek buddhahood and rescue beings from their afflictions, bringing them to nirvāṇa.'
 
 "Śakra then had heavenly physicians apply divine medicine, and the king's wounds healed, his strength surpassing what it had been before. Such is the bodhisattva's practice of giving."
 
@@ -75,17 +75,17 @@ At one time the Buddha was on Mount Gṛdhrakūṭa in Rājagṛha, together wit
 
 "Eventually someone cut off his head with an axe, and the fish died. His soul was instantly reborn as a prince. Born with supreme wisdom, he extended fourfold compassion, his kindness equal to heaven and earth. Pitying the people's poverty, he wept when he spoke of it. The drought continued, and he fasted, prostrated himself, and repented: 'The people's misfortune is my own fault. May my life be taken if it will bring rain.' He grieved daily like a filial son mourning a parent. His sincerity reached far, and five hundred pratyekabuddhas came to his land.
 
-"The king heard this and rejoiced. He welcomed them with prostrations and invited them to the palace. The queen and prince were all reverent. Finest food and robes were offered. The king prostrated and wept: 'My heart is impure and my conduct unclean. I have failed the teaching of the Three Jewels and brought suffering upon the people. May calamity be taken from the people and visited upon me.'
+"The king heard this and rejoiced. He welcomed them with prostrations and invited them to the palace. The queen and prince were all reverent. Finest food and robes were offered. The king prostrated and wept: 'My heart is impure and my conduct unclean. I have failed the teaching of the Three Treasures and brought suffering upon the people. May calamity be taken from the people and visited upon me.'
 
 "The pratyekabuddhas said: 'You are a benevolent ruler, and the buddhas know your virtue. We now bestow blessings upon you. Command the people to plant their crops at once.'
 
-"The king obeyed. All the people set to work, and the grain transformed into melons, each containing several bushels, fragrant and delicious. The entire nation rejoiced and praised the king's virtue. Neighboring kingdoms all submitted, and the people gathered like clouds. The entire land kept the precepts and took refuge in the Three Jewels. When the king and his people died, they were all reborn in heaven."
+"The king obeyed. All the people set to work, and the grain transformed into melons, each containing several bushels, fragrant and delicious. The entire nation rejoiced and praised the king's virtue. Neighboring kingdoms all submitted, and the people gathered like clouds. The entire land kept the precepts and took refuge in the Three Treasures. When the king and his people died, they were all reborn in heaven."
 
 The Buddha said: "The poor man at that time was I myself. Through countless kalpas of kindness and saving beings, the merit did not decay, and now I have attained buddhahood, honored as the God of Gods, the hero of the three realms. Such is the bodhisattva's practice of giving."
 
 ### (4)
 
-"Long ago the bodhisattva was a renunciant dwelling in the mountains, diligent in contemplation. Finding a tigress who had just given birth, exhausted and starving, about to devour her own cubs, the bodhisattva was deeply grieved. He reflected: 'I have vowed to seek the path for the sake of all beings. This body will one day be discarded in old age and death. Better to give it in kindness and perfect my merit.' He threw himself headfirst into the tiger's mouth, wishing for a swift death so he would not feel the pain. The mother and cubs were both saved. The buddhas praised his virtue, and all gods, nāgas, and spirits of the path were moved. Some attained the fruits of stream-entry, once-returning, non-returning, and arhatship; some awakened to pratyekabuddha; some aroused the aspiration for supreme, perfect awakening. By this fierce resolve, the bodhisattva leapt nine kalpas ahead of other bodhisattvas. Such is the bodhisattva's practice of giving."
+"Long ago the bodhisattva was a renunciant dwelling in the mountains, diligent in contemplation. Finding a tigress who had just given birth, exhausted and starving, about to devour her own cubs, the bodhisattva was deeply grieved. He reflected: 'I have vowed to seek the path for the sake of all beings. This body will one day be discarded in old age and death. Better to give it in kindness and perfect my merit.' He threw himself headfirst into the tiger's mouth, wishing for a swift death so he would not feel the pain. The mother and cubs were both saved. The buddhas praised his virtue, and all gods, nāgas, and spirits of the path were moved. Some attained the fruits of stream-entry, once-returning, non-returning, and arhatship; some awakened to pratyekabuddha; some aroused the aspiration for supreme, perfect enlightenment. By this fierce resolve, the bodhisattva leapt nine kalpas ahead of other bodhisattvas. Such is the bodhisattva's practice of giving."
 
 ### (5)
 
@@ -229,11 +229,11 @@ The Buddha said these things, and the monks rejoiced.
 
 ## Chapter Two: The Perfection of Morality
 
-"What is the perfection of morality? The foolish and violent love to harm living things, steal, commit sexual misconduct, use divisive speech, harsh speech, false speech, and idle chatter, and harbor jealousy, anger, and delusion. The bodhisattva would rather be flayed and dismembered than commit any of these evils. He trusts in the Buddha, the Three Jewels, and extends the fourfold compassion universally."
+"What is the perfection of morality? The foolish and violent love to harm living things, steal, commit sexual misconduct, use divisive speech, harsh speech, false speech, and idle chatter, and harbor jealousy, anger, and delusion. The bodhisattva would rather be flayed and dismembered than commit any of these evils. He trusts in the Buddha, the Three Treasures, and extends the fourfold compassion universally."
 
 ### (27)
 
-A king who first encouraged Buddhism then tested his subjects by outlawing it. All the hypocrites abandoned the faith. Only one elderly upāsaka refused: "I would rather die than abandon the Three Jewels." The king had him arrested, but secretly sent people to listen. Hearing the upāsaka's steadfast deathbed teaching to his son, the king was so moved that he appointed the upāsaka as chief minister.
+A king who first encouraged Buddhism then tested his subjects by outlawing it. All the hypocrites abandoned the faith. Only one elderly upāsaka refused: "I would rather die than abandon the Three Treasures." The king had him arrested, but secretly sent people to listen. Hearing the upāsaka's steadfast deathbed teaching to his son, the king was so moved that he appointed the upāsaka as chief minister.
 
 The Buddha said: "The king was Maitreya. The upāsaka was I myself."
 
@@ -299,7 +299,7 @@ Mīlān the merchant, shipwrecked on a mysterious shore, passed through four jew
 
 King Mūrdhaja was a universal monarch who possessed the seven treasures and ruled the four continents. Yet even after celestial rain of jewels, he was not satisfied. He ascended to Śakra's heaven and coveted Śakra's throne. At that evil thought, his supernatural powers vanished and he fell ill. On his deathbed he taught his successors: "Greed is the blade that kills, the foundation that destroys kingdoms."
 
-The World-Honored One said: "Only those who attain stream-entry, once-returning, non-returning, arhatship, pratyekabuddha, or supreme perfect awakening can truly abandon the five desires. King Mūrdhaja was I myself."
+The World-Honored One said: "Only those who attain stream-entry, once-returning, non-returning, arhatship, pratyekabuddha, or supreme perfect enlightenment can truly abandon the five desires. King Mūrdhaja was I myself."
 
 ### (41) The Sūtra of King Puming
 

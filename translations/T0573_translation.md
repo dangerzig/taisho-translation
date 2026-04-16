@@ -28,7 +28,7 @@ Queen Kṣemāvatī answered in verse:
 > I have also planted that tree
 > Among the śrāvakas of the Perfectly Awakened,
 > Abiding firmly on the path of awakening,
-> Seeking the ground of perfect awakening.
+> Seeking the ground of perfect enlightenment.
 > The water of giving and precepts
 > Has moistened that tree and made it grow.
 > After that tree has grown,
@@ -54,7 +54,7 @@ Queen Kṣemāvatī answered in verse:
 > For now I partake of it thus;
 > The fruit is still yet to come.
 > The foremost fruit of awakening,
-> The unsurpassed awakening of a Buddha:
+> The unsurpassed enlightenment of a Buddha:
 > Having cast off the inferior body of a woman,
 > I shall surely obtain that fruit hereafter.
 > I shall attain the body of a great man,
@@ -75,7 +75,7 @@ After Queen Kṣemāvatī had asked this, the Buddha spoke in verse:
 > "I too am just the same:
 > In past lives I planted that tree,
 > For the benefit of all beings,
-> Seeking the wisdom of perfect awakening.
+> Seeking the wisdom of perfect enlightenment.
 > Practicing giving, precepts, patience,
 > Diligence, meditation, and their cultivation,
 > And at all times
@@ -121,13 +121,13 @@ When Queen Kṣemāvatī heard of these meritorious virtues, she praised them: "
 > Bring to completion the Buddha-dharmas.
 > All the good deeds
 > I have performed with body, speech, and mind:
-> May they lead to great awakening
+> May they lead to great enlightenment
 > And the merits of seeking the Buddha's wisdom.
 > I shall cast off the body of a woman
 > And attain the supreme body of a man.
 > Having attained the body of a man,
 > In due course I shall attain the body of a Buddha.
-> Having attained supreme awakening,
+> Having attained supreme enlightenment,
 > I shall turn the unsurpassed Dharma wheel
 > And liberate beings
 > Imprisoned in the jail of birth and death."
@@ -137,7 +137,7 @@ At that time the World-Honored One, in response to Queen Kṣemāvatī's verse, 
 > "Excellent! These words you speak.
 > Excellent! Your mind's aspiration.
 > You shall vanquish Māra
-> And attain perfect awakening."
+> And attain perfect enlightenment."
 
 When Queen Kṣemāvatī received the World-Honored One's personal prediction, she was delighted. With supreme aspiration and resolute mind, she offered the World-Honored One abundant food of various kinds, and likewise offered food to the Bodhisattva Mahāsattva Maitreya.
 

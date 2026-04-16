@@ -11,7 +11,7 @@ Thus have I heard:
 
 At one time, the Buddha was in the city of Rājagṛha, on Vulture Peak Mountain, together with a great assembly of one thousand two hundred and fifty bhikṣus, all of whom had attained arhatship. All defilements were exhausted, and they were free from afflictions. Their minds were well liberated, and they had penetrated wisdom. Like great nāga kings, they had severed the bonds of existence and removed the heavy burden. What was to be done had been done; they had attained their own benefit, and their minds had gained sovereignty.
 
-At that time, the Buddha addressed the venerable Subhūti: "If there are good men and good women, as well as śrāvakas and pratyekabuddhas, who love and delight in studying the supreme enlightenment, such people should listen to, receive, read, recite, analyze, and expound this Prajñāpāramitā Sūtra, and they shall swiftly attain true awakening.
+At that time, the Buddha addressed the venerable Subhūti: "If there are good men and good women, as well as śrāvakas and pratyekabuddhas, who love and delight in studying the supreme enlightenment, such people should listen to, receive, read, recite, analyze, and expound this Prajñāpāramitā Sūtra, and they shall swiftly attain true enlightenment.
 
 "Subhūti! This Prajñāpāramitā Sūtra is complete in skillful means and penetrates the profound Dharma treasury of all Buddhas and bodhisattvas. One should study it thus and practice it thus.
 
@@ -25,7 +25,7 @@ The Buddha told Subhūti: "All the pāramitā of generosity, the pāramitā of m
 
 At that time, Subhūti, hearing what the Buddha taught, said to the World-Honored One: "This sūtra gathers and embraces all wholesome dharmas, all prajñāpāramitā, equal and as one. It is profoundly subtle, its meaning far-reaching, difficult to understand, and difficult to know."
 
-The Buddha said: "Subhūti! It is so, it is so, as you have said. Subhūti! If there are those who have not planted wholesome roots, who associate with evil friends, who are of dull faculties and lazy, who lack wisdom and are foolish, who have little understanding and little learning, who are beginners of shallow knowledge, or who delight in the lesser vehicle and whose wisdom is narrow and inferior, then for them this Prajñāpāramitā Sūtra is difficult to understand, difficult to enter, and they will not accept it with faith. You should all know this.
+The Buddha said: "Subhūti! It is so, it is so, as you have said. Subhūti! If there are those who have not planted roots of merit, who associate with evil friends, who are of dull faculties and lazy, who lack wisdom and are foolish, who have little understanding and little learning, who are beginners of shallow knowledge, or who delight in the lesser vehicle and whose wisdom is narrow and inferior, then for them this Prajñāpāramitā Sūtra is difficult to understand, difficult to enter, and they will not accept it with faith. You should all know this.
 
 "Furthermore, Subhūti! If there are good men and good women who, with respect to this Prajñāpāramitā Sūtra, rejoice in it, listen to and receive it, read and recite it, and expound it, upholding it as they would the Buddhas of the past, future, and present, they shall before long swiftly attain the supreme, perfect enlightenment."
 

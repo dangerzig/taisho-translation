@@ -115,7 +115,7 @@ Next one should reflect: all Tathāgatas, all great bodhisattvas, pratyekabuddha
 > The Two Vehicles, and ordinary beings,
 > One obtains supreme rejoicing.
 
-Next, sincerely contemplate: all Tathāgatas pervading the dharma-realm have just attained perfect awakening. Visualize oneself present at that ocean-assembly, before each and every Buddha, sincerely exhorting and requesting: "May all Tathāgatas, out of compassion for us, turn the unsurpassed Dharma-wheel." The mantra for requesting the turning of the Dharma-wheel:
+Next, sincerely contemplate: all Tathāgatas pervading the dharma-realm have just attained perfect enlightenment. Visualize oneself present at that ocean-assembly, before each and every Buddha, sincerely exhorting and requesting: "May all Tathāgatas, out of compassion for us, turn the unsurpassed Dharma-wheel." The mantra for requesting the turning of the Dharma-wheel:
 
 *Oṃ sarvatathāgata adhyeṣaṇā pūjameghā samudra spharaṇa samaye hūṃ*
 

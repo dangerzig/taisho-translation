@@ -20,7 +20,7 @@ Translated from the Chinese. Tang dynasty, translated by Vajrabodhi (金剛智).
 > Of resolute perseverance,
 > Whose awakened wisdom never wavers,
 > Who is filially devoted to parents,
-> Of pure faith in the Three Jewels,
+> Of pure faith in the Three Treasures,
 > Delighting in bodhisattva practice,
 > In the four immeasurables
 > Without even a moment's interruption,
@@ -80,7 +80,7 @@ Next the practitioner should rejoice in all the merit and wisdom accumulated by 
 
 > The buddhas of the past, present, and future three ages,
 > The bodhisattvas and all the holy ones,
-> Whatever wholesome roots they have accumulated:
+> Whatever roots of merit they have accumulated:
 > With palms joined I rejoice in them all,
 > As in those I myself have accumulated,
 > With joy that makes no distinction.
@@ -668,7 +668,7 @@ The secret words:
 > If one cultivates in this way,
 > In this present life one will realize the first bhūmi.
 > After sixteen more lifetimes,
-> One will attain supreme awakening.
+> One will attain supreme enlightenment.
 > How much more so for worldly accomplishments?
 > Could they not be fulfilled in this very life?
 > When the recitation is complete,
@@ -697,7 +697,7 @@ The secret words:
 > When reading of the sūtras is complete,
 > Move freely in walking, standing, sitting, or lying;
 > Even in sleep,
-> Never interrupt the mind of awakening,
+> Never interrupt the mind of enlightenment,
 > And one will soon attain accomplishment.
 > As spoken by Vajragarbha,
 > This ritual of great compassion

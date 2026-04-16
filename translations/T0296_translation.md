@@ -194,7 +194,7 @@ Translated from the Chinese. Eastern Jin dynasty, translated by Buddhabhadra (�
 
 > The bodhisattva named Samantabhadra,
 > Foremost among all the Buddhas' children:
-> I dedicate my wholesome roots,
+> I dedicate my roots of merit,
 > Aspiring to become equal to him.
 
 > With body, speech, and mind purified,
@@ -204,12 +204,12 @@ Translated from the Chinese. Eastern Jin dynasty, translated by Buddhabhadra (�
 
 > Like Mañjuśrī
 > And Samantabhadra's practice,
-> All my wholesome roots
+> All my roots of merit
 > I dedicate likewise.
 
 > The path of dedication
 > Praised by all Tathāgatas of the three times:
-> I dedicate my wholesome roots
+> I dedicate my roots of merit
 > To fulfill Samantabhadra's practice.
 
 > When my life comes to an end,

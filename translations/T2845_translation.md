@@ -173,7 +173,7 @@ Translated from the Chinese. Author unknown.
 > On hemp and wheat he would have shortly come to his end.
 >
 > He attained realization beneath the bodhi tree,
-> Vanquishing the hosts of Māra to accomplish perfect awakening.
+> Vanquishing the hosts of Māra to accomplish perfect enlightenment.
 > On Vulture Peak he released the ray from between his brows;
 > At the Deer Park he first converted the five monks.
 >

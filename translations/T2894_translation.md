@@ -7,9 +7,9 @@ Translated from the Chinese. Western Indian brāhmaṇa Dattara and Jñānagupta
 
 ---
 
-The first is the Kitchen of Compassionate Self-Awakening and Spontaneity. The second is the Kitchen of Non-Thought of Pratyekabuddhas and the Four Fruits of Śrāvakas. The third is the Kitchen of Neither Existence nor Non-Existence, the Divine Spontaneity. If one can recite these three kitchen methods, they cause a person not to hunger, and to abide in clarity and long life.
+The first is the Kitchen of Compassionate Self-enlightenment and Spontaneity. The second is the Kitchen of Non-Thought of Pratyekabuddhas and the Four Fruits of Śrāvakas. The third is the Kitchen of Neither Existence nor Non-Existence, the Divine Spontaneity. If one can recite these three kitchen methods, they cause a person not to hunger, and to abide in clarity and long life.
 
-One must first have faith in and reverence for the Three Jewels, constantly worship the Three Jewels, and be diligent morning and evening in unbroken mindfulness. One should care for one's teachers, monastics, parents, and relatives, and be able to practice the six pāramitās without sparing one's body or life. Only then may one receive and transmit this method of the three kitchens. This is the spontaneous kitchen of all buddhas and bodhisattvas of the three times, the ever-abiding, serene, unmoving, compassionate kitchen of countless kalpas.
+One must first have faith in and reverence for the Three Treasures, constantly worship the Three Treasures, and be diligent morning and evening in unbroken mindfulness. One should care for one's teachers, monastics, parents, and relatives, and be able to practice the six pāramitās without sparing one's body or life. Only then may one receive and transmit this method of the three kitchens. This is the spontaneous kitchen of all buddhas and bodhisattvas of the three times, the ever-abiding, serene, unmoving, compassionate kitchen of countless kalpas.
 
 This method of the three kitchens was spoken by the Buddha as he approached nirvāṇa, before all buddhas and bodhisattvas of the ten directions, amid the great assembly of the eight classes. He spoke this Dharma of the ever-abiding, serene, unmoving, compassionate celestial kitchen of all buddhas of the past, present, and future. He then spoke verses:
 
@@ -52,7 +52,7 @@ This compassionate kitchen was spoken by the Buddha as he approached nirvāṇa,
 
 If one can receive and uphold the name of even one celestial kitchen, or recite it daily without thinking of food and drink, one may go a hundred days without eating, or ten years, a hundred years, a thousand years, ten thousand years, or through kalpas as numerous as dust-motes, mindful of it, ever-abiding and unmoving, without thinking of food and drink, just as in the land of Amitābha Buddha's immeasurable life, with no difference whatsoever.
 
-The Buddha told the great assembly: "Those who practice this method need only preserve in their hearts faith and reverence for the Three Jewels. Those who can enter the deep mountains to study the Way may then practice and circulate this method. If anyone generates doubt, disbelief, or slander, it must not be rashly transmitted, lest those who slander fall into the evil paths. Therefore it must not be recklessly transmitted in the world."
+The Buddha told the great assembly: "Those who practice this method need only preserve in their hearts faith and reverence for the Three Treasures. Those who can enter the deep mountains to study the Way may then practice and circulate this method. If anyone generates doubt, disbelief, or slander, it must not be rashly transmitted, lest those who slander fall into the evil paths. Therefore it must not be recklessly transmitted in the world."
 
 Recite the Eastern verse ninety times through to the Northern verse fifty times; this constitutes one complete recitation. If one is not yet satiated, recite again as above. It will not exceed two recitations before one is satiated, neither hungry nor thirsty. When reciting the verses, always begin at the hour of the tiger and continue until the period of settling, dividing into four sessions. The number of recitations is as stated above.
 
@@ -70,7 +70,7 @@ All recitations should begin on a ren-day. Begin at the hour of the tiger and co
 
 From the beginning of recitation through the third day, strength gradually weakens most. After passing that day, one reaches the seventh day. From then onward, accomplishment is certain beyond doubt. Within a hundred days, one constantly dreams of obtaining the finest flavors and food and drink of the world. After a hundred days, one dreams of obtaining the food and drink of the heavens. The nose constantly smells the fragrance of celestial food. After three hundred days are complete, merit and virtue are fully perfected, and one attains the fruit of the Way.
 
-May you only be diligent, sever the three poisons, have compassion for sentient beings, take refuge in and revere the Three Jewels, and constantly be mindful of Amitābha Buddha. Within one year, you will certainly see the Buddha. This is determined beyond doubt.
+May you only be diligent, sever the three poisons, have compassion for sentient beings, take refuge in and revere the Three Treasures, and constantly be mindful of Amitābha Buddha. Within one year, you will certainly see the Buddha. This is determined beyond doubt.
 
 ---
 

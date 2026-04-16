@@ -11,7 +11,7 @@ Translated from the Chinese. Tang dynasty, composed by Yixing (一行)
 > Pay reverence to the Universally Illuminating Honored One and all the holy assembly of the ten directions.
 > I now briefly open and expound the secret method for eliminating disasters.
 > This method was taught by the World-Honored One: it is the most supreme, the foremost.
-> It swiftly leads one out of birth-and-death and brings the rapid realization of great awakening.
+> It swiftly leads one out of birth-and-death and brings the rapid realization of great enlightenment.
 > To accord with the realm of sentient beings, it also teaches the removal of calamity and disaster,
 > And the methods of increase, attraction, and subjugation. For women in difficult pregnancy,
 > For those in perilous childbirth unable to deliver, and for those afflicted with illness,
@@ -22,7 +22,7 @@ Translated from the Chinese. Tang dynasty, composed by Yixing (一行)
 > Release water and land creatures; when the days reach forty-nine,
 > Empower a five-colored thread and tie it around the neck of the sick person.
 > If one wishes to practice such a method, the wise should first approach a teacher,
-> Receive the samaya precepts, generate the great mind of awakening,
+> Receive the samaya precepts, generate the great mind of enlightenment,
 > Obtain the vidyādhara abhiṣeka, and be authorized by an ācārya.
 > Only then should one begin to practice. In a quiet mountain forest,
 > Beside a river, pool, or ocean shore, or in one's own dwelling place,

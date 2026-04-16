@@ -77,7 +77,7 @@ Brahma-conduct causes one to understand that the object is empty and quiescent, 
 
 ### Fascicle Eighteen
 
-Clarifying the Dharma explains how the Three Jewels remain unbroken and how below they bring peace and joy to humans and devas. The ten practices and their ten Dharma-gates ascend as stages of advancement.
+Clarifying the Dharma explains how the Three Treasures remain unbroken and how below they bring peace and joy to humans and devas. The ten practices and their ten Dharma-gates ascend as stages of advancement.
 
 ### Fascicle Nineteen
 
@@ -105,7 +105,7 @@ With a steadfast mind that is indestructible, one equals the Dharma-gates of all
 
 ### Fascicle Twenty-Five
 
-Wholesome causes contain the fruit, establishing the name of the inexhaustible treasury. Wholesome roots merge with the truth, becoming identical with the inexhaustible nature of suchness.
+Wholesome causes contain the fruit, establishing the name of the inexhaustible treasury. Roots of merit merge with the truth, becoming identical with the inexhaustible nature of suchness.
 
 ### Fascicle Twenty-Six
 
@@ -133,7 +133,7 @@ Because of markless delusion and bondage, this is named the dedication of libera
 
 ### Fascicle Thirty-Two
 
-Containing the single body within the dharma-realm, gathering ten thousand phenomena upon a hair-tip. Dedicating wholesome roots equal to the dharma-realm, one accomplishes the great function of Samantabhadra throughout dust-mote lands.
+Containing the single body within the dharma-realm, gathering ten thousand phenomena upon a hair-tip. Dedicating roots of merit equal to the dharma-realm, one accomplishes the great function of Samantabhadra throughout dust-mote lands.
 
 ### Fascicle Thirty-Three
 
@@ -317,7 +317,7 @@ The boy and girl admonish Sudhana a hundred layers on serving friends as the Dha
 
 ### Fascicle Seventy-Eight
 
-Sudhana, moved by the encounter, speaks. Maitreya, replete in virtue, is able to accommodate. The sūtra has more than three hundred sections, revealing the surpassing and lofty merit of the aspiration for awakening.
+Sudhana, moved by the encounter, speaks. Maitreya, replete in virtue, is able to accommodate. The sūtra has more than three hundred sections, revealing the surpassing and lofty merit of the aspiration for enlightenment.
 
 ### Fascicle Seventy-Nine
 
@@ -329,4 +329,4 @@ Mañjuśrī extends his hand as if in support. Sudhana's merit reaches the ultim
 
 ---
 
-*[Colophon:]* Completed on the eighteenth day of the second month of the seventh year of Daiei. The intention behind copying this is as follows: the *Avataṃsaka Sūtra* is the fundamental Dharma-wheel of the Buddha's entire teaching, directly revealing the Tathāgata's inner realization. Accordingly, whoever once hears it forever departs from the suffering of birth and death. Lay Scholar Tongxuan is a patriarch of the Avataṃsaka tradition; his sūtra-lectures accord with the Buddha's intention, and therefore golden light issued from his mouth. Whether one speaks of that or of this, one who does not believe is impossible. Yet the main meaning of eighty fascicles is barely squeezed into the paper and ink in one's palm: a subtle and wondrous essential art. I, Ken, daily receive it upon my head. Without regard for the scarcity of my writing paper, I have exerted myself with my poor brush to copy it. My prayer: may the Three Jewels and the invisible host receive it with compassion. Ken.
+*[Colophon:]* Completed on the eighteenth day of the second month of the seventh year of Daiei. The intention behind copying this is as follows: the *Avataṃsaka Sūtra* is the fundamental Dharma-wheel of the Buddha's entire teaching, directly revealing the Tathāgata's inner realization. Accordingly, whoever once hears it forever departs from the suffering of birth and death. Lay Scholar Tongxuan is a patriarch of the Avataṃsaka tradition; his sūtra-lectures accord with the Buddha's intention, and therefore golden light issued from his mouth. Whether one speaks of that or of this, one who does not believe is impossible. Yet the main meaning of eighty fascicles is barely squeezed into the paper and ink in one's palm: a subtle and wondrous essential art. I, Ken, daily receive it upon my head. Without regard for the scarcity of my writing paper, I have exerted myself with my poor brush to copy it. My prayer: may the Three Treasures and the invisible host receive it with compassion. Ken.

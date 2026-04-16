@@ -44,7 +44,7 @@ The Buddha told Sumatī: "A bodhisattva has four further practices by which one 
 
 > "Offering the four flowers, a full measure soft and exquisite,
 > removing anger and resentment, receiving the Dharma's meaning,
-> attaining the supreme awakening, standing before the Buddha,
+> attaining the supreme enlightenment, standing before the Buddha,
 > making images: one is born within the flower."
 
 The Buddha told Sumatī: "A bodhisattva has four further practices by which one obtains supernatural powers to go from one Buddha-land to another. What are the four? First, seeing others performing meritorious deeds, one does not interrupt them. Second, seeing others teaching the Dharma, one does not cause it to stop. Third, one always lights lamps in stūpas and monasteries. Fourth, one seeks samādhi. These are the four. By these four practices, the bodhisattva obtains supernatural powers to go from one Buddha-land to another." The Buddha then spoke in verse:
@@ -151,7 +151,7 @@ In the assembly, there were five hundred bodhisattvas who heard what Mañjuśrī
 
 The Buddha told Mañjuśrī: "This sūtra brings great benefit. Is this not so? If in the last age there are bodhisattva-mahāsattvas, śramaṇas, or good men and good women who seek the bodhisattva's path and practice the six pāramitās without yet understanding skillful means, it would be better for them to write out this sūtra, chant it, read it, and study it, and further teach others to be always mindful of its contents, broadly explaining it for all who wish to hear."
 
-The Buddha further told Mañjuśrī: "Bodhisattvas who have not previously heard or practiced this should study and uphold it. Why? It is like a wheel-turning sage-king ruling the world: for the duration of his reign, the seven treasures are never diminished. When the king's life ends, the seven treasures scatter. So it is, Mañjuśrī! When the sūtras and path of the Buddha abide in the world, the Buddha's seven factors of awakening will never be extinguished. If the Buddha-Dharma perishes, the factors of awakening and all dharmas will all come to an end."
+The Buddha further told Mañjuśrī: "Bodhisattvas who have not previously heard or practiced this should study and uphold it. Why? It is like a wheel-turning sage-king ruling the world: for the duration of his reign, the seven treasures are never diminished. When the king's life ends, the seven treasures scatter. So it is, Mañjuśrī! When the sūtras and path of the Buddha abide in the world, the Buddha's seven factors of awakening will never be extinguished. If the Buddha-Dharma perishes, the factors of enlightenment and all dharmas will all come to an end."
 
 The Buddha told Mañjuśrī: "One should seek immeasurable skillful means, diligently seeking all the sūtras, studying, writing, and upholding them, teaching and explaining them for others, broadly elucidating their meaning with constant diligence. This is the Dharma-teaching. If good men and good women wish to seek the path, they should not have regrets along the way."
 

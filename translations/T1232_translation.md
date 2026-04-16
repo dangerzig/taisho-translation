@@ -20,7 +20,7 @@ Translated from the Chinese. Translator unknown.
 > Accomplishing all in the present life.
 > I now expound the meaning of recitation.
 
-Next, if there are bhikṣus, bhikṣuṇīs, upāsakas, or upāsikās who wish to practice the heart mantra of Padakṣepa Vidyārāja, they should prepare the ground and establish the practice-hall according to the dharma. Performing the preliminary practices, sit facing east. Arrange whatever offerings are needed: food and drink, incense, and flowers, according to one's ability, ensuring all is clean and pure. Having entered the practice-hall, bow to all buddhas, take single-minded refuge, and aspire to attain perfect awakening. Then sit in full lotus or half-lotus, apply fragrant mud to the hands, and prepare all the mudrās. Next, perform the three-division protection and the body-protection; know the various ritual procedures. These are here briefly omitted.
+Next, if there are bhikṣus, bhikṣuṇīs, upāsakas, or upāsikās who wish to practice the heart mantra of Padakṣepa Vidyārāja, they should prepare the ground and establish the practice-hall according to the dharma. Performing the preliminary practices, sit facing east. Arrange whatever offerings are needed: food and drink, incense, and flowers, according to one's ability, ensuring all is clean and pure. Having entered the practice-hall, bow to all buddhas, take single-minded refuge, and aspire to attain perfect enlightenment. Then sit in full lotus or half-lotus, apply fragrant mud to the hands, and prepare all the mudrās. Next, perform the three-division protection and the body-protection; know the various ritual procedures. These are here briefly omitted.
 
 Next, sit with body upright and mind still, ceasing all discursive thoughts. Contemplate that one's own body was formed by causes from past lives into the four great elements and five aggregates. Seeking reality in each one, it cannot be found. They are impermanent and subject to decay, swiftly arising and swiftly perishing: form itself is emptiness. Having thus clearly and decisively understood with firm conviction, that which observes cannot be extinguished: it becomes true wisdom, vast and pervading the dharma-realm, equal in measure to space. Out of great compassion, arising from truth to function, then visualize one's own body in the form of the principal deity, equal in bearing, neither one nor different.
 
@@ -40,7 +40,7 @@ Also seal the forehead, right shoulder, left shoulder, heart, and throat with th
 
 *Oṃ jūṃ*
 
-By this mudrā and mantra empowerment, one is clad in vajra armor that nothing can harm. Through the preceding visualization practice and mantra empowerment, the practitioner's body becomes no different from the principal deity. The buddhas bestow their prediction, devas and nāgas pay homage, and one will certainly attain supreme perfect awakening.
+By this mudrā and mantra empowerment, one is clad in vajra armor that nothing can harm. Through the preceding visualization practice and mantra empowerment, the practitioner's body becomes no different from the principal deity. The buddhas bestow their prediction, devas and nāgas pay homage, and one will certainly attain supreme perfect enlightenment.
 
 **Vajra Stake Mudrā**
 

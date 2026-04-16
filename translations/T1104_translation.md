@@ -160,7 +160,7 @@ At that time the World-Honored One, having spoken this dhāraṇī, further proc
 > And all the buddhas rely on the three vehicles.
 > Five faces and also five eyes,
 > Born from the nature of the five wisdoms.
-> True awakening accomplishes bodhi,
+> true enlightenment accomplishes bodhi,
 > Which is the great true path.
 
 > All manner of various marks,

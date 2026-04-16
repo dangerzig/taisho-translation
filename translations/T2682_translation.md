@@ -784,7 +784,7 @@ The hermit said: "The fault was mine. This was the work of a demon, nothing more
 
 Just so are all dharmas. Delusive thoughts are an unawakened dream. Within emptiness, one mistakes things for real. Therefore the *Vijñaptimātratā Treatise* says:
 
-> Before attaining true awakening, one perpetually dwells within a dream. Therefore the Buddha calls it the long night of birth and death.
+> Before attaining true enlightenment, one perpetually dwells within a dream. Therefore the Buddha calls it the long night of birth and death.
 
 **Question:** If one performs contemplations of impurity, suffering, emptiness, and the like, is this not the same as the Hīnayāna practice of self-regulation and self-liberation?
 
@@ -1084,7 +1084,7 @@ As the sūtra says:
 
 Samantabhadra Bodhisattva has said:
 
-> If there are sentient beings who have not yet planted good roots, or who have planted only meager good roots, whether śrāvaka or bodhisattva, they still cannot even hear my name, much less behold my body. If there are sentient beings who hear my name, they shall never regress from supreme, perfect awakening. Even those who see or hear me in a dream shall, in all future kalpas, forever practice the vast deeds of Samantabhadra and bring to completion the supreme awakening.
+> If there are sentient beings who have not yet planted good roots, or who have planted only meager good roots, whether śrāvaka or bodhisattva, they still cannot even hear my name, much less behold my body. If there are sentient beings who hear my name, they shall never regress from supreme, perfect enlightenment. Even those who see or hear me in a dream shall, in all future kalpas, forever practice the vast deeds of Samantabhadra and bring to completion the supreme enlightenment.
 >
 > Samantabhadra's bodily form is like space,
 > abiding in truth, not in any land.
@@ -1125,7 +1125,7 @@ Kṣitigarbha Bodhisattva: Each day at dawn he enters a samādhi as numerous as 
 Avalokiteśvara:
 
 > If there are those in suffering, who call upon my name three times,
-> and I do not go to save them, I shall not attain true awakening.
+> and I do not go to save them, I shall not attain true enlightenment.
 >
 > And again, those who for even a moment sincerely recite my name:
 > their merit is equal, perfectly equal.
@@ -1280,7 +1280,7 @@ Some say they make offerings to the buddhas three times each day.
 
 Now the practitioner, through the transmitted teaching, has heard of the various meritorious qualities of the buddha-fields of the ten directions. As each vision and each sound arises, longing wells up from afar. They say to one another: "When will we be able to see the pure lands of the ten directions? When will we be able to meet the buddhas and bodhisattvas?"
 
-Each time they face the scripture texts, they cannot help but sigh. But if one attains birth in the Land of Utmost Bliss, then, whether through one's own power or sustained by the Buddha's power, going in the morning and returning in the evening, departing in an instant and returning in an instant, one visits every buddha-field throughout the ten directions, pays respect before every buddha, and meets the great beings of every heaven. One ceaselessly hears the true Dharma and receives the prophecy of great awakening, even entering all the mote-dust-like lands, performing the deeds of the buddhas and cultivating the vast practices of a bodhisattva.
+Each time they face the scripture texts, they cannot help but sigh. But if one attains birth in the Land of Utmost Bliss, then, whether through one's own power or sustained by the Buddha's power, going in the morning and returning in the evening, departing in an instant and returning in an instant, one visits every buddha-field throughout the ten directions, pays respect before every buddha, and meets the great beings of every heaven. One ceaselessly hears the true Dharma and receives the prophecy of great enlightenment, even entering all the mote-dust-like lands, performing the deeds of the buddhas and cultivating the vast practices of a bodhisattva.
 
 > Day after day, in the three periods,
 > making offerings to the buddhas of the ten directions.
@@ -1300,7 +1300,7 @@ Therefore the bodhisattva Nāgārjuna has said:
 
 Yet in that land there is no regression; one advances ever onward toward the path of buddhahood.
 
-First, because the power of the Buddha's compassionate vows constantly sustains and upholds one. Second, because the Buddha's light constantly shines, increasing the aspiration for awakening. Third, because the sounds of the water, birds, trees, groves, and wind-bells constantly cause one to give rise to mindfulness of the Buddha, mindfulness of the Dharma, and mindfulness of the Sangha. Fourth, because one has only bodhisattvas as good companions; there are no evil conditions without, and the deep afflictions within are subdued. Fifth, because one's lifespan equals the Buddha's, lasting for measureless kalpas, and one cultivates the path of buddhahood without the interruption of birth and death.
+First, because the power of the Buddha's compassionate vows constantly sustains and upholds one. Second, because the Buddha's light constantly shines, increasing the aspiration for enlightenment. Third, because the sounds of the water, birds, trees, groves, and wind-bells constantly cause one to give rise to mindfulness of the Buddha, mindfulness of the Dharma, and mindfulness of the Sangha. Fourth, because one has only bodhisattvas as good companions; there are no evil conditions without, and the deep afflictions within are subdued. Fifth, because one's lifespan equals the Buddha's, lasting for measureless kalpas, and one cultivates the path of buddhahood without the interruption of birth and death.
 
 A verse of the *Avataṃsaka Sūtra* says:
 
@@ -1309,7 +1309,7 @@ A verse of the *Avataṃsaka Sūtra* says:
 
 If even a single encounter is thus, how much more so to be in the Buddha's presence at all times!
 
-By these causes and conditions, the beings of that land, regarding all the myriad things, are free from any thought of "I" or "mine." In all their goings and comings, their movements and their rest, the mind clings to nothing. Toward all sentient beings they give rise to the mind of great compassion. Naturally and progressively they awaken to the patience of non-arising. In the end they are certain to reach the stage of one-lifetime succession to buddhahood, and swiftly they realize the unsurpassed awakening.
+By these causes and conditions, the beings of that land, regarding all the myriad things, are free from any thought of "I" or "mine." In all their goings and comings, their movements and their rest, the mind clings to nothing. Toward all sentient beings they give rise to the mind of great compassion. Naturally and progressively they awaken to the patience of non-arising. In the end they are certain to reach the stage of one-lifetime succession to buddhahood, and swiftly they realize the unsurpassed enlightenment.
 
 For the sake of sentient beings they manifest the eight aspects of a buddha's life. According to their affinities, they dwell in magnificently pure lands, turn the wondrous Dharma-wheel, and liberate all sentient beings. They cause all sentient beings to aspire to their land, just as I today aspire to the Land of Utmost Bliss. They also go throughout the ten directions, guiding and receiving sentient beings, just as Amitābha Buddha does through his great compassionate original vows.
 
@@ -1361,7 +1361,7 @@ And the *Sūtra of Contemplation of the Mind-Ground* says:
 
 **Question:** If the purpose is to focus the mind, why among all the pure lands is the Land of Utmost Bliss singled out and recommended?
 
-**Answer:** Even if one were to urge some other pure land, the same objection could not be avoided. The Buddha's intention is difficult to fathom; one can only look up to it in faith. It is like a fool who has fallen into a fiery pit and cannot climb out on his own. A wise friend rescues him by a single expedient means. Having gained that strength, the fool should hasten to escape. Why would he idly debate other methods and stratagems? The practitioner should be the same: do not give rise to other thoughts.
+**Answer:** Even if one were to urge some other pure land, the same objection could not be avoided. The Buddha's intention is difficult to fathom; one can only look up to it in faith. It is like a fool who has fallen into a fiery pit and cannot climb out on his own. A wise friend rescues him by a single skillful means. Having gained that strength, the fool should hasten to escape. Why would he idly debate other methods and stratagems? The practitioner should be the same: do not give rise to other thoughts.
 
 As the *Sūtra on the Questions of Maudgalyāyana* says:
 
@@ -1393,7 +1393,7 @@ Furthermore, Master Huáigǎn's *Treatise Resolving Doubts* establishes twelve p
 
 Though the relative merits and demerits of the two places are as stated, there are also ten points of similarity and eight points of difference. The first eight points of difference do not go beyond what Master Huáigǎn established, so I do not copy them again here. The ninth point is: in the Western Land the Buddha comes to welcome the practitioner; in Tuṣita this is not so. Master Huáigǎn says welcoming is the same in both, but I hold they differ. The tenth point: sūtras and treatises earnestly and copiously urge the Land of Utmost Bliss, but do not do so for Tuṣita to the same degree. There are ten points of similarity and eight points of difference.
 
-The eight points of difference are as follows. 1) The original vows differ: Amitābha has vows to draw in and embrace beings; Maitreya has no such vows. Without a vow it is like swimming across the water on one's own; with a vow it is like crossing the water aboard a boat. 2) The light differs: Amitābha Buddha's light illumines all beings who practice buddha-recollection, embracing and never forsaking them; Maitreya does not do so. With light it is like traveling in broad daylight; without light it is like coming and going in darkness. 3) The guarding and protection differs: countless transformation-body buddhas, Avalokiteśvara, and Mahāsthāmaprāpta constantly attend the practitioner. Moreover, the *Sūtra in Praise of the Pure Land* says that the buddhas of the ten directions, as numerous as the sands of ten Ganges rivers, embrace and protect the practitioner. And the *Sūtra of the Ten Kinds of Birth* says the Buddha dispatches twenty-five bodhisattvas to guard the practitioner constantly. In Tuṣita this is not so. With protection it is like traveling in a large company without fear of bandits; without protection it is like journeying alone through perilous passes, certain to be set upon by brigands. 4) The extending of tongues differs: the buddhas of the ten directions extend their tongues in attestation; for Tuṣita this is not so. 5) The assembly of saints differs: the Bodhisattva Huājù and the Bodhisattva Shānhǎihuì have made the great vow that if even one being aspiring to the Western Land has not yet fully attained birth, they themselves will not first depart to attain perfect awakening. They too will attain birth in the Western Land. For Tuṣita this is not so. 8) The teaching differs: the *Sūtra of Immeasurable Life* says: "He cuts across the five evil paths; the evil paths close of themselves. The way of ascent is without limit. It is easy to go, yet no one does." For Tuṣita this is not so.
+The eight points of difference are as follows. 1) The original vows differ: Amitābha has vows to draw in and embrace beings; Maitreya has no such vows. Without a vow it is like swimming across the water on one's own; with a vow it is like crossing the water aboard a boat. 2) The light differs: Amitābha Buddha's light illumines all beings who practice buddha-recollection, embracing and never forsaking them; Maitreya does not do so. With light it is like traveling in broad daylight; without light it is like coming and going in darkness. 3) The guarding and protection differs: countless transformation-body buddhas, Avalokiteśvara, and Mahāsthāmaprāpta constantly attend the practitioner. Moreover, the *Sūtra in Praise of the Pure Land* says that the buddhas of the ten directions, as numerous as the sands of ten Ganges rivers, embrace and protect the practitioner. And the *Sūtra of the Ten Kinds of Birth* says the Buddha dispatches twenty-five bodhisattvas to guard the practitioner constantly. In Tuṣita this is not so. With protection it is like traveling in a large company without fear of bandits; without protection it is like journeying alone through perilous passes, certain to be set upon by brigands. 4) The extending of tongues differs: the buddhas of the ten directions extend their tongues in attestation; for Tuṣita this is not so. 5) The assembly of saints differs: the Bodhisattva Huājù and the Bodhisattva Shānhǎihuì have made the great vow that if even one being aspiring to the Western Land has not yet fully attained birth, they themselves will not first depart to attain perfect enlightenment. They too will attain birth in the Western Land. For Tuṣita this is not so. 8) The teaching differs: the *Sūtra of Immeasurable Life* says: "He cuts across the five evil paths; the evil paths close of themselves. The way of ascent is without limit. It is easy to go, yet no one does." For Tuṣita this is not so.
 
 Even with ten points of similarity one still cannot call it difficult to be born there. How much less so when there are eight points of difference? And yet some say it is difficult to reach? I respectfully ask all scholars: examine the principle and the teaching, and judge the difficulty and ease of both. The two traditions must not be left unreconciled.
 
@@ -1528,13 +1528,13 @@ The third, the gate of vow-making: the remaining three gates constitute the ment
 
 Master Daochuo (道綽) states in the *Anle ji* (安樂集, *Collection on the Land of Peace and Bliss*):
 
-> The *Larger Sūtra* says: Whoever wishes to be born in the Pure Land must make the arousal of the aspiration for awakening (bodhicitta) the source. What is meant by "bodhi"? It is the name for the unsurpassed buddha way. If one wishes to arouse the aspiration to become a buddha, this aspiration is vast, encompassing the entire dharma-realm. This aspiration is far-reaching, extending to the end of the future. This aspiration is all-embracing, free from the obstructions of the Two Vehicles. If one can arouse this aspiration even once, it overturns the wheel of existence that has turned since beginningless time.
+> The *Larger Sūtra* says: Whoever wishes to be born in the Pure Land must make the arousal of the aspiration for enlightenment (bodhicitta) the source. What is meant by "bodhi"? It is the name for the unsurpassed buddha way. If one wishes to arouse the aspiration to become a buddha, this aspiration is vast, encompassing the entire dharma-realm. This aspiration is far-reaching, extending to the end of the future. This aspiration is all-embracing, free from the obstructions of the Two Vehicles. If one can arouse this aspiration even once, it overturns the wheel of existence that has turned since beginningless time.
 
 The *Treatise on the Pure Land* states:
 
-> To arouse the aspiration for awakening means precisely to aspire to become a buddha. The aspiration to become a buddha is the aspiration to liberate sentient beings. The aspiration to liberate sentient beings is the aspiration to gather in all sentient beings and bring them to birth in a buddha land.
+> To arouse the aspiration for enlightenment means precisely to aspire to become a buddha. The aspiration to become a buddha is the aspiration to liberate sentient beings. The aspiration to liberate sentient beings is the aspiration to gather in all sentient beings and bring them to birth in a buddha land.
 
-Since the aspiration for awakening is the guiding principle of Pure Land bodhi, I shall briefly employ three divisions to distinguish its meaning. Practitioners should not be put off by the detail. The three are: (1) clarifying the character of the bodhicitta, (2) clarifying its benefits, and (3) critical distinctions.
+Since the aspiration for enlightenment is the guiding principle of Pure Land bodhi, I shall briefly employ three divisions to distinguish its meaning. Practitioners should not be put off by the detail. The three are: (1) clarifying the character of the bodhicitta, (2) clarifying its benefits, and (3) critical distinctions.
 
 #### (1) The Character of the Bodhicitta
 
@@ -1554,7 +1554,7 @@ In general terms, it is called the aspiration to become a buddha, also known as 
 
 All dharmas are primordially quiescent, neither existent nor nonexistent, neither permanent nor annihilated, unborn and unceasing, neither defiled nor pure. Each single form, each single fragrance, is none other than the Middle Way. Birth-and-death is nirvāṇa. Affliction is bodhi. When each and every gate of defilement is reversed, it becomes eighty-four thousand pāramitās. Ignorance transforms into illumination, as when ice melts into water: it is not something distant, nor does it come from elsewhere. A single thought-moment of mind universally contains all of it, like a wish-fulfilling jewel that is neither possessed of treasure nor devoid of treasure. To say it is without [treasure] is a lie; to say it has [treasure] is a wrong view. It cannot be known by the mind; it cannot be distinguished by words. Sentient beings, within this inconceivable, unfettered dharma, engage in conceptual thinking and create their own fetters. Within the dharma of no-liberation, they seek liberation. Therefore, universally toward all sentient beings throughout the dharma-realm, one gives rise to great compassion and undertakes the four universal vows. This is called "according with principle."
 
-[Further,] to know that all dharmas are non-dharma, and to know that all sentient beings are non-sentient-beings, is what is called a bodhisattva arousing the unsurpassed aspiration for awakening. The *Sūtra on Adorning the Bodhicitta* also states:
+[Further,] to know that all dharmas are non-dharma, and to know that all sentient beings are non-sentient-beings, is what is called a bodhisattva arousing the unsurpassed aspiration for enlightenment. The *Sūtra on Adorning the Bodhicitta* also states:
 
 > The bodhicitta is neither existent nor fabricated, apart from words and letters. Bodhi is precisely the mind, and the mind is precisely sentient beings. If one can understand in this way, it is called "cultivating bodhi through bodhi." Bodhi is neither past, nor future, nor present. The mind and sentient beings are likewise neither past, nor future, nor present. To be able to understand in this way is called being a bodhisattva. Yet within this there is truly nothing to be attained. It is because there is nothing to be attained that one attains. If one has nothing to attain with regard to all dharmas, this is called attaining bodhi.
 
@@ -1570,7 +1570,7 @@ If the mind is impure, it is not a proper cause of the Way. If the mind is limit
 
 **Answer:** Here there are two kinds of difference, according to sharp and dull faculties. As the *Mahāprajñāpāramitopadeśa* states:
 
-> Just as yellow stone contains the nature of gold and white stone the nature of silver, so too in all worldly dharmas there exists the nature of nirvāṇa. The buddhas, noble sages, and worthies, by means of the skillful means of wisdom, moral discipline, and meditative concentration, guide beings to attain this dharma-nature of nirvāṇa. Those of sharp faculties directly know that all dharmas are the dharma-nature, like a person of supernatural powers who can transform tiles and stones entirely into gold. Those of dull faculties must seek the dharma-nature through discriminating expedient means, like a great smelting furnace [that refines ore].
+> Just as yellow stone contains the nature of gold and white stone the nature of silver, so too in all worldly dharmas there exists the nature of nirvāṇa. The buddhas, noble sages, and worthies, by means of the skillful means of wisdom, moral discipline, and meditative concentration, guide beings to attain this dharma-nature of nirvāṇa. Those of sharp faculties directly know that all dharmas are the dharma-nature, like a person of supernatural powers who can transform tiles and stones entirely into gold. Those of dull faculties must seek the dharma-nature through discriminating skillful means, like a great smelting furnace [that refines ore].
 
 Enduring the suffering of contemplative meditation to attain the Way is the teaching of the śrāvakas. Contemplating the marks of all dharmas as neither bound nor liberated, so that the mind attains purity, is the teaching of the bodhisattvas.
 
@@ -1657,7 +1657,7 @@ If one constantly harbors this thought and cultivates in accordance with one's c
 
 **Answer:** If with a sincere mind one speaks with mouth and thinks in mind, "From this day forward, every good deed, however small, I dedicate not to the reward of my own conditioned existence, but entirely to the Land of Utmost Bliss, entirely to bodhi," then after arousing this aspiration, all one's good deeds, whether one is aware of them or not, will naturally flow toward unsurpassed bodhi. It is like digging a single channel: all the waters naturally flow into it, pass on to the rivers, and finally reach the great ocean. The practitioner is the same: once the aspiration is aroused, the waters of all good roots naturally flow into the channel of the four universal vows, pass on to birth in the Land of Utmost Bliss, and finally reach the ocean of bodhi, the sarvajña-sea. How much more so if one is constantly mindful of the previous vow! The details are as set forth below in the gate of merit-dedication.
 
-**Question:** Ordinary beings lack the strength [for difficult giving]. Some are impoverished. By what expedient means can the mind be brought into accord with principle?
+**Question:** Ordinary beings lack the strength [for difficult giving]. Some are impoverished. By what skillful means can the mind be brought into accord with principle?
 
 **Answer:** The *Ratnakūṭa Sūtra* states:
 
@@ -2078,7 +2078,7 @@ Therefore, in accordance with one's inclination, one may contemplate the true bo
 
 **Answer:** They are equal and without distinction. The *Mañjuśrī Prajñāpāramitā Sūtra*, second fascicle, states:
 
-> The merit of being mindful of one buddha is immeasurable and boundless, and is no different from the merit of the immeasurable buddhas. It is inconceivable. The dharma of all buddhas is equal and without distinction. All ride upon the single suchness to accomplish the most perfect awakening. All are endowed with immeasurable merit, virtue, and eloquence. Thus, one who enters the single-practice samādhi fully knows the dharma-realm of all the buddhas, as numerous as the sands of the Ganges, without any distinction.
+> The merit of being mindful of one buddha is immeasurable and boundless, and is no different from the merit of the immeasurable buddhas. It is inconceivable. The dharma of all buddhas is equal and without distinction. All ride upon the single suchness to accomplish the most perfect enlightenment. All are endowed with immeasurable merit, virtue, and eloquence. Thus, one who enters the single-practice samādhi fully knows the dharma-realm of all the buddhas, as numerous as the sands of the Ganges, without any distinction.
 
 **Question:** Now you particularly urge contemplation of the white ūrṇā. What is the evidence?
 
@@ -2132,7 +2132,7 @@ The fifth, [the gate of merit-dedication]: when all five elements are complete, 
 
 **Answer:** The *Ṣaṭpāramitā Sūtra* says:
 
-> How is it that small giving yields much merit? By the power of skillful means, when one practices even a small portion of giving and dedicates it with the vow that all sentient beings together realize unsurpassed, perfect awakening, the merit thereby becomes immeasurable and boundless, like a small [fire that burns a great forest].
+> How is it that small giving yields much merit? By the power of skillful means, when one practices even a small portion of giving and dedicates it with the vow that all sentient beings together realize unsurpassed, perfect enlightenment, the merit thereby becomes immeasurable and boundless, like a small [fire that burns a great forest].
 
 The same sūtra says:
 
@@ -2457,7 +2457,7 @@ One should reflect: "May the Buddha purify my past karma."
 
 The same sūtra continues:
 
-> Even if the four continents and all the mountain kings were used as paper, the eight great oceans as ink, all the grasses and trees as brushes, and all humans and devas wrote for an entire aeon, this would not equal even one sixteenth part of the wisdom that Śāriputra has attained. And if all the sentient beings in this trichiliocosm possessed wisdom equal to Śāriputra's without difference, then a bodhisattva's wisdom in fully comprehending the pāramitā of generosity would surpass theirs a hundredfold. And if all beings in the trichiliocosm possessed the wisdom of the pāramitā of generosity, it would not equal the wisdom of a single bodhisattva's pāramitā of morality, and so on through prajñā. And if all the beings in this trichiliocosm possessed the wisdom of all six pāramitās, it would not equal the wisdom of a single first-stage bodhisattva, and so on progressively through the ten stages. And the wisdom of the ten-stage bodhisattvas, compared to the wisdom of Maitreya, a bodhisattva of the stage of one more birth, would not equal even one hundred-thousandth part. And if all the beings in the trichiliocosm all possessed wisdom equal to Maitreya's without difference, then the wisdom of a bodhisattva seated at the place of enlightenment, vanquishing Mara and about to attain perfect awakening, compared to the Buddha's wisdom, would not equal even one hundred-thousand-myriadth part.
+> Even if the four continents and all the mountain kings were used as paper, the eight great oceans as ink, all the grasses and trees as brushes, and all humans and devas wrote for an entire aeon, this would not equal even one sixteenth part of the wisdom that Śāriputra has attained. And if all the sentient beings in this trichiliocosm possessed wisdom equal to Śāriputra's without difference, then a bodhisattva's wisdom in fully comprehending the pāramitā of generosity would surpass theirs a hundredfold. And if all beings in the trichiliocosm possessed the wisdom of the pāramitā of generosity, it would not equal the wisdom of a single bodhisattva's pāramitā of morality, and so on through prajñā. And if all the beings in this trichiliocosm possessed the wisdom of all six pāramitās, it would not equal the wisdom of a single first-stage bodhisattva, and so on progressively through the ten stages. And the wisdom of the ten-stage bodhisattvas, compared to the wisdom of Maitreya, a bodhisattva of the stage of one more birth, would not equal even one hundred-thousandth part. And if all the beings in the trichiliocosm all possessed wisdom equal to Maitreya's without difference, then the wisdom of a bodhisattva seated at the place of enlightenment, vanquishing Mara and about to attain perfect enlightenment, compared to the Buddha's wisdom, would not equal even one hundred-thousand-myriadth part.
 
 The *Baoji jing* also says:
 
@@ -2830,11 +2830,11 @@ Nevertheless, the practitioner should always cultivate three things. As the *Da 
 
 A verse of repentance from the *Shizhu piposha* (*Daśabhūmika-vibhāṣā*) says:
 
-> The buddhas of the ten directions are immeasurable, their knowledge all-encompassing. Before them all, I now confess and lay bare all my dark evils. The three threes make nine kinds, arising from the three afflictions. Whether of this body or of former bodies, all these sins I entirely repent. Among the three evil destinies, whatever suffering I should receive, and before all the buddhas now in the world who have attained awakening, I beseech them to turn the Dharma wheel, bringing peace and bliss to all sentient beings. All the buddhas of the ten directions, if they intend to abandon their lifespans, I now bow my head to the ground and beseech them to remain. I urge the cultivation of practice, meditation, and the discipline. Whatever merit arises from body, speech, and mind, past, present, and future, in all the practitioners of the three vehicles, and in all the merit of common beings, I rejoice in it all and dedicate it.
+> The buddhas of the ten directions are immeasurable, their knowledge all-encompassing. Before them all, I now confess and lay bare all my dark evils. The three threes make nine kinds, arising from the three afflictions. Whether of this body or of former bodies, all these sins I entirely repent. Among the three evil destinies, whatever suffering I should receive, and before all the buddhas now in the world who have attained enlightenment, I beseech them to turn the Dharma wheel, bringing peace and bliss to all sentient beings. All the buddhas of the ten directions, if they intend to abandon their lifespans, I now bow my head to the ground and beseech them to remain. I urge the cultivation of practice, meditation, and the discipline. Whatever merit arises from body, speech, and mind, past, present, and future, in all the practitioners of the three vehicles, and in all the merit of common beings, I rejoice in it all and dedicate it.
 
 Each of these has its own textual source; one may use whichever one chooses. If one prefers brevity, one may use the single verse from the *Mile pusa benyuan jing* (彌勒菩薩本願經, *Sūtra of Maitreya Bodhisattva's Original Vow*). That sūtra says:
 
-> The Buddha said to Ānanda: "When Maitreya Bodhisattva first sought the Way, he did not offer ears, nose, head, eyes, hands, feet, body, or life, nor precious treasures, cities, wife and children, or kingdom, in charity to others to attain buddhahood. He attained the supreme, true Way solely through wholesome roots and the practice of peace and bliss." Ānanda asked the Buddha: "Through what wholesome roots did Maitreya Bodhisattva attain the Way of the Buddha?" The Buddha said to Ānanda: "Maitreya Bodhisattva, three times by day and three times by night, adjusting his robes and composing himself, joins palms with right knee on the ground, faces the ten directions, and speaks this verse:
+> The Buddha said to Ānanda: "When Maitreya Bodhisattva first sought the Way, he did not offer ears, nose, head, eyes, hands, feet, body, or life, nor precious treasures, cities, wife and children, or kingdom, in charity to others to attain buddhahood. He attained the supreme, true Way solely through roots of merit and the practice of peace and bliss." Ānanda asked the Buddha: "Through what roots of merit did Maitreya Bodhisattva attain the Way of the Buddha?" The Buddha said to Ānanda: "Maitreya Bodhisattva, three times by day and three times by night, adjusting his robes and composing himself, joins palms with right knee on the ground, faces the ten directions, and speaks this verse:
 
 > I repent all my transgressions. I rejoice in and encourage all virtuous deeds of beings. I take refuge in and pay homage to all buddhas. May I attain unsurpassed wisdom."
 
@@ -2990,7 +2990,7 @@ For the mouth's speech and silence: for ninety days the body constantly walks wi
 
 For the mind's calming and contemplation: one recollects Amitābha Buddha of the western direction, whose land lies ten trillion buddha-lands from here, a realm of jeweled ground, jeweled pools, jeweled trees, and jeweled halls. Amid the assembly of bodhisattvas, the Buddha sits in the center and expounds the sūtras. For three months one constantly recollects the Buddha. How does one recollect? One recollects the thirty-two marks, beginning from the thousand-spoked wheel marks on the soles of the feet, contemplating each mark in ascending order up to the uṣṇīṣa. Then one should also proceed from the uṣṇīṣa in descending order down to the thousand-spoked wheels. One aspires: "May I too attain these marks."
 
-Then one further recollects: "I should attain buddhahood through the mind. I should attain buddhahood through the body. The Buddha is not attained through the mind. The Buddha is not attained through body and mind. The Buddha's form is not attained through the mind. The Buddha's mind is not attained through form. Why? The mind: the Buddha has no mind. Form: the Buddha has no form. Therefore one does not attain the three kinds of perfect awakening through form and mind. The Buddha's form is already extinguished, and so too consciousness is extinguished."
+Then one further recollects: "I should attain buddhahood through the mind. I should attain buddhahood through the body. The Buddha is not attained through the mind. The Buddha is not attained through body and mind. The Buddha's form is not attained through the mind. The Buddha's mind is not attained through form. Why? The mind: the Buddha has no mind. Form: the Buddha has no form. Therefore one does not attain the three kinds of perfect enlightenment through form and mind. The Buddha's form is already extinguished, and so too consciousness is extinguished."
 
 > "What the Buddha calls 'extinguished,' the foolish do not understand, but the wise comprehend. One does not attain buddhahood through body or speech. One does not attain buddhahood through wisdom. Why? Wisdom, when sought, cannot be found. The self, when sought, is utterly unfindable, and there is nothing to be seen. All dharmas are originally without any existence. The original thought is destroyed, and one does not know where it has gone. To recollect the Buddha in this way,"
 
@@ -3055,7 +3055,7 @@ By applying this principle of taking up a characteristic and allowing it to assi
 
 Master Daochuo said:
 
-> "Ten moments of continuous mindfulness may seem not difficult. Yet the minds of ordinary beings are like wild horses, and their consciousness is fiercer than a monkey, racing through the six sense-objects without ever stopping. Each person must sincerely establish faith and resolve in advance, disciplining the mind so that accumulated practice becomes one's nature and wholesome roots grow firm."
+> "Ten moments of continuous mindfulness may seem not difficult. Yet the minds of ordinary beings are like wild horses, and their consciousness is fiercer than a monkey, racing through the six sense-objects without ever stopping. Each person must sincerely establish faith and resolve in advance, disciplining the mind so that accumulated practice becomes one's nature and roots of merit grow firm."
 
 > "As the Buddha told the great king: 'A person who has accumulated good conduct will have no evil thoughts at death, just as a tree that has long been leaning will inevitably fall in the direction of its lean.' If, when the wind of the knife of death arrives and a hundred sufferings converge upon the body, one has not previously cultivated the habit of mindfulness, how will one be able to sustain recollection?"
 
@@ -3065,7 +3065,7 @@ There are various explanations, but single-mindedly pronouncing "Namo Amitābha 
 
 #### Second: Encouragement at the Time of Death
 
-If there are good friends and fellow practitioners who share this aspiration, they should, in accordance with the Buddha's teaching and for the benefit of sentient beings, for the sake of nurturing wholesome roots and forming karmic connections, come to the bedside from the onset of illness to offer encouragement and exhortation. The manner of encouragement should accord with the inclinations of the dying person. Here, by way of composing words for oneself, I offer this:
+If there are good friends and fellow practitioners who share this aspiration, they should, in accordance with the Buddha's teaching and for the benefit of sentient beings, for the sake of nurturing roots of merit and forming karmic connections, come to the bedside from the onset of illness to offer encouragement and exhortation. The manner of encouragement should accord with the inclinations of the dying person. Here, by way of composing words for oneself, I offer this:
 
 "Child of the Buddha: in recent years, remaining in this world, your sole aspiration has been to cultivate the practice of the western direction. Of all that you intended, the most essential was the ten moments of mindfulness at life's end. Now that you lie on the bed of illness, you must not be without vigilance. Close your eyes, join your palms, and single-mindedly make your solemn vow:
 
@@ -3082,7 +3082,7 @@ If there are good friends and fellow practitioners who share this aspiration, th
 > Are established from the perfectly awakened mind
 > Of all tathāgatas.
 
-One should understand that birth-and-death is itself nirvāṇa, and that the afflictions are themselves bodhi. They are perfectly interpenetrating, without obstruction, neither two nor different. Yet through a single moment of deluded thought one has entered the realm of birth and death. Blinded by the disease of ignorance, one has long forgotten the path of original awakening. But all dharmas from the very beginning have always been of the nature of quiescent extinction: like an illusion, without fixed nature, they transform in accord with the mind. Therefore, the child of the Buddha should be mindful of the Three Jewels and turn from the wrong to the right. The Buddha is the king of physicians, the Dharma is the excellent medicine, the Sangha are the attendants of the sick. They remove the disease of ignorance, open the eye of right view, reveal the path of original awakening, and lead one to the Pure Land. Nothing surpasses the Buddha, the Dharma, and the Sangha. Therefore, the child of the Buddha should first generate the thought of the great physician-king and recollect the Buddha single-mindedly:
+One should understand that birth-and-death is itself nirvāṇa, and that the afflictions are themselves bodhi. They are perfectly interpenetrating, without obstruction, neither two nor different. Yet through a single moment of deluded thought one has entered the realm of birth and death. Blinded by the disease of ignorance, one has long forgotten the path of original awakening. But all dharmas from the very beginning have always been of the nature of quiescent extinction: like an illusion, without fixed nature, they transform in accord with the mind. Therefore, the child of the Buddha should be mindful of the Three Treasures and turn from the wrong to the right. The Buddha is the king of physicians, the Dharma is the excellent medicine, the Sangha are the attendants of the sick. They remove the disease of ignorance, open the eye of right view, reveal the path of original awakening, and lead one to the Pure Land. Nothing surpasses the Buddha, the Dharma, and the Sangha. Therefore, the child of the Buddha should first generate the thought of the great physician-king and recollect the Buddha single-mindedly:
 
 *Namo to the buddhas of the three times and the ten directions.*
 *Namo to our original teacher, Śākyamuni Buddha.*
@@ -3103,8 +3103,8 @@ Next, generate the thought of constant protective care and recollect the Sangha 
 *Namo to Kṣitigarbha Bodhisattva.*
 *Namo to Nāgārjuna Bodhisattva.*
 *Namo to the holy assembly of the three times and the ten directions.*
-*Namo to the Three Jewels of the assembly in the Land of Utmost Bliss.*
-*Namo to the Three Jewels of the three times and the ten directions.*
+*Namo to the Three Treasures of the assembly in the Land of Utmost Bliss.*
+*Namo to the Three Treasures of the three times and the ten directions.*
 
 These are also not separate from conventional existence. As Amitābha Buddha has said:
 
@@ -3112,19 +3112,19 @@ These are also not separate from conventional existence. As Amitābha Buddha has
 
 **Second**, therefore, in order to be born in the Pure Land, one should first develop aversion for this present world. This sahā world is brought about by unwholesome karma. It is the source of all suffering. Birth, old age, sickness, and death revolve without end. Bound within the prison of the three realms, there is not a single thing to delight in. If one does not develop aversion for it at this time, in what life will one leave the cycle of saṃsāra? Now, Amitābha Buddha possesses inconceivable awesome power. If one single-mindedly recites his name, in each moment of recollection one extinguishes the heavy sins of birth and death accumulated over eighty billion kalpas. Therefore, one should now single-mindedly recollect that Buddha and depart from this realm of suffering. One should form this thought: "May Amitābha Buddha [receive me]."
 
-**Third**, one should joyfully aspire to the Pure Land. The western Land of Utmost Bliss is a realm of Mahāyāna wholesome roots, a place without suffering or affliction. Once one has been received into the lotus womb, one forever leaves birth and death. The eyes behold the sacred countenance of Amitābha; the ears hear the profound and wondrous teaching. All forms of bliss are fully present. If a person at life's end maintains ten moments of mindfulness of Amitābha Buddha, that person will certainly be born in the Land of Peace and Bliss. Child of the Buddha, you have obtained a human body and have also encountered the Buddha's teaching. This is like a one-eyed turtle finding the hole in a floating log. If at this time you do not attain birth, you will fall back into the three evil destinies and the eight difficulties. Even hearing the Dharma will be hard, to say nothing of attaining birth. Therefore, single-mindedly recite the name of that Buddha. Form this thought: "May the Buddha today certainly [receive me]."
+**Third**, one should joyfully aspire to the Pure Land. The western Land of Utmost Bliss is a realm of Mahāyāna roots of merit, a place without suffering or affliction. Once one has been received into the lotus womb, one forever leaves birth and death. The eyes behold the sacred countenance of Amitābha; the ears hear the profound and wondrous teaching. All forms of bliss are fully present. If a person at life's end maintains ten moments of mindfulness of Amitābha Buddha, that person will certainly be born in the Land of Peace and Bliss. Child of the Buddha, you have obtained a human body and have also encountered the Buddha's teaching. This is like a one-eyed turtle finding the hole in a floating log. If at this time you do not attain birth, you will fall back into the three evil destinies and the eight difficulties. Even hearing the Dharma will be hard, to say nothing of attaining birth. Therefore, single-mindedly recite the name of that Buddha. Form this thought: "May the Buddha today certainly [receive me]."
 
 **Fourth**, if one seeks that land, one must cultivate the appropriate practice. As that Buddha's original vow states:
 
-> "If, when I attain buddhahood, sentient beings of the ten directions who hear my name, fix their minds on my land, plant various roots of virtue, and with sincere minds transfer the merit, desiring to be born in my land, should fail to achieve their wish, may I not attain perfect awakening."
+> "If, when I attain buddhahood, sentient beings of the ten directions who hear my name, fix their minds on my land, plant various roots of virtue, and with sincere minds transfer the merit, desiring to be born in my land, should fail to achieve their wish, may I not attain perfect enlightenment."
 
-Child of the Buddha, throughout your life you have devoted yourself to the practice of the western direction. Though the practices you have cultivated are many, your sole aspiration has been the Land of Utmost Bliss. Now you must gather together all the wholesome roots of the three times and transfer them entirely to the Land of Utmost Bliss. Form this thought: "May all that I possess [be transferred to the Pure Land]."
+Child of the Buddha, throughout your life you have devoted yourself to the practice of the western direction. Though the practices you have cultivated are many, your sole aspiration has been the Land of Utmost Bliss. Now you must gather together all the roots of merit of the three times and transfer them entirely to the Land of Utmost Bliss. Form this thought: "May all that I possess [be transferred to the Pure Land]."
 
 **Fifth**, another vow states:
 
-> "If, when I attain buddhahood, sentient beings of the ten directions who arouse the mind of bodhi, cultivate various meritorious practices, and with sincere minds make the vow to be born in my land, should I fail, at the end of their lives, to appear before them surrounded by the great assembly, may I not attain perfect awakening."
+> "If, when I attain buddhahood, sentient beings of the ten directions who arouse the mind of bodhi, cultivate various meritorious practices, and with sincere minds make the vow to be born in my land, should I fail, at the end of their lives, to appear before them surrounded by the great assembly, may I not attain perfect enlightenment."
 
-Child of the Buddha, you have long since aroused the mind of bodhi, and your various wholesome roots have been transferred to the Land of Utmost Bliss. Now you must again arouse the mind of bodhi and recollect that Buddha. Form this thought: "May I, for the benefit and happiness of all sentient beings, today certainly be born in the Land of Utmost Bliss."
+Child of the Buddha, you have long since aroused the mind of bodhi, and your various roots of merit have been transferred to the Land of Utmost Bliss. Now you must again arouse the mind of bodhi and recollect that Buddha. Form this thought: "May I, for the benefit and happiness of all sentient beings, today certainly be born in the Land of Utmost Bliss."
 
 **Sixth**, recollect Amitābha Tathāgata to make your practice flourish. The merits of that Buddha are immeasurable, boundless, and cannot be fully described. The buddhas of the ten directions, each as numerous as the sands of the Ganges, constantly praise the merits of that Buddha. Even if such praise continued for kalpas as numerous as the sands of the Ganges, it could never be exhausted. Child of the Buddha, you should single-mindedly take refuge in the merits of that Buddha.
 
@@ -3362,13 +3362,13 @@ A verse from the same sūtra says:
 > To be adorned with the most excellent adornments,
 > And if one seeks to turn [the Dharma-wheel]...
 
-> ...if one plants even a small portion of wholesome roots in the Buddha's field of merit, one first attains the excellent reward of the good destinies, and afterward will certainly reach nirvāṇa.
+> ...if one plants even a small portion of roots of merit in the Buddha's field of merit, one first attains the excellent reward of the good destinies, and afterward will certainly reach nirvāṇa.
 
 The *Mahāprajnāpāramitā Sūtra* (*Dabanruo jing*) says:
 
 > "Those who respectfully recollect the Buddha will certainly escape birth and death and reach nirvāṇa. Setting this aside, even one who, for the sake of offering to the Buddha, scatters a single flower into empty space, the result is the same."
 
-> "Setting this aside, even if a good man or good woman merely recites 'Namo Buddha, the one of great compassion' a single time, the wholesome roots of such persons will never be exhausted, even until the end of saṃsāra, and will never be destroyed."
+> "Setting this aside, even if a good man or good woman merely recites 'Namo Buddha, the one of great compassion' a single time, the roots of merit of such persons will never be exhausted, even until the end of saṃsāra, and will never be destroyed."
 
 It also says:
 
@@ -3499,11 +3499,11 @@ Regarding the lower birth of the lower rank: At the time of death, pressed by su
 
 The original vow of Amitābha Buddha states:
 
-> "Sentient beings of all the buddha-lands who hear my name and do not attain the bodhisattva's forbearance of the birthlessness of all dharmas, together with the various profound dhāraṇīs, shall not attain perfect awakening. Bodhisattvas of other lands who hear my name and do not immediately reach the stage of non-retrogression shall not attain perfect awakening."
+> "Sentient beings of all the buddha-lands who hear my name and do not attain the bodhisattva's forbearance of the birthlessness of all dharmas, together with the various profound dhāraṇīs, shall not attain perfect enlightenment. Bodhisattvas of other lands who hear my name and do not immediately reach the stage of non-retrogression shall not attain perfect enlightenment."
 
 The *Contemplation Sūtra* says:
 
-> "If one is mindful of the Buddha, one should know that this person is a puṇḍarīka flower among human beings. Avalokiteśvara Bodhisattva and Mahāsthāmaprāpta Bodhisattva are that person's excellent friends. That person shall sit upon the seat of awakening and be born in the family of the buddhas."
+> "If one is mindful of the Buddha, one should know that this person is a puṇḍarīka flower among human beings. Avalokiteśvara Bodhisattva and Mahāsthāmaprāpta Bodhisattva are that person's excellent friends. That person shall sit upon the seat of enlightenment and be born in the family of the buddhas."
 
 ### Section Six: Examples Offered to Encourage Faith
 
@@ -3539,11 +3539,11 @@ Also:
 
 > "At that time, the four tathāgatas each extended their right hand, touched Ānanda's head, and said: 'Uphold the Buddha's words. Proclaim them widely for the sentient beings of the future.' They said this three times."
 
-> "Ānanda said: 'World-Honored One, I recall that in the immeasurable past, there was a world-honored buddha also named Śākyamuni. After that buddha's nirvāṇa, there was a prince named Golden Banner, arrogant and holding wrong views, who did not believe in the true Dharma. A wise bhikṣu named Mastery of Concentration told the prince: "In the world there are buddha-images adorned with many jewels. You may briefly enter the stūpa and look upon the Buddha's form." The prince, following his good friend's instruction, entered the stūpa and looked upon the image. Seeing the image's marks of excellence, he said to the bhikṣu: "Even the Buddha's image is this dignified and beautiful. How much more so the Buddha's true body." The bhikṣu told him: "Now that you have seen the image, if you cannot prostrate, you should recite Namo Buddha." The prince then joined his palms with reverence and recited "Namo Buddha." Returning to his palace, he kept recollecting the image in the stūpa. That very night, in the latter part of the evening, he dreamed of the buddha image. Because of seeing the buddha image, his heart was filled with great joy. He abandoned his wrong views and took refuge in the Three Jewels. When his lifespan ended, through the merit of having entered the stūpa and recited "Namo Buddha," he encountered ninety billion myriad nayutas of buddhas. He attained the profound buddha-recollection samādhi. Through the power of this samādhi, all the buddhas appeared before him and granted him their prediction. From then on, for a million asaṃkhyeya kalpas, he did not fall into the evil paths. He has now attained the profound Śūraṅgama Samādhi. That prince is now none other than Caishoushou (Wealth-Head).'"
+> "Ānanda said: 'World-Honored One, I recall that in the immeasurable past, there was a world-honored buddha also named Śākyamuni. After that buddha's nirvāṇa, there was a prince named Golden Banner, arrogant and holding wrong views, who did not believe in the true Dharma. A wise bhikṣu named Mastery of Concentration told the prince: "In the world there are buddha-images adorned with many jewels. You may briefly enter the stūpa and look upon the Buddha's form." The prince, following his good friend's instruction, entered the stūpa and looked upon the image. Seeing the image's marks of excellence, he said to the bhikṣu: "Even the Buddha's image is this dignified and beautiful. How much more so the Buddha's true body." The bhikṣu told him: "Now that you have seen the image, if you cannot prostrate, you should recite Namo Buddha." The prince then joined his palms with reverence and recited "Namo Buddha." Returning to his palace, he kept recollecting the image in the stūpa. That very night, in the latter part of the evening, he dreamed of the buddha image. Because of seeing the buddha image, his heart was filled with great joy. He abandoned his wrong views and took refuge in the Three Treasures. When his lifespan ended, through the merit of having entered the stūpa and recited "Namo Buddha," he encountered ninety billion myriad nayutas of buddhas. He attained the profound buddha-recollection samādhi. Through the power of this samādhi, all the buddhas appeared before him and granted him their prediction. From then on, for a million asaṃkhyeya kalpas, he did not fall into the evil paths. He has now attained the profound Śūraṅgama Samādhi. That prince is now none other than Caishoushou (Wealth-Head).'"
 
 Also:
 
-> "The Buddha said: 'I and all the bodhisattvas of this Fortunate Kalpa once, in the presence of Candanakūṭa Buddha, heard of the contemplation of the buddhas' form-bodies, their transformations, and the samādhi ocean of buddha-contemplation. Through the merit of this cause and condition, we transcended the sins of birth and death accumulated over ninety billion myriad asaṃkhyeya kalpas. Within this Fortunate Kalpa, we have in due succession accomplished the three kinds of perfect awakening.'"
+> "The Buddha said: 'I and all the bodhisattvas of this Fortunate Kalpa once, in the presence of Candanakūṭa Buddha, heard of the contemplation of the buddhas' form-bodies, their transformations, and the samādhi ocean of buddha-contemplation. Through the merit of this cause and condition, we transcended the sins of birth and death accumulated over ninety billion myriad asaṃkhyeya kalpas. Within this Fortunate Kalpa, we have in due succession accomplished the three kinds of perfect enlightenment.'"
 
 The *Kāśyapa Sūtra* (*Jiayejing* (迦葉經, *Kāśyapa Sūtra*)) says:
 
@@ -3634,11 +3634,11 @@ Therefore the *Soapberry Seed Sūtra* says:
 
 The passages on this are very numerous. I excerpt ten in brief:
 
-1. The lower fascicle of the *Sūtra on Divination of the Retribution of Good and Evil Karma* says: "If a person wishes to be born in the present pure land of a buddha in another region, that person should recite the name of that world's buddha with focused intent and undistracted mind. Contemplating as described above, one will certainly attain birth in that buddha's pure land and will see one's wholesome roots increase, quickly bringing about the fruits of the shallow and the deep."
+1. The lower fascicle of the *Sūtra on Divination of the Retribution of Good and Evil Karma* says: "If a person wishes to be born in the present pure land of a buddha in another region, that person should recite the name of that world's buddha with focused intent and undistracted mind. Contemplating as described above, one will certainly attain birth in that buddha's pure land and will see one's roots of merit increase, quickly bringing about the fruits of the shallow and the deep."
 
 2. Yet all of these passages say uniformly: "single-mindedly and exclusively recollect the Buddha of Immeasurable Life."
 
-3. Among the Forty-eight Vows, there is one vow made specifically concerning the gate of buddha-recollection: "Even with as few as ten recollections, if one is not born there, may I not attain perfect awakening."
+3. Among the Forty-eight Vows, there is one vow made specifically concerning the gate of buddha-recollection: "Even with as few as ten recollections, if one is not born there, may I not attain perfect enlightenment."
 
 4. The *Contemplation Sūtra* says: for the gravest of evil persons, when there is no other expedient, merely reciting the Buddha's name suffices to attain birth in the Land of Utmost Bliss.
 
@@ -3648,7 +3648,7 @@ The passages on this are very numerous. I excerpt ten in brief:
 
 7. The *Amitābha Sūtra* says:
 
-> One cannot attain birth in that land through a small measure of wholesome roots, merit, and karmic conditions. If there is a good man or good woman who, hearing of Amitābha Buddha, holds fast to the name, whether for one day or up to seven days, with mind undistracted, then when that person's life is about to end, Amitābha Buddha together with the assembly of saints will appear before them. At the moment of death, with mind unconfused, that person will immediately attain birth in Amitābha Buddha's Land of Utmost Bliss.
+> One cannot attain birth in that land through a small measure of roots of merit, merit, and karmic conditions. If there is a good man or good woman who, hearing of Amitābha Buddha, holds fast to the name, whether for one day or up to seven days, with mind undistracted, then when that person's life is about to end, Amitābha Buddha together with the assembly of saints will appear before them. At the moment of death, with mind unconfused, that person will immediately attain birth in Amitābha Buddha's Land of Utmost Bliss.
 
 8. The *Pratyutpanna Samādhi Sūtra* says:
 
@@ -3668,7 +3668,7 @@ The passages on this are very numerous. I excerpt ten in brief:
 
 **Answer:** In the *Awakening of Mahāyāna Faith* (大乘起信論, *Dàshèng qǐxìn lùn*), Bodhisattva Aśvaghoṣa says:
 
-> Furthermore, when sentient beings first study this Dharma, their minds are timid and weak, fearing that their faith will be difficult to bring to completion, and they wish to withdraw. One should know that the Tathāgata possesses a supreme expedient means for protecting and nurturing faith. That is, by the condition of single-mindedly recollecting the Buddha, in accordance with one's vow one attains birth in a buddha land in another region. As the sūtras say: if a person recollects the Western Buddha Amitābha single-mindedly and dedicates all wholesome deeds performed, aspiring to be born in that buddha's land, then one will attain birth.
+> Furthermore, when sentient beings first study this Dharma, their minds are timid and weak, fearing that their faith will be difficult to bring to completion, and they wish to withdraw. One should know that the Tathāgata possesses a supreme skillful means for protecting and nurturing faith. That is, by the condition of single-mindedly recollecting the Buddha, in accordance with one's vow one attains birth in a buddha land in another region. As the sūtras say: if a person recollects the Western Buddha Amitābha single-mindedly and dedicates all wholesome deeds performed, aspiring to be born in that buddha's land, then one will attain birth.
 
 If buddha-recollection is not the essential of birth, then the four great bodhisattva-patriarchs would not have exhausted the principle in this way.
 
@@ -3724,7 +3724,7 @@ The *Sūtra on the Questions of Maitreya* says:
 > 6. Give rise to the mind of omniscience, recollecting it daily without forgetfulness or neglect.
 > 7. Toward all sentient beings, give rise to a mind of respect, removing arrogance, and speak with humility.
 > 8. In worldly talk and conversation, do not develop a taste for it.
-> 9. Draw near to the intention of awakening and deeply cultivate all kinds of wholesome roots and conditions; distance yourself from clamor and confusion and from a scattered mind.
+> 9. Draw near to the intention of enlightenment and deeply cultivate all kinds of roots of merit and conditions; distance yourself from clamor and confusion and from a scattered mind.
 > 10. With right mindfulness, contemplate the Buddha and remove all other thoughts.
 
 The *Ratnakūṭa Sūtra*, fascicle ninety-two, records the Buddha likewise answering Maitreya's question with these same ten minds. Among them, the sixth mind says: "Seek the wisdom of the buddhas, at all times maintaining a mind without forgetfulness." The remaining nine, though differing slightly in wording, are the same in meaning as the foregoing sūtra. But the concluding passage says: "If a person, among these ten minds, succeeds in fulfilling even a single one, and joyfully aspires to birth in that buddha's world, then it is impossible that such a person will not be born there."
@@ -3745,7 +3745,7 @@ And further:
 >
 > Those of the upper-lower grade: one also believes in cause and effect and does not slander the Mahāyāna, but simply awakens the mind of the unsurpassed Way. By the merit of dedicating this, one aspires to be born in the Land of Utmost Bliss.
 >
-> Those of the middle-upper grade: if there are sentient beings who uphold the five precepts, observe the eight precepts, practice various precepts, do not commit the five grave offenses, and are without fault or transgression, then by dedicating these wholesome roots and aspiring, they attain birth.
+> Those of the middle-upper grade: if there are sentient beings who uphold the five precepts, observe the eight precepts, practice various precepts, do not commit the five grave offenses, and are without fault or transgression, then by dedicating these roots of merit and aspiring, they attain birth.
 >
 > Those of the middle-middle grade: if there are sentient beings who observe the eight precepts for one day and one night, or observe the novice precepts for one day and one night, or observe the full precepts for one day and one night with dignified conduct intact, then by dedicating this merit and aspiring, they attain birth.
 >
@@ -3832,7 +3832,7 @@ The same sūtra further says:
 
 **Answer:** The *Smaller Sūtra* says immeasurable, boundless, incalculable kalpas. The *Sūtra of the Prediction for Avalokiteśvara* (*Guanyin shouji jing* (觀音授記經, *Sūtra of the Prediction for Avalokiteśvara*)) says:
 
-> The lifespan of Amitābha Buddha extends through immeasurable hundreds of thousands of billions of kalpas, yet it shall have an end. After that buddha enters nirvāṇa, the true Dharma shall abide for a period equal to his lifespan. Good sons, after the true Dharma of Amitābha Buddha has been extinguished, when the bright phase appears after the middle of the night, Avalokiteśvara Bodhisattva shall attain perfect, complete awakening beneath the bodhi tree, with the name Universal Light and Merit Mountain King Tathāgata. In that buddha's land there shall be no mention of śrāvakas or pratyekabuddhas. That buddha's land shall be called "Universally Assembled Treasures in Splendid Array." After the nirvāṇa of Universal Light and Merit Tathāgata and the extinction of his true Dharma, Mahāsthāmaprāpta Bodhisattva shall attain buddhahood in that very land, with the name Firmly Abiding Merit and Jewel King Tathāgata. The radiance of that land, the lifespan, and the duration of the Dharma shall be no different.
+> The lifespan of Amitābha Buddha extends through immeasurable hundreds of thousands of billions of kalpas, yet it shall have an end. After that buddha enters nirvāṇa, the true Dharma shall abide for a period equal to his lifespan. Good sons, after the true Dharma of Amitābha Buddha has been extinguished, when the bright phase appears after the middle of the night, Avalokiteśvara Bodhisattva shall attain perfect, complete enlightenment beneath the bodhi tree, with the name Universal Light and Merit Mountain King Tathāgata. In that buddha's land there shall be no mention of śrāvakas or pratyekabuddhas. That buddha's land shall be called "Universally Assembled Treasures in Splendid Array." After the nirvāṇa of Universal Light and Merit Tathāgata and the extinction of his true Dharma, Mahāsthāmaprāpta Bodhisattva shall attain buddhahood in that very land, with the name Firmly Abiding Merit and Jewel King Tathāgata. The radiance of that land, the lifespan, and the duration of the Dharma shall be no different.
 
 **Question:** The *Sūtra of Identical Nature* says it is a reward-body, but the *Prediction Sūtra* says he enters nirvāṇa. How do the various masters reconcile these two contradictory sūtras?
 
@@ -3969,7 +3969,7 @@ Master Daoxuan also says: "Bodhisattvas of the third *bhūmi* first see the rewa
 
 **Question:** What are the stages of the nine grades?
 
-**Answer:** The various masters disagree. The Venerable [Hui]yuan says: upper-upper birth corresponds to the fourth through sixth *bhūmis*; upper-middle corresponds to the first through third *bhūmis*; upper-lower corresponds to the thirty mental stages before the *bhūmis*. Master Li says: upper-upper is the stages of practice and dedication; upper-middle is the ten stages of understanding; upper-lower is the ten stages of faith. Master [Ci'en] Ji says: upper-upper is the ten dedications; upper-middle is the stages of understanding and practice; upper-lower is the ten faiths. Some say: upper-upper is the first mental stage of the ten abidings; upper-middle is the final stage of the ten faiths; upper-lower is the initial stage of the ten faiths. Others say: upper-upper corresponds to those at the level of ten faiths and before who are able to arouse the three minds and cultivate the three practices, while upper-middle and upper-lower encompass only those at the ten faiths and before who have aroused the mind of awakening and cultivate good as ordinary beings, distinguished into two grades by the depth or shallowness of their practice.
+**Answer:** The various masters disagree. The Venerable [Hui]yuan says: upper-upper birth corresponds to the fourth through sixth *bhūmis*; upper-middle corresponds to the first through third *bhūmis*; upper-lower corresponds to the thirty mental stages before the *bhūmis*. Master Li says: upper-upper is the stages of practice and dedication; upper-middle is the ten stages of understanding; upper-lower is the ten stages of faith. Master [Ci'en] Ji says: upper-upper is the ten dedications; upper-middle is the stages of understanding and practice; upper-lower is the ten faiths. Some say: upper-upper is the first mental stage of the ten abidings; upper-middle is the final stage of the ten faiths; upper-lower is the initial stage of the ten faiths. Others say: upper-upper corresponds to those at the level of ten faiths and before who are able to arouse the three minds and cultivate the three practices, while upper-middle and upper-lower encompass only those at the ten faiths and before who have aroused the mind of enlightenment and cultivate good as ordinary beings, distinguished into two grades by the depth or shallowness of their practice.
 
 The reason the various masters' judgments differ is that they disagree on the stage of the tolerance of non-arising. The *Renwang jing* places the tolerance of non-arising at the seventh through ninth *bhūmis*. Various treatises place it at the first *bhūmi*, or at the stage of patience. The *Yingluo jing* places it at the ten abidings. The *Avataṃsaka Sūtra* places it at the ten abidings. The *Zhanchashan'e yebao jing* says that those who cultivate the single-practice samādhi and attain an approximate tolerance of non-arising are included. Thus each master relies on one particular interpretation.
 
@@ -4029,15 +4029,15 @@ If one does not engage in mixed practice but practices exclusively, such a perso
 > even while dwelling among difficulties due to other karma,
 > because of former faith, they will accomplish it.
 
-How could such a person lack this benefit? Consider: when a person who has committed evil all his life encounters a good friend at the time of death and with just ten recollections of the Buddha attains birth, such cases are mostly people who in past lives aspired to the Pure Land and recollected that buddha. Their wholesome roots, ripened within, are now brought forth. Therefore the *Ten Doubts Treatise* says:
+How could such a person lack this benefit? Consider: when a person who has committed evil all his life encounters a good friend at the time of death and with just ten recollections of the Buddha attains birth, such cases are mostly people who in past lives aspired to the Pure Land and recollected that buddha. Their roots of merit, ripened within, are now brought forth. Therefore the *Ten Doubts Treatise* says:
 
 > Those who, at the time of death, encounter a good teacher and accomplish ten recollections...
 
 The meaning is the same. Therefore it is not in vain.
 
-**Question:** If the lower-lower grade's birth depends on past wholesome roots, then the ten recollections of the original vow would be merely nominal and without substance.
+**Question:** If the lower-lower grade's birth depends on past roots of merit, then the ten recollections of the original vow would be merely nominal and without substance.
 
-**Answer:** Even if there are past wholesome roots, without the ten recollections one would certainly fall into the Avīci hell and suffer endlessly. This makes clear that the ten recollections at the time of death are the supreme condition for birth.
+**Answer:** Even if there are past roots of merit, without the ten recollections one would certainly fall into the Avīci hell and suffer endlessly. This makes clear that the ten recollections at the time of death are the supreme condition for birth.
 
 ---
 
@@ -4152,7 +4152,7 @@ And the *Diamond Sūtra* says:
 
 **Answer:** The *Essentials* (*Yaojue*) offers a comprehensive explanation:
 
-> The Great Teacher's doctrinal approaches have many gates, each suited to the time and the capacity of beings, and none is at variance. The *Prajñāpāramitā Sūtra* constitutes one gate; the *Amitābha Sūtras* and others constitute another. All buddhas possess three bodies. The Dharma-body buddha has no form; its essence is neither color nor sound. Because śrāvakas and lesser bodhisattvas, hearing that the three bodies are not different, might then suppose they all share color and sound, and seeing only the form-characteristics of the transformation-body, might cling to the idea that the Dharma-body is the same, therefore it is called "a mistaken path." The *Amitābha Sūtras* and others encourage recollection of the Buddha's name and contemplation of his form so as to seek birth in the Pure Land. This is because ordinary beings' obstructions are heavy and the Dharma-body is hidden and subtle, making its essence difficult to take as an object. Therefore, as an expedient means, one is first taught to recollect the Buddha and contemplate his form.
+> The Great Teacher's doctrinal approaches have many gates, each suited to the time and the capacity of beings, and none is at variance. The *Prajñāpāramitā Sūtra* constitutes one gate; the *Amitābha Sūtras* and others constitute another. All buddhas possess three bodies. The Dharma-body buddha has no form; its essence is neither color nor sound. Because śrāvakas and lesser bodhisattvas, hearing that the three bodies are not different, might then suppose they all share color and sound, and seeing only the form-characteristics of the transformation-body, might cling to the idea that the Dharma-body is the same, therefore it is called "a mistaken path." The *Amitābha Sūtras* and others encourage recollection of the Buddha's name and contemplation of his form so as to seek birth in the Pure Land. This is because ordinary beings' obstructions are heavy and the Dharma-body is hidden and subtle, making its essence difficult to take as an object. Therefore, as an skillful means, one is first taught to recollect the Buddha and contemplate his form.
 
 **Question:** By what means does an ordinary being actually come to see the Buddha?
 
@@ -4160,7 +4160,7 @@ And the *Diamond Sūtra* says:
 
 **Question:** Through how many causes and conditions is one born in that land?
 
-**Answer:** Examining the sūtras, there are four: (1) the power of one's own wholesome roots, (2) the power of one's own aspiration, (3) the power of Amitābha's original vow, and (4) the power of Amitābha's present radiance.
+**Answer:** Examining the sūtras, there are four: (1) the power of one's own roots of merit, (2) the power of one's own aspiration, (3) the power of Amitābha's original vow, and (4) the power of Amitābha's present radiance.
 
 ---
 
@@ -4223,7 +4223,7 @@ The *Ten Doubts Treatise* also explains:
 >
 > **In the mind**: when one commits transgressions, they arise from one's own false, deluded, and inverted mind. But when the mind recollects the Buddha, it arises from hearing a good teacher describe the true and real merits of Amitābha Buddha's name. One is false, the other real: how can they be compared? It is as if a room has been dark for ten thousand years, yet when the sun's light enters for a moment, the darkness is instantly dispelled. How could it be that long-accumulated darkness refuses to be eliminated?
 >
-> **In the object**: when one commits transgressions, the false, deluded, and darkened mind takes false objects and gives rise to inverted thought. When the mind recollects the Buddha, it hears the Buddha's pure, true, and real merits and name, and from this, the aspiration for unsurpassed awakening arises. One is true, the other false: how can they be compared? It is as if a person struck by a poisoned arrow, the arrow deep and the poison fierce, wounding muscle and reaching bone, upon hearing the single beat of the poison-dispelling drum, the poisoned arrow is immediately extracted. How could it be that deep poison refuses to come out?
+> **In the object**: when one commits transgressions, the false, deluded, and darkened mind takes false objects and gives rise to inverted thought. When the mind recollects the Buddha, it hears the Buddha's pure, true, and real merits and name, and from this, the aspiration for unsurpassed enlightenment arises. One is true, the other false: how can they be compared? It is as if a person struck by a poisoned arrow, the arrow deep and the poison fierce, wounding muscle and reaching bone, upon hearing the single beat of the poison-dispelling drum, the poisoned arrow is immediately extracted. How could it be that deep poison refuses to come out?
 >
 > **In the decisiveness**: when one commits transgressions, it is with an intermittent mind and a mind that allows for a next time. But when one recollects the Buddha at the moment of death, it is with an uninterrupted mind and a mind that allows no next time, for one is about to relinquish one's life. The good mind is fierce and powerful, and therefore one is immediately born. It is as if a rope of ten strands, though a thousand men cannot break it, a single stroke of a boy's sword severs it in two. Or as if a thousand years' accumulation of grass, when touched by a great fire, is consumed in an instant.
 
@@ -4281,13 +4281,13 @@ Others say: if the five deadly transgressions constitute indeterminate karma, on
 
 There are fifteen different interpretations of this. Master [Huai]gan does not accept any of the other masters' explanations. He offers his own:
 
-> If a person who has not committed deadly transgressions is considered, then whether one recollection or ten, one will be born in the Pure Land. If a person who has committed deadly transgressions is considered, then the passages elsewhere that broadly show the categories of those who attain birth: the original vow mentions only those whose birth is definite, saying, "If this is not so, may I not attain perfect awakening." Others' ten recollections lead to definite birth. Whether those who have committed deadly transgressions, through one recollection, will or will not attain birth is indeterminate. Therefore the vow mentions only the ten recollections of others, while other passages also take up the case of one recollection from those who have committed deadly transgressions.
+> If a person who has not committed deadly transgressions is considered, then whether one recollection or ten, one will be born in the Pure Land. If a person who has committed deadly transgressions is considered, then the passages elsewhere that broadly show the categories of those who attain birth: the original vow mentions only those whose birth is definite, saying, "If this is not so, may I not attain perfect enlightenment." Others' ten recollections lead to definite birth. Whether those who have committed deadly transgressions, through one recollection, will or will not attain birth is indeterminate. Therefore the vow mentions only the ten recollections of others, while other passages also take up the case of one recollection from those who have committed deadly transgressions.
 
 This matter is unsettled and requires separate careful deliberation.
 
 **Question:** Why is the birth of those who committed deadly transgressions through ten recollections indeterminate?
 
-**Answer:** Because their past wholesome roots vary, and because the power of their recollection differs. Also, the circumstances at the time of death versus those of ordinary practice are different.
+**Answer:** Because their past roots of merit vary, and because the power of their recollection differs. Also, the circumstances at the time of death versus those of ordinary practice are different.
 
 **Question:** The five deadly transgressions are karma whose retribution and timing are both determinate. How can they be extinguished?
 
@@ -4360,9 +4360,9 @@ So too, sentient beings who come to have faith and reverence toward all buddhas,
 **Question:** According to such sūtra passages, because of faith one attains nirvāṇa. If so, should not a single hearing of the Buddha's name also be a cause of nirvāṇa? And how then do we account for the verse of the *Avataṃsaka*:
 
 > If there are sentient beings
-> who have not yet aroused the aspiration for awakening,
+> who have not yet aroused the aspiration for enlightenment,
 > upon once hearing a buddha's name,
-> they shall certainly attain awakening.
+> they shall certainly attain enlightenment.
 
 **Answer:** The causes and conditions of all dharmas are inconceivable. It is like a peacock that conceives upon hearing the sound of thunder, or the *śirīṣa* fruit that, previously formless, upon seeing the Pleiades, produces a fruit five inches long. Through the Buddha's name, the seed of buddhahood is formed in just such a way. From this subtle cause, the great fruit eventually comes. It is like the *nyagrodha* tree, which grows from a seed as small as a mustard grain and spreads its branches to shade five hundred ox-carts.
 
@@ -4390,7 +4390,7 @@ If even a bodhisattva practicing the Dharma-body can produce such effects, how m
 
 Knowing this, one should contemplate the great benevolence and virtue of the Buddha in a single recollection, a single utterance of his name.
 
-**Question:** The awakening and nirvāṇa spoken of in these passages: among the three vehicles, to which fruit do they refer?
+**Question:** The enlightenment and nirvāṇa spoken of in these passages: among the three vehicles, to which fruit do they refer?
 
 **Answer:** Initially, according to the being's capacity, one attains the fruit of one of the three vehicles. Ultimately, one will inevitably reach the unsurpassed fruit of buddhahood. As the *Lotus Sūtra* says:
 
@@ -4456,7 +4456,7 @@ This passage also says: "One should constantly practice and maintain this. One s
 
 Furthermore, among the difficult and easy paths: the easy path is precisely buddha-recollection. The third fascicle of the *Daśabhūmika-vibhāṣā* says:
 
-> Just as worldly roads may be difficult or easy: traveling on land by foot is hard, while traveling by water on a boat is pleasant. So too the path to awakening: some practice with strenuous diligence, while some, through the expedient of faith, easily and swiftly reach the stage of non-retrogression.
+> Just as worldly roads may be difficult or easy: traveling on land by foot is hard, while traveling by water on a boat is pleasant. So too the path to enlightenment: some practice with strenuous diligence, while some, through the expedient of faith, easily and swiftly reach the stage of non-retrogression.
 
 The text then goes on to enumerate more than a hundred buddhas and more than a hundred great bodhisattvas, including Maitreya, Vajragarbha, Vimalakīrti, Akṣayamati, Bhadrapāla, Mañjuśrī, Gadgadasvara, Siṃhanāda, Gandhahastin, Sadāparibhūta, Avalokiteśvara, Mahāsthāmaprāpta, and others. Among them, Amitābha Buddha is praised at greatest length.
 
@@ -4545,7 +4545,7 @@ Therefore, even among those of high station, there are some who find it hard to 
 
 **Answer:** If one entirely lacks faith, does not cultivate the practices, and does not aspire to that land, one should not expect to attain birth. However, if one doubts the Buddha's wisdom yet still aspires to that land and cultivates the practices, one can also attain birth. As the *Contemplation Sūtra* says:
 
-> If there are sentient beings who, with a doubting and hesitant mind, cultivate meritorious deeds and aspire to be born in that land, but who do not understand the Buddha's wisdom, the inconceivable wisdom, the indescribable wisdom, the vast Mahāyāna wisdom, or the peerless, unequaled, supreme, and most excellent wisdom, and who doubt and disbelieve these wisdoms, yet still believe in the karmic consequences of good and evil, cultivate wholesome roots, and aspire to be born in that land: such beings will be born in the palaces of that land and will dwell there for five hundred years, during which time they will not see the Buddha, not hear the sūtras and Dharma, and not see the bodhisattvas and śrāvakas.
+> If there are sentient beings who, with a doubting and hesitant mind, cultivate meritorious deeds and aspire to be born in that land, but who do not understand the Buddha's wisdom, the inconceivable wisdom, the indescribable wisdom, the vast Mahāyāna wisdom, or the peerless, unequaled, supreme, and most excellent wisdom, and who doubt and disbelieve these wisdoms, yet still believe in the karmic consequences of good and evil, cultivate roots of merit, and aspire to be born in that land: such beings will be born in the palaces of that land and will dwell there for five hundred years, during which time they will not see the Buddha, not hear the sūtras and Dharma, and not see the bodhisattvas and śrāvakas.
 
 As a penalty for their doubt, they are like criminals. Yet they still attain birth according to their aspiration, through the compassionate power of the Buddha's vow.
 
@@ -4589,7 +4589,7 @@ And further:
 
 **Question:** Ordinary beings cannot necessarily keep their three karmas in perfect accord. If they have deficiencies, will they not lose this protection?
 
-**Answer:** Such a question is precisely what people who are lazy and lack the aspiration for the path would raise. If one truly seeks awakening and truly aspires to the Pure Land, one would sooner give up one's life than break the precepts. One should endure a single lifetime of diligent effort to secure the sublime fruit of eternal kalpas.
+**Answer:** Such a question is precisely what people who are lazy and lack the aspiration for the path would raise. If one truly seeks enlightenment and truly aspires to the Pure Land, one would sooner give up one's life than break the precepts. One should endure a single lifetime of diligent effort to secure the sublime fruit of eternal kalpas.
 
 Moreover, even if one has broken the precepts, one is not entirely without hope. As the Buddha says in the same sūtra:
 
@@ -4704,7 +4704,7 @@ They draw in such beings. And if those beings should attain the path, may they i
 > May I and all who share this faith,
 > having beheld that buddha,
 > attain the eye free of defilement
-> and realize unsurpassed awakening.
+> and realize unsurpassed enlightenment.
 
 ---
 
@@ -4714,12 +4714,12 @@ They draw in such beings. And if those beings should attain the path, may they i
 
 In the second year of Eikan (984), *kinoe-saru* (甲申 *jiǎshēn*, the cyclical year), in the winter, the eleventh month, this text was compiled at the Śūraṅgama Hall (*Shūryōgon-in*) of the Enryaku-ji monastery on Mount Hiei (Tendai-san). In the summer of the following year, the fourth month, the work was completed.
 
-A certain monk dreamt that Vaiśravaṇa, accompanied by a child bearing a rain-charm, came and declared: "The *Collection on the Essentials of Birth* compiled by Genshin consists entirely of passages from the sūtras and treatises. All who see it or hear it, however briefly, may realize unsurpassed awakening. You should add a single verse and disseminate it widely." On a later day, the dream was recounted. Therefore the following verse was composed:
+A certain monk dreamt that Vaiśravaṇa, accompanied by a child bearing a rain-charm, came and declared: "The *Collection on the Essentials of Birth* compiled by Genshin consists entirely of passages from the sūtras and treatises. All who see it or hear it, however briefly, may realize unsurpassed enlightenment. You should add a single verse and disseminate it widely." On a later day, the dream was recounted. Therefore the following verse was composed:
 
 > Already relying on holy scripture and right principle,
 > I encourage all beings to seek birth in the Land of Utmost Bliss.
 > May even those who hear of it at third or fourth remove
-> together swiftly realize unsurpassed awakening.
+> together swiftly realize unsurpassed enlightenment.
 
 ---
 

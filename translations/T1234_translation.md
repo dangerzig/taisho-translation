@@ -26,7 +26,7 @@ When Aparājita Bodhisattva spoke this vidyā, she transformed her body into the
 > Great wisdom and great radiance forever sever the darkness of ignorance.
 > In the past, seeking bodhi, Māra's army is now subdued;
 > Having subdued those māra hosts, great fearlessness was attained.
-> Forever transcending the world, with certainty attaining perfect awakening,
+> Forever transcending the world, with certainty attaining perfect enlightenment,
 > Becoming the teacher of devas and humans, swiftly liberating all beings.
 > May all of you who see this generate great joy in your hearts.
 > Māra King and all your retinue, do not tread the banks of the Nairañjanā.

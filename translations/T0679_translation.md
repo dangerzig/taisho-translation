@@ -120,9 +120,9 @@ Mañjuśrī further said to the Buddha: "World-Honored One! What is the differen
 
 The Buddha told Mañjuśrī: "The Tathāgata's range extends to all that the Tathāgatas share, namely the inconceivable, immeasurable merit of adorning and purifying buddha-lands. Mañjuśrī! The Tathāgata's realm has five aspects: the realm of all kinds of sentient beings, the realm of worlds, the dharma-realm, the realm of those to be tamed, and the realm of the means of taming. This is the distinction."
 
-Mañjuśrī said to the Buddha: "World-Honored One! The Tathāgata's attainment of true awakening, turning of the Dharma-wheel, and great parinirvāṇa: what characteristics do these have?"
+Mañjuśrī said to the Buddha: "World-Honored One! The Tathāgata's attainment of true enlightenment, turning of the Dharma-wheel, and great parinirvāṇa: what characteristics do these have?"
 
-The Buddha told Mañjuśrī: "They have no dual characteristics. Neither attaining true awakening nor not attaining true awakening; neither turning the Dharma-wheel nor not turning the Dharma-wheel; neither entering great parinirvāṇa nor not entering great parinirvāṇa. This is because the Dharma-body is ultimately pure, and because the transformation-body is manifested."
+The Buddha told Mañjuśrī: "They have no dual characteristics. Neither attaining true enlightenment nor not attaining true enlightenment; neither turning the Dharma-wheel nor not turning the Dharma-wheel; neither entering great parinirvāṇa nor not entering great parinirvāṇa. This is because the Dharma-body is ultimately pure, and because the transformation-body is manifested."
 
 Mañjuśrī said to the Buddha: "World-Honored One! If the transformation-body is what sentient beings see, hear, and make offerings to, why does this generate merit?"
 

@@ -341,7 +341,7 @@ The Buddha told Rāṣṭrapāla: "At that time, Prince Guṇaprabha threw himse
 > Reveal to me the correct and separate from the heterodox; in the midst of darkness, be a lamp.
 > For all who are harmed, remove defilement: may the Great King of Physicians sever my doubts.
 > May you liberate me from the path of birth-and-death, severing and removing all my attachments,
-> Enabling me to cross the sea of sorrow, and through the eightfold path enter the Great Vehicle.
+> Enabling me to cross the sea of sorrow, and through the Eightfold Path enter the Great Vehicle.
 > Now life is short and the life of the Dharma is ending; there are many obstructions to meritorious practice.
 > Those without merit do not fulfill their wishes; now that I have this opening, may you resolve my doubts.
 > Now I hear the guide's essential instruction: how can a bodhisattva be heedless?

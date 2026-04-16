@@ -13,7 +13,7 @@ The Tathāgata then addressed the assembly of bhikṣus: "A bhikṣu who is comp
 
 "How does a bhikṣu possess a sense of shame and delight in the precepts? This bhikṣu gains the following understanding: 'How can I, not yet having committed an āpatti, swiftly avoid committing an āpatti, and act as a bhikṣu in accordance with the Dharma and the Vinaya?' This is possessing a sense of shame and delight in the precepts.
 
-"How does a bhikṣu have extensive learning and knowledge of the Dharma? This bhikṣu gains what the Dharma treasury teaches and gains what extensive learning teaches, so as to gain knowledge of the power of the Dharma, and can explain the four noble truths both broadly and concisely. Bhikṣus, this is having extensive learning and knowledge of the Dharma.
+"How does a bhikṣu have extensive learning and knowledge of the Dharma? This bhikṣu gains what the Dharma treasury teaches and gains what extensive learning teaches, so as to gain knowledge of the power of the Dharma, and can explain the Four Noble Truths both broadly and concisely. Bhikṣus, this is having extensive learning and knowledge of the Dharma.
 
 "How does a bhikṣu have extensive learning and knowledge of the Vinaya? This bhikṣu knows the explanations of the two Vinayas. He knows the two Prātimokṣas broadly and recites them. In walking, standing, sitting, and lying down, he recites them by mouth and reflects on them in mind, observing with subtle attention. Bhikṣus, this is having extensive learning and knowledge of the Vinaya.
 

@@ -24,7 +24,7 @@ The five-fold interpretation is applied to the opening of every sūtra: (1) expl
 
 ### The Ten Meanings of Doctrinal Exegesis
 
-(1) First, clarify that the principle of the Way is quiescent, beyond expression, inconceivable. Within the single quiescent principle, without dividing it, one distinguishes and opens the various truths: the four kinds of four truths, the seven kinds of two truths, the five kinds of three truths, and so on. (2) The teaching that expresses [this principle]. (3) Resolving contradictions among sūtras and treatises using the four siddhānta. (4) Skillfully breaking attachments. (5) Establishing correct dharma-gates, correlating practice stages. (6) Unrestricted application of any single statement, horizontally and vertically. (7) Organizing chapters and sections. (8) Phrase-by-phrase commentary on the sūtra text. (9) Translation of technical terms. (10) For each phrase, integrating principle-contemplation so that the contemplation accords with the sūtra.
+(1) First, clarify that the principle of the Way is quiescent, beyond expression, inconceivable. Within the single quiescent principle, without dividing it, one distinguishes and opens the various truths: the four kinds of Four Noble Truths, the seven kinds of two truths, the five kinds of three truths, and so on. (2) The teaching that expresses [this principle]. (3) Resolving contradictions among sūtras and treatises using the four siddhānta. (4) Skillfully breaking attachments. (5) Establishing correct dharma-gates, correlating practice stages. (6) Unrestricted application of any single statement, horizontally and vertically. (7) Organizing chapters and sections. (8) Phrase-by-phrase commentary on the sūtra text. (9) Translation of technical terms. (10) For each phrase, integrating principle-contemplation so that the contemplation accords with the sūtra.
 
 ---
 
@@ -36,7 +36,7 @@ The ten fascicles of the *Mohe Zhǐguān* are broadly divided into two parts. Th
 
 The brief section opens into five: (1) arousing the perfect aspiration, (2) cultivating perfect practice, (3) realizing the perfect fruit, (4) arising the eight teachings, and (5) returning to the three virtues.
 
-**Arousing the perfect aspiration** (Fascicle 1): This is explained through the four universal vows (*sìhóngyuàn*), the four noble truths, and the six identities (*liùjí*). The four vows are the pledges that are aroused; the four truths are the objects upon which they depend; the six identities are the stages through which one passes. The four vows are:
+**Arousing the perfect aspiration** (Fascicle 1): This is explained through the four universal vows (*sìhóngyuàn*), the Four Noble Truths, and the six identities (*liùjí*). The four vows are the pledges that are aroused; the Four Noble Truths are the objects upon which they depend; the six identities are the stages through which one passes. The four vows are:
 
 - "Sentient beings are boundless; I vow to save them all" (based on the truth of suffering).
 - "Afflictions are inexhaustible; I vow to sever them all" (based on the truth of the origin).
@@ -93,7 +93,7 @@ If a person of superior faculty practices this single contemplation, horizontall
 
 **5. Recognizing the open and obstructed:** Knowing that birth-and-death and afflictions are "obstructed" and bodhi and nirvāṇa are "open," and further recognizing that obstruction can arise within the open (which must be broken) and openness within the obstructed (which must be preserved).
 
-**6. Adjusting the path-factors:** Trying all seven categories of path-factors (the four foundations of mindfulness, four right efforts, four bases of power, five faculties, five powers, seven factors of awakening, and the eightfold path) and adjusting them to suit one's practice.
+**6. Adjusting the path-factors:** Trying all seven categories of path-factors (the four foundations of mindfulness, four right efforts, four bases of power, five faculties, five powers, seven factors of awakening, and the Eightfold Path) and adjusting them to suit one's practice.
 
 **7. Counteractive aids:** When the main practice does not succeed, applying remedial practices such as the six pāramitās to counteract the six heavy coverings (miserliness, immorality, anger, laziness, distraction, and delusion).
 

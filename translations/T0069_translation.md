@@ -69,7 +69,7 @@ At that time, the great king told Huguo: "There are four conditions because of w
 
 "Huguo, you should understand: it is because of these four conditions that one may go forth. I now ask you again, Huguo: what have you seen or heard that caused you to go forth?"
 
-At that time, the Venerable One replied to the king: "Great King, you should know that there are four truths because of which I sought to go forth. What are these four? They are aging, illness, craving, and death. Deterioration that does not last long is called aging. Affliction with no cure is called illness. Never being satisfied is called craving. Abandoning all realms of experience is called death. These four truths, my Buddha the World-Honored One has thoroughly understood and perceived, and I too have personally seen and heard them from the Buddha. Because of this, I gave rise to great faith and went forth."
+At that time, the Venerable One replied to the king: "Great King, you should know that there are Four Noble Truths because of which I sought to go forth. What are these four? They are aging, illness, craving, and death. Deterioration that does not last long is called aging. Affliction with no cure is called illness. Never being satisfied is called craving. Abandoning all realms of experience is called death. These Four Noble Truths, my Buddha the World-Honored One has thoroughly understood and perceived, and I too have personally seen and heard them from the Buddha. Because of this, I gave rise to great faith and went forth."
 
 The king said: "Venerable One, as you have spoken briefly, I do not yet fully understand. I pray that the Venerable One will explain at length so that I may comprehend."
 

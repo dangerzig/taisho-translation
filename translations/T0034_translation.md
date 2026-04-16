@@ -23,7 +23,7 @@ The World-Honored One said to Maudgalyāyana: "For the sake of all beings you ha
 
 "The tides of the great ocean come at their proper time without fail and never lose their constant course; those of the four assemblies of my disciples who have received my precepts do not violate the prohibitions or depart from the constant dharma. This is the second quality.
 
-"The waters of the great ocean have but one taste; there are not many different tastes; without exception the taste is salt. My dharma is likewise: the taste of dhyāna, for those who aspire to stillness and seek through concentrated resolve to attain supernatural powers; the taste of the four noble truths, for those who aspire to the four paths and seek to loosen the bonds and fetters of obstruction; the taste of the Mahāyāna, for those who aspire to the great vow and seek to liberate all living beings. This is the third quality.
+"The waters of the great ocean have but one taste; there are not many different tastes; without exception the taste is salt. My dharma is likewise: the taste of dhyāna, for those who aspire to stillness and seek through concentrated resolve to attain supernatural powers; the taste of the Four Noble Truths, for those who aspire to the four paths and seek to loosen the bonds and fetters of obstruction; the taste of the Mahāyāna, for those who aspire to the great vow and seek to liberate all living beings. This is the third quality.
 
 "The great ocean is both deep and vast, and none can set limits to it; the dharma of the saṃgha is likewise; nothing is not deep and wondrous. Among all things in the eight directions there is nothing greater than the dharma of the saṃgha; the dharma of the saṃgha is the most vast and great of all. This is the fourth quality.
 

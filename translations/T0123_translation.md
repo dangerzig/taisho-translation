@@ -25,7 +25,7 @@ At one time, the Bhagavān was in the country of Śrāvastī, in the Jetavana, t
 
 "How does a bhikṣu not know care? A bhikṣu, when the jewel of the Dharma is being expounded, does not listen with wholehearted devotion. A bhikṣu who is thus does not know care.
 
-"How, bhikṣus, does one not know how to cross the water? A bhikṣu does not know the four truths. What are the four truths? A bhikṣu does not know the truth of suffering, the truth of the arising of suffering, the truth of the cessation of suffering, and the truth of the path leading to the cessation of suffering. A bhikṣu who is thus does not know how to cross the water.
+"How, bhikṣus, does one not know how to cross the water? A bhikṣu does not know the Four Noble Truths. What are the Four Noble Truths? A bhikṣu does not know the truth of suffering, the truth of the arising of suffering, the truth of the cessation of suffering, and the truth of the path leading to the cessation of suffering. A bhikṣu who is thus does not know how to cross the water.
 
 "How, bhikṣus, does one not know the feeding ground? A bhikṣu does not know the four foundations of mindfulness. What are the four foundations of mindfulness? A bhikṣu does not know the internal contemplation of the body, the external contemplation of the body, or the internal and external contemplation of the body. One does not know the internal contemplation of feelings, the external contemplation of feelings, or the internal and external contemplation of feelings. One does not know the internal contemplation of the mind, the external contemplation of the mind, or the internal and external contemplation of the mind. One does not know the internal contemplation of dharmas, the external contemplation of dharmas, or the internal and external contemplation of dharmas. A bhikṣu who is thus does not know the feeding ground.
 
@@ -56,11 +56,11 @@ The Buddha then spoke these verses:
 
 "How does a bhikṣu make smoke at the proper time? A bhikṣu teaches others broadly according to what one has learned, heard, and understood. A bhikṣu who is thus knows how to make smoke.
 
-"How does a bhikṣu know the road? A bhikṣu walks with careful attention on the eightfold path, and knows the places one should not go: the quarter of prostitutes, drinking establishments, and gambling halls. One never enters such places recklessly. A bhikṣu who is thus knows the road.
+"How does a bhikṣu know the road? A bhikṣu walks with careful attention on the Eightfold Path, and knows the places one should not go: the quarter of prostitutes, drinking establishments, and gambling halls. One never enters such places recklessly. A bhikṣu who is thus knows the road.
 
 "How does a bhikṣu know care? A bhikṣu, seeing the jewel of the Dharma being expounded, listens with wholehearted devotion and leaps with joyful delight. A bhikṣu who is thus is called one who knows care.
 
-"How does a bhikṣu know how to cross the water? A bhikṣu knows the four truths. What are the four truths? The truth of suffering, the truth of the arising of suffering, the truth of the cessation of suffering, and the truth of the path leading to the cessation of suffering. A bhikṣu who is thus knows how to cross the water.
+"How does a bhikṣu know how to cross the water? A bhikṣu knows the Four Noble Truths. What are the Four Noble Truths? The truth of suffering, the truth of the arising of suffering, the truth of the cessation of suffering, and the truth of the path leading to the cessation of suffering. A bhikṣu who is thus knows how to cross the water.
 
 "How does a bhikṣu know the feeding ground? A bhikṣu knows the four foundations of mindfulness. What are the four foundations of mindfulness? A bhikṣu contemplates the body internally, contemplates the body externally, and contemplates the body both internally and externally. One contemplates feelings internally, contemplates feelings externally, and contemplates feelings both internally and externally. One contemplates the mind internally, contemplates the mind externally, and contemplates the mind both internally and externally. One contemplates dharmas internally, contemplates dharmas externally, and contemplates dharmas both internally and externally. A bhikṣu who is thus knows the feeding ground.
 

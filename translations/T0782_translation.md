@@ -11,7 +11,7 @@ Tathāgata, Worthy of Offerings, Perfectly Awakened One, Complete in Knowledge a
 
 Ānanda asked: "What is meant by Tathāgata?"
 
-The Buddha said: "Bhikṣu! In the past, when I was on the causal ground as a bodhisattva, I cultivated numerous practices through many lives, seeking the unsurpassed, perfect awakening. Now I have attained bodhi, nirvāṇa, and all that is true and real. Through the right view of the noble eightfold path I have realized this, and therefore I am called Tathāgata. Just as the Perfectly Awakened Ones of the past tamed and stilled the mind and attained nirvāṇa, so too am I called Tathāgata."
+The Buddha said: "Bhikṣu! In the past, when I was on the causal ground as a bodhisattva, I cultivated numerous practices through many lives, seeking the unsurpassed, perfect awakening. Now I have attained bodhi, nirvāṇa, and all that is true and real. Through the right view of the noble Eightfold Path I have realized this, and therefore I am called Tathāgata. Just as the Perfectly Awakened Ones of the past tamed and stilled the mind and attained nirvāṇa, so too am I called Tathāgata."
 
 "What is meant by Worthy of Offerings?"
 
@@ -21,7 +21,7 @@ The Buddha said: "In the past, on the causal ground, the wholesome dharmas I pra
 
 "What is meant by Perfectly Awakened One?"
 
-The Buddha said: "The Tathāgata possesses omniscience and in all places there is nothing he does not know. Through the four foundations of mindfulness, the four right efforts, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, the noble eightfold path, the twelve links of dependent arising, the four noble truths, and such dharmas, he equally awakens all sentient beings, causing them to give rise to wisdom, sever delusion, and realize the fruit of srotāpanna, sakṛdāgāmin, anāgāmin, and arhat, complete with the three insights and six supernatural powers. Furthermore, for those who set their minds on the Great Vehicle and cultivate through the various grounds, severing all habitual bonds and accomplishing the unsurpassed awakening: this is called Perfectly Awakened One."
+The Buddha said: "The Tathāgata possesses omniscience and in all places there is nothing he does not know. Through the four foundations of mindfulness, the four right efforts, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, the noble Eightfold Path, the twelve links of dependent arising, the Four Noble Truths, and such dharmas, he equally awakens all sentient beings, causing them to give rise to wisdom, sever delusion, and realize the fruit of srotāpanna, sakṛdāgāmin, anāgāmin, and arhat, complete with the three insights and six supernatural powers. Furthermore, for those who set their minds on the Great Vehicle and cultivate through the various grounds, severing all habitual bonds and accomplishing the unsurpassed awakening: this is called Perfectly Awakened One."
 
 "What is meant by Complete in Knowledge and Conduct?"
 

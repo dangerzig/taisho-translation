@@ -61,7 +61,7 @@ Another interpretation: "Not forsaking the mind of bodhi," "skillfully knowing a
 
 **Regarding "the Vinaya of Miscellaneous Matters."** This refers to what is taught in the lower fifty fascicles of the Mūlasarvāstivāda division.
 
-**Regarding "the time of the compilation."** After the Buddha's nirvāṇa, at the Seven-Leaf Cave in Rājagṛha, five hundred great arhats were assembled. The assembly requested Ānanda to ascend the seat and teach the Dharma. The assembly raised three doubts. Then Ānanda spoke "Thus have I heard" and the rest. When the Buddha first attained the Way, at the Deer Park, he first converted the five monks such as Kauṇḍinya, teaching the Dharma of the Four Truths. "Three turnings" refers to this.
+**Regarding "the time of the compilation."** After the Buddha's nirvāṇa, at the Seven-Leaf Cave in Rājagṛha, five hundred great arhats were assembled. The assembly requested Ānanda to ascend the seat and teach the Dharma. The assembly raised three doubts. Then Ānanda spoke "Thus have I heard" and the rest. When the Buddha first attained the Way, at the Deer Park, he first converted the five monks such as Kauṇḍinya, teaching the Dharma of the Four Noble Truths. "Three turnings" refers to this.
 
 **Regarding "time, place, and persons."** "One time" in that sūtra is the time. "Place" is the location. "Persons" are the listeners of the Dharma.
 

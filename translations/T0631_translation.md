@@ -75,7 +75,7 @@ Thereupon the worthy Śāriputra addressed the Buddha, saying: "It is truly fitt
 
 The Buddha said: "Those whose original mind does not understand all share this experience."
 
-Śāriputra asked the Buddha: "What is the root of a person? What is the root of the five aggregates? The root of the six sense bases? The root of the twelve links of dependent arising and the root of the entry of the ninety-six kinds of paths? What is the root of the four noble truths? The root of the śrāvaka? The root of the pratyekabuddha? The root of the tathāgata? How is each known? I once heard the Buddha say: 'Those who do not understand that the root is emptiness fall into the lesser paths.' Please distinguish and explain this for those who are new to the study!"
+Śāriputra asked the Buddha: "What is the root of a person? What is the root of the five aggregates? The root of the six sense bases? The root of the twelve links of dependent arising and the root of the entry of the ninety-six kinds of paths? What is the root of the Four Noble Truths? The root of the śrāvaka? The root of the pratyekabuddha? The root of the tathāgata? How is each known? I once heard the Buddha say: 'Those who do not understand that the root is emptiness fall into the lesser paths.' Please distinguish and explain this for those who are new to the study!"
 
 The Buddha said: "Excellent! Your question is very good! It opens up much understanding. Let those who wish to hear, listen."
 
@@ -91,7 +91,7 @@ The Buddha said: "The root of a person: there is nothing from which it arises, n
 
 "The root of the entry of the ninety-six kinds of paths: they all arise from craving and desire, from the sixty-two views that abandon the inner and grasp the outer. What does it mean to abandon the inner and grasp the outer? The body is a transformed seed, empty and not real. Yet they seek existence by myriad means, unable to relinquish craving. Wishing to preserve and protect what exists, yet in time it must decay, and birth and death continue without end.
 
-"The root of the four noble truths: they too have no root or stem. Suffering, its origin, its cessation, and the path all arise through contemplative understanding. Those who see emptiness and purity know the root of the truths.
+"The root of the Four Noble Truths: they too have no root or stem. Suffering, its origin, its cessation, and the path all arise through contemplative understanding. Those who see emptiness and purity know the root of the truths.
 
 "The root of the śrāvaka: at first one contemplates the world as existent and does not understand that the root is emptiness. Weary of the suffering of birth and death, one gathers the mind and contemplates the dharma, cuts off the five aggregates, guards emptiness, practices purity, and when perception ceases and the outflows are exhausted, one then attains liberation. This is the root of the arhat.
 

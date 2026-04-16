@@ -13,7 +13,7 @@ In the form realm (rūpadhātu), there are twenty-eight abandoned through seeing
 
 The formless realm (ārūpyadhātu) is likewise. Together, the three realms total ninety-eight.
 
-This refers to the differentiation of sixteen aspects under the four noble truths (catvāry āryasatyāni), distinguished by their opposition and established according to their truth. The sixteen aspects are the four mental aspects (ākāra) under each of the four truths.
+This refers to the differentiation of sixteen aspects under the Four Noble Truths (catvāry āryasatyāni), distinguished by their opposition and established according to their truth. The sixteen aspects are the four mental aspects (ākāra) under each of the Four Noble Truths.
 
 The four aspects of the truth of suffering (duḥkhasatya) are: impermanence (anitya), suffering (duḥkha), emptiness (śūnya), and non-self (anātman). The four aspects of the truth of origination (samudayasatya) are: cause (hetu), origination (samudaya), arising (prabhava), and condition (pratyaya). The four aspects of the truth of cessation (nirodhasatya) are: cessation (nirodha), pacification (śānta), excellence (praṇīta), and liberation (niḥsaraṇa). The four aspects of the truth of the path (mārgasatya) are: path (mārga), suchness (nyāya), practice (pratipad), and deliverance (nairyāṇika).
 
@@ -27,4 +27,4 @@ The patient acceptance of the dharma of cessation (nirodha-dharma-kṣānti), th
 
 The patient acceptance of the dharma of the path (mārga-dharma-kṣānti), the wisdom of the dharma of the path (mārga-dharma-jñāna), the patient acceptance of the analogue of the path (mārga-anvaya-kṣānti), and the wisdom of the analogue of the path (mārga-anvaya-jñāna) counteract the defilements pertaining to the truth of the path.
 
-Regarding those [defilements] abandoned through cultivation (bhāvanā-heya): upon each of the four truths, the analogical patient acceptance (比忍, anvaya-kṣānti) and analogical wisdom (比智, anvaya-jñāna) counteract the four defilements of the desire realm: greed (lobha), aversion (dveṣa), pride (māna), and ignorance (avidyā).
+Regarding those [defilements] abandoned through cultivation (bhāvanā-heya): upon each of the Four Noble Truths, the analogical patient acceptance (比忍, anvaya-kṣānti) and analogical wisdom (比智, anvaya-jñāna) counteract the four defilements of the desire realm: greed (lobha), aversion (dveṣa), pride (māna), and ignorance (avidyā).

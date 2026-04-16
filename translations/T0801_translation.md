@@ -17,7 +17,7 @@ Translated from the Chinese. Tang dynasty, translated by Yijing (義淨)
 > Therefore he is called the Tamer, Teacher of Devas and Humans.
 > I bow my head in homage to the treasury of the wondrous Dharma,
 > Where threes, fours, twos, and fives are perfectly clear in principle,
-> Where sevens and eights can open the gate of the four truths,
+> Where sevens and eights can open the gate of the Four Noble Truths,
 > And those who cultivate all arrive at the shore of the unconditioned.
 > The Dharma-cloud and Dharma-rain moisten all beings,
 > Removing feverish affliction and curing all ills.
@@ -179,7 +179,7 @@ Then ask the dying person: "In which Buddha-land do you wish to be born?" The dy
 
 After instructing the request, one should have the dying person call upon the name of that Buddha. When ten recitations are accomplished, one confers the three refuges and performs a broad and extensive confession. After the confession is complete, one further confers the bodhisattva precepts on the dying person. If the dying person is too ill to speak, someone else may receive the precepts and perform the confession on their behalf. Unless the mind is insincere, the offenses are still extinguished and the bodhisattva precepts are obtained.
 
-After the precepts have been conferred, one supports the dying person to lie with head to the north and face toward the west. Whether the eyes are open or closed, one contemplates the Buddha's thirty-two marks and eighty secondary characteristics; and likewise for the Buddhas of the ten directions. One also teaches the person the four truths of cause and effect, the twelve links of dependent arising from ignorance through old age and death, and the contemplations of suffering, emptiness, and so forth.
+After the precepts have been conferred, one supports the dying person to lie with head to the north and face toward the west. Whether the eyes are open or closed, one contemplates the Buddha's thirty-two marks and eighty secondary characteristics; and likewise for the Buddhas of the ten directions. One also teaches the person the Four Noble Truths of cause and effect, the twelve links of dependent arising from ignorance through old age and death, and the contemplations of suffering, emptiness, and so forth.
 
 When the person is about to die, the others present should simply recite the Buddha's name, voice after voice without cease. In reciting the Buddha's name, one follows the dying person's mind and calls upon that name; do not call upon a different Buddha, lest the dying person's mind give rise to doubt and confusion. As the dying person's life gradually nears its end, they will see a transformation-Buddha and an assembly of bodhisattvas, bearing wondrous fragrant flowers and coming to welcome the practitioner. When the practitioner sees them, joy arises; the body feels no pain, the mind is not scattered, and right view arises as if entering dhyāna concentration. Then immediately upon death, the person will certainly not fall back into the suffering of the hells, the animal realm, or the hungry ghost realm. Riding upon the teaching previously given, as swiftly as a strong person bending and extending the arm, one is immediately born before a Buddha.
 

@@ -174,8 +174,8 @@ After the Buddha's parinirvāṇa, Kāśyapa (*Jiāshè*, 迦葉), Ānanda (*Ān
 > Kāśyapa addressed the assembly,
 > Together with the devas and humans:
 > "Now we shall collect the dharma and bring peace to sentient beings.
-> Though the Buddha has entered nirvāṇa, the four truths still remain.
-> The eightfold path still exists. Nirvāṇa can be attained.
+> Though the Buddha has entered nirvāṇa, the Four Noble Truths still remain.
+> The Eightfold Path still exists. Nirvāṇa can be attained.
 > The earlier buddhas had long lifespans; the people had merit.
 > The remnant dharma draws near; before long it will be exhausted.
 > People today have short lives.
@@ -466,7 +466,7 @@ After the Buddha's parinirvāṇa, Kāśyapa (*Jiāshè*, 迦葉), Ānanda (*Ān
 > Stilling the mind and discerning:
 > Three areas, three knowledges:
 > Past lives, exhaustion of outflows.
-> Four areas, the four truths.
+> Four areas, the Four Noble Truths.
 > Five areas, the five faculties.
 > Six areas, the six great [elements].
 > Seven areas, the seven factors of awakening.

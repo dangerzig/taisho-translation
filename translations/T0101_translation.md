@@ -207,7 +207,7 @@ At one time, the Buddha was in the country of Śrāvastī, in the Jetavana, the 
 
 The Buddha said: "In the simile spoken above, the one person is a person's spirit-mind. The first wife is the person's body. A person loves their body even more than the first wife, but when life is exhausted and death comes, the spirit-mind must follow its merits and demerits and depart far away alone. The body lies stiff on the ground and refuses to follow."
 
-The Buddha said: "A bhikṣu who does not follow the four practices cannot attain liberation. What are the four? First, suffering. Second, the arising of desire. Third, the exhaustion of emptiness. Fourth, the elimination of all evils. The essential path has eight practices, and sincerity lies in the four truths. The second wife is a person's wealth and property: obtaining it brings joy, not obtaining it brings sorrow. When life is exhausted, wealth and treasure remain in the world and do not follow one. One merely sits with sorrow and suffering for nothing. The third wife represents parents, wife and children, brothers, the five relations, acquaintances, servants, and maids. In life, through affection and love they miss each other, but when life is exhausted, they cry and weep and escort the dead to the cemetery outside the city walls, then abandon the dead person and each return home. Their grief and longing last no more than ten days, and then they share food and drink and forget the dead. The fourth wife is a person's mind. In the world, no one loves and guards their own mind. Everyone lets the mind run wild, indulging in craving, anger, and disbelief in the true path. When the body dies, one must fall into evil destinies: perhaps entering hell, perhaps becoming an animal, perhaps becoming a hungry ghost. All this is brought about by indulging the mind.
+The Buddha said: "A bhikṣu who does not follow the four practices cannot attain liberation. What are the four? First, suffering. Second, the arising of desire. Third, the exhaustion of emptiness. Fourth, the elimination of all evils. The essential path has eight practices, and sincerity lies in the Four Noble Truths. The second wife is a person's wealth and property: obtaining it brings joy, not obtaining it brings sorrow. When life is exhausted, wealth and treasure remain in the world and do not follow one. One merely sits with sorrow and suffering for nothing. The third wife represents parents, wife and children, brothers, the five relations, acquaintances, servants, and maids. In life, through affection and love they miss each other, but when life is exhausted, they cry and weep and escort the dead to the cemetery outside the city walls, then abandon the dead person and each return home. Their grief and longing last no more than ten days, and then they share food and drink and forget the dead. The fourth wife is a person's mind. In the world, no one loves and guards their own mind. Everyone lets the mind run wild, indulging in craving, anger, and disbelief in the true path. When the body dies, one must fall into evil destinies: perhaps entering hell, perhaps becoming an animal, perhaps becoming a hungry ghost. All this is brought about by indulging the mind.
 
 "Bhikṣus! To practice the path, one should straighten the mind and set the intention right. One should remove the mind of foolish delusion and have no foolish or deluded conduct. Cease and do not practice evil. Not practicing evil, one does not receive calamity. Not receiving calamity, one is not born. Not being born, one does not grow old. Not growing old, one does not fall ill. Not falling ill, one does not die. Not dying, one attains the unconditioned path of nirvāṇa."
 
@@ -455,7 +455,7 @@ The Buddha asked the bhikṣus: "What are the seven stations? One should well kn
 
 "What is the cessation of form as one sincerely knows it? The cessation of craving is the cessation of form; thus one sincerely knows the cessation of form.
 
-"What is the path leading to the cessation of form as one sincerely knows it? Regarding this form, it is the eightfold path: right view through to right concentration, these eight. Thus one sincerely knows the path leading to the cessation of form.
+"What is the path leading to the cessation of form as one sincerely knows it? Regarding this form, it is the Eightfold Path: right view through to right concentration, these eight. Thus one sincerely knows the path leading to the cessation of form.
 
 "What is the gratification of form as one sincerely knows it? The desire and joy that arise dependent on form: this is the gratification of form, sincerely known.
 
@@ -469,7 +469,7 @@ The Buddha asked the bhikṣus: "What are the seven stations? One should well kn
 
 "What is the cessation of feeling? The cessation of contact is the cessation of feeling; thus one knows the cessation of feeling.
 
-"What is the path regarding feeling? One practices the eightfold path: right view through to right concentration, these eight. Thus the path leading to the cessation of feeling is the path.
+"What is the path regarding feeling? One practices the Eightfold Path: right view through to right concentration, these eight. Thus the path leading to the cessation of feeling is the path.
 
 "What is the gratification of feeling? The pleasure and joy that are sought and obtained through feeling: this is knowing the gratification of feeling.
 
@@ -483,7 +483,7 @@ The Buddha asked the bhikṣus: "What are the seven stations? One should well kn
 
 "What is the cessation of perception? The cessation of contact is the cessation of perception; thus one knows the cessation of perception.
 
-"What is the path leading to the cessation of perception? It is the eightfold path: right view through to right concentration, these eight. Thus one knows the path leading to the cessation of perception.
+"What is the path leading to the cessation of perception? It is the Eightfold Path: right view through to right concentration, these eight. Thus one knows the path leading to the cessation of perception.
 
 "What is the gratification of perception? The pleasure and joy of mind that arise dependent on perception: this is knowing the gratification of perception.
 
@@ -497,7 +497,7 @@ The Buddha asked the bhikṣus: "What are the seven stations? One should well kn
 
 "What is the cessation of formations? The cessation of contact is the cessation of formations.
 
-"What is the path leading to the cessation of desire for formations? It is the eightfold path: right view through to right concentration, these eight. Thus one knows the path leading to the cessation of formations.
+"What is the path leading to the cessation of desire for formations? It is the Eightfold Path: right view through to right concentration, these eight. Thus one knows the path leading to the cessation of formations.
 
 "What is the gratification of formations? The pleasure and joy of mind that arise dependent on formations: this is knowing the gratification of formations.
 
@@ -511,7 +511,7 @@ The Buddha asked the bhikṣus: "What are the seven stations? One should well kn
 
 "What is the cessation of consciousness? The cessation of name-and-form is the cessation of consciousness; thus one knows the cessation.
 
-"What is the path leading to the cessation of consciousness? The eightfold path: right view through to right concentration, these eight. Thus one sincerely knows the path leading to the cessation of consciousness.
+"What is the path leading to the cessation of consciousness? The Eightfold Path: right view through to right concentration, these eight. Thus one sincerely knows the path leading to the cessation of consciousness.
 
 "What is the gratification of consciousness? The pleasure and joy of mind that arise dependent on consciousness: this is knowing the gratification of consciousness.
 

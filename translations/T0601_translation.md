@@ -129,7 +129,7 @@ At that time, the World-Honored One, seeing all these great hosts gathered, addr
 
 "If adorned by the seven factors of awakening, one attains the awakening to all dharmas in accordance with reality.
 
-"If adorned by the noble eightfold path, one is able to realize right wisdom.
+"If adorned by the noble Eightfold Path, one is able to realize right wisdom.
 
 "If adorned by śamatha, one attains the cutting off of all afflictions.
 

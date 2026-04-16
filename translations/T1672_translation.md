@@ -242,7 +242,7 @@ Composed by Bodhisattva Nāgārjuna (*Lóngshù Púsà*, 龍樹菩薩). Translat
 > Only afterward can you realize quiescence.
 
 > Generosity, precepts, wide learning, and meditation:
-> Through these one gradually approaches the four noble truths.
+> Through these one gradually approaches the Four Noble Truths.
 > The lord of people should cultivate the light of wisdom,
 > Practicing these three dharmas to seek liberation.
 > If one can cultivate this most supreme vehicle,
@@ -480,7 +480,7 @@ Composed by Bodhisattva Nāgārjuna (*Lóngshù Púsà*, 龍樹菩薩). Translat
 > One who rightly contemplates the twelve links
 > Is one who sees the Holy Lion.
 
-> If one wishes to progressively see the four noble truths,
+> If one wishes to progressively see the Four Noble Truths,
 > One should diligently cultivate the eightfold noble path.
 > Though dwelling in honor amid the five pleasures,
 > One can still attain the holy path and sever all fetters.

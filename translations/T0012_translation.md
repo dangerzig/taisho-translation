@@ -111,7 +111,7 @@ Then the venerable Śāriputra, learning of this matter, thought to himself: "Th
 
 "Furthermore, four steadfast abidances are taught by the Buddha: abiding in all practices, abiding in the practice of equanimity, abiding in the practice of tranquility, and abiding in the practice of wisdom.
 
-"Furthermore, the four noble truths are taught by the Buddha: the noble truth of suffering, the noble truth of the origin of suffering, the noble truth of the cessation of suffering, and the noble truth of the path leading to the cessation of suffering.
+"Furthermore, the Four Noble Truths are taught by the Buddha: the noble truth of suffering, the noble truth of the origin of suffering, the noble truth of the cessation of suffering, and the noble truth of the path leading to the cessation of suffering.
 
 "Furthermore, four kinds of purity in giving are taught by the Buddha. There is giving in which the giver is pure but not the recipient. There is giving in which the recipient is pure but not the giver. There is giving in which neither the giver nor the recipient is pure, but that which is given is pure. There is giving in which both the giver and the recipient are pure.
 

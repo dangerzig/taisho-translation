@@ -21,7 +21,7 @@ At that time the Bodhisattva Maitreya said to the Venerable Śāriputra: "The Ta
 
 Śāriputra asked: "What is the Dharma?"
 
-The Bodhisattva replied: "The noble eightfold path is called the Dharma, namely: right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration. Śāriputra! The fruition of this eightfold path is nirvāṇa. Therefore the World-Honored One has briefly called it the Dharma."
+The Bodhisattva replied: "The noble Eightfold Path is called the Dharma, namely: right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration. Śāriputra! The fruition of this Eightfold Path is nirvāṇa. Therefore the World-Honored One has briefly called it the Dharma."
 
 Śāriputra asked: "What is the Buddha?"
 

@@ -8172,13 +8172,13 @@ The Venerable Śāriputra said to the Venerable Mahākoṣṭhila: "Please ask, 
 
 The Venerable Mahākoṣṭhila said to the Venerable Śāriputra: "When a well-learned noble disciple in this Dharma and Vinaya has accomplished what quality, is he called one endowed with right view, one who has accomplished direct view, one who has accomplished unshakable confidence in the Buddha, one who has entered the true Dharma, one who has attained this true Dharma, one who has realized this true Dharma?"
 
-The Venerable Śāriputra said to the Venerable Mahākoṣṭhila: "A well-learned noble disciple truly knows unwholesome dharmas, truly knows unwholesome roots, truly knows wholesome dharmas, and truly knows roots of merit.
+The Venerable Śāriputra said to the Venerable Mahākoṣṭhila: "A well-learned noble disciple truly knows unwholesome dharmas, truly knows unroots of merit, truly knows wholesome dharmas, and truly knows roots of merit.
 
-"How does one truly know unwholesome dharmas? Unwholesome bodily actions, verbal actions, and mental actions are called unwholesome dharmas. Thus one truly knows unwholesome dharmas. How does one truly know unwholesome roots? The three unwholesome roots are the unwholesome root of greed, the unwholesome root of hatred, and the unwholesome root of delusion. These are called the unwholesome roots. Thus one truly knows the unwholesome roots.
+"How does one truly know unwholesome dharmas? Unwholesome bodily actions, verbal actions, and mental actions are called unwholesome dharmas. Thus one truly knows unwholesome dharmas. How does one truly know unroots of merit? The three unroots of merit are the unwholesome root of greed, the unwholesome root of hatred, and the unwholesome root of delusion. These are called the unroots of merit. Thus one truly knows the unroots of merit.
 
 "How does one truly know wholesome dharmas? Wholesome bodily actions, verbal actions, and mental actions are called wholesome dharmas. Thus one truly knows wholesome dharmas. How does one truly know roots of merit? The three roots of merit are non-greed, non-hatred, and non-delusion. These are called the three roots of merit. Thus one truly knows roots of merit.
 
-"Venerable Mahākoṣṭhila, because a well-learned noble disciple thus truly knows unwholesome dharmas, truly knows unwholesome roots, truly knows wholesome dharmas, and truly knows roots of merit, in this Dharma and Vinaya he is endowed with right view, has accomplished direct view, has accomplished unshakable confidence in the Buddha, has entered the true Dharma, has attained this true Dharma, and has realized this true Dharma."
+"Venerable Mahākoṣṭhila, because a well-learned noble disciple thus truly knows unwholesome dharmas, truly knows unroots of merit, truly knows wholesome dharmas, and truly knows roots of merit, in this Dharma and Vinaya he is endowed with right view, has accomplished direct view, has accomplished unshakable confidence in the Buddha, has entered the true Dharma, has attained this true Dharma, and has realized this true Dharma."
 
 The Venerable Mahākoṣṭhila said to the Venerable Śāriputra: "Is this the only way, or are there others?"
 
@@ -14803,11 +14803,11 @@ Thus have I heard:
 
 At one time, the Buddha was dwelling at Śrāvastī, in Jeta's Grove, Anāthapiṇḍada's Park.
 
-At that time, the World-Honored One addressed the bhikṣus: "There is the unwholesome aggregate and the wholesome aggregate. What is the unwholesome aggregate? It is the three unwholesome roots; this is the correct statement. Why is this? Because the purely unwholesome accumulation is the three unwholesome roots. What are the three? The unwholesome root of greed, the unwholesome root of hatred, and the unwholesome root of delusion. What is the wholesome aggregate? It is the four foundations of mindfulness. Why is this? Because the purely wholesome and fully complete is the four foundations of mindfulness; this is the correct statement. What are the four? The foundation of mindfulness of the body, the foundations of mindfulness of feelings, mind, and dharmas."
+At that time, the World-Honored One addressed the bhikṣus: "There is the unwholesome aggregate and the wholesome aggregate. What is the unwholesome aggregate? It is the three unroots of merit; this is the correct statement. Why is this? Because the purely unwholesome accumulation is the three unroots of merit. What are the three? The unwholesome root of greed, the unwholesome root of hatred, and the unwholesome root of delusion. What is the wholesome aggregate? It is the four foundations of mindfulness. Why is this? Because the purely wholesome and fully complete is the four foundations of mindfulness; this is the correct statement. What are the four? The foundation of mindfulness of the body, the foundations of mindfulness of feelings, mind, and dharmas."
 
 When the Buddha had spoken this sūtra, the bhikṣus, having heard what the Buddha said, joyfully practiced in accordance.
 
-As with the three unwholesome roots, so too with the three kinds of misconduct: bodily misconduct, verbal misconduct, and mental misconduct; the three perceptions: the perception of sensual desire, the perception of ill-will, and the perception of harmfulness; the three kinds of thought: the thought of sensual desire, the thought of ill-will, and the thought of harmfulness; the three elements: the element of sensual desire, the element of ill-will, and the element of harmfulness.
+As with the three unroots of merit, so too with the three kinds of misconduct: bodily misconduct, verbal misconduct, and mental misconduct; the three perceptions: the perception of sensual desire, the perception of ill-will, and the perception of harmfulness; the three kinds of thought: the thought of sensual desire, the thought of ill-will, and the thought of harmfulness; the three elements: the element of sensual desire, the element of ill-will, and the element of harmfulness.
 
 When the Buddha had spoken this sūtra, the bhikṣus, having heard what the Buddha said, joyfully practiced in accordance.
 

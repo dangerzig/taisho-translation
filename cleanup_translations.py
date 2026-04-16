@@ -63,6 +63,19 @@ SPELLING_FIXES = [
     ('Pure Regulations', 'Pure Rules'),
     # buddha-nature -> Buddha-nature (capitalize B)
     ('buddha-nature', 'Buddha-nature'),
+    # BDK conventions
+    ('Three Jewels', 'Three Treasures'),
+    ('three jewels', 'Three Treasures'),
+    ('Blessed One', 'World-Honored One'),
+    ('Blessed Ones', 'World-Honored Ones'),
+    ('expedient means', 'skillful means'),
+    ('Expedient Means', 'Skillful Means'),
+    ('Expedient means', 'Skillful means'),
+    ('wholesome roots', 'roots of merit'),
+    ('Wholesome roots', 'Roots of merit'),
+    ('five skandhas', 'five aggregates'),
+    ('Thus-Come One', 'Tathāgata'),
+    ('Thus Come One', 'Tathāgata'),
 ]
 
 # Capitalization fixes for running text (NOT headings)

@@ -19,7 +19,7 @@ Evil has parents: delusion is the father of evil, and craving is the mother of e
 
 When a person falls into hell and the demon is about to strike with a club, if that person thinks: "This demon too will eventually perish and cannot last," then by thinking in this way, one is immediately liberated and reborn in heaven.
 
-There are six things that cause decline: first, not serving the Buddha; second, not serving the Dharma; third, not serving the saṅgha of precept-keeping monks; fourth, not serving wise people; fifth, not encouraging others to practice the Way diligently; sixth, disputing with the virtuous. Reversing these six things leads to increase.
+There are six things that cause decline: first, not serving the Buddha; second, not serving the Dharma; third, not serving the sangha of precept-keeping monks; fourth, not serving wise people; fifth, not encouraging others to practice the Way diligently; sixth, disputing with the virtuous. Reversing these six things leads to increase.
 
 One should not commit offenses in the midst of merit; rather, one should create merit in the midst of hardship. When a person at a place of study does not practice the Way or recite sūtras, this is committing offenses in the midst of merit. When a person encounters illness, officials, fire, flood, or loss of wealth without becoming distressed, this is creating merit in the midst of hardship. One should not commit offenses in the midst of merit: burning incense, scattering flowers, and riding in carriages, yet finding fault with this and grasping at that, this is committing offenses in the midst of merit.
 

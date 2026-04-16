@@ -17,7 +17,7 @@ At one time the Bhagavān was dwelling in the Jetavana, Anāthapiṇḍada's gar
 
 The King said: "How can this person, suffering such measureless misery, still crave those few drops of sweetness?"
 
-At that time the World-Honored One said: "Great King! The vast wilderness symbolizes the long night of ignorance — vast and far-reaching. The man symbolizes an ordinary being. The elephant symbolizes impermanence. The well symbolizes saṃsāra. The tree roots on the steep bank symbolize life. The two mice, black and white, symbolize day and night. Their gnawing at the roots symbolizes the cessation occurring moment by moment. The four venomous serpents symbolize the four great elements. The honey symbolizes the five desires. The bees symbolize wrong thoughts. The fire symbolizes old age and illness. The venomous dragon symbolizes death.
+At that time the World-Honored One said: "Great King! The vast wilderness symbolizes the long night of ignorance; vast and far-reaching. The man symbolizes an ordinary being. The elephant symbolizes impermanence. The well symbolizes saṃsāra. The tree roots on the steep bank symbolize life. The two mice, black and white, symbolize day and night. Their gnawing at the roots symbolizes the cessation occurring moment by moment. The four venomous serpents symbolize the four great elements. The honey symbolizes the five desires. The bees symbolize wrong thoughts. The fire symbolizes old age and illness. The venomous dragon symbolizes death.
 
 "Therefore, Great King, know that birth, old age, illness, and death are truly fearsome. One should constantly reflect upon them and not be consumed and oppressed by the five desires."
 
@@ -33,9 +33,9 @@ At that time the World-Honored One spoke verses in summary:
 > Fire corresponds to old age and illness; the venomous dragon stands for the suffering of death.
 >
 > The wise one who contemplates these things may arouse revulsion at the stream of rebirth;
-> With mind unattached to the five desires — such a one is rightly called a person of liberation.
+> With mind unattached to the five desires; such a one is rightly called a person of liberation.
 >
-> Ever dwelling in the sea of ignorance, always driven by the King of Death —
+> Ever dwelling in the sea of ignorance, always driven by the King of Death ...
 > How is it they still cling to sounds and forms, and take no delight in departing from the ordinary state?
 
 At that time King Prasenajit, having heard the Buddha set forth the faults and dangers of saṃsāra, experienced what he had never experienced before. A profound sense of revulsion arose within him. With palms joined in reverence, he gazed upon the Buddha with single-minded devotion and said to him: "World-Honored One! The great compassion of the Tathāgata has spoken this wondrous and subtle teaching. I now receive it upon the crown of my head."

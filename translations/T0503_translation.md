@@ -13,16 +13,16 @@ Now a deity dwelling in that forest thought: "This is wrong, unwholesome, and im
 
 The deity transformed into the form of a householder's wife and spoke to the bhikṣu: "Throughout the lanes and four-way crossroads, people of the world have spread evil rumors about me and you, saying that we have been intimate with one another and have done improper things. Since this evil reputation already exists, you may as well return to lay life so that we may enjoy ourselves together."
 
-The bhikṣu replied: "Because throughout the lanes and four-way crossroads they have spread evil rumors about me and you—that we have been intimate and have done improper things—I will now kill myself."
+The bhikṣu replied: "Because throughout the lanes and four-way crossroads they have spread evil rumors about me and you, that we have been intimate and have done improper things, I will now kill myself."
 
 Then the deity resumed its divine form and spoke these verses:
 
 > Though one hears many evil slanders, the ascetic endures them;
 > One should not painfully harm oneself, nor should one give rise to distress.
-> One who is terrified by what is spoken is like a beast of the forest—
+> One who is terrified by what is spoken is like a beast of the forest...
 > Such a fickle, restless being cannot fulfill the way of the renunciant.
 > The worthy one should endure inferior, middling, and superior forms of ill repute;
-> One who holds the mind firm and steadfast—this is the way of the renunciant.
+> One who holds the mind firm and steadfast; this is the way of the renunciant.
 > It is not by another's words that you become a robber,
 > Nor is it by another's words that you attain arhatship;
 > As you yourself know, so too the devas know.

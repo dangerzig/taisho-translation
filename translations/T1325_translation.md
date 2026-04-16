@@ -23,7 +23,7 @@ Then he spoke the dhāraṇī:
 
 [Dhāraṇī] *tadyathā arante arāme śrīvī śrī śrī māgaśiti sambhavatu svāhā*
 
-"Ānanda! To the north of here there stands the great King of Snow Mountains. Within it there grows a great śāla tree called 'Durjaya' — the Unvanquishable. This tree bears three kinds of flowers: the first newly bloomed, the second fully opened, the third dried and withered. Just as those flowers dry out and fall away, so too shall all these hemorrhoid diseases be the same — let blood no longer flow out, let pus no longer run; all pain and suffering shall be permanently removed, and everything shall dry up completely. Furthermore, whoever constantly recites this sūtra shall attain the knowledge of previous abodes and be able to recall events from seven past lives. When the dhāraṇī practice is accomplished — *svāhā*."
+"Ānanda! To the north of here there stands the great King of Snow Mountains. Within it there grows a great śāla tree called 'Durjaya'; the Unvanquishable. This tree bears three kinds of flowers: the first newly bloomed, the second fully opened, the third dried and withered. Just as those flowers dry out and fall away, so too shall all these hemorrhoid diseases be the same; let blood no longer flow out, let pus no longer run; all pain and suffering shall be permanently removed, and everything shall dry up completely. Furthermore, whoever constantly recites this sūtra shall attain the knowledge of previous abodes and be able to recall events from seven past lives. When the dhāraṇī practice is accomplished; *svāhā*."
 
 Then he spoke another dhāraṇī:
 

@@ -136,6 +136,6 @@ Kāśyapa held out his bowl and received it. He spoke the blessing: "May the fra
 
 The Buddha told Ānanda: "This destitute old woman: no one in the entire world can match her. Though her gift was small, the merit it repays is vast, because in her suffering she gave with an utterly sincere heart, and so she attained immeasurable merit, and the reward that corresponds to it. Śakra, in the self-indulgence of heaven above, gave up his noble station and came down to plant merit; the reward he will obtain is beyond measure. For this reason the Tathāgata declares that generosity is foremost. The people of Jambudvīpa are foolish and pitiable. Those like this old woman are very few. You should broadly proclaim the Tathāgata's true words."
 
-When the Buddha had spoken thus, the devas, nāgas, spirits, the fourfold assembly of disciples, and the bhikṣu saṅgha all established great merit and offered their praise, wishing that all beings, according to their aspirations, might all obtain the fruit of their reward.
+When the Buddha had spoken thus, the devas, nāgas, spirits, the fourfold assembly of disciples, and the bhikṣu sangha all established great merit and offered their praise, wishing that all beings, according to their aspirations, might all obtain the fruit of their reward.
 
 When the Buddha had finished speaking the sūtra, all those in the assembly were filled with joy, and they touched their foreheads to the ground in obeisance.

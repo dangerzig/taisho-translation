@@ -124,7 +124,7 @@ Translated from the Chinese. Song dynasty, translated by Devaśānti (天息災)
 > You all should deeply rejoice.
 > The one hundred and eight names are:
 
-[Dhāraṇī]
+*Oṃ śrī-kāryāṇi mahā-teja-loka-dhātrī mahā-yaśa-sāra-sarasvatī visāla-kṣipra-jñā. Śrī-buddhi-vṛddha-nirdhi-ṛtī-na puṣṭi-na svāhā. Oṃ kara-kamalā-rūpa-maṇi sarva-sattva-hitā-hunī yukta-saṃgraha-mudrā-ṇī jaya-prajñā pāramitā-devī-ye. Āryā-tārā manura-mānaṃ-nubhi-śaṅkhinī pūrṇa-vinīya-rāṅgī parivāṃ-vana-candrā-nāna. Mahā-gaurī ajita-bhitā-vasa-smahā-māyā mahā-śvetā mahā-bala-parākramā mahā-rudrā mahā-caṇḍa-duṣṭa-sattva-nisūdanī. Prasānta-śānta-rūpa-cavijayā jvālana-prabhā-vinī yura-mālī-dhvaja śaṅkha-ghaṇṭī-yadākṛta-nūra-dhara-śambhanī sādhambhanī. Kālikala-rātrī niśā-cārī rakṣā-himohānī śānti-kānta-rīndrā viṇī-śubhra-brahma-māṇī veda-mata-caughi-laghi-hāvā-sinī māṅgalya-śaṅkarī-saumyā jāta-veda-manu-java-kāpālinī mahā-devī-sandhyā. Satya-parārthatā sārthavāha-kṛpā viṣṭā-naṣṭa-mārga-pradarśanī vara-da-śāsanī śāsitrī-sitrī-rūpa-mṛtā vikramā-śvārī yugī-nī siddha-caṇḍālī amita-dhurva-thānīya puṇyā. Mahā-bhāga-subhāga. Priya-darśana-kṛtā tāra-sanī bhagma ugra ugra mahā-tāpa-jāga-deka-hitā-dhī-yukta-sarāṇya-bhaktī. Vatsa-lārvā gaiśvarī-śiva-sukṣma-nityā. Sarva-trā jānuja sarva-rātha-sādhanī badra-ughī sitrī-dhātrī dhānanda āśaya-gaurā taṃ-bhī puṇyā śrī-dhā-lokeśvara-mā-jūtī.*
 
 > "Having spoken these one hundred and eight
 > Quiescent and secret names

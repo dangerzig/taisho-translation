@@ -11,7 +11,7 @@ Guoqing Monastery on Mount Tiantai
 
 *Catalogue of the Dharma-Seeking Journey to Tang China by the Monk Enchin of Enryakuji on Mount Hiei, the Capital Mountain of Japan*
 
-Having arrived in the city of Chang'an, I obtained the teachings and Dharma of the Vairocana school, as well as images and implements. From Guoqing Monastery, Chanlin Monastery, and other monasteries I received the doctrinal texts spoken by the Great Master Zhiyi, along with stele inscriptions, and additionally obtained commentaries and treatises of various other schools from prefectures throughout the realm. The total amounts to 341 texts in 772 fascicles, together with Sanskrit palm-leaf manuscripts, ritual objects, and so forth — seventeen items in all, counted from first to last. I respectfully record the titles and names as follows.
+Having arrived in the city of Chang'an, I obtained the teachings and Dharma of the Vairocana school, as well as images and implements. From Guoqing Monastery, Chanlin Monastery, and other monasteries I received the doctrinal texts spoken by the Great Master Zhiyi, along with stele inscriptions, and additionally obtained commentaries and treatises of various other schools from prefectures throughout the realm. The total amounts to 341 texts in 772 fascicles, together with Sanskrit palm-leaf manuscripts, ritual objects, and so forth; seventeen items in all, counted from first to last. I respectfully record the titles and names as follows.
 
 ---
 
@@ -55,7 +55,7 @@ The four items at right were all sent from Guangzhou by the monk Tianyuanjue of 
 
 ---
 
-The traces of teachings of the two sections of our original school recorded above, together with commentaries and treatises of various other schools, stele inscriptions, Sanskrit palm-leaf manuscripts, ritual objects, catalogues, and so forth — all have been sought and obtained as opportunity permitted. The items are detailed in full as above. Respectfully recorded.
+The traces of teachings of the two sections of our original school recorded above, together with commentaries and treatises of various other schools, stele inscriptions, Sanskrit palm-leaf manuscripts, ritual objects, catalogues, and so forth; all have been sought and obtained as opportunity permitted. The items are detailed in full as above. Respectfully recorded.
 
 Great Tang, Dazhong, eleventh year, tenth month [October 857 CE]
 

@@ -1,11 +1,11 @@
-# Sutra of Requesting Avalokitesvara Bodhisattva's Dharani for Subduing Poisons (請觀世音菩薩消伏毒害陀羅尼呪經)
+# Sūtra of Requesting Avalokitesvara Bodhisattva's Dhāraṇī for Subduing Poisons (請觀世音菩薩消伏毒害陀羅尼呪經)
 
 ## Taisho T1043
 
 **Translator:** Nandi (難提), Eastern Jin dynasty
 **Fascicles:** 1
 
-*Note: This sutra is set in Vaisali during a deadly plague caused by five yaksa demons. The Buddha directs the assembly to invoke Amitayus and Avalokitesvara from the Western Pure Land. Avalokitesvara teaches three dharani spells plus a "six-character chapter" (六字章句 liùzì zhāngjù) for subduing poisons and evil. The text also includes a detailed account of the monk Upasena achieving arhatship through breath-counting meditation (anapana-smrti), with precise instructions on following the breath through the body's internal channels.*
+*Note: This sūtra is set in Vaisali during a deadly plague caused by five yaksa demons. The Buddha directs the assembly to invoke Amitayus and Avalokitesvara from the Western Pure Land. Avalokitesvara teaches three dhāraṇī spells plus a "six-character chapter" (六字章句 liùzì zhāngjù) for subduing poisons and evil. The text also includes a detailed account of the monk Upasena achieving arhatship through breath-counting meditation (anapana-smrti), with precise instructions on following the breath through the body's internal channels.*
 
 ---
 
@@ -23,7 +23,7 @@ The World-Honored One then told the elders: "Not far from here, directly in the 
 
 As these words were spoken, within the Buddha's radiance they could see the western buddha Amitayus and the two bodhisattvas. Through the Tathagata's spiritual power, the buddha and bodhisattvas both arrived in this land, going to Vaisali and standing at the city gate threshold. The Buddha and the two bodhisattvas, together with the great assembly, emitted a great radiance that illuminated all of Vaisali in golden light.
 
-The people of Vaisali then prepared willow branches and pure water and offered them to Avalokitesvara Bodhisattva. The greatly compassionate Avalokitesvara, out of pity and compassion to rescue and protect all sentient beings, spoke a dharani spell, universally instructing all beings with these words:
+The people of Vaisali then prepared willow branches and pure water and offered them to Avalokitesvara Bodhisattva. The greatly compassionate Avalokitesvara, out of pity and compassion to rescue and protect all sentient beings, spoke a dhāraṇī spell, universally instructing all beings with these words:
 
 "You should now single-mindedly recite: Homage to the Buddha! Homage to the Dharma! Homage to the Sangha! Homage to Avalokitesvara Bodhisattva-Mahasattva, the greatly compassionate one of great renown who rescues and protects those in suffering and calamity! Thus, three times take refuge in the Three Jewels and three times recite the name of Avalokitesvara Bodhisattva, burn various fine incenses, prostrate with your five limbs touching the ground facing the west, single-mindedly and wholeheartedly settle your breathing, and to be freed from suffering and calamity, invoke Avalokitesvara. Press your ten fingers together in prayer and speak these verses:
 
@@ -34,31 +34,31 @@ The people of Vaisali then prepared willow branches and pure water and offered t
 > We now bow our heads in reverence to you whose name rescues those in calamity.
 > We now take refuge in you, O compassionate father of the world.
 > We pray you will surely come, free us from the suffering of the three poisons,
-> Bestow upon us the joy of this present life, as well as great nirvana."
+> Bestow upon us the joy of this present life, as well as great nirvāṇa."
 
-He then addressed the Buddha: "World-Honored One! This divine spell is assuredly auspicious. It is the great compassion dharani-seal of all buddhas of the ten directions in the past, present, and future. Those who hear this spell will have all their sufferings permanently ended; they will always attain peace and joy, be far from the eight difficulties, attain the samadhi of buddha-recollection, and see the Buddha face to face. I shall now speak the divine spell of the ten-direction buddhas for rescuing and protecting sentient beings:
+He then addressed the Buddha: "World-Honored One! This divine spell is assuredly auspicious. It is the great compassion dhāraṇī-seal of all buddhas of the ten directions in the past, present, and future. Those who hear this spell will have all their sufferings permanently ended; they will always attain peace and joy, be far from the eight difficulties, attain the samādhi of buddha-recollection, and see the Buddha face to face. I shall now speak the divine spell of the ten-direction buddhas for rescuing and protecting sentient beings:
 
-[Dharani]
+[Dhāraṇī]
 
 "*Tadyatha uhuni muhuni yambani dambani andali pandali subheti panda-carara vasini tada-cilata irimi-mirimi-tirimi-surimi kapari khadi dankiri candari madanki raksaraksasa sarvasattva sarvabhaya visaham tadyatha gati gati nigati surubi surubi raksaraksasa sarvabhaya visaham*"
 
 He addressed the Buddha: "World-Honored One! This divine spell was proclaimed by the countless buddhas of the three times in the ten directions. Those who recite and uphold this spell will constantly be protected by all buddhas and all great bodhisattvas, freed from fear, from swords and staffs, from poison, as well as from illness, attaining freedom from affliction." When these words were spoken, the people of Vaisali recovered and returned to their original health.
 
-At that time the World-Honored One, out of compassion for all beings to protect them, again requested Avalokitesvara Bodhisattva to speak the Dharani for Subduing Poisons and Harms. Avalokitesvara Bodhisattva, his heart suffused with great compassion, supported by the Buddha's spiritual power, spoke the Dharani for Breaking Evil Karmic Obstacles and Subduing Poisons:
+At that time the World-Honored One, out of compassion for all beings to protect them, again requested Avalokitesvara Bodhisattva to speak the Dhāraṇī for Subduing Poisons and Harms. Avalokitesvara Bodhisattva, his heart suffused with great compassion, supported by the Buddha's spiritual power, spoke the Dhāraṇī for Breaking Evil Karmic Obstacles and Subduing Poisons:
 
 "Homage to the Buddha! Homage to the Dharma! Homage to the Sangha! Homage to Avalokitesvara, Bodhisattva-Mahasattva, O greatly compassionate one of great renown! We pray you have pity on us, rescue and protect us from suffering and distress, and also rescue all beings from fear, granting them great protection.
 
-[Dharani]
+[Dhāraṇī]
 
-"*Tadyatha dahuni muhuni yambani dambani abhaksi muhuni andari pandari subheti pandaravasini siusiu lulu andari dudu lulu pandari cucu lulu nipandari dudu fufu pandaravasini sinidi rinidi niridisa sarvabhaya-krita sarva-nirvana-badha-gata abhaya piridha bidente svaha*"
+"*Tadyatha dahuni muhuni yambani dambani abhaksi muhuni andari pandari subheti pandaravasini siusiu lulu andari dudu lulu pandari cucu lulu nipandari dudu fufu pandaravasini sinidi rinidi niridisa sarvabhaya-krita sarva-nirvāṇa-badha-gata abhaya piridha bidente svaha*"
 
 "All fears, all poisons, all evil ghosts, tigers, wolves, and lions: when they hear this spell, their mouths are immediately sealed shut and they cannot cause harm. Those who have broken pure conduct and committed the ten evil actions, upon hearing this spell, have their defilements cleansed away and recover their purity. Even those with karmic obstacles, turbid evil and unwholesomeness, who recite the name of Avalokitesvara Bodhisattva and uphold this spell, immediately break through their karmic obstacles and see the Buddha face to face."
 
-The Buddha told Ananda: "If any of the four assemblies of disciples uphold the name of Avalokitesvara Bodhisattva and recite the Dharani for Subduing Poisons, those who practice this spell will always be free from bodily illness and their minds will also be free from disease. Even if a great fire comes from all four directions to burn one's body, by reciting this spell the dragon king will send rain and one will immediately be freed. If fire burns one's body and one suffers pain in every joint, single-mindedly reciting the name of Avalokitesvara Bodhisattva and chanting this spell three times will immediately bring relief. Whether it be famine and high grain prices, trouble from rulers, fierce beasts, bandits, being lost on the road, imprisonment in fetters and chains and five kinds of bondage, entering the great ocean and encountering black winds, whirlpools, mountains of turbulent water, troubles from yaksas and raksasas, poison, swords, and imminent execution, or past karmic conditions and presently committed evils: from all such causes of suffering and extreme terror, one should single-mindedly recite the name of Avalokitesvara Bodhisattva and chant this spell from one to seven times. It will subdue all poisons and harms. Evil karma, evil conduct, and unwholesome accumulations will be consumed like fire burning firewood, leaving nothing remaining.
+The Buddha told Ananda: "If any of the four assemblies of disciples uphold the name of Avalokitesvara Bodhisattva and recite the Dhāraṇī for Subduing Poisons, those who practice this spell will always be free from bodily illness and their minds will also be free from disease. Even if a great fire comes from all four directions to burn one's body, by reciting this spell the dragon king will send rain and one will immediately be freed. If fire burns one's body and one suffers pain in every joint, single-mindedly reciting the name of Avalokitesvara Bodhisattva and chanting this spell three times will immediately bring relief. Whether it be famine and high grain prices, trouble from rulers, fierce beasts, bandits, being lost on the road, imprisonment in fetters and chains and five kinds of bondage, entering the great ocean and encountering black winds, whirlpools, mountains of turbulent water, troubles from yaksas and raksasas, poison, swords, and imminent execution, or past karmic conditions and presently committed evils: from all such causes of suffering and extreme terror, one should single-mindedly recite the name of Avalokitesvara Bodhisattva and chant this spell from one to seven times. It will subdue all poisons and harms. Evil karma, evil conduct, and unwholesome accumulations will be consumed like fire burning firewood, leaving nothing remaining.
 
 "For these reasons, this divine spell spoken by Avalokitesvara Bodhisattva is named 'Bestowing Sweet-Dew Wondrous Medicine upon All Sentient Beings.' It grants freedom from the fear of illness, freedom from the fear of untimely death, freedom from the fear of imprisonment, and freedom from the fears of the three poisons of greed, anger, and delusion. Therefore, throughout this Saha world, Avalokitesvara Bodhisattva is called 'the Bestower of Fearlessness.'
 
-"This dharani, an unsurpassed abhiseka chapter of pure conduct, is an ocean of great merit assuredly auspicious. Sentient beings who hear it will attain great peace and joy. It should be recited from memory. Those who wish to recite it should observe a fast, abstain from alcohol and meat, smear their bodies with ash and bathe in pure water, not eat leeks, onions, garlic, chives, or any other pungent herbs, avoid all impure places involving women, constantly recollect the buddhas of the ten directions and the seven world-honored buddhas, and single-mindedly recite the name of Avalokitesvara Bodhisattva while upholding this spell. In their present body they will see Avalokitesvara Bodhisattva, all their good vows will be fulfilled, and in their next life they will be born before the Buddha, forever parting from suffering."
+"This dhāraṇī, an unsurpassed abhiseka chapter of pure conduct, is an ocean of great merit assuredly auspicious. Sentient beings who hear it will attain great peace and joy. It should be recited from memory. Those who wish to recite it should observe a fast, abstain from alcohol and meat, smear their bodies with ash and bathe in pure water, not eat leeks, onions, garlic, chives, or any other pungent herbs, avoid all impure places involving women, constantly recollect the buddhas of the ten directions and the seven world-honored buddhas, and single-mindedly recite the name of Avalokitesvara Bodhisattva while upholding this spell. In their present body they will see Avalokitesvara Bodhisattva, all their good vows will be fulfilled, and in their next life they will be born before the Buddha, forever parting from suffering."
 
 The Buddha told Ananda: "In the great city of Rajagrha (王舍 *Wángshè*) there was a woman who was possessed by an evil ghost named Candali (旃陀利 *Zhāntuólì*). Day and night this ghost took the form of a man and molested the woman. The ghost's essence entered her body and she gave birth to five hundred ghost-children. Do you remember this? At that time I taught this woman to recite the name of Avalokitesvara Bodhisattva, to maintain wholesome thoughts continuously and enter a wholesome mental state. Ananda, you should know that through this bodhisattva's awesome spiritual power, the evil ghost was subdued, and she was able to see my form of incomparable beauty. At that time, from each of my pores there appeared a jeweled lotus, and countless transformation buddhas, with different mouths but the same voice, praised the greatly compassionate Bestower of Fearlessness, and enabled the woman to uphold, recite, and thoroughly master this spell. The merit of this spell permanently exhausts the three obstacles, liberates one from the prison-fire of the three realms so that one does not undergo suffering, and causes the 404 diseases to never arise again.
 
@@ -66,7 +66,7 @@ The Buddha told Ananda: "In the great city of Rajagrha (王舍 *Wángshè*) ther
 
 The spell says:
 
-[Dharani]
+[Dhāraṇī]
 
 "*Tadyatha andali pandali kiyu-li dandali sandali tiya-badaya sa-badaphara-ni kinandali bhagali aru-ni bhaku-li muku-li dubi-li saham*"
 
@@ -78,7 +78,7 @@ When the World-Honored One had finished speaking this divine spell, he told Anan
 
 "Ananda, you should know that those who uphold the name of Avalokitesvara Bodhisattva and this spell will obtain great benefit, subduing poisons and harms. In this life and the next, all inauspicious matters will be permanently eliminated. Morality, diligence, mindfulness, concentration, and comprehensive retention will all be fully achieved.
 
-"Ananda, you should know that those who hear the six-character chapter, the unsurpassed divine spell of the Medicine King who rescues from suffering, and who recite the great compassionate name of Avalokitesvara Bodhisattva, will have their karmic defilements eliminated. In their present body they will see eighty billion buddhas, all of whom will extend their hands to them and teach the merit, spiritual power, and six-character chapter of the greatly compassionate Bestower of Fearlessness. Through seeing the Buddha, they will immediately attain the unforgetting *dharani* of spinning retention."
+"Ananda, you should know that those who hear the six-character chapter, the unsurpassed divine spell of the Medicine King who rescues from suffering, and who recite the great compassionate name of Avalokitesvara Bodhisattva, will have their karmic defilements eliminated. In their present body they will see eighty billion buddhas, all of whom will extend their hands to them and teach the merit, spiritual power, and six-character chapter of the greatly compassionate Bestower of Fearlessness. Through seeing the Buddha, they will immediately attain the unforgetting *dhāraṇī* of spinning retention."
 
 The World-Honored One then spoke in verse:
 
@@ -95,7 +95,7 @@ The World-Honored One then spoke in verse:
 > With a heart of great kindness and great compassion, he roams and plays in the five destinies,
 > Constantly gathering wholesome wisdom, universally teaching all beings.
 > With unsurpassed, supreme skillful means, he causes them to leave the suffering of birth and death,
-> Always to abide in peace and joy, and reach the shore of great nirvana.
+> Always to abide in peace and joy, and reach the shore of great nirvāṇa.
 
 When the World-Honored One had spoken these words, he told Ananda: "This six-character chapter is assuredly auspicious, true, and not false. Those who hear it will obtain great benefit and immeasurable merit."
 
@@ -107,7 +107,7 @@ The Buddha told the monks: "This great and vigorously courageous Precious Banner
 
 The Buddha told the monks: "Listen well, all of you. If you wish to partake of the sweet-dew, unsurpassed Dharma-flavor, you monks who have already gone forth should restrain your bodies without compromising your dignified bearing. Sit upright in correct reception without outward-directed thoughts. Contemplate suffering, emptiness, impermanence, decay, and imminent destruction. Cultivate the five-gate meditation. You should observe your own bodies from head to feet, in every joint, maintaining focused attention without scattering, carefully observing every joint like a plantain tree, empty inside and out. You should know that form, sensation, perception, formations, and consciousness are likewise."
 
-When the Buddha spoke these words, the Venerable Sariputra was in the Cold Forest sitting beneath a tree. Having understood the Buddha's meaning, he sat upright in correct reception, entered samadhi, and his body became the color of true gold, causing countless people who saw him to rejoice and arouse the aspiration for enlightenment.
+When the Buddha spoke these words, the Venerable Sariputra was in the Cold Forest sitting beneath a tree. Having understood the Buddha's meaning, he sat upright in correct reception, entered samādhi, and his body became the color of true gold, causing countless people who saw him to rejoice and arouse the aspiration for enlightenment.
 
 Then Upasena rose from his seat, went to the Venerable Sariputra, touched his head to the ground, grasped his feet in reverence, and said: "Venerable one! Just now the Tathagata praised breath-counting, and through this cause one obtains great benefit. How does one count the breath? We pray the Venerable one will explain this for us. The eye and eye-consciousness correspond with form: how does one bring them under control? The ear and ear-consciousness correspond with sound: how does one bring them under control? The nose and nose-consciousness correspond with scent: how does one bring them under control? The tongue and tongue-consciousness correspond with taste: how does one bring them under control? The mind and mind-consciousness correspond with mental objects: how does one bring them under control? Inverted thoughts correspond with inverted perceptions: how does one bring them under control? Form, sound, scent, taste, and touch correspond with subtle tactile sensations: how does one bring them under control? This thief of consciousness, like a monkey running about, plays among the six sense-faculties and ranges over all phenomena: how does one bring it under control?"
 
@@ -115,35 +115,35 @@ Sariputra told Upasena: "You should now contemplate the earth element: earth has
 
 When Upasena heard these words, his body became like water and fire. He attained the concentration of the four great elements, penetrated to the emptiness and nonexistence of the five aggregates, slew the bandits of the fetters, and his mind opened in sudden comprehension. He attained arhatship. Fire emerged from within his body, and he destroyed his own body and entered parinirvana.
 
-Sariputra then collected his relics, erected a stupa over them, bowed to the Buddha, and addressed the Buddha: "World-Honored One! The Buddha has taught that meditation concentration is the foremost sweet-dew, unsurpassed Dharma-flavor. Those who partake of it have bodies like lapis lazuli and see the Buddha through every pore. Contemplating ignorance, formations, and so on through old age and death, the nature and characteristics of each and every one are not real, like echoes in an empty valley, like a plantain tree without solidity, like a mirage in hot weather, like shimmering heat-waves, like a city of gandharvas, like a bubble on water, like an illusion, like a magical creation, like dew, like a flash of lightning. Carefully contemplating each of the twelve links of dependent origination, one accomplishes the path of a pratyekabuddha. Or, entering the lapis lazuli samadhi of tranquil concentration, one sees countless buddhas, arouses the unsurpassed aspiration, cultivates the practice of a pure youth, and abides in the stage of non-retrogression."
+Sariputra then collected his relics, erected a stupa over them, bowed to the Buddha, and addressed the Buddha: "World-Honored One! The Buddha has taught that meditation concentration is the foremost sweet-dew, unsurpassed Dharma-flavor. Those who partake of it have bodies like lapis lazuli and see the Buddha through every pore. Contemplating ignorance, formations, and so on through old age and death, the nature and characteristics of each and every one are not real, like echoes in an empty valley, like a plantain tree without solidity, like a mirage in hot weather, like shimmering heat-waves, like a city of gandharvas, like a bubble on water, like an illusion, like a magical creation, like dew, like a flash of lightning. Carefully contemplating each of the twelve links of dependent origination, one accomplishes the path of a pratyekabuddha. Or, entering the lapis lazuli samādhi of tranquil concentration, one sees countless buddhas, arouses the unsurpassed aspiration, cultivates the practice of a pure youth, and abides in the stage of non-retrogression."
 
 The Buddha told Sariputra: "Just as Upasena, having heard me teach this great compassion chapter and breath-counting concentration dharma, destroyed countless eons of blazing evil, became an arhat, perfected morality, concentration, wisdom, liberation, and liberation-knowledge-and-vision, emitted water and fire from his body, destroyed his body and entered extinction, and caused countless people to arouse the great wholesome aspiration, so too, Sariputra, should you know that if good men and good women hear the great compassionate name of Avalokitesvara Bodhisattva, and the six-character chapter for subduing poisons, and the dharma of breath-counting, focused mindfulness, and pure practice, they will eliminate the evil karma created over countless eons, break through evil karmic obstacles, and in their present body see countless buddhas, hear the wondrous Dharma, follow their wishes without obstruction, and arouse the three kinds of pure aspiration for the three kinds of complete, perfect enlightenment. If there are those with karmic connections to past-life offenses or presently committed extremely grave evil deeds, in their dreams they will see Avalokitesvara Bodhisattva, and like a great fierce wind scattering heavy clouds, they will be freed from grave offenses and evil karma and be born before the buddhas."
 
 When the Buddha had spoken these words, he told Sariputra: "I now, for those who uphold the name of Avalokitesvara Bodhisattva and the unsurpassed chapter for subduing poisons, speak verses of praise:
 
 > "I command Dhrtarastra (提頭賴吒 *Títóulàizhā*) and the others
-> To compassionately protect those who uphold this sutra,
+> To compassionately protect those who uphold this sūtra,
 > So that those who hear the name of the Greatly Compassionate One
 > Are guarded as an emperor's ministers protect his Dharma.
 >
 > I command the sea dragon Airavana (伊羅鉢 *Yīluóbō*)
-> To compassionately protect those who uphold this sutra,
+> To compassionately protect those who uphold this sūtra,
 > Guarding them like one's own eyes and cherishing them as one's own children,
 > Not departing from them day or night, throughout the six periods.
 >
 > I command the raksasa children of Yama
 > And the countless poisonous dragons and dragon-maidens
-> To compassionately protect those who uphold this sutra,
+> To compassionately protect those who uphold this sūtra,
 > As one cherishes the crown of one's head, not daring to touch it.
 >
 > I command King Virudhaka (毘留勒迦 *Píliúlèjiā*)
-> To compassionately protect those who uphold this sutra,
+> To compassionately protect those who uphold this sūtra,
 > As a mother loves her child with unwearying heart,
 > Day and night protecting them, whether walking or standing.
 >
 > I command Nanda and Upananda (難陀跋難陀),
 > King Sagara (娑伽羅) and Upadeva,
-> To compassionately protect those who uphold this sutra,
+> To compassionately protect those who uphold this sūtra,
 > Reverently making offerings and bowing at their feet.
 >
 > Like the devas serving Indra (帝釋 *Dìshì*),
@@ -162,13 +162,13 @@ When the Buddha had spoken these words, he told Sariputra: "I now, for those who
 >
 > Hell will be purified like a lotus flower,
 > Hungry ghosts will be shattered, and the eight difficulties will vanish.
-> Afterward, born before the Buddha, entering samadhi,
+> Afterward, born before the Buddha, entering samādhi,
 > They will assuredly attain non-retrogression,
 > Universally granting all beings great peace and joy,
 > Teaching all beings to cultivate the ten stages.
 >
 > From countless buddhas of the past
-> I heard this dharani for subduing poisons.
+> I heard this dhāraṇī for subduing poisons.
 > Eliminating the three obstacles, free from all evil,
 > With the five eyes complete, one accomplishes enlightenment,
 > Becoming forever a parent to the three realms,
@@ -195,7 +195,7 @@ When the Buddha had spoken these words, he told Sariputra: "I now, for those who
 > Beings who hear their names
 > Forever leave the three evil paths,
 > Abiding in the unconditioned place,
-> Constantly enjoying great nirvana.
+> Constantly enjoying great nirvāṇa.
 >
 > All buddhas appearing in the world,
 > For the sake of bringing peace to beings,
@@ -211,22 +211,22 @@ When the Buddha had spoken these words, he told Sariputra: "I now, for those who
 > Purifying the roots of the three poisons:
 > Attaining buddhahood is beyond doubt."
 
-When the World-Honored One had spoken these verses, to protect this sutra for those who uphold the name of Avalokitesvara Bodhisattva, he spoke the Abhiseka Auspicious Dharani:
+When the World-Honored One had spoken these verses, to protect this sūtra for those who uphold the name of Avalokitesvara Bodhisattva, he spoke the Abhiseka Auspicious Dhāraṇī:
 
-[Dharani]
+[Dhāraṇī]
 
 "*Tadyatha udambili dubili dambipara-dambina-tta sunatta kibaltta munaya samaya dantini-raki siba-ra kubi u-li ghaku-li saham*"
 
-The Buddha told Sariputra: "This Abhiseka Dharani chapter is assuredly auspicious. Those who hear it, uphold it, recite it, and practice it will break through evil karmic obstacles and will never die an untimely death."
+The Buddha told Sariputra: "This Abhiseka Dhāraṇī chapter is assuredly auspicious. Those who hear it, uphold it, recite it, and practice it will break through evil karmic obstacles and will never die an untimely death."
 
 Sariputra addressed the Buddha: "World-Honored One! This divine spell, a great auspicious phrase, universally grants all beings freedom from fear. From which buddha in the past did the World-Honored One hear this phrase? We pray the World-Honored One will explain in detail so that beings of the future may universally hear it, attain great peace and joy, be freed from untimely death, and be unharmed by swords, staffs, poisons, water, fire, or bandits."
 
-The Buddha told Sariputra: "I heard this phrase from countless buddhas of the past, and by upholding, reciting, and practicing it, I immediately transcended the offenses of eighty million kalpas of birth and death. Further, I recall that eighty million kalpas ago, there was a buddha world-honored one named Sarvalokavisistadhvaja (一切世間勝 *Yīqiè shìjiān shèng*), who had perfected the ten titles. That buddha world-honored one taught me these very phrases. I then counted my breaths and kept my mind from scattering. Suddenly my understanding opened, and I subdued the fetters and defilements, attained the patient acceptance of the non-arising of dharmas, and abided in the surangama samadhi. If good men and good women hear this sutra, uphold, recite, copy, and explain it, they will immediately transcend the offenses of immeasurable, countless, incalculable kalpas of birth and death, subdue poisons and harms, and never encounter calamity."
+The Buddha told Sariputra: "I heard this phrase from countless buddhas of the past, and by upholding, reciting, and practicing it, I immediately transcended the offenses of eighty million kalpas of birth and death. Further, I recall that eighty million kalpas ago, there was a buddha world-honored one named Sarvalokavisistadhvaja (一切世間勝 *Yīqiè shìjiān shèng*), who had perfected the ten titles. That buddha world-honored one taught me these very phrases. I then counted my breaths and kept my mind from scattering. Suddenly my understanding opened, and I subdued the fetters and defilements, attained the patient acceptance of the non-arising of dharmas, and abided in the surangama samādhi. If good men and good women hear this sūtra, uphold, recite, copy, and explain it, they will immediately transcend the offenses of immeasurable, countless, incalculable kalpas of birth and death, subdue poisons and harms, and never encounter calamity."
 
 When the Buddha spoke these words, 500 elders' sons attained the patient acceptance of the non-arising of dharmas, and countless humans and devas aroused the aspiration for supreme, perfect enlightenment.
 
-Sariputra, Ananda, and the others addressed the Buddha: "World-Honored One! This Ocean of Buddha-Contemplation Samadhi, the Sutra of Requesting Avalokitesvara Bodhisattva's Dharani for Subduing Poisons: wherever it reaches, all is auspicious, revered by all like Brahma, the king of the heavens."
+Sariputra, Ananda, and the others addressed the Buddha: "World-Honored One! This Ocean of Buddha-Contemplation Samādhi, the Sūtra of Requesting Avalokitesvara Bodhisattva's Dhāraṇī for Subduing Poisons: wherever it reaches, all is auspicious, revered by all like Brahma, the king of the heavens."
 
-The Buddha told Ananda: "So it is, so it is, just as you have said. If good men and good women hear the title of this sutra, they will always see the Buddha and all bodhisattvas, perfect their wholesome roots, and be born in a pure buddha-land."
+The Buddha told Ananda: "So it is, so it is, just as you have said. If good men and good women hear the title of this sūtra, they will always see the Buddha and all bodhisattvas, perfect their wholesome roots, and be born in a pure buddha-land."
 
 When this chapter was spoken, eighty billion devas and celestial maidens, as well as dragons, ghosts, and spirits, all rejoiced and aroused the aspiration for enlightenment. Sariputra, Ananda, and the others, having heard what the Buddha taught, bowed to the Buddha and withdrew.

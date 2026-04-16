@@ -86,7 +86,7 @@ Translated from the Chinese. Song dynasty, translated by Dharmabhadra (法賢).
 
 ---
 
-> I bow to the Buddha, the Dharma, and the Saṅgha,
+> I bow to the Buddha, the Dharma, and the Sangha,
 > And pay homage to Avalokiteśvara.
 > I now praise
 > The great compassion's forest of merit.

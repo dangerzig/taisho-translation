@@ -91,7 +91,7 @@ The principal deity's true body is of a great golden-yellow color, seated in ful
 
 21. The Twenty-Eight Divisions of Great Ṛṣis, being the twenty-eight celestial deities. Īśāna is their chief, body colored black-reddish-white. Left hand holds a mace; right hand holds a vermilion dish. Adorned with vajra jewels as a necklace.
 
-*Oṃ namo buddha-dharma-saṅgha indrāya vaśinī ye svāhā*
+*Oṃ namo buddha-dharma-sangha indrāya vaśinī ye svāhā*
 
 22. Maṇibhadra, pinkish-white in color. Left hand holds a jeweled banner surmounted by a wish-fulfilling gem; right hand forms the wish-granting mudrā.
 

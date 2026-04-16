@@ -126,7 +126,7 @@ At that time Maitreya spoke this verse:
 
 "Ānanda, you should know that the Tathāgata Maitreya will teach this verse among that assembly. At that time the assembly of devas and humans, contemplating these ten thoughts, eleven billion people will have all their defilements exhausted and attain the pure Dharma-eye.
 
-"For a thousand years of the Tathāgata Maitreya's time, the saṅgha will be without blemish or stain. At that time there will always be a single verse as the precept:
+"For a thousand years of the Tathāgata Maitreya's time, the sangha will be without blemish or stain. At that time there will always be a single verse as the precept:
 
 > "Do not commit evil with mouth, mind, or body.
 > Let the body also be free from transgression.

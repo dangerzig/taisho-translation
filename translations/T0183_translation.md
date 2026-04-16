@@ -51,7 +51,7 @@ The Buddha told the ascetic Śikhin: "Listen carefully now! Reflect well upon th
 > If they hear the Dharma and practice accordingly,
 > In every birth they shall always encounter a Buddha.
 > With faith in the Dharma and no doubt,
-> They take refuge in the noble Saṅgha.
+> They take refuge in the noble Sangha.
 > Following all the practices of the precepts,
 > They shall swiftly attain Buddhahood,
 > And surely reach the great nirvāṇa,

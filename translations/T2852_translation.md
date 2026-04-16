@@ -21,7 +21,7 @@ Translated from the Chinese. Translator unknown (失譯)
 
 ## Verse Spoken for the Bathing Tokens
 
-> Arhat-saints and the saṅgha assemble,
+> Arhat-saints and the sangha assemble,
 > the multitude of ordinary beings gather in harmony;
 > Fragrant water cleanses through bathing,
 > the Poṣadha liberates sentient beings.
@@ -42,7 +42,7 @@ Translated from the Chinese. Translator unknown (失譯)
 
 ## Verse for Receiving the Tokens
 
-> The vajra-like, unobstructed token of liberation — a rare and precious fruit;
+> The vajra-like, unobstructed token of liberation; a rare and precious fruit;
 > I now joyfully receive it, bearing it upon my head.
 > May all sentient beings equally be thus.
 

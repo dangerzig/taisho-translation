@@ -89,7 +89,7 @@ The bodhisattva Mañjuśrī said to the bodhisattva Jñānaśrī: "Excellent, ex
 
 "When a bodhisattva takes refuge in the Dharma, they think: 'May all people in the worlds of the ten directions attain the treasury of profound sūtras, and may their wisdom be vast as the great ocean.'
 
-"When a bodhisattva takes refuge in the Saṅgha, they think: 'May all people in the worlds of the ten directions find refuge and salvation, as the bhikṣu-saṅgha finds its refuge, and delight in the Buddha's Way and virtue.'
+"When a bodhisattva takes refuge in the Sangha, they think: 'May all people in the worlds of the ten directions find refuge and salvation, as the bhikṣu-sangha finds its refuge, and delight in the Buddha's Way and virtue.'
 
 "When a bodhisattva opens a door, they think: 'May all people in the worlds of the ten directions quickly open the gate of heaven, enter the gate of the Buddha's sūtras, and never weary or turn back, reaching the Buddha's path of nirvāṇa.'
 

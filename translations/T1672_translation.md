@@ -6,7 +6,7 @@ Taishō 1672
 
 Composed by Bodhisattva Nāgārjuna (*Lóngshù Púsà*, 龍樹菩薩). Translated by Guṇavarman (*Qúnà Bámó*, 求那跋摩) of the Liú-Sòng dynasty. A didactic letter in verse.
 
-*Note: This is a second Chinese translation of Nāgārjuna's celebrated "Letter to a Friend" (Suhṛllekha), here addressed to King Śatavāhana (Chántuójiā). A parallel version translated by Saṅghavarman exists as T1673. This translation by Guṇavarman (367–431) is somewhat longer and more detailed than the Saṅghavarman version, with expanded treatments of heavenly pleasures, hell sufferings, hungry-ghost torments, and the contemplation of the body's impurity. The letter covers the full range of Buddhist practice from basic ethics through dependent origination to the aspiration for buddhahood, all presented as personal advice from a spiritual teacher to a royal patron.*
+*Note: This is a second Chinese translation of Nāgārjuna's celebrated "Letter to a Friend" (Suhṛllekha), here addressed to King Śatavāhana (Chántuójiā). A parallel version translated by Sanghavarman exists as T1673. This translation by Guṇavarman (367–431) is somewhat longer and more detailed than the Sanghavarman version, with expanded treatments of heavenly pleasures, hell sufferings, hungry-ghost torments, and the contemplation of the body's impurity. The letter covers the full range of Buddhist practice from basic ethics through dependent origination to the aspiration for buddhahood, all presented as personal advice from a spiritual teacher to a royal patron.*
 
 > King Śatavāhana, you should know:
 > Birth-and-death, suffering, and affliction have many faults,

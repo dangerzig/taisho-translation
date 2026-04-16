@@ -29,11 +29,11 @@ Maudgalyāyana answered: "In your past life you were a village chief. Relying on
 
 Another ghost said to Maudgalyāyana: "I constantly go toward the latrine wishing to eat the excrement. A great horde of ghosts with staffs drive me away, not letting me near the privy. My mouth is foul and rotten, and I am hungry and wretched beyond endurance. What conditions caused me to receive such punishment?"
 
-Maudgalyāyana answered: "In your past life you were the keeper of a Buddhist monastery. When lay devotees came to make offerings and provide food for the saṅgha, if a visiting monk arrived, you served coarse and meager provisions. After the visiting monk left, you ate the fine food yourself. Due to these conditions, you cannot even obtain excrement, much less good food. This is merely the flower-retribution; the fruit of hell is yet to come."
+Maudgalyāyana answered: "In your past life you were the keeper of a Buddhist monastery. When lay devotees came to make offerings and provide food for the sangha, if a visiting monk arrived, you served coarse and meager provisions. After the visiting monk left, you ate the fine food yourself. Due to these conditions, you cannot even obtain excrement, much less good food. This is merely the flower-retribution; the fruit of hell is yet to come."
 
 Another ghost said to Maudgalyāyana: "My body is entirely covered with tongues growing out of it, and axes come to chop the tongues. They are severed but grow back again, and so it continues without end. What conditions caused this?"
 
-Maudgalyāyana answered: "In your past life you were a practitioner. The saṅgha assigned you to prepare honey drinks. The blocks of rock sugar were large and hard to dissolve, so you chopped them with an axe. With a thieving mind, you ate one mouthful. Due to these conditions, the axe now chops your tongues."
+Maudgalyāyana answered: "In your past life you were a practitioner. The sangha assigned you to prepare honey drinks. The blocks of rock sugar were large and hard to dissolve, so you chopped them with an axe. With a thieving mind, you ate one mouthful. Due to these conditions, the axe now chops your tongues."
 
 Another ghost said to Maudgalyāyana: "Seven burning iron balls constantly enter my mouth, going down into my belly and scorching my five organs. They emerge and then enter again. What conditions caused me to receive such punishment?"
 
@@ -41,7 +41,7 @@ Maudgalyāyana answered: "In your past life you were a novice monk. When distrib
 
 Another ghost said to Maudgalyāyana: "Two burning iron wheels constantly turn beneath my two armpits, and my body is scorched and ruined. What conditions caused this?"
 
-Maudgalyāyana answered: "In your past life, when you were making flatbreads for the saṅgha, with a thieving mind you took two flatbreads and hid them under your armpits. Therefore you receive such punishment. This is the flower-retribution; the fruit of hell is yet to come."
+Maudgalyāyana answered: "In your past life, when you were making flatbreads for the sangha, with a thieving mind you took two flatbreads and hid them under your armpits. Therefore you receive such punishment. This is the flower-retribution; the fruit of hell is yet to come."
 
 Another hungry ghost said to Maudgalyāyana: "My testicles are enormously swollen like great jars. When walking I carry them on my shoulders, and when sitting I sit upon them. Whether moving or resting, I suffer terribly. What conditions caused this?"
 
@@ -77,7 +77,7 @@ Maudgalyāyana answered: "In your past life you committed sexual misconduct with
 
 Another ghost asked: "Having received this body, I constantly have a copper vessel on my shoulders, full of molten copper. With my hand I hold a ladle, scoop it up, and pour it over my own head. My entire body is scorched and ruined. The suffering I endure is without number or measure. What conditions caused this punishment?"
 
-Maudgalyāyana answered: "In your past life you were a renunciant in charge of the saṅgha's food and drink. You took a jar of ghee and privately hid it elsewhere. When visiting practitioners came, you did not share it with them. After they left, you brought out the ghee and distributed it only to the resident monks. This ghee belonged to the saṅgha of all directions, in which everyone has a share. To hide it in this way, even though you distributed some, was not equitable. Due to these conditions, you receive this punishment."
+Maudgalyāyana answered: "In your past life you were a renunciant in charge of the sangha's food and drink. You took a jar of ghee and privately hid it elsewhere. When visiting practitioners came, you did not share it with them. After they left, you brought out the ghee and distributed it only to the resident monks. This ghee belonged to the sangha of all directions, in which everyone has a share. To hide it in this way, even though you distributed some, was not equitable. Due to these conditions, you receive this punishment."
 
 Maudgalyāyana also saw a celestial maiden seated upon a lotus flower, a hundred leagues in both length and width. This flower was uniquely magnificent, surpassing all others. All the necessities of life, halls, palaces, and food and drink that she desired arose from the flower in accordance with her thoughts, and followed her wherever she went. Maudgalyāyana asked: "What good deeds did you perform to receive such a reward?"
 

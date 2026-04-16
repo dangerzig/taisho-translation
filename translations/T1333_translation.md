@@ -152,7 +152,7 @@ At that time Śākyamuni Buddha, in the sky, wishing to remove all illnesses and
 
 At that time Ākāśagarbha Bodhisattva Mahāsattva addressed the Buddha: "World-Honored One! I now wish to speak a mantra to safeguard and protect the divine mantras spoken by the seven buddhas. Therefore I shall speak it again. This mantra can destroy all karmic obstructions." He then spoke the mantra:
 
-[Dhāraṇī]
+*Namo buddhāya. Namo dharmāya. Namo saṃghāya. Ākāśagarbhāya bodhisattvāya mahāsattvāya mahākāruṇikāya. Tadyathā: cili cili mahā-cili. Dhulu dhulu mahā-dhulu. Jvāli jvāli mahā-jvāli. Hili hili mahā-hili svāhā.*
 
 "The efficacious powers of this mantra are as follows. If a person has been struck by an evil ghost, one must make a mantra-cord, reciting the mantra one thousand and eight times. Take sumanas wood, ghee, and mustard seeds in three equal parts and mix them. Before the patient, take three-finger pinches, reciting the mantra once per pinch, and cast into the fire, one thousand and eight times. The illness will be cured.
 

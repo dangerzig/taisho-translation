@@ -1,11 +1,11 @@
-# Yogic Essentials: Dharani Ritual for Rescuing Ananda from the Flaming-Mouth Hungry Ghost (瑜伽集要救阿難陀羅尼焰口軌儀經)
+# Yogic Essentials: Dhāraṇī Ritual for Rescuing Ananda from the Flaming-Mouth Hungry Ghost (瑜伽集要救阿難陀羅尼焰口軌儀經)
 
 ## Taisho T1318
 
 **Translator:** Amoghavajra (不空 Bùkōng, 705-774), Tang dynasty
 **Fascicles:** 1
 
-*Note: This text is the foundational scripture for the "Feeding the Flaming-Mouth Hungry Ghosts" (焰口 yànkǒu) ceremony, one of the most widely practiced Buddhist rituals in East Asia. The narrative frame tells of the hungry ghost Yankou ("Flaming Mouth") appearing to Ananda and threatening him with death and rebirth as a hungry ghost within three days unless he feeds immeasurable hungry ghosts. The Buddha then teaches Ananda a dharani that can transform a single vessel of food into inexhaustible sustenance for all hungry ghosts, spirits, departed ancestors, and beings of the six realms. The ritual integrates yogic (瑜伽 yúqié) esoteric practices including mudras, mantras, and visualization, requiring proper initiation (灌頂 guàndǐng, abhiseka) from a qualified acarya (阿闍梨 āshélí). Seven tathagatas are invoked by name, each bestowing specific benefits.*
+*Note: This text is the foundational scripture for the "Feeding the Flaming-Mouth Hungry Ghosts" (焰口 yànkǒu) ceremony, one of the most widely practiced Buddhist rituals in East Asia. The narrative frame tells of the hungry ghost Yankou ("Flaming Mouth") appearing to Ananda and threatening him with death and rebirth as a hungry ghost within three days unless he feeds immeasurable hungry ghosts. The Buddha then teaches Ananda a dhāraṇī that can transform a single vessel of food into inexhaustible sustenance for all hungry ghosts, spirits, departed ancestors, and beings of the six realms. The ritual integrates yogic (瑜伽 yúqié) esoteric practices including mudras, mantras, and visualization, requiring proper initiation (灌頂 guàndǐng, abhiseka) from a qualified acarya (阿闍梨 āshélí). Seven tathagatas are invoked by name, each bestowing specific benefits.*
 
 ---
 
@@ -23,19 +23,19 @@ When Ananda saw the emaciated, withered, scorched, and extremely hideous body of
 
 Ananda asked: "World-Honored One! How can I possibly procure enough food and drink for such immeasurable beings?"
 
-The Buddha told Ananda: "Do not be afraid. I recall that in a past life, immeasurable kalpas ago, when I was a brahmana, I received from Avalokitesvara Bodhisattva-Mahasattva a dharani called the Dharani Method of the Tathagata of Immeasurable Majestic Virtue, Self-Mastery, and Radiance."
+The Buddha told Ananda: "Do not be afraid. I recall that in a past life, immeasurable kalpas ago, when I was a brahmana, I received from Avalokitesvara Bodhisattva-Mahasattva a dhāraṇī called the Dhāraṇī Method of the Tathagata of Immeasurable Majestic Virtue, Self-Mastery, and Radiance."
 
-The Buddha told Ananda: "If you can skillfully perform this dharani method and empower it with seven recitations, you can cause a single portion of food to be transformed into various kinds of sweet-dew food and drink, sufficient to satisfy hundreds of thousands of *kotis* of *nayutas* of Ganges River sands of all hungry ghosts, brahmana sages, beings of different kinds, and ghosts and spirits, with supremely fine food and drink so that all are fully sated. Each and every one of them receives an amount equal to the standard bushel of Magadha. This food and water are equal in measure to the dharma-realm, and eating them is inexhaustible. All will obtain the sacred fruit and be liberated from their suffering bodies."
+The Buddha told Ananda: "If you can skillfully perform this dhāraṇī method and empower it with seven recitations, you can cause a single portion of food to be transformed into various kinds of sweet-dew food and drink, sufficient to satisfy hundreds of thousands of *kotis* of *nayutas* of Ganges River sands of all hungry ghosts, brahmana sages, beings of different kinds, and ghosts and spirits, with supremely fine food and drink so that all are fully sated. Each and every one of them receives an amount equal to the standard bushel of Magadha. This food and water are equal in measure to the dharma-realm, and eating them is inexhaustible. All will obtain the sacred fruit and be liberated from their suffering bodies."
 
-The Buddha told Ananda: "You should now receive and uphold this dharani method. It will cause your merit and lifespan to increase, cause hungry ghosts to be reborn in heaven or in pure lands, to receive human or celestial bodies, and enable the sponsor to have obstacles transformed, calamities eliminated, lifespan extended, and blessings enhanced. In this life one will attract superior merit and in the future will realize bodhi.
+The Buddha told Ananda: "You should now receive and uphold this dhāraṇī method. It will cause your merit and lifespan to increase, cause hungry ghosts to be reborn in heaven or in pure lands, to receive human or celestial bodies, and enable the sponsor to have obstacles transformed, calamities eliminated, lifespan extended, and blessings enhanced. In this life one will attract superior merit and in the future will realize bodhi.
 
 "Arouse the vast aspiration and universally act for all sentient beings. For parents of many lifetimes, for the celestial constellations, for the ghostly judges of the netherworld, for Yama's ghost realm, for crawling insects and all beings with consciousness: establish a boundless, unrestricted, vastly generous offering so that all may come to the assembly. Riding on the Buddha's awesome radiance, cleanse and wash their bodily fields, and obtain this supreme benefit of receiving human and celestial happiness.
 
-"We pray that all buddhas, prajna bodhisattvas, vajra devas, and all the administrators of the karmic path and immeasurable sacred worthies, with unconditional compassion, bear witness to what I practice. Therefore, because we wish to fulfill our great vows, because we wish to broadly protect and deliver sentient beings without regression, because we wish to crush all karma and make it pure, because we wish to diligently seek the unsurpassed Way and quickly accomplish it, and because we wish to rescue beings in the evil paths so they may forever cast aside the ocean of suffering and reach the other shore:
+"We pray that all buddhas, prajñā bodhisattvas, vajra devas, and all the administrators of the karmic path and immeasurable sacred worthies, with unconditional compassion, bear witness to what I practice. Therefore, because we wish to fulfill our great vows, because we wish to broadly protect and deliver sentient beings without regression, because we wish to crush all karma and make it pure, because we wish to diligently seek the unsurpassed Way and quickly accomplish it, and because we wish to rescue beings in the evil paths so they may forever cast aside the ocean of suffering and reach the other shore:
 
-"As the sutra teaches, in the boundless worlds and six destinies of four kinds of birth, those among them who serve as sovereigns, rulers, and leaders are all bodhisattvas abiding in inconceivable liberation, who through their compassionate vows distribute their forms and spread their shadows, manifesting transformation-bodies in the six destinies, undergoing suffering of the same kind as the beings there. They establish skillful means without being corrupted by afflictions or secondary afflictions. They distinguish all forms of karma and cause beings to arouse the aspiration for the Way. They constantly reproach themselves and repent of their past actions. They tame and teach all sentient beings, serving as great guides, crushing the three evil destinies, purifying the karmic paths, severing the stream of craving, never abandoning their vows of practice, dwelling in the ocean of suffering as good spiritual friends, bringing all beings to maturity, benefit, and joy, and realizing great nirvana.
+"As the sūtra teaches, in the boundless worlds and six destinies of four kinds of birth, those among them who serve as sovereigns, rulers, and leaders are all bodhisattvas abiding in inconceivable liberation, who through their compassionate vows distribute their forms and spread their shadows, manifesting transformation-bodies in the six destinies, undergoing suffering of the same kind as the beings there. They establish skillful means without being corrupted by afflictions or secondary afflictions. They distinguish all forms of karma and cause beings to arouse the aspiration for the Way. They constantly reproach themselves and repent of their past actions. They tame and teach all sentient beings, serving as great guides, crushing the three evil destinies, purifying the karmic paths, severing the stream of craving, never abandoning their vows of practice, dwelling in the ocean of suffering as good spiritual friends, bringing all beings to maturity, benefit, and joy, and realizing great nirvāṇa.
 
-"If there is a patron who deeply trusts the Mahayana and thirsts for yoga, who desires to hear the sweet-dew dharma-gate of the dharani treasury, who for all sentient beings arouses the aspiration to rescue and deliver, who earnestly praises and donates great wealth, who makes three requests to the master before being permitted to perform the ritual, who maintains an attitude of equality free from thoughts of enmity or partiality, who constantly practices giving without regret, who draws close to good friends, who advances with vigor without timidity, who seeks the great Way, who praises the Three Jewels and nurtures life, who by skillful means rescues and delivers all so they are liberated, who does not sustain his life through evil seeking, who constantly benefits both self and others: such a good man is truly a good friend who practices the bodhisattva path.
+"If there is a patron who deeply trusts the Mahayana and thirsts for yoga, who desires to hear the sweet-dew dharma-gate of the dhāraṇī treasury, who for all sentient beings arouses the aspiration to rescue and deliver, who earnestly praises and donates great wealth, who makes three requests to the master before being permitted to perform the ritual, who maintains an attitude of equality free from thoughts of enmity or partiality, who constantly practices giving without regret, who draws close to good friends, who advances with vigor without timidity, who seeks the great Way, who praises the Three Jewels and nurtures life, who by skillful means rescues and delivers all so they are liberated, who does not sustain his life through evil seeking, who constantly benefits both self and others: such a good man is truly a good friend who practices the bodhisattva path.
 
 "Universally, for all the evil destinies and realms of the three paths, for all hungry ghosts, for Yama and his retinue, for brahmana sages, for the devas of empty space, for Sakra, Brahma, and the four kings, for the celestial constellations, for the eight classes of dragons and spirits, for the sun and moon, for Mount Sumeru, for the asuras, for non-Buddhist practitioners, for the demon hosts of the six desire heavens, for the elements of water, fire, wind, and space, for the spirits of mountains, forests, caves, dwellings, palaces, monasteries, and the great earth, rivers, flowing springs, and bathing pools, for the various traveling spirits of shrines and auspicious and inauspicious places, for the spirits who record good and evil with unobstructed supernatural powers, for feathered beings flying in the sky, for water creatures swimming with fins, for fur-bearing and horned animals, for crawling insects and all beings with consciousness, for wandering souls in the wilderness and the tormented spirits bound to their corpses, for those with multi-life enmities still bound to one another, for ancestral spirits of many kalpas who owe debts of property and life, for deceased monks and nuns who have not yet attained the fruit, for parents and relatives of many lifetimes:
 
@@ -45,7 +45,7 @@ The Buddha told Ananda: "You should now receive and uphold this dharani method. 
 
 ## Instructions for the Ritual
 
-The Buddha told Ananda: "If one wishes to receive and uphold the method of offering food, one must rely on the profound samadhi of the yogic acarya method. Those who wish to cultivate this should study under a yogic acarya (瑜伽阿闍梨), arouse the unsurpassed great aspiration for bodhi, receive the samaya precepts, enter the great mandala (曼拏羅 *mànnáluó*), and obtain abhiseka (灌頂 *guàndǐng*, initiation). Only then may one receive this practice. One should receive the five-wisdom abhiseka of the great Vairocana Tathagata, succeed to the position of acarya, and only then transmit this teaching. If this is not done, those not properly authorized must not perform it. If one practices without authorization, one will bring calamity upon oneself and incur the offense of stealing the Dharma, and in the end there will be no effect.
+The Buddha told Ananda: "If one wishes to receive and uphold the method of offering food, one must rely on the profound samādhi of the yogic acarya method. Those who wish to cultivate this should study under a yogic acarya (瑜伽阿闍梨), arouse the unsurpassed great aspiration for bodhi, receive the samaya precepts, enter the great mandala (曼拏羅 *mànnáluó*), and obtain abhiseka (灌頂 *guàndǐng*, initiation). Only then may one receive this practice. One should receive the five-wisdom abhiseka of the great Vairocana Tathagata, succeed to the position of acarya, and only then transmit this teaching. If this is not done, those not properly authorized must not perform it. If one practices without authorization, one will bring calamity upon oneself and incur the offense of stealing the Dharma, and in the end there will be no effect.
 
 "If one has received abhiseka and follows the master's instruction, cultivating the yogic dignified ritual procedures, and is well able to distinguish and thoroughly understand the characteristics of the Dharma, one is called a Tripitaka Acarya and may transmit this teaching."
 
@@ -61,7 +61,7 @@ The Buddha told Ananda: "If one wishes to receive and uphold the method of offer
 
 [After adorning the space, inspecting it, the master and disciples bathe in fragrant water, put on new clean garments, sweep and purify the outer courtyard, plaster the ground, and establish the samaya altar. The practitioner kneels facing east, holding an incense burner, and performs the invocation.]
 
-The invocation announces to all buddhas, prajna bodhisattvas, vajra devas, and all karmic-path administrators and sacred worthies. It invokes, by the great compassion and the Buddha's spiritual power, all hungry ghosts of the three evil paths throughout empty space, Yama's officers, celestial and underworld officials, brahmana sages, long-departed ancestors, wilderness spirits, celestial beings of empty space, and all their retinues and attendant ghosts and spirits. [The invocation requests that all these beings, carried by the Tathagata's power, come at dawn to receive the supremely fine Dharma-flavor of sweet-dew nectar.]
+The invocation announces to all buddhas, prajñā bodhisattvas, vajra devas, and all karmic-path administrators and sacred worthies. It invokes, by the great compassion and the Buddha's spiritual power, all hungry ghosts of the three evil paths throughout empty space, Yama's officers, celestial and underworld officials, brahmana sages, long-departed ancestors, wilderness spirits, celestial beings of empty space, and all their retinues and attendant ghosts and spirits. [The invocation requests that all these beings, carried by the Tathagata's power, come at dawn to receive the supremely fine Dharma-flavor of sweet-dew nectar.]
 
 [After the threefold invocation, the master makes offerings of incense, flowers, lamps, and ointment, then confesses his own offenses, bows, and anoints his palms with fragrant paste before beginning the seal-and-mantra procedures.]
 
@@ -69,7 +69,7 @@ The invocation announces to all buddhas, prajna bodhisattvas, vajra devas, and a
 
 "Next, form the seal for breaking open the hells. Both hands make vajra fists, with the little fingers hooked together. The index fingers stand upright, side by side. The mind visualizes the hells opening. Recite three times, pulling open three times."
 
-[Dharani for breaking open the hells]
+[Dhāraṇī for breaking open the hells]
 
 "By the awesome power of this seal and mantra, all the hell-gates in every destiny are flung open."
 
@@ -77,7 +77,7 @@ The invocation announces to all buddhas, prajna bodhisattvas, vajra devas, and a
 
 "Next, form the seal for summoning the hungry ghosts. The left hand makes the fearlessness gesture. The right hand extends forward, with four fingers slightly curved and the index finger beckoning."
 
-[Dharani for summoning]
+[Dhāraṇī for summoning]
 
 "Having summoned them, all gather like clouds. With a heart of compassion, praise and console them, causing them to rejoice and thirst for the Dharma."
 
@@ -96,15 +96,15 @@ The invocation announces to all buddhas, prajna bodhisattvas, vajra devas, and a
 
 "Next, form the seal of the Tathagata of Wondrous Form-Body bestowing sweet-dew nectar. With the left hand, turn the wrist forward. Snap the ring finger and thumb."
 
-[Dharani for bestowing sweet-dew nectar]
+[Dhāraṇī for bestowing sweet-dew nectar]
 
-"While reciting the mantra, visualize on the tips of the ring finger and thumb a *vam* syllable flowing out prajna sweet-dew Dharma-water. Snap and sprinkle it into the air. All hungry ghosts and beings of different kinds universally obtain cooling refreshment, their fierce fires extinguished, their bodily fields moistened, and their sensations of hunger and thirst ended."
+"While reciting the mantra, visualize on the tips of the ring finger and thumb a *vam* syllable flowing out prajñā sweet-dew Dharma-water. Snap and sprinkle it into the air. All hungry ghosts and beings of different kinds universally obtain cooling refreshment, their fierce fires extinguished, their bodily fields moistened, and their sensations of hunger and thirst ended."
 
 ### Opening the Throats
 
 "Next, form the seal for opening the throats. The left hand visualizes holding a lotus. The right hand snaps the ring finger and thumb, snapping while reciting."
 
-[Dharani for opening throats]
+[Dhāraṇī for opening throats]
 
 "Tell the children of the Buddha: 'Now that I have made the seal and spell for you, your throats are opened of their own accord, penetrating without obstruction, free from all hindrances.'"
 
@@ -134,11 +134,11 @@ The invocation announces to all buddhas, prajna bodhisattvas, vajra devas, and a
 
 "'You children of the Buddha, having taken refuge in the Buddha, in the Dharma, and in the Sangha, depend on the Three Jewels and firmly uphold them according to the Dharma.'"
 
-"'Next, for your sake I arouse the aspiration for bodhi. Listen carefully.'" Form the vajra-palm seal with the ring finger like a lotus petal, and press the seal to the heart. [Dharani for arousing bodhicitta]
+"'Next, for your sake I arouse the aspiration for bodhi. Listen carefully.'" Form the vajra-palm seal with the ring finger like a lotus petal, and press the seal to the heart. [Dhāraṇī for arousing bodhicitta]
 
 "'I have now aroused the aspiration for bodhi on your behalf. Children of the Buddha! You should know that the bodhicitta arises from great compassion. It is the direct cause of buddhahood and the root of wisdom. It can break through ignorance, afflictions, and evil karma, without being stained or corrupted.'"
 
-"'Next I bestow upon you the samaya precepts.'" Form the seal with the two hands bound, ring fingers extended like needles. [Dharani for samaya precepts]
+"'Next I bestow upon you the samaya precepts.'" Form the seal with the two hands bound, ring fingers extended like needles. [Dhāraṇī for samaya precepts]
 
 "'I have now bestowed the samaya precepts upon you. From now on, this causes you to enter the Tathagata's position. You are true children of the Buddha, born from the Dharma through transformation, receiving your share of the Buddha-dharma.'"
 
@@ -146,11 +146,11 @@ The invocation announces to all buddhas, prajna bodhisattvas, vajra devas, and a
 
 "Next, form the seal of the Tathagata of Immeasurable Majestic Virtue, Self-Mastery, and Radiance. The left hand visualizes holding a vessel. The right hand snaps the ring finger and thumb. Visualize a *vam* syllable in the palm of the left hand, flowing out various kinds of inexhaustible sweet-dew Dharma-food."
 
-[Dharani for offering food]
+[Dhāraṇī for offering food]
 
 "'Tell the children of the Buddha: Now that I have made the seal and spell for you, this single portion of food is transformed into immeasurable food, as great as Mount Sumeru, as vast as the dharma-realm, and can never be exhausted.'"
 
-[Second dharani for further empowerment of the food]
+[Second dhāraṇī for further empowerment of the food]
 
 "'Visualize within the seal a flow of sweet-dew nectar becoming an ocean of milk, pouring into the dharma-realm, universally sustaining all of you and all sentient beings until fully satisfied.'"
 
@@ -170,7 +170,7 @@ For the sacred assembly's altar of wisdom kings and celestial beings, and for of
 
 ### Universal Offering and Dedication
 
-[The universal offering seal is formed, placed at the heart, with its dharani.]
+[The universal offering seal is formed, placed at the heart, with its dhāraṇī.]
 
 "'Children of the Buddha! All the food you have ever received was obtained from the human world through the trading of lives, wine, meat, and the reeking, pungent, and foul. Though you received such food, it was like poison harming the body, only increasing the root of suffering, sinking in the ocean of suffering with no time of liberation. I, so-and-so, relying on the Tathagata's teaching, sincerely and exhaustively make offerings, establishing this unrestricted, vastly generous Dharma-assembly.
 
@@ -182,7 +182,7 @@ For the sacred assembly's altar of wisdom kings and celestial beings, and for of
 
 "Next, form the sending-off seal. Both hands make vajra fists, index fingers hooked together; open while reciting."
 
-[Dharani of Vajra Liberation for sending off]
+[Dhāraṇī of Vajra Liberation for sending off]
 
 The Buddha told Ananda: "If in the future monks, nuns, laymen, and laywomen, each morning or at mealtime or at any time, constantly practice this method with these mantras and the seven tathagatas' names to empower food and give it to hungry ghosts and others, then the practitioner, at mealtime or any time, should set out food for the hungry ghosts and other spirits in a clean vessel, wait until the settling of people, empower it, and distribute it to immeasurable hungry ghosts and other spirits. This will generate immeasurable merit, equal to making offerings to hundreds of thousands of *kotis* of tathagatas with no difference whatsoever. One's lifespan will be extended, one's vigor and vitality will increase, one's wholesome roots will be complete, all non-human beings, yaksas, raksasas, and evil ghosts and spirits will not dare to trouble one, and one will also accomplish immeasurable majestic virtue.
 
@@ -192,6 +192,6 @@ The Buddha told Ananda: "If in the future monks, nuns, laymen, and laywomen, eac
 
 The Buddha told Ananda: "Follow my words and practice according to the Dharma. Propagate this widely so that all beings of short lifespan and meager merit may universally hear of it and constantly practice this method. Their lifespans will be extended and their merit will increase."
 
-At that time the Buddha said: "This sutra is taught for Ananda's sake and for rescuing the Flaming-Mouth hungry ghost and all sentient beings, and is called the Dharani Sutra. By this title you should receive and uphold it."
+At that time the Buddha said: "This sūtra is taught for Ananda's sake and for rescuing the Flaming-Mouth hungry ghost and all sentient beings, and is called the Dhāraṇī Sūtra. By this title you should receive and uphold it."
 
 The entire great assembly, together with Ananda, having heard what the Buddha taught, received it with single-minded faith and practiced it with joy.

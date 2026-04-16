@@ -5,7 +5,7 @@
 **Author:** Anonymous
 **Fascicles:** 1
 
-*Note: This is a philosophical commentary on the Dasabhumika (十地 shídì, "Ten Stages") chapter of the Avatamsaka Sutra, analyzing the proof-sequence of the assembly, the meaning of the bodhisattva names, and the doctrinal structure of the opening passage. The commentary employs a highly systematic hermeneutical method characteristic of Chinese Huayan (華嚴) exegesis, distinguishing between "teaching" (教 jiào), "practice" (行 xíng), and "self-substance" (自體 zìtǐ) levels of interpretation, and between "self-portion" (自分 zìfēn) and "other-portion" (他分 tāfēn) stages of realization. The text is fragmentary, beginning mid-discussion without a formal opening, and concluding with the colophon "Copied by Baozang" (寶藏寫).*
+*Note: This is a philosophical commentary on the Dasabhumika (十地 shídì, "Ten Stages") chapter of the Avatamsaka Sūtra, analyzing the proof-sequence of the assembly, the meaning of the bodhisattva names, and the doctrinal structure of the opening passage. The commentary employs a highly systematic hermeneutical method characteristic of Chinese Huayan (華嚴) exegesis, distinguishing between "teaching" (教 jiào), "practice" (行 xíng), and "self-substance" (自體 zìtǐ) levels of interpretation, and between "self-portion" (自分 zìfēn) and "other-portion" (他分 tāfēn) stages of realization. The text is fragmentary, beginning mid-discussion without a formal opening, and concluding with the colophon "Copied by Baozang" (寶藏寫).*
 
 ---
 
@@ -39,7 +39,7 @@ The word "together" (與 *yǔ*) has two senses: first, the Buddha is "together w
 
 ### The Meaning of "Bodhisattva"
 
-"Bodhisattva" (菩薩 *púsà*) means in Chinese "a being with the aspiration for the Way" (道心眾生 *dàoxīn zhòngshēng*). It is precisely because these persons have their minds set on the Way that they are called "Way-aspiration beings." There are also lesser bodhisattvas of the two vehicles, in whom birth-and-death and nirvana cannot operate with both quiescence and function simultaneously. Great beings operate with both quiescence and function simultaneously, benefiting both self and others, penetrating without obstruction: these are called "great Way-aspiration beings."
+"Bodhisattva" (菩薩 *púsà*) means in Chinese "a being with the aspiration for the Way" (道心眾生 *dàoxīn zhòngshēng*). It is precisely because these persons have their minds set on the Way that they are called "Way-aspiration beings." There are also lesser bodhisattvas of the two vehicles, in whom birth-and-death and nirvāṇa cannot operate with both quiescence and function simultaneously. Great beings operate with both quiescence and function simultaneously, benefiting both self and others, penetrating without obstruction: these are called "great Way-aspiration beings."
 
 There are also two kinds of bodhisattvas: nominal and real. Nominal bodhisattvas, though they have understanding and practice, cling to names and characteristics and cannot penetrate fully. Real bodhisattvas embody and realize the dharma-realm, penetrating without obstruction: therefore they are called "great."
 
@@ -53,7 +53,7 @@ There are also two kinds of bodhisattvas: nominal and real. Nominal bodhisattvas
 
 Regarding counteractive birth: there are three sub-types: (1) fractional-segment birth, (2) transformation birth, and (3) birth of self-nature that is not truly established. "One more birth" here means that fractional-segment and transformation births have been eliminated; only the one birth of self-nature-not-truly-established remains.
 
-Regarding practice birth: of the three kinds of mind-made bodies (意生身 *yìshēngshēn*), namely the samadhi-bliss-practice mind-made body, the awakening-to-dharma-self-nature mind-made body, and the category-of-kinds-dwelling-without-action mind-made body, "one more birth" here refers to the non-action position.
+Regarding practice birth: of the three kinds of mind-made bodies (意生身 *yìshēngshēn*), namely the samādhi-bliss-practice mind-made body, the awakening-to-dharma-self-nature mind-made body, and the category-of-kinds-dwelling-without-action mind-made body, "one more birth" here refers to the non-action position.
 
 Regarding positional birth: this is the single birth of the vajra [concentration] at the eleventh stage.
 
@@ -93,7 +93,7 @@ Third, according to the practice-teaching: the intent is to reveal the person th
 
 ### Five Ways of Establishing Names
 
-There are broadly five kinds of name-establishment: (1) from causes and conditions, as in Sadaprarudita Bodhisattva (常啼 *Chángtí*, "Ever-Weeping"), who was called this because as a child his parents gave him that name, and now as a bodhisattva he always grieves for sentient beings; (2) from the practice-gate originally cultivated, as in Maitreya Bodhisattva (彌勒 *Mílè*, "Kindness"), who in a past life as a king, upon seeing a monk's meditation-light surpassing all others and learning it came from cultivating the kindness-samadhi, vowed to always cultivate kindness, and thus is now called "Kindness Clan"; (3) from the distinctive counteractive practice for self-benefit; (4) from the virtue of benefiting others according to different karmic connections for transformation, like a versatile artisan named according to the task; (5) from the self-substance dharma-gate, all embodying and realizing the dharma-realm, manifested through different causal practices.
+There are broadly five kinds of name-establishment: (1) from causes and conditions, as in Sadaprarudita Bodhisattva (常啼 *Chángtí*, "Ever-Weeping"), who was called this because as a child his parents gave him that name, and now as a bodhisattva he always grieves for sentient beings; (2) from the practice-gate originally cultivated, as in Maitreya Bodhisattva (彌勒 *Mílè*, "Kindness"), who in a past life as a king, upon seeing a monk's meditation-light surpassing all others and learning it came from cultivating the kindness-samādhi, vowed to always cultivate kindness, and thus is now called "Kindness Clan"; (3) from the distinctive counteractive practice for self-benefit; (4) from the virtue of benefiting others according to different karmic connections for transformation, like a versatile artisan named according to the task; (5) from the self-substance dharma-gate, all embodying and realizing the dharma-realm, manifested through different causal practices.
 
 ### Individual Names Explained
 
@@ -103,7 +103,7 @@ There are broadly five kinds of name-establishment: (1) from causes and conditio
 
 **Padmagarbha** (蓮華藏 *Liánhuá zàng*): The self-substance's causal practice entering the dharma-realm, like a lotus treasury.
 
-**Jayagarbha** (勝藏 *Shèngzàng*): The cultivation that clarifies severance of delusion. It is not called "victorious" because of cutting off afflictions, but because of entering nirvana-nature without cutting off afflictions. As the *Vimalakirti Sutra* says: "Like a victorious wrestler who can overcome all." This bodhisattva encounters all afflictions without obstruction, hence "victorious." "Treasury" signifies that unconditioned practice can dispel the darkness of birth and death.
+**Jayagarbha** (勝藏 *Shèngzàng*): The cultivation that clarifies severance of delusion. It is not called "victorious" because of cutting off afflictions, but because of entering nirvāṇa-nature without cutting off afflictions. As the *Vimalakirti Sūtra* says: "Like a victorious wrestler who can overcome all." This bodhisattva encounters all afflictions without obstruction, hence "victorious." "Treasury" signifies that unconditioned practice can dispel the darkness of birth and death.
 
 **Suryagarbha** (曰藏 *Yuē zàng*): Conditioned-arising gathering that does not abandon worldly practice; illumination within darkness.
 
@@ -117,7 +117,7 @@ There are broadly five kinds of name-establishment: (1) from causes and conditio
 
 "Such bodhisattvas" introduces the third major section: the number of those with these virtues. "Immeasurable" means their position exhausts the bounded. "Boundless" means their practice pervades the dharma-realm. "Asamkhyeya" (阿僧祇 *āsēngqí*) means beyond all limits. "Inconceivable" means their substance is beyond discrimination. "Incalculable" explains "immeasurable" as profoundly weighty. "Immeasurable" explains "boundless" as vastly great. "Without divisions" [corresponds to] *asamkhyeya*. "Inexpressible" explains the substance as beyond discrimination, meaning not one-by-one. "Inexpressible" explains being beyond discrimination, meaning not different-from-different.
 
-[Extended discussion citing the *Asamkhyeya Chapter* of the Avatamsaka Sutra, where Bodhisattva Heart-King asks the Buddha about these numerical terms, and the Buddha provides a sequence of a hundred levels of exponentially increasing numbers leading up to *asamkhyeya*, followed by twenty-four more levels. These all refer to the dharma-realm practice-and-function of the buddhas and bodhisattvas. The commentary discusses how these terms point to the self-substance dharma-gate, the practice-and-virtue dharma-gate, the principle-fusing conditioned-arising dharma-gate, the wisdom dharma-gate, the causal-practice dharma-gate, the merit dharma-gate, and the true-teaching dharma-gate.]
+[Extended discussion citing the *Asamkhyeya Chapter* of the Avatamsaka Sūtra, where Bodhisattva Heart-King asks the Buddha about these numerical terms, and the Buddha provides a sequence of a hundred levels of exponentially increasing numbers leading up to *asamkhyeya*, followed by twenty-four more levels. These all refer to the dharma-realm practice-and-function of the buddhas and bodhisattvas. The commentary discusses how these terms point to the self-substance dharma-gate, the practice-and-virtue dharma-gate, the principle-fusing conditioned-arising dharma-gate, the wisdom dharma-gate, the causal-practice dharma-gate, the merit dharma-gate, and the true-teaching dharma-gate.]
 
 **"Vajragarbha Bodhisattva as the foremost"** has two meanings: first, his position is ultimate, his practice foremost, and his virtue covers the great assembly, hence he is foremost; second, he is the substance of reality for all bodhisattvas' practice-virtue, hence he is foremost. Furthermore, he is foremost because the essential purport arises through this person, and so the teaching's salvific benefit is displayed at the beginning.
 

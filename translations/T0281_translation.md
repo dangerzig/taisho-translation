@@ -94,7 +94,7 @@ Reverence-Leader answered: "Excellent, child of the Buddha! Your aspiration reac
 > embody and understand the great Way, arousing the unsurpassed aspiration.
 > When taking refuge in the Dharma, may all beings
 > enter deeply into the treasury of the sūtras, with wisdom like the ocean.
-> When taking refuge in the Saṅgha, may all beings
+> When taking refuge in the Sangha, may all beings
 > rely on the noble assembly, attaining liberation through the right path.
 > When opening a door, may all beings
 > open and reveal the Way and the Dharma, reaching nirvāṇa.

@@ -9,26 +9,26 @@ Composed in Chinese. Tang dynasty, by the monk Huiguang (慧光)
 
 ## The Mahāyāna Mind
 
-> I do not even give rise to the mind of generosity — how much less to the mind of miserliness and greed.
-> I do not even give rise to the mind of upholding the precepts — how much less to the mind of transgression.
-> I do not even give rise to the mind of patience — how much less to the mind of killing and harm.
-> I do not even give rise to the mind of diligence — how much less to the mind of laziness.
-> I do not even give rise to the mind of meditation — how much less to the mind of distraction.
-> I do not even give rise to the mind of wisdom — how much less to the mind of foolishness.
-> I do not even give rise to the mind of heaven — how much less to the mind of hell.
-> I do not even give rise to the mind of compassion — how much less to the mind of poison and harm.
-> I do not even give rise to the mind of purity — how much less to the mind of defilement.
-> I do not even give rise to the mind of joy — how much less to the mind of anger and hatred.
-> I do not even give rise to the mind of benefiting others — how much less to the mind of robbery and plunder.
-> I do not even give rise to the vast and expansive mind — how much less to the narrow and contracted mind.
-> I do not even give rise to the mind of emptiness and non-being — how much less to the mind of grasping at views.
-> I do not even give rise to the upright mind — how much less to the mind of perversity and crookedness.
-> I do not even give rise to the truly correct mind — how much less to the inverted mind.
-> I do not even give rise to the Mahāyāna mind — how much less to the Śrāvaka mind.
-> I do not even give rise to the bodhisattva mind — how much less to the ordinary person's mind.
-> I do not even give rise to the mind of bodhi — how much less to the mind of afflictions.
-> I do not even give rise to the mind of liberation — how much less to any mind of liberation.
-> I do not even give rise to the mind of nirvāṇa — how much less to the mind of saṃsāra.
+> I do not even give rise to the mind of generosity; how much less to the mind of miserliness and greed.
+> I do not even give rise to the mind of upholding the precepts; how much less to the mind of transgression.
+> I do not even give rise to the mind of patience; how much less to the mind of killing and harm.
+> I do not even give rise to the mind of diligence; how much less to the mind of laziness.
+> I do not even give rise to the mind of meditation; how much less to the mind of distraction.
+> I do not even give rise to the mind of wisdom; how much less to the mind of foolishness.
+> I do not even give rise to the mind of heaven; how much less to the mind of hell.
+> I do not even give rise to the mind of compassion; how much less to the mind of poison and harm.
+> I do not even give rise to the mind of purity; how much less to the mind of defilement.
+> I do not even give rise to the mind of joy; how much less to the mind of anger and hatred.
+> I do not even give rise to the mind of benefiting others; how much less to the mind of robbery and plunder.
+> I do not even give rise to the vast and expansive mind; how much less to the narrow and contracted mind.
+> I do not even give rise to the mind of emptiness and non-being; how much less to the mind of grasping at views.
+> I do not even give rise to the upright mind; how much less to the mind of perversity and crookedness.
+> I do not even give rise to the truly correct mind; how much less to the inverted mind.
+> I do not even give rise to the Mahāyāna mind; how much less to the Śrāvaka mind.
+> I do not even give rise to the bodhisattva mind; how much less to the ordinary person's mind.
+> I do not even give rise to the mind of bodhi; how much less to the mind of afflictions.
+> I do not even give rise to the mind of liberation; how much less to any mind of liberation.
+> I do not even give rise to the mind of nirvāṇa; how much less to the mind of saṃsāra.
 
 And again, in verse:
 

@@ -375,7 +375,7 @@ Then Śāriputra addressed the World-Honored One in gāthā:
 > Made offerings at the Sage's stūpas:
 > They are born into my Dharma.
 
-> 'Those who took refuge in the Buddha, Dharma, and Saṅgha,
+> 'Those who took refuge in the Buddha, Dharma, and Sangha,
 > With reverence constantly drawing near,
 > Always cultivating good deeds:
 > They are born into my Dharma.
@@ -385,7 +385,7 @@ Then Śāriputra addressed the World-Honored One in gāthā:
 > Guarding them well without breach:
 > They are born into my Dharma.
 
-> 'Those who to the saṅgha of the four directions
+> 'Those who to the sangha of the four directions
 > Gave clothing, food, and drink,
 > And also offered fine medicine:
 > They are born into my Dharma.

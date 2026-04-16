@@ -81,7 +81,7 @@ The object contemplated is the aggregates, elements, and sense-bases, which do n
 
 In each and every mind there are all minds; in each and every mote of dust there are all motes of dust; in each and every mind there are all motes of dust; in each and every mote of dust there are all minds; in each and every mote of dust there are all lands. All dharmas, all motes of dust, all lands and bodies: their essence is clearly present yet without self-nature. Having no self-nature, they have always followed things in transformation. Therefore they mutually interpenetrate, yet phenomena are always distinct.
 
-To contemplate in this way is called contemplating the nature of mind. Following conditions yet unchanging, it is called "nature." Unchanging yet following conditions, it is called "mind." As the *Nirvāṇa Sūtra* says: "To be able to contemplate the nature of mind is called the supreme concentration. The supreme concentration is called the first meaning. The first meaning is called buddha-nature. Buddha-nature is called Vairocana."
+To contemplate in this way is called contemplating the nature of mind. Following conditions yet unchanging, it is called "nature." Unchanging yet following conditions, it is called "mind." As the *Nirvāṇa Sūtra* says: "To be able to contemplate the nature of mind is called the supreme concentration. The supreme concentration is called the first meaning. The first meaning is called Buddha-nature. Buddha-nature is called Vairocana."
 
 If a person of superior faculty practices this single contemplation, horizontally and vertically encompassing all, they immediately recognize the signless amid signs clearly present, break through fundamental ignorance, and ascend to the first abiding (*bhūmi*).
 

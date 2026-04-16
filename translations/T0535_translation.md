@@ -11,7 +11,7 @@ Thus have I heard:
 
 At one time, the Buddha was traveling in the royal city of Rājagṛha, on Gṛdhrakūṭa Mountain, together with twelve hundred and fifty great bhikṣus.
 
-At that time, in the royal city there was a great and wealthy elder named Candrajaya, whose treasures were beyond measure. He had faith in the Buddha-Dharma, made offerings to the saṅgha, and was exceedingly diligent. The elder had a younger brother named Śṛgāla, who did not believe in the Buddha-Dharma but followed heterodox arts. Seeing his brother revere the true path, he was always filled with anger and jealousy. The teacher he served was named Pūraṇa Kāśyapa. Pūraṇa Kāśyapa and his five hundred followers said to Śṛgāla: "Your brother alone does not serve us. He does not know the true path but instead believes in the Buddha."
+At that time, in the royal city there was a great and wealthy elder named Candrajaya, whose treasures were beyond measure. He had faith in the Buddha-Dharma, made offerings to the sangha, and was exceedingly diligent. The elder had a younger brother named Śṛgāla, who did not believe in the Buddha-Dharma but followed heterodox arts. Seeing his brother revere the true path, he was always filled with anger and jealousy. The teacher he served was named Pūraṇa Kāśyapa. Pūraṇa Kāśyapa and his five hundred followers said to Śṛgāla: "Your brother alone does not serve us. He does not know the true path but instead believes in the Buddha."
 
 At that time, Candrajaya, knowing what the heterodox practitioners were discussing, said to Śṛgāla: "Tomorrow I wish to invite your teachers. Would they be willing to condescend to come to my house?"
 

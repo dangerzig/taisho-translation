@@ -336,7 +336,7 @@ May I, together with all sentient beings, be reborn in the Land of Peace and Bli
 > The devas further bring celestial flowers and incense,
 > With hundreds of thousands of instruments to pay their respects.
 > Such merit of the Three Treasures assembled:
-> Therefore I turn my thoughts and bow to the Dharma Hall.
+> Therefore I turn my thoughts and bow to the Dharma hall.
 
 May I, together with all sentient beings, be reborn in the Land of Peace and Bliss.
 

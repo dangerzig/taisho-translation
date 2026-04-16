@@ -6,7 +6,7 @@
 **Commentary by:** Jingyuan (淨源), Song dynasty
 **Fascicles:** 1
 
-*Note: Fazang (法藏 Fǎzàng), the third patriarch of the Huayan (華嚴 Huáyán, "Flower Ornament") school, composed the original "Essay on the Golden Lion" (金師子章 Jīn shīzi zhāng) for Empress Wu Zetian to explain the profound doctrines of the Avataṃsaka Sutra through the analogy of a golden lion. In the Song dynasty, Jingyuan (淨源 Jìngyuán) composed this "Cloud-Interval Classified Commentary" (雲間類解 Yúnjiān lèijiě), systematically annotating Fazang's text with references to the Huayan sutras and treatises. The commentary is organized into ten sections corresponding to ten doctrinal themes: dependent origination, form and emptiness, the three natures, signlessness, non-arising, the five teachings, the ten mysterious gates, the six characteristics, attaining bodhi, and entering nirvana.*
+*Note: Fazang (法藏 Fǎzàng), the third patriarch of the Huayan (華嚴 Huáyán, "Flower Ornament") school, composed the original "Essay on the Golden Lion" (金師子章 Jīn shīzi zhāng) for Empress Wu Zetian to explain the profound doctrines of the Avataṃsaka Sūtra through the analogy of a golden lion. In the Song dynasty, Jingyuan (淨源 Jìngyuán) composed this "Cloud-Interval Classified Commentary" (雲間類解 Yúnjiān lèijiě), systematically annotating Fazang's text with references to the Huayan sūtras and treatises. The commentary is organized into ten sections corresponding to ten doctrinal themes: dependent origination, form and emptiness, the three natures, signlessness, non-arising, the five teachings, the ten mysterious gates, the six characteristics, attaining bodhi, and entering nirvāṇa.*
 
 ---
 
@@ -16,7 +16,7 @@ The Dharma cannot be revealed without metaphor; metaphor cannot arise without th
 
 Now this text is revered and esteemed in both meditation halls and lecture seats. Commentaries on it currently circulating in the world number nearly four. The Chan Master Qingyuan Zhiguan (清源止觀禪師) annotated it earlier; the Great Worthy Zhaosin Fadeng (昭信法燈大士) explained it later. In recent times, one bearing the same title Huazang (華藏), the Dharma Master Zhaoyu of Siqu (四衢昭昱法師), and the Venerable Chengqian of Wutai (五臺承遷尊者) have all composed commentaries. Having reviewed their words, I find that some are verbose yet deficient in meaning, and some have lengthy passages that deviate from the teaching. This causes those in the two paths of meditation and lecturing, just as they aspire to transmit and study these teachings, to instead fall into the trap of attachment and rejection.
 
-I, Jingyuan, unworthy as I am, have long pondered these refined principles and have always been troubled by this situation. Accordingly, I have investigated the two Profound texts of the Jin-era sutra, and thoroughly examined the two commentaries on the Tang-era sutra. Where the text was verbose, I have pruned it. Where the meaning was deficient, I have supplemented it. Where passages were lengthy, I have trimmed them. Where the teaching deviated, I have corrected it. Throughout, where Dharma-language and profound terms clearly accord with the patriarch's chapter-principles, I have classified and explained each according to its doctrinal category. I completed this work at the Good Dwelling Pavilion (善住閣 *Shànzhù gé*) in Yunjian (雲間). Hence the title: "Cloud-Interval Classified Commentary."
+I, Jingyuan, unworthy as I am, have long pondered these refined principles and have always been troubled by this situation. Accordingly, I have investigated the two Profound texts of the Jin-era sūtra, and thoroughly examined the two commentaries on the Tang-era sūtra. Where the text was verbose, I have pruned it. Where the meaning was deficient, I have supplemented it. Where passages were lengthy, I have trimmed them. Where the teaching deviated, I have corrected it. Throughout, where Dharma-language and profound terms clearly accord with the patriarch's chapter-principles, I have classified and explained each according to its doctrinal category. I completed this work at the Good Dwelling Pavilion (善住閣 *Shànzhù gé*) in Yunjian (雲間). Hence the title: "Cloud-Interval Classified Commentary."
 
 Yuanfeng, third year, *gēngshēn* cycle, eighth day of the fourth month [1080 CE].
 
@@ -24,11 +24,11 @@ Yuanfeng, third year, *gēngshēn* cycle, eighth day of the fourth month [1080 C
 
 **Title:** *Huayan Essay on the Golden Lion* (華嚴金師子章)
 
-"Huayan" (華嚴) designates the sutra to which this belongs. "Essay on the Golden Lion" (金師子章) is its proper title. Using metaphor to reveal the Dharma is already fully explained in the preface.
+"Huayan" (華嚴) designates the sūtra to which this belongs. "Essay on the Golden Lion" (金師子章) is its proper title. Using metaphor to reveal the Dharma is already fully explained in the preface.
 
 **Author:** Composed by the Sramana Fazang of the Great Jianfu Temple in the Capital (京大薦福寺沙門法藏述)
 
-"Capital" (京) refers to Chang'an, the capital established by Gaozu of the Han dynasty. The Great Jianfu Temple (大薦福寺 *Dà Jiànfú sì*) was built by Emperor Zhongzong of the Tang dynasty. "Sramana" (沙門 *shāmén*) is the designation for Buddhist monastics who cultivate the good and extinguish evil. The next two characters are his name. His accomplishments as a renunciant who transmitted the Way and propagated the translations are fully recorded in the *Lives of Eminent Monks Compiled in the Sagely Song Dynasty*, and in the stele inscription by the Junior Supervisor of the Tang, Yan [Liben]. As for his judgment of the five chapters of the doctrinal path, Longxi [Li Yong] praised it in his treatise. As for the compilation of the six-fold contemplation gates from the sastra, Hedong [Wang Wei] commended it in his stupa inscription. Moreover, following the principles of this chapter as a model, both the commentaries on the *Flower Ornament* and the *Perfect Enlightenment Sutra* record them in detail. "述" (composed) means, as the *Record of Music* says, "to illuminate." Zheng Xuan said: "To expound the meaning."
+"Capital" (京) refers to Chang'an, the capital established by Gaozu of the Han dynasty. The Great Jianfu Temple (大薦福寺 *Dà Jiànfú sì*) was built by Emperor Zhongzong of the Tang dynasty. "Sramana" (沙門 *shāmén*) is the designation for Buddhist monastics who cultivate the good and extinguish evil. The next two characters are his name. His accomplishments as a renunciant who transmitted the Way and propagated the translations are fully recorded in the *Lives of Eminent Monks Compiled in the Sagely Song Dynasty*, and in the stele inscription by the Junior Supervisor of the Tang, Yan [Liben]. As for his judgment of the five chapters of the doctrinal path, Longxi [Li Yong] praised it in his treatise. As for the compilation of the six-fold contemplation gates from the sastra, Hedong [Wang Wei] commended it in his stupa inscription. Moreover, following the principles of this chapter as a model, both the commentaries on the *Flower Ornament* and the *Perfect Enlightenment Sūtra* record them in detail. "述" (composed) means, as the *Record of Music* says, "to illuminate." Zheng Xuan said: "To expound the meaning."
 
 ---
 
@@ -46,7 +46,7 @@ This symbolizes the union of truth and delusion, forming the alaya-consciousness
 
 **The arising is entirely due to conditions; therefore it is called dependent origination.**
 
-The sutra says: "All dharmas arise from conditions. Without conditions, they do not arise." This is the gate of the non-obstruction of principle and phenomena, being one and the same dependent origination. The first sentence indicates the conditions. The middle sentence distinguishes the arising. The last sentence provides the overall conclusion.
+The sūtra says: "All dharmas arise from conditions. Without conditions, they do not arise." This is the gate of the non-obstruction of principle and phenomena, being one and the same dependent origination. The first sentence indicates the conditions. The middle sentence distinguishes the arising. The last sentence provides the overall conclusion.
 
 ---
 
@@ -64,7 +64,7 @@ The form and appearance arise from conditions and therefore are not [truly] exis
 
 **Therefore it is called form and emptiness.**
 
-Since the form-aggregate is thus, all dharmas are likewise. The *Great Perfection of Wisdom Sutra* says: "If dharmas were not empty, there would be no path and no fruit." The first sentence provides a paired heading of form and emptiness. The next sentence provides a paired explanation. The last sentence provides a paired conclusion.
+Since the form-aggregate is thus, all dharmas are likewise. The *Great Perfection of Wisdom Sūtra* says: "If dharmas were not empty, there would be no path and no fruit." The first sentence provides a paired heading of form and emptiness. The next sentence provides a paired explanation. The last sentence provides a paired conclusion.
 
 **Furthermore, emptiness has no self-characteristics; it is made clear in reference to form.**
 
@@ -72,7 +72,7 @@ This is true emptiness. It does not obstruct form. Thus contemplating emptiness,
 
 **It does not obstruct illusory existence and is called form-emptiness.**
 
-This is illusory form. It does not obstruct emptiness. Thus engaging with existence, the one path remains pure. In summary: first, with regard to the unchanging and condition-following nature of characteristics, the nihilistic and the substantive are eliminated. Then, with regard to not abiding in either birth-and-death or nirvana, compassion and wisdom are clarified.
+This is illusory form. It does not obstruct emptiness. Thus engaging with existence, the one path remains pure. In summary: first, with regard to the unchanging and condition-following nature of characteristics, the nihilistic and the substantive are eliminated. Then, with regard to not abiding in either birth-and-death or nirvāṇa, compassion and wisdom are clarified.
 
 ---
 
@@ -106,7 +106,7 @@ Gold represents principle. The lion represents phenomena. This is also as Zhongn
 
 **Therefore it is called signlessness.**
 
-The *Names Chapter* of the sutra says: "One who penetrates the signless dharma abides in the Buddha's abode." The *Sutra of Innumerable Meanings* says: "That one dharma is called signlessness." The *Names Chapter* speaks from the perspective of the fruit; the *Sutra of Innumerable Meanings* speaks from the perspective of principle. Though principle and fruit differ, signlessness is one.
+The *Names Chapter* of the sūtra says: "One who penetrates the signless dharma abides in the Buddha's abode." The *Sūtra of Innumerable Meanings* says: "That one dharma is called signlessness." The *Names Chapter* speaks from the perspective of the fruit; the *Sūtra of Innumerable Meanings* speaks from the perspective of principle. Though principle and fruit differ, signlessness is one.
 
 ---
 
@@ -126,7 +126,7 @@ When phenomena are completed, there is seeming arising, yet the gold-nature does
 
 **Therefore it is called non-arising.**
 
-The *Mahaparinirvana Sutra* says: "The nature of the aggregates cannot be destroyed; therefore it is said there is no arising." It also says: "Because it is empty, it cannot be destroyed; this is the meaning of non-arising." The commentary says: "Non-arising is the substance of the Buddha-dharma. All sutras and treatises expound the principle of non-arising. The *Lankavatara* teaches that all dharmas do not arise. The *Madhyamaka* treatise takes non-arising as the substance of its thesis."
+The *Mahaparinirvana Sūtra* says: "The nature of the aggregates cannot be destroyed; therefore it is said there is no arising." It also says: "Because it is empty, it cannot be destroyed; this is the meaning of non-arising." The commentary says: "Non-arising is the substance of the Buddha-dharma. All sūtras and treatises expound the principle of non-arising. The *Lankavatara* teaches that all dharmas do not arise. The *Madhyamaka* treatise takes non-arising as the substance of its thesis."
 
 ---
 
@@ -156,7 +156,7 @@ Starting from the form of the body and the thoughts of the mind, ending with the
 
 **This is called the Mahayana Beginning Teaching.**
 
-"Beginning" means initial. The *Great Perfection of Wisdom Sutra* says: "Emptiness is the initial gate of the Great Vehicle." This teaching has two aspects: first, the Beginning Teaching, also called the Partial Teaching. The text here mentions only "Beginning Teaching" because the second and third time-teachings of the *Saṃdhinirmocana Sutra* both agree that beings of fixed nature and those without Buddha-nature cannot attain buddhahood. Therefore these are combined and called simply "Beginning Teaching."
+"Beginning" means initial. The *Great Perfection of Wisdom Sūtra* says: "Emptiness is the initial gate of the Great Vehicle." This teaching has two aspects: first, the Beginning Teaching, also called the Partial Teaching. The text here mentions only "Beginning Teaching" because the second and third time-teachings of the *Saṃdhinirmocana Sūtra* both agree that beings of fixed nature and those without Buddha-nature cannot attain buddhahood. Therefore these are combined and called simply "Beginning Teaching."
 
 **Third: Although thoroughly and completely empty, this does not obstruct**
 
@@ -172,7 +172,7 @@ Conditioned arising has no [fixed] nature; everything is suchness. This is the m
 
 **Fourth: These two characteristics mutually subsume one another, and both vanish.**
 
-When principle subsumes phenomena, phenomena vanish; then true principle is not phenomena. When phenomena subsume principle, principle vanishes; then phenomenal dharmas are not principle. This is also the same as the gate of "mutual subsuming without remainder" in the commentary on the *Sutra of the Vows of Samantabhadra*.
+When principle subsumes phenomena, phenomena vanish; then true principle is not phenomena. When phenomena subsume principle, principle vanishes; then phenomenal dharmas are not principle. This is also the same as the gate of "mutual subsuming without remainder" in the commentary on the *Sūtra of the Vows of Samantabhadra*.
 
 **Deluded and false [characteristics] have no place to exist.**
 
@@ -180,7 +180,7 @@ Turning from the commentary on the above sentence: when both principle and pheno
 
 **Both are without power; emptiness and existence are both extinguished.**
 
-Because of the preceding mutual subsuming, both are powerless. When principle subsumes phenomena, then wondrous existence is extinguished. When phenomena subsume principle, then true emptiness is extinguished. The *Brief Commentary on the Heart Sutra* says: "When both emptiness and existence vanish, the one flavor is constantly manifest."
+Because of the preceding mutual subsuming, both are powerless. When principle subsumes phenomena, then wondrous existence is extinguished. When phenomena subsume principle, then true emptiness is extinguished. The *Brief Commentary on the Heart Sūtra* says: "When both emptiness and existence vanish, the one flavor is constantly manifest."
 
 **The path of language is cut off; the mind has nowhere to rest.**
 
@@ -208,7 +208,7 @@ The myriad dharmas arise necessarily at the same time and in the same instant; i
 
 **All is one; all share the nature of no-nature.**
 
-Understanding the one within the many. The sutra says: "In every mote of dust throughout the Flower Treasury World, one sees the entire dharma-realm."
+Understanding the one within the many. The sūtra says: "In every mote of dust throughout the Flower Treasury World, one sees the entire dharma-realm."
 
 **One is all; cause and effect are distinctly evident.**
 
@@ -244,7 +244,7 @@ Bringing together the commonality of all the sense-faculties, as illustrated by 
 
 **Then each and every one is both mixed and pure, forming a perfectly complete treasury.**
 
-When eye is identical with ear and so forth, that is "mixed." It is like a bodhisattva entering one samadhi yet simultaneously cultivating the six paramitas and immeasurable other practices and virtues, all accomplished at once; therefore it is called "mixed." When ear is not eye and so forth, that is "pure." Also like entering one samadhi and practicing only giving to an immeasurable extent, with no other practices; this is called "pure." As the *Chapter on the Teaching and Its Meaning* says: "Pure and mixed are free and unhindered, completely fulfilled; this is called a perfectly complete treasury."
+When eye is identical with ear and so forth, that is "mixed." It is like a bodhisattva entering one samādhi yet simultaneously cultivating the six paramitas and immeasurable other practices and virtues, all accomplished at once; therefore it is called "mixed." When ear is not eye and so forth, that is "pure." Also like entering one samādhi and practicing only giving to an immeasurable extent, with no other practices; this is called "pure." As the *Chapter on the Teaching and Its Meaning* says: "Pure and mixed are free and unhindered, completely fulfilled; this is called a perfectly complete treasury."
 
 **This is called the gate of the various treasuries being both pure and mixed with complete virtue.**
 
@@ -260,7 +260,7 @@ The nature of gold symbolizes principle. The lion symbolizes phenomena. Though t
 
 **Whether one or many, each abides in its own position.**
 
-The sutra's verse says: "With one buddha-land filling the ten directions, the ten directions entering into one, with no remainder: the original characteristics of the world are also not destroyed. The one of incomparable virtue is able to do this."
+The sūtra's verse says: "With one buddha-land filling the ten directions, the ten directions entering into one, with no remainder: the original characteristics of the world are also not destroyed. The one of incomparable virtue is able to do this."
 
 **This is called the gate of one and many mutually containing without being the same.**
 
@@ -276,7 +276,7 @@ The sense-faculties are mutually identical. Substance is not outside of function
 
 **They are freely and spontaneously established, without obstruction.**
 
-The sutra says: "One is precisely many; many is precisely one. The text follows the meaning, and the meaning follows the text."
+The sūtra says: "One is precisely many; many is precisely one. The text follows the meaning, and the meaning follows the text."
 
 **This is called the gate of all dharmas being mutually identical and free.**
 
@@ -320,7 +320,7 @@ The *Chapter on the Teaching and Its Meaning* says: "Like a bundle of arrows, al
 
 **Without hindering their establishment, subtlety and refinement are accomplished.**
 
-The sutra says: "Within a single mote of dust there are innumerable lands; the lands in turn becoming dust, that is even harder to fathom."
+The sūtra says: "Within a single mote of dust there are innumerable lands; the lands in turn becoming dust, that is even harder to fathom."
 
 **This is called the gate of subtle mutual containment and peaceful establishment.**
 
@@ -384,7 +384,7 @@ This means that the entire mind constitutes one thing, and following the mind it
 
 **We speak of phenomena, we speak of principle; there is accomplishment and there is establishment.**
 
-The sutra says: "One should contemplate the nature of the dharma-realm: everything is created by the mind alone."
+The sūtra says: "One should contemplate the nature of the dharma-realm: everything is created by the mind alone."
 
 **This is called the gate of the mind-only turning and accomplishing.**
 
@@ -428,7 +428,7 @@ Translating from Sanskrit to Chinese, with both old and new renderings.
 
 **When one sees the lion, one sees that all conditioned dharmas, without needing to be destroyed, are fundamentally quiescent and extinct.**
 
-The *Vimalakirti Sutra* says: "Sentient beings are themselves quiescent extinction. They need not be further extinguished."
+The *Vimalakirti Sūtra* says: "Sentient beings are themselves quiescent extinction. They need not be further extinguished."
 
 **Abandoning all grasping and rejecting, one enters, right here on this path, into the ocean of sarvajña. Therefore it is called the Way.**
 
@@ -440,11 +440,11 @@ The *Awakening of Faith* says: "All sentient beings are not called 'awakened,' b
 
 **Ultimately possessing omniscience of all kinds (一切種智 *yīqiè zhǒngzhì*): this is called attaining bodhi.**
 
-This is the ultimate fruit. It is also called ultimate awakening. "Omniscience of all kinds" is one of the three kinds of wisdom. Previously, Guifeng (圭峯), in his commentary on the *Perfect Enlightenment Sutra*, interpreted "perfect luminosity" as omniscience of all kinds. The Worthy First, in his *Contemplation of Returning to the Source*, described attaining bodhi through perfect luminosity. The present text says that possessing omniscience of all kinds constitutes attaining bodhi. Broadly considered, though the phrasing differs slightly, the essential purport is the same. According to the *Awakening of Faith*, "having the great wisdom-function of immeasurable skillful means... is called omniscience of all kinds," all of which belongs to the Shared Teaching. Further, according to the Zhaosin commentary, it describes how the practitioners of the five teachings each attain bodhi; only the Perfect school, through the two gates of cause and effect mutually subsuming, represents the Distinct Teaching.
+This is the ultimate fruit. It is also called ultimate awakening. "Omniscience of all kinds" is one of the three kinds of wisdom. Previously, Guifeng (圭峯), in his commentary on the *Perfect Enlightenment Sūtra*, interpreted "perfect luminosity" as omniscience of all kinds. The Worthy First, in his *Contemplation of Returning to the Source*, described attaining bodhi through perfect luminosity. The present text says that possessing omniscience of all kinds constitutes attaining bodhi. Broadly considered, though the phrasing differs slightly, the essential purport is the same. According to the *Awakening of Faith*, "having the great wisdom-function of immeasurable skillful means... is called omniscience of all kinds," all of which belongs to the Shared Teaching. Further, according to the Zhaosin commentary, it describes how the practitioners of the five teachings each attain bodhi; only the Perfect school, through the two gates of cause and effect mutually subsuming, represents the Distinct Teaching.
 
 ---
 
-## Chapter Ten: Entering Nirvana (入涅槃第十)
+## Chapter Ten: Entering Nirvāṇa (入涅槃第十)
 
 **Seeing that the lion and gold, both characteristics, are completely exhausted: afflictions do not arise.**
 
@@ -454,8 +454,8 @@ Both characteristics completely exhausted: the observed realm is emptied. Afflic
 
 The *New Record* says: "Like gold fashioned into vessels, skillful and clumsy are vastly different; this is beauty and ugliness appearing before one." The record continues: "Threading them all with one principle, only the gold is ultimate; this is the mind being peaceful as the ocean." The upper sentence echoes the commentary on "both characteristics completely exhausted." The lower sentence echoes the commentary on "afflictions do not arise."
 
-**Deluded thoughts are all exhausted; there is no oppression or affliction. One exits the wrappings and separates from the obstacles, forever abandoning the source of suffering. This is called entering nirvana.**
+**Deluded thoughts are all exhausted; there is no oppression or affliction. One exits the wrappings and separates from the obstacles, forever abandoning the source of suffering. This is called entering nirvāṇa.**
 
-Delusions and karma are all exhausted: there are no deluded thoughts of the truth of origination. The three sufferings all vanish: there is no oppression of the truth of suffering. Undefiled wisdom arises, exiting the wrappings and separating from the obstacles: the truth of the path is cultivated. Liberation is free and unhindered, forever departing from the source of suffering: the truth of cessation is realized. "Entering" means comprehending and awakening. *Nirvana* is translated as "perfect quiescence." The sutra says: "Transmigration is birth and death; non-movement is nirvana."
+Delusions and karma are all exhausted: there are no deluded thoughts of the truth of origination. The three sufferings all vanish: there is no oppression of the truth of suffering. Undefiled wisdom arises, exiting the wrappings and separating from the obstacles: the truth of the path is cultivated. Liberation is free and unhindered, forever departing from the source of suffering: the truth of cessation is realized. "Entering" means comprehending and awakening. *Nirvāṇa* is translated as "perfect quiescence." The sūtra says: "Transmigration is birth and death; non-movement is nirvāṇa."
 
-Now this chapter on nirvana is truly a profound treasury of the *Flower Ornament*. Therefore in the Jin-era translation, the chapter on the Nature-Arising of the Precious King was investigated deeply by Souxuan and Tanxuan (搜玄探玄). In the Tang-era translation, the chapter on the Appearance of the Tathagata was illuminated by the *Old Commentary* and the *New Record*, continuing the fragrance like successive flames. Moreover, in the kingdom of Goryeo (高麗), these texts are still fully preserved and their transmission has never been broken. Since all these works originated in China, I hope that all later descendants will seek teachers, study diligently, and together repay the weighty virtue of Yunhua (雲華), Xianshou (賢首), Qingliang (清涼), and Guifeng (圭峯).
+Now this chapter on nirvāṇa is truly a profound treasury of the *Flower Ornament*. Therefore in the Jin-era translation, the chapter on the Nature-Arising of the Precious King was investigated deeply by Souxuan and Tanxuan (搜玄探玄). In the Tang-era translation, the chapter on the Appearance of the Tathagata was illuminated by the *Old Commentary* and the *New Record*, continuing the fragrance like successive flames. Moreover, in the kingdom of Goryeo (高麗), these texts are still fully preserved and their transmission has never been broken. Since all these works originated in China, I hope that all later descendants will seek teachers, study diligently, and together repay the weighty virtue of Yunhua (雲華), Xianshou (賢首), Qingliang (清涼), and Guifeng (圭峯).

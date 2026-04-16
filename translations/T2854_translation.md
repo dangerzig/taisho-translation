@@ -116,7 +116,7 @@ With sincere minds we make vows:
 > All the buddhas of the ten directions.
 > We humbly pray that all sentient beings
 > Forever shatter all afflictions,
-> Clearly see the buddha-nature,
+> Clearly see the Buddha-nature,
 > Just like the Bodhisattva Mañjuśrī.
 
 Having made vows, we take refuge and pay homage to the Three Jewels.

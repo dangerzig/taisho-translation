@@ -67,7 +67,7 @@ Then the World-Honored One, the Tathāgata Mahāvairocana, abiding in the sovere
 
 "*Oṃ ananta-vimokṣa-mukha śūṃ.*
 
-"Furthermore, the six recollections: recollection of the Buddha, recollection of the Dharma, recollection of the Saṅgha, recollection of generosity, recollection of the precepts, and recollection of the heavens. These six dharmas and all dharmas share a single recollection, which is the emptiness of ultimate meaning; all dharmas share a single characteristic, which is signlessness, and even this characteristic is left behind. This is called the prajñāpāramitā teaching of the samādhi-gate of the equality-gate. The great vidyā is:
+"Furthermore, the six recollections: recollection of the Buddha, recollection of the Dharma, recollection of the Sangha, recollection of generosity, recollection of the precepts, and recollection of the heavens. These six dharmas and all dharmas share a single recollection, which is the emptiness of ultimate meaning; all dharmas share a single characteristic, which is signlessness, and even this characteristic is left behind. This is called the prajñāpāramitā teaching of the samādhi-gate of the equality-gate. The great vidyā is:
 
 "*Oṃ sarvānusmṛti-vālaṃ dhaṃ saṃpanna-dhi śi hūṃ hūṃ hūṃ.*
 

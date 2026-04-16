@@ -733,7 +733,7 @@ Composed by Mātṛceṭa (*Mózhǐlǐ Zhìzhā*, 摩咥里制吒). Translated b
 > The twofold benefit-practice already fulfilled,
 > The form-body and Dharma-body both perfected.
 > Rescuing even the icchantika,
-> In the twin Śāla trees he revealed buddha-nature.
+> In the twin Śāla trees he revealed Buddha-nature.
 
 > His compassionate mind pervades the three realms of existence;
 > His form-body responds to all regions.

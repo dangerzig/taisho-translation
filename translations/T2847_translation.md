@@ -9,7 +9,7 @@ Translated from the Chinese. Tang/Five Dynasties period; translator unknown.
 
 In this very Sahā world, with hearts vowed to benefit all beings, we establish the gate of skillful means. Benevolence extends to the eight directions; sounds of peace and joy compete in welcoming; before the Brahma-assembly, the mind is led forward. It is said that the hardships of forced labor are dispelled, demons and malevolent spirits are banished a thousand li from the household gate. Gathering all these many virtues, with boundless excellent conditions:
 
-First, using these merits to adorn the Four Heavenly Kings, dragon-devas, and the Eight Divisions of protective beings — we humbly pray that their awesome radiance blazes brilliantly and their meritorious power increases ever more, that they may bring rescue to the people and protection to the nation.
+First, using these merits to adorn the Four Heavenly Kings, dragon-devas, and the Eight Divisions of protective beings; we humbly pray that their awesome radiance blazes brilliantly and their meritorious power increases ever more, that they may bring rescue to the people and protection to the nation.
 
 Again, carrying these supreme merits, next to adorn our Hexi Festival.
 

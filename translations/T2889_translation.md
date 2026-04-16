@@ -12,10 +12,10 @@ Translated from the Chinese. Dynasty and translator unknown (失譯)
 > Saving and protecting those heavy with sin in the Sahā world,
 > Establishing [them] in the ground of nirvāṇa and liberation.
 > Unceasingly making offerings to all buddhas,
-> Ferrying all beings across—like a shadow following a form—
+> Ferrying all beings across; like a shadow following a form...
 > May [I] always uphold [this] and never abandon it.
 
-Amitābha Buddha of the Western [Pure Land], Bodhisattva Avalokiteśvara, and Bodhisattva Mahāsthāmaprāpta possess this power: those who recite the names of these one Buddha and two Bodhisattvas will be liberated from the suffering of birth and death and will never enter the hells. They will always encounter good spiritual friends. Those who have doubts or face difficulties—if they recite this sūtra one thousand times, they will immediately attain liberation.
+Amitābha Buddha of the Western [Pure Land], Bodhisattva Avalokiteśvara, and Bodhisattva Mahāsthāmaprāpta possess this power: those who recite the names of these one Buddha and two Bodhisattvas will be liberated from the suffering of birth and death and will never enter the hells. They will always encounter good spiritual friends. Those who have doubts or face difficulties; if they recite this sūtra one thousand times, they will immediately attain liberation.
 
 > First vow: May the Three Jewels always stand firm.
 > Second vow: May wind and rain follow their proper seasons.

@@ -9,7 +9,7 @@ Translated from the Chinese. Later Han, translated by An Shigao
 
 For disciples of the Buddha, constantly throughout day and night, with sincere mind reciting and contemplating the Eight Realizations of Great Beings:
 
-**The First Realization:** The world is impermanent; lands are fragile and precarious. The four great elements are suffering and empty; the five aggregates are without self. Birth and death, change and transformation — false and without master. The mind is the source of evil; the body is a thicket of transgressions. Contemplating thus, one gradually departs from birth and death.
+**The First Realization:** The world is impermanent; lands are fragile and precarious. The four great elements are suffering and empty; the five aggregates are without self. Birth and death, change and transformation; false and without master. The mind is the source of evil; the body is a thicket of transgressions. Contemplating thus, one gradually departs from birth and death.
 
 **The Second Realization:** Abundant desires bring suffering. The weariness of birth and death arises from craving. With few desires and non-action, body and mind are at ease.
 
@@ -25,6 +25,6 @@ For disciples of the Buddha, constantly throughout day and night, with sincere m
 
 **The Eighth Realization:** Birth and death blaze fiercely; suffering and affliction are without measure. Arousing the Mahāyāna mind, universally saving all beings; vowing on behalf of sentient beings to endure immeasurable suffering; bringing all sentient beings to ultimate great joy.
 
-These eight matters are what the great beings — all buddhas and bodhisattvas — have realized. Practicing the Way with diligence, cultivating compassion and wisdom, boarding the vessel of the dharmakāya, they arrive at the shore of nirvāṇa; then returning to birth and death, they liberate sentient beings. With these aforementioned eight matters they guide and instruct all beings, causing all sentient beings to realize the suffering of birth and death, to relinquish the five desires, and to cultivate the mind on the noble path.
+These eight matters are what the great beings; all buddhas and bodhisattvas; have realized. Practicing the Way with diligence, cultivating compassion and wisdom, boarding the vessel of the dharmakāya, they arrive at the shore of nirvāṇa; then returning to birth and death, they liberate sentient beings. With these aforementioned eight matters they guide and instruct all beings, causing all sentient beings to realize the suffering of birth and death, to relinquish the five desires, and to cultivate the mind on the noble path.
 
 If disciples of the Buddha recite these eight matters, in each and every moment of mind they will extinguish immeasurable transgressions; advancing toward bodhi, they will swiftly ascend to perfect enlightenment; permanently severing birth and death, they will dwell forever in joy.

@@ -43,7 +43,7 @@ At that time, the Tathāgata, moving with dignity from his exalted seat, confess
 
 Then the World-Honored One, seeing that the time for the pravāraṇā had come, with compassion for the assembly, three times before the bhikṣus completed the ceremony. When the establishment was finished, five bhikṣus rose from their seats to establish the pravāraṇā. Just as the pravāraṇā was established, ten thousand bhikṣus attained the path of realization, eight thousand bhikṣus attained arhatship, and eighty-four thousand devas in space all witnessed the teaching and aroused the aspiration for supreme, true awakening, expounding the sūtra dharma. Immeasurable and countless beings established the three vehicles. Now the Buddha, with compassion, condescended in his supreme dignity to sit among the assembly, liberating those in peril, benefiting beings in all ten directions.
 
-At that time, the Nāga King Nandopananda, leaving his own dwelling, brought fragrant sandalwood and various incenses and proceeded to where the Buddha was, to the ground of the pravāraṇā ceremony. He took refuge in the Buddha and the noble assembly, bowed his head at their feet, and with sandalwood and various incenses made offerings to the Buddha and the bhikṣu saṅgha. Then with this verse he joyously proclaimed:
+At that time, the Nāga King Nandopananda, leaving his own dwelling, brought fragrant sandalwood and various incenses and proceeded to where the Buddha was, to the ground of the pravāraṇā ceremony. He took refuge in the Buddha and the noble assembly, bowed his head at their feet, and with sandalwood and various incenses made offerings to the Buddha and the bhikṣu sangha. Then with this verse he joyously proclaimed:
 
 > Those who dwell in mountain caves,
 > Sit beneath shaded trees,
@@ -54,7 +54,7 @@ At that time, the Nāga King Nandopananda, leaving his own dwelling, brought fra
 > All making offerings to the Buddha,
 > Attaining the gate of amṛta.
 
-Then the Sea Nāga King, bearing red true pearls, conjured a supremely wonderful jeweled pavilion, four hundred leagues in breadth and length, composed jointly of deep indigo vaiḍūrya. Holding it aloft with his hands, he traveled through space, rising above the nāga palace. From the jeweled pavilion, pools of water of eight flavors flowed pure and clean upon the ground, making offerings to the Tathāgata and the bhikṣu assembly. He presented the jeweled pavilion to the Great Sage and the bhikṣu saṅgha, and scattered pearl ornaments upon the Buddha and the noble assembly. Then he spoke in verse:
+Then the Sea Nāga King, bearing red true pearls, conjured a supremely wonderful jeweled pavilion, four hundred leagues in breadth and length, composed jointly of deep indigo vaiḍūrya. Holding it aloft with his hands, he traveled through space, rising above the nāga palace. From the jeweled pavilion, pools of water of eight flavors flowed pure and clean upon the ground, making offerings to the Tathāgata and the bhikṣu assembly. He presented the jeweled pavilion to the Great Sage and the bhikṣu sangha, and scattered pearl ornaments upon the Buddha and the noble assembly. Then he spoke in verse:
 
 > Pure as empty space,
 > Equal and naturally without self;

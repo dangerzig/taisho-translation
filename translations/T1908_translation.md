@@ -16,7 +16,7 @@ Why is this so? In the ten directions and three times, in a single mote of dust 
 
 Now in this place, the Lotus Treasury World (*Liánhuā Zàng Jiè*, 蓮花藏界), the Buddha Vairocana (*Lúshěnà Fó*, 盧舍那佛) sits upon the lotus platform, releasing boundless light, gathering immeasurable sentient beings, turning the great-vehicle dharma-wheel that turns without anything being turned. The great assembly of bodhisattvas fills space, receiving the great-vehicle dharma-joy that is received without anything being received.
 
-Yet now we are together present in this place of the One Reality and the Three Jewels, a place without error, and we neither see nor hear, as if deaf and blind, without any buddha-nature. Why is this so? Ignorance and inversion deludedly create external objects. Clinging to self and what belongs to self, we create all kinds of karma. We cover and obstruct ourselves and cannot see or hear. It is like hungry ghosts who, approaching a river, see fire.
+Yet now we are together present in this place of the One Reality and the Three Jewels, a place without error, and we neither see nor hear, as if deaf and blind, without any Buddha-nature. Why is this so? Ignorance and inversion deludedly create external objects. Clinging to self and what belongs to self, we create all kinds of karma. We cover and obstruct ourselves and cannot see or hear. It is like hungry ghosts who, approaching a river, see fire.
 
 Therefore, now before the buddhas, we deeply give rise to shame and remorse. We arouse the bodhicitta and with sincere minds repent.
 

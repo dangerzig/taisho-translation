@@ -66,7 +66,7 @@ However, I now raise an objection: That which serves as the root of the body acr
 
 ## Chapter Three: Directly Revealing the True Source
 
-**(5)** The One Vehicle teaching that reveals the nature says all sentient beings possess the originally-awakened true mind, which from beginningless time has been permanently abiding, pure, luminously clear, and always aware. It is also called "buddha-nature" and "tathāgatagarbha." From the beginningless past, delusory characteristics have obscured it so that it does not know itself, recognizing only the ordinary form. Therefore it indulges in attachments, creates karmic bonds, and suffers birth-and-death.
+**(5)** The One Vehicle teaching that reveals the nature says all sentient beings possess the originally-awakened true mind, which from beginningless time has been permanently abiding, pure, luminously clear, and always aware. It is also called "Buddha-nature" and "tathāgatagarbha." From the beginningless past, delusory characteristics have obscured it so that it does not know itself, recognizing only the ordinary form. Therefore it indulges in attachments, creates karmic bonds, and suffers birth-and-death.
 
 The Great Awakened One, in compassion, taught that all is empty, and further disclosed the numinous, awakened true mind, pure and entirely identical with all buddhas. As the *Avataṃsaka Sūtra* says: "Children of the Buddha! There is not a single sentient being that does not fully possess the Tathāgata's wisdom. It is only because of delusory thinking and attachment that they do not realize it. If they depart from delusory thinking, then omniscient wisdom, spontaneous wisdom, and unobstructed wisdom will immediately manifest before them."
 

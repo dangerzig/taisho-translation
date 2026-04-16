@@ -34,7 +34,7 @@ Translated from the Chinese. Translator unknown (失譯)
 
 > There are no mountains, seas, or springs at all;
 > Only rivers flow,
-> Whose sound is like the chanting of sutras.
+> Whose sound is like the chanting of sūtras.
 
 > Gods and humans enter the water in sport,
 > Obtaining whatever they desire;

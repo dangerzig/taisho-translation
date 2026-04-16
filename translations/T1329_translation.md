@@ -9,7 +9,7 @@ Translated from the Chinese. Eastern Jin, translated by Tan Wulan (曇無蘭)
 
 [Dhāraṇī:] "raṇatāramāratilidhambāratilihūlūśūmulūśūmañjhakukṣakukṣa"
 
-"Namo Buddha, Namo Dharma, Namo Bhikṣusaṃgha, Namo to the Seven Buddhas of the Past, Namo to all Buddhas, Namo to all disciples of the Buddhas — may the spell I recite be at once fulfilled as wished."
+"Namo Buddha, Namo Dharma, Namo Bhikṣusaṃgha, Namo to the Seven Buddhas of the Past, Namo to all Buddhas, Namo to all disciples of the Buddhas; may the spell I recite be at once fulfilled as wished."
 
 If a small child suffers from headache or abdominal pain, one should recite this seven times and the child will recover.
 

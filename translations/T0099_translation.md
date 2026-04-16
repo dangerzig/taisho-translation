@@ -759,7 +759,7 @@ When the *bhikṣus* heard the Buddha's words, they rejoiced and put them into p
 ## Sūtra 298 (Dependent Origination: The Full Explanation)
 
 [The Buddha teaches the full formula of dependent origination with definitions of each link:
-- *Avidyā* (ignorance): not knowing the past, future, or both; not knowing inner, outer, or both; not knowing *karma* and its results; not knowing the Buddha, Dharma, and Saṅgha; not knowing suffering, its origin, its cessation, and the path; not knowing causes and what arises from causes.
+- *Avidyā* (ignorance): not knowing the past, future, or both; not knowing inner, outer, or both; not knowing *karma* and its results; not knowing the Buddha, Dharma, and Sangha; not knowing suffering, its origin, its cessation, and the path; not knowing causes and what arises from causes.
 - *Saṃskāra* (formations): three kinds: bodily, verbal, and mental.
 - *Vijñāna* (consciousness): six consciousness groups.
 - *Nāmarūpa* (name-and-form): "name" is the four formless aggregates; "form" is the four great elements and form derived from them.
@@ -1016,7 +1016,7 @@ Sūtras 501--503: Mahāmaudgalyāyana's accounts of being guided by the Buddha i
 
 - **Stream-entry** and the **four fruits**: Teachings on the factors leading to stream-entry (*srotāpatti*), once-returning (*sakṛdāgāmin*), non-returning (*anāgāmin*), and *arhatship*.
 
-- **Lay practice**: Teachings to householders on the four factors of stream-entry (faith in the Buddha, Dharma, and Saṅgha, and moral conduct).]
+- **Lay practice**: Teachings to householders on the four factors of stream-entry (faith in the Buddha, Dharma, and Sangha, and moral conduct).]
 
 # Fascicle 25
 
@@ -1028,7 +1028,7 @@ Sūtras 501--503: Mahāmaudgalyāyana's accounts of being guided by the Buddha i
 
 ## Sūtra 641
 
-[Continuation of the Aśoka narrative, including the story of King Aśoka's final offering of half an *āmalaka* fruit, his only remaining possession as he lay dying. The ministers accept this final gift and honor it by placing it in the monks' meal as an offering to the Saṅgha.]
+[Continuation of the Aśoka narrative, including the story of King Aśoka's final offering of half an *āmalaka* fruit, his only remaining possession as he lay dying. The ministers accept this final gift and honor it by placing it in the monks' meal as an offering to the Sangha.]
 
 # Fascicles 26--27
 
@@ -1111,7 +1111,7 @@ When the *bhikṣus* heard the Buddha's words, they rejoiced and put them into p
 
 **Fascicles 29--31 (Sūtras 785--860)**: Further teachings on meditation practices, the *dhyānas*, the formless attainments, and mindfulness of breathing (*ānāpānasmṛti*). Key sūtras include detailed instructions on the sixteen stages of mindfulness of breathing and how this practice fulfills the four foundations of mindfulness, which in turn fulfill the seven factors of awakening, which fulfill knowledge and liberation.
 
-**Fascicle 32 (Sūtras 861--904)**: The *Saṃyutta* on stream-entry (*srotāpatti*), teaching the four factors of stream-entry: verified faith in the Buddha, verified faith in the Dharma, verified faith in the Saṅgha, and virtues dear to the noble ones.
+**Fascicle 32 (Sūtras 861--904)**: The *Saṃyutta* on stream-entry (*srotāpatti*), teaching the four factors of stream-entry: verified faith in the Buddha, verified faith in the Dharma, verified faith in the Sangha, and virtues dear to the noble ones.
 
 **Fascicle 33 (Sūtras 905--937)**: Teachings on food, effort, and various aspects of practice.
 
@@ -1160,7 +1160,7 @@ When the *bhikṣus* heard the Buddha's words, they rejoiced and put them into p
 
 ## Sūtra 1031
 
-[Ānanda visits the sick Anāthapiṇḍada, who tells him not to fear: "From the time I first saw the Blessed One at the Cool Grove in Rājagṛha, I have possessed unshakable faith in the Buddha, the Dharma, and the Saṅgha, and noble virtue." Ānanda declares him a stream-enterer.]
+[Ānanda visits the sick Anāthapiṇḍada, who tells him not to fear: "From the time I first saw the Blessed One at the Cool Grove in Rājagṛha, I have possessed unshakable faith in the Buddha, the Dharma, and the Sangha, and noble virtue." Ānanda declares him a stream-enterer.]
 
 ## Sūtra 1032 (Śāriputra's Deep Teaching to Anāthapiṇḍada)
 

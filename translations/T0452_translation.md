@@ -43,7 +43,7 @@ The Buddha told Upāli: "Listen carefully, listen carefully, and reflect well up
 
 "The third great spirit is named Incense-Sound. From the pores of his body rains an exquisite sandalwood incense from the near shore of the sea. The fragrance rises like clouds of a hundred jeweled colors and encircles the palace seven times.
 
-"The fourth great spirit is named Joyful-Delight. He rains wish-fulfilling jewels, and each jeweled pearl naturally rests atop the banners and pennants, proclaiming the manifold teachings of taking refuge in the Buddha, taking refuge in the Dharma, taking refuge in the Saṅgha, and also the five precepts, immeasurable wholesome dharmas, and the pāramitās, benefiting and encouraging those who have generated the aspiration for awakening.
+"The fourth great spirit is named Joyful-Delight. He rains wish-fulfilling jewels, and each jeweled pearl naturally rests atop the banners and pennants, proclaiming the manifold teachings of taking refuge in the Buddha, taking refuge in the Dharma, taking refuge in the Sangha, and also the five precepts, immeasurable wholesome dharmas, and the pāramitās, benefiting and encouraging those who have generated the aspiration for awakening.
 
 "The fifth great spirit is named Right-Sound-Voice. From the pores of his body flow forth streams of water, and upon each stream are five hundred billion flowers. Upon each flower are twenty-five jade maidens, and from the pores of each jade maiden arise all manner of sounds that surpass all the music of the consorts of Māra, lord of the devas."
 

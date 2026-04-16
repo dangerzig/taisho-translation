@@ -57,7 +57,7 @@ Then the Supreme King Buddha again addressed him: "There is a divine seal. The b
 
 First, establish an altar. For three days, go to the latrine only once and bathe once. Then carve the seal. While holding fragrant water, carve the seal. The mantra is:
 
-*[Dhāraṇī]*
+*Viyati-ma-vidha-dhu svāhā.*
 
 Think of Dragon-Lineage Supreme Honored King and universally make vows for swift attainment.
 

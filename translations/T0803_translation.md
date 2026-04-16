@@ -19,6 +19,6 @@ The Buddha addressed the bhikṣus, saying: "Listen carefully! If any śrāvakas
 
 "If bhikṣus cut off and eliminate the defilement of craving, they attain liberation of mind. If they cut off and eliminate ignorance, they attain liberation through wisdom.
 
-"Furthermore, O bhikṣus, one who is free from the defilement of craving and has attained liberation of mind — this is called direct realization in the body. One who has cut off and eliminated ignorance and attained liberation through wisdom — this is called a non-learner. Having forever abandoned craving and attachment, thoroughly understanding what is true, with right knowledge present before them, they directly realize their own fruit and reach the very end of suffering.
+"Furthermore, O bhikṣus, one who is free from the defilement of craving and has attained liberation of mind; this is called direct realization in the body. One who has cut off and eliminated ignorance and attained liberation through wisdom; this is called a non-learner. Having forever abandoned craving and attachment, thoroughly understanding what is true, with right knowledge present before them, they directly realize their own fruit and reach the very end of suffering.
 
 "O bhikṣus! As has been taught, you should train accordingly."

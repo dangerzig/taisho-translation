@@ -113,7 +113,7 @@ The Buddha then spoke in verse:
 > Entering the dharma of all buddha-lands,
 > According with what is appropriate, one can guide and save.
 > Always purifying all buddha-lands,
-> Among the saṅgha there is no flaw or stain.
+> Among the sangha there is no flaw or stain.
 > If one asks about the names of the deep and subtle dharma,
 > This sūtra chapter can fully answer.
 > All sensual indulgence has been exhausted;

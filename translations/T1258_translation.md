@@ -9,13 +9,13 @@ Translated from the Chinese. Tang dynasty, translated by Amoghavajra (不空)
 
 First, one should form the mudrā of the Buddha Vairocana.
 
-For this mudrā configuration: interlace both hands inward, and raise both thumbs upright together — this completes [the mudrā]. Recite the mantra seven times, then release [the mudrā] above the crown of the head. The mantra is:
+For this mudrā configuration: interlace both hands inward, and raise both thumbs upright together; this completes [the mudrā]. Recite the mantra seven times, then release [the mudrā] above the crown of the head. The mantra is:
 
 *Namaḥ samanta-buddhānāṃ a vi ra hūṃ khaṃ*
 
 Next, form the root mantra mudrā of Bodhisattva Māricī.
 
-For this mudrā configuration: interlace both hands inward, raise and join both index fingers upright, have each middle finger curve around and grip the respective index finger so they press firmly together, then raise both thumbs upright together — this completes [the mudrā]. Recite the mantra to consecrate the five places of the body: touch the forehead, then the right shoulder, then the left shoulder, then the heart, then the throat, reciting once at each place. The mantra is:
+For this mudrā configuration: interlace both hands inward, raise and join both index fingers upright, have each middle finger curve around and grip the respective index finger so they press firmly together, then raise both thumbs upright together; this completes [the mudrā]. Recite the mantra to consecrate the five places of the body: touch the forehead, then the right shoulder, then the left shoulder, then the heart, then the throat, reciting once at each place. The mantra is:
 
 *Namo ratna-trayāya tadyathā arka-marīci marīci adū-marīci citra-marīci mahā-citra-marīci antardhāna-marīci māricī-marīci namo 'stu te rakṣa rakṣa māṃ sarva-sattvānāṃ ca sarvatra sarva-pāyu-padravebhyaḥ svāhā*
 

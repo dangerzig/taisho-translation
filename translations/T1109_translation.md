@@ -9,35 +9,35 @@ Translated from the Chinese. Qing dynasty, translated by Ngawang Tashi (阿旺�
 
 Namo to the Most Revered Holy Tārā, the Buddha-Mother
 
-> Oṃ — Tāre liberates from saṃsāra;
+> Oṃ; Tāre liberates from saṃsāra;
 > By Tuttāre one is freed from the eight fears.
 
-> Ture heals all illness and transgression —
+> Ture heals all illness and transgression ...
 > Before the Savior Mother I bow in reverent praise.
 
 > In the center of a pure white lotus,
 > Upon which is spread a moon-disc throne,
-> The Mother seated in the vajra cross-legged posture —
+> The Mother seated in the vajra cross-legged posture ...
 > Before the wish-granting Mother I bow in reverence.
 
 > Her face shines with the brightness of the autumn moon;
 > The Buddha-Mother's body rests upon a luminous white disc.
-> All adornments are fully present and complete —
+> All adornments are fully present and complete ...
 > Before her holding the utpala flower I bow in reverence.
 
 > Her form is perfect, appearing as one of sixteen years;
 > She is the daughter of all the Perfectly Enlightened Ones.
-> Her supreme body bestows wishes as desired —
+> Her supreme body bestows wishes as desired ...
 > Before the Holy Savior Mother I bow in reverence.
 
 > Pure white disc, white in light and color,
 > Eight syllables appearing upon eight spokes,
-> All of them turning together in unison —
+> All of them turning together in unison ...
 > Before her who possesses the wheel I bow in deepest reverence.
 
 > All buddha-fields are entirely pure,
 > Precious flowers spread throughout them all;
-> Mother who gave birth to all Buddhas of the three times —
+> Mother who gave birth to all Buddhas of the three times ...
 > Before this honored Mother I bow in reverence.
 
 > Holy Mother, Tārā, Savior Mother,
@@ -47,12 +47,12 @@ Namo to the Most Revered Holy Tārā, the Buddha-Mother
 
 > In illness and in all hardships,
 > Relying on your power, I pray for your protection.
-> Supreme and ordinary accomplishments —
+> Supreme and ordinary accomplishments ...
 > Grant me all of them completely without remainder.
 
 > Those who sincerely revere before the Holy Mother
 > She always holds in mind as her own children.
-> Before you I also offer my prayers —
+> Before you I also offer my prayers ...
 > I beg only that you always hold the hook of compassion.
 
 > The Buddha-Mother's supreme body, the color of the moon,
@@ -62,7 +62,7 @@ Namo to the Most Revered Holy Tārā, the Buddha-Mother
 > Upon a lotus and moon-disc jeweled throne,
 > Both feet seated in the vajra cross-legged posture.
 
-> One face, two arms, bearing a joyful countenance —
+> One face, two arms, bearing a joyful countenance ...
 > Mother who gave birth to all Buddhas of the three times.
 > Constantly kneeling before the honored Buddha-Mother,
 > Now before you I offer this humble praise.

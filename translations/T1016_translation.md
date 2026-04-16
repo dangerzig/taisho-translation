@@ -3,7 +3,7 @@
 
 Taishō Tripiṭaka No. 1016
 
-Translated from the Chinese. Liang dynasty, translated by Saṅghabhadra (僧伽婆羅).
+Translated from the Chinese. Liang dynasty, translated by Sanghabhadra (僧伽婆羅).
 
 ---
 
@@ -27,7 +27,7 @@ Having thus reflected, he asked his questions in order, like a *maṇi*-jewel, a
 
 The Buddha told Śāriputra: "If bodhisattva-mahāsattvas wish to reach all dharmas without attachment, they should recite this dhāraṇī:
 
-*Śuni śuke make sarvānta mukhe yuktini yuktini lukti prabhī hile kalapa kalapa si sale prabhāvatī hila hili hile hilile hila hile caiti cavamī cala calane attati arāne nimadini bhadanini dhiyatini hale vimale śubhane prāniliti cipane vavavihavane vāsaṅghadāmi vipula prabhī saṅkara liṣaṇe dhile tiṭile mahātiṭile yaśovatī sañcale acale macale vamacale tilita viśuddhi asaṅga-vihale asaṅga-nihale nihāra-vimale nihāra-śubhani dhrīta sumi sthami bhata mahāvatī mahāpāraje samantapāraje vipulapāraje vipula-lakṣmī saratamukhe sarvatara anugati anajite dhāraṇī dhāraṇī nidāta godhile svāhā*
+*Śuni śuke make sarvānta mukhe yuktini yuktini lukti prabhī hile kalapa kalapa si sale prabhāvatī hila hili hile hilile hila hile caiti cavamī cala calane attati arāne nimadini bhadanini dhiyatini hale vimale śubhane prāniliti cipane vavavihavane vāsanghadāmi vipula prabhī saṅkara liṣaṇe dhile tiṭile mahātiṭile yaśovatī sañcale acale macale vamacale tilita viśuddhi asaṅga-vihale asaṅga-nihale nihāra-vimale nihāra-śubhani dhrīta sumi sthami bhata mahāvatī mahāpāraje samantapāraje vipulapāraje vipula-lakṣmī saratamukhe sarvatara anugati anajite dhāraṇī dhāraṇī nidāta godhile svāhā*
 
 "Śāriputra! If a bodhisattva cultivates this dhāraṇī, they do not think of conditioned or unconditioned dharmas, do not speak of this dharma, do not observe this dharma, do not cling to this dharma, do not produce this dharma, do not seek to attain this dharma, do not cut off this dharma, do not increase or decrease it, do not see dharmas that accord or do not accord, do not see arising or ceasing, do not see the three times, do not see regression, do not see gathering or scattering, and have nothing to say. They only cultivate mindfulness of the Buddha, without being mindful of form; without being mindful of the marks of excellence or the absence of marks; without being mindful of precepts or the absence of precepts. Concentration, wisdom, liberation, and the knowledge and vision of liberation are likewise. They are not mindful of lineage, relatives, or retinue; of dwelling or non-dwelling; of reaching or not reaching. They do not discriminate the aggregates, elements, or sense-bases. They are not mindful of knowledge or non-knowledge, self-purity or other-purity, purity of beings or non-purity of beings. They do not act for their own benefit or for others' benefit. They are not mindful of purity of the three karmas, or purity of present and future conduct.
 

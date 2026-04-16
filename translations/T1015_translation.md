@@ -128,7 +128,7 @@ Then the Buddha spoke these verses:
 > One transforms and liberates as appropriate.
 >
 > Always purifying the buddha-fields,
-> Within the saṅgha, without flaw or stain,
+> Within the sangha, without flaw or stain,
 > And the profoundly subtle dharma of the named depths,
 > This sūtra scroll can know it all.
 >

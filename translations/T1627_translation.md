@@ -149,7 +149,7 @@ Why is it that the Dharma-body, replete with ten thousand virtues and complete i
 > Lotus, gold, full moon,
 > Pond-water, golden mountain, space,
 > Like the sun, the great earth, and clouds:
-> The buddha-nature is stained by adventitious defilements.
+> The Buddha-nature is stained by adventitious defilements.
 > When afflictions cover its capacities,
 > Buddha-activity cannot be performed.
 > In brief, nine similes are stated;

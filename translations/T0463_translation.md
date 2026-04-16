@@ -19,7 +19,7 @@ At that time, Ānanda said: "Great One! The World-Honored One has now entered de
 
 As he was speaking, Śāriputra arrived at Ānanda's quarters and said: "Dharma-brother! It is time to assemble the community."
 
-At that time, Ānanda entered the Buddha's monastery and bowed to the Buddha. Before he could raise his head, a voice from the sky told Ānanda: "Swiftly assemble the saṅgha."
+At that time, Ānanda entered the Buddha's monastery and bowed to the Buddha. Before he could raise his head, a voice from the sky told Ānanda: "Swiftly assemble the sangha."
 
 Having heard this, Ānanda was greatly delighted. He struck the gandhāra bell to assemble the community, and the sound spread throughout the country of Śrāvastī and ascended to the Bhavāgra heaven. Śakra, Brahmā, the Guardian Kings of the World, and countless deva princes brought heavenly flowers and incense to the Jeta Grove.
 

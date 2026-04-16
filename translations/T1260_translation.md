@@ -20,7 +20,7 @@ The Buddha said: "Simply be compassionate and do not harm sentient beings. I sha
 
 Joyful Mother said to the Buddha: "World-Honored One! I now take refuge in the Tathāgata. I respectfully accept the Buddha's instruction and dare not transgress it. In the great city of Rājagṛha and in all the lands, I shall protect all the sons and daughters born to the people, causing them to be at peace and happy, not permitting any evil ghosts or spirits to take advantage of them. I only beg that the Tathāgata protect and be mindful of me."
 
-The Buddha said: "Excellent, excellent! Joyful Mother! You should now, within the Tathāgata's true Dharma and Vinaya, receive and uphold the three refuges and five precepts, so that throughout the long night you may be liberated from all suffering and attain great happiness. That is to say: taking refuge in the Buddha, the Dharma, and the Saṅgha; not taking life; and up to not drinking intoxicants: these are your training rules. You should uphold them."
+The Buddha said: "Excellent, excellent! Joyful Mother! You should now, within the Tathāgata's true Dharma and Vinaya, receive and uphold the three refuges and five precepts, so that throughout the long night you may be liberated from all suffering and attain great happiness. That is to say: taking refuge in the Buddha, the Dharma, and the Sangha; not taking life; and up to not drinking intoxicants: these are your training rules. You should uphold them."
 
 At that time, Joyful Mother, having received the three refuges and the five training rules, leaped with joy, circumambulated the Buddha three times, and said: "World-Honored One! I have now received the Tathāgata's protection. I have a dhāraṇī of my own mind that can remove all calamities, difficulties, and terrors. If anyone receives and upholds these syllables, my attendants will constantly guard and protect them, causing them to obtain happiness. I beg the Tathāgata to allow me to proclaim it."
 
@@ -50,7 +50,7 @@ Joyful Mother said to the Buddha: "As the Buddha has holy commanded, I shall car
 
 The heart-mantra is:
 
-[Dhāraṇī]
+*Oṃ nunu mālikā hrīḥ te svāhā.*
 
 ### Accomplishment through Homa
 

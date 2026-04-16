@@ -298,13 +298,13 @@ The Buddha then spoke in verse:
 > Let the mind be free from longing and desire.
 > Practice the sūtras sincerely, without flattery.
 > Abandon miserliness and always give generously.
-> Always make offerings and revere the saṅgha.
+> Always make offerings and revere the sangha.
 > Always be single-minded and without laxity:
 > studying this samādhi, one should practice thus."
 
 Bhadrapāla addressed the Buddha: "If a laywoman hears this samādhi and wishes to study it, how should she practice?"
 
-The Buddha said: "A laywoman who wishes to study should uphold the five precepts and take the three refuges. What are the three? Taking refuge in the Buddha, taking refuge in the Dharma, taking refuge in the Saṅgha. She must not follow other paths, must not bow to devas, must not worship ghosts and spirits, must not consult auspicious days. She must not be playful, must not be self-indulgent with lustful thoughts, must not have a covetous mind. She should always think of giving generously, delight in hearing sūtras, strive to study broadly, and revere the good teacher. Her mind should always be earnest and never lax. If monks or nuns come by, she should offer them a seat and serve them food."
+The Buddha said: "A laywoman who wishes to study should uphold the five precepts and take the three refuges. What are the three? Taking refuge in the Buddha, taking refuge in the Dharma, taking refuge in the Sangha. She must not follow other paths, must not bow to devas, must not worship ghosts and spirits, must not consult auspicious days. She must not be playful, must not be self-indulgent with lustful thoughts, must not have a covetous mind. She should always think of giving generously, delight in hearing sūtras, strive to study broadly, and revere the good teacher. Her mind should always be earnest and never lax. If monks or nuns come by, she should offer them a seat and serve them food."
 
 The Buddha then spoke in verse:
 

@@ -29,21 +29,21 @@ Continuing from where the translation was cut off:
 
 > 'Those of pure conduct all know
 > That I dwell constantly in the Brahmā realm;
-> Moreover, the devas know my name —
+> Moreover, the devas know my name ...
 > You, brahmin, should reflect upon this yourself.'
 
 "The brahmin chief minister again spoke a gāthā:
 
 > 'Pure water and a seat are here provided,
 > With ghee, honey, and milk-porridge, finest in flavor;
-> These I offer first with concentrated mind —
+> These I offer first with concentrated mind ...
 > I pray the Brahmā King compassionately receive them.'
 
 "The Great Brahmā King again spoke a gāthā:
 
 > 'Pure water and a seat are here provided,
 > With ghee, honey, and milk-porridge, finest in flavor;
-> You, brahmin, have offered these first —
+> You, brahmin, have offered these first ...
 > I now receive them for you as is fitting.'
 
 "The brahmin chief minister spoke a gāthā:
@@ -64,12 +64,12 @@ Continuing from where the translation was cut off:
 
 "Then the Great Brahmā King spoke a gāthā in reply to the brahmin chief minister:
 
-> 'One who cultivates non-self — that is pure conduct;
+> 'One who cultivates non-self; that is pure conduct;
 > Mind dwelling in one-pointedness; the liberation of compassion;
-> Far from the stain of desires, afflictions removed —
+> Far from the stain of desires, afflictions removed ...
 > Such persons attain birth in the Brahmā realm.'
 
-"Then the brahmin chief minister addressed the Great Brahmā King: 'As the Great Brahmā has stated in his gāthā, "one who cultivates non-self — that is pure conduct," I have now come to understand this meaning. It refers to a certain class of persons who arouse sincere faith, cultivate the dharma of renunciation, shave off beard and hair, don the kāṣāya robe, and relinquish all wealth and pleasures, whether few or many, their wisdom following in accordance. Whether born in a high lineage or a low lineage, their minds are equanimous, free from grasping and attachment. They keep only the three robes and one bowl, possessing nothing beyond these. In the various trainings, they are instructed in the methods of training; their bodily, verbal, and mental karma are completely pure; they sustain themselves through pure livelihood, free from all transgression. This is what is called "one who cultivates non-self."
+"Then the brahmin chief minister addressed the Great Brahmā King: 'As the Great Brahmā has stated in his gāthā, "one who cultivates non-self; that is pure conduct," I have now come to understand this meaning. It refers to a certain class of persons who arouse sincere faith, cultivate the dharma of renunciation, shave off beard and hair, don the kāṣāya robe, and relinquish all wealth and pleasures, whether few or many, their wisdom following in accordance. Whether born in a high lineage or a low lineage, their minds are equanimous, free from grasping and attachment. They keep only the three robes and one bowl, possessing nothing beyond these. In the various trainings, they are instructed in the methods of training; their bodily, verbal, and mental karma are completely pure; they sustain themselves through pure livelihood, free from all transgression. This is what is called "one who cultivates non-self."
 
 "'Furthermore, as the Great Brahmā has stated, "mind dwelling in one-pointedness," I have heard these words and also understand this meaning. It refers to a certain class of those who cultivate meditative concentration. Inwardly pure of mind, abiding in the nature of a single object, without applied thought or sustained thought, with joy and bliss born of concentration, they attain the second dhyāna in its fullness of practice. This is what is called "mind dwelling in one-pointedness."
 
@@ -81,7 +81,7 @@ Continuing from where the translation was cut off:
 
 > 'Greed, hatred, delusion, conceit, doubt, anger, and concealment,
 > Vexation, harmfulness, deceit, falsehood, miserliness, and envy;
-> Giving rise to these defiling dharmas and slandering others —
+> Giving rise to these defiling dharmas and slandering others ...
 > These are what are called the afflictions.
 > Far removed from all such afflictions,
 > One attains purity among humankind;
@@ -109,11 +109,11 @@ The Buddha said: "Pañcaśikha! I shall now tell you in sequence. Pañcaśikha! 
 
 > 'If you lack any of your needs,
 > Whatever you desire, I shall provide;
-> If someone troubles you, tell me at once —
+> If someone troubles you, tell me at once ...
 > I shall punish them according to the law of kings.
 > You are as my father and I as your son;
-> We support each other — how could we be parted?
-> Though you serve as minister, you are also my teacher —
+> We support each other; how could we be parted?
+> Though you serve as minister, you are also my teacher ...
 > Why do you now speak these words?'
 
 "The brahmin chief minister spoke a gāthā:
@@ -125,7 +125,7 @@ The Buddha said: "Pañcaśikha! I shall now tell you in sequence. Pañcaśikha! 
 
 "King Reṇu spoke a gāthā:
 
-> 'What non-human has spoken — what truth can there be?
+> 'What non-human has spoken; what truth can there be?
 > Why do you hearken and believe such words?
 > Do not take these words as true
 > And abandon your ministerial post to seek the homeless life.'
@@ -138,7 +138,7 @@ The Buddha said: "Pañcaśikha! I shall now tell you in sequence. Pañcaśikha! 
 > Employing kuśa grass in the ceremony.
 > The Great Brahmā King, the great sage and holy one,
 > Responding to my entreaty, manifested in person;
-> I heard him speak the words of truth —
+> I heard him speak the words of truth ...
 > Therefore my resolve to go forth stands firm.'
 
 "King Reṇu spoke a gāthā:
@@ -149,20 +149,20 @@ The Buddha said: "Pañcaśikha! I shall now tell you in sequence. Pañcaśikha! 
 > How could this resolve to go forth be turned?
 > Your mind is pure as empty space,
 > And again like a jewel of pure and wondrous vaiḍūrya;
-> As you practice, so shall I follow —
+> As you practice, so shall I follow ...
 > Through you I have attained awakening.'
 
 "When King Reṇu had finished speaking this gāthā, he also said: 'Mahādṛḍha! Your mind is pure and you delight in cultivating good conduct. Do as you wish; you have found a refuge, and I too have found a refuge.'
 
 "Then the brahmin chief minister spoke another gāthā, addressing the king:
 
-> 'O King, you should renounce all objects of desire —
+> 'O King, you should renounce all objects of desire ...
 > One who clings to them is but a fool;
 > You should arouse a firm mind free from attachment,
 > Endowed with samāhita and the power of forbearance.
 > What is here awakened to is the pure vehicle;
 > This pure path is truly and permanently abiding;
-> This is the gate of the true Dharma that is proclaimed —
+> This is the gate of the true Dharma that is proclaimed ...
 > Through this one attains birth in the Brahmā realm.'
 
 "Pañcaśikha! The six kings who administered the various kingdoms, having heard that the brahmin chief minister was relinquishing his ministerial post and delighting in seeking the homeless life, assembled all six kings together in one place. Then the brahmin chief minister himself went to where the six kings were. Having arrived, he knelt in obeisance and addressed the kings: 'Your Majesties! You should know that I now wish to relinquish that ministerial post. I pray that each of the kings will separately seek someone to assist with affairs of state; if there be instruction to be given, let them rely separately on teachers and exemplars. I now delight in wishing to go forth from the household life to cultivate the path. Why so? From the Great Brahmā King I heard the words of truth, namely, that the dharmas of affliction should be abandoned. From this time forth, I no longer delight in the household life with its complete entanglement. Were I to go forth, I would be wholly free from transgression, and I should cultivate the pure and immaculate brahmacarya. Why so? All that is born must perish; human life is brief; if one does not awaken to this, one falls at death into the evil destinies. Therefore I now, knowing this of myself and awakening to it myself, should practice well and conduct myself in right brahmacarya, no longer creating evil karma in the world.'

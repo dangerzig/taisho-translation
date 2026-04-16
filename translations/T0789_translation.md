@@ -24,7 +24,7 @@ At that time, the bodhisattva Vajrasattva recited these verses:
 > A rosary of soapberry seeds: two-fold merit;
 > A rosary of iron beads: three-fold merit;
 > A rosary of refined copper beads: four-fold merit;
-> Crystal, pearl, and various precious gems —
+> Crystal, pearl, and various precious gems ...
 > These rosaries yield a hundredfold merit;
 > Śakra-seed beads: a thousandfold merit;
 > Vajra-seed beads: koṭi-fold merit;
@@ -47,7 +47,7 @@ At that time, the bodhisattva Vajrasattva recited these verses:
 >
 > Hold the beads with both hands at the level of the heart;
 > In meditative stillness, free from thoughts, with focused mind;
-> In one-pointed yoga with one's tutelary deity —
+> In one-pointed yoga with one's tutelary deity ...
 > One attains accomplishment in both principle and practice.
 >
 > Whether placed upon the crown topknot or worn upon the body,
@@ -57,7 +57,7 @@ At that time, the bodhisattva Vajrasattva recited these verses:
 >
 > By placing upon the crown topknot, one is purified of ānantarya crimes;
 > By wearing on the neck, one is purified of the four grave offenses;
-> Held in the hand or worn upon the arm, all sins are eliminated —
+> Held in the hand or worn upon the arm, all sins are eliminated ...
 > This enables the practitioner to swiftly attain purification.
 >
 > If one practices mantra and dhāraṇī

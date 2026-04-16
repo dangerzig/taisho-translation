@@ -7,7 +7,7 @@ Translated from the Chinese. Tang dynasty, translated by Amoghavajra (不空)
 
 ---
 
-*Note: This text consists almost entirely of dhāraṇī passages — phonetic transcriptions of Sanskrit mantras into Chinese characters. The reconstructed Sanskrit provided below is based on the phonetic values of the Chinese transcription, standard Buddhist mantra conventions, and phonological analysis of the combinatory notations (二合, 三合, 四合). Reconstructions of uncertain passages are marked with †.*
+*Note: This text consists almost entirely of dhāraṇī passages; phonetic transcriptions of Sanskrit mantras into Chinese characters. The reconstructed Sanskrit provided below is based on the phonetic values of the Chinese transcription, standard Buddhist mantra conventions, and phonological analysis of the combinatory notations (二合, 三合, 四合). Reconstructions of uncertain passages are marked with †.*
 
 ---
 

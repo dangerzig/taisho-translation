@@ -534,7 +534,7 @@ Under the bodhi tree, the prince resolved: "Even if my muscles and bones wither,
 
 ### (80)
 
-Five hundred ox-carts passed the Buddha while he was in deep meditation, but he neither heard nor saw them. A man named Paukkeṣa was astonished and took refuge. The Buddha related how he had similarly been in meditation when lightning struck and killed four oxen and two plowmen nearby, yet he perceived nothing. Paukkeṣa offered a thousand gold-embroidered garments and invited the Buddha and the saṅgha to visit his land.
+Five hundred ox-carts passed the Buddha while he was in deep meditation, but he neither heard nor saw them. A man named Paukkeṣa was astonished and took refuge. The Buddha related how he had similarly been in meditation when lightning struck and killed four oxen and two plowmen nearby, yet he perceived nothing. Paukkeṣa offered a thousand gold-embroidered garments and invited the Buddha and the sangha to visit his land.
 
 ### (81)
 

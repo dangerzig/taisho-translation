@@ -4,7 +4,7 @@
 
 Taishō 1673
 
-Composed by Bodhisattva Nāgārjuna (*Lóngshù Púsà*, 龍樹菩薩). Translated by Saṅghavarman (*Sēngqiébámó*, 僧伽跋摩) of the Liú-Sòng dynasty. A didactic letter in verse.
+Composed by Bodhisattva Nāgārjuna (*Lóngshù Púsà*, 龍樹菩薩). Translated by Sanghavarman (*Sēngqiébámó*, 僧伽跋摩) of the Liú-Sòng dynasty. A didactic letter in verse.
 
 *Note: This is a Chinese translation of Nāgārjuna's famous "Letter to a Friend" (Suhṛllekha), a practical guide to Buddhist ethics and soteriology addressed to a king. Cast entirely in verse, it covers the six recollections, the ten wholesome actions, the pāramitās, the dangers of the five sense-pleasures, the contemplation of the body's impurity, the sufferings of the six destinies (with vivid descriptions of hell, hungry-ghost, and animal realms), the twelve links of dependent origination, the four noble truths, the eightfold path, and the aspiration to buddhahood. Despite its doctrinal comprehensiveness, the tone is warm and personal, befitting a letter from a spiritual teacher to a royal patron.*
 

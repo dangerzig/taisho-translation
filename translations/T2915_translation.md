@@ -17,7 +17,7 @@ The teacher replied to Huitong: "Sentient beings are perishing. Universally cont
 
 > Black winds rise in the northwest;
 > Ghost soldiers arise in the southeast.
-> Forever heaven and earth remain dark —
+> Forever heaven and earth remain dark ...
 > How can the mind find peace?
 > First one must abstain from wine and meat;
 > Let greed and anger no longer arise.

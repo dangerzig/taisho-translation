@@ -41,13 +41,13 @@ The Buddha said: "Householder, though Velāma gave in this manner, giving to a T
 
 The Buddha said: "Householder, though Velāma gave in this manner, giving to the Buddha and the great assembly of bhikṣus who follow him does not compare to providing food for all bowl-carrying monks of the four directions. The merit obtained surpasses the foregoing."
 
-The Buddha said: "Householder, though Velāma gave in this manner, providing food for all bowl-carrying monks of the four directions does not compare to offering parks and groves to the Saṅgha of the four directions. The merit obtained surpasses the foregoing."
+The Buddha said: "Householder, though Velāma gave in this manner, providing food for all bowl-carrying monks of the four directions does not compare to offering parks and groves to the Sangha of the four directions. The merit obtained surpasses the foregoing."
 
-The Buddha said: "Householder, though Velāma gave in this manner, offering parks and groves to the Saṅgha of the four directions does not compare to offering monasteries to the Saṅgha of the four directions. The merit obtained surpasses the foregoing."
+The Buddha said: "Householder, though Velāma gave in this manner, offering parks and groves to the Sangha of the four directions does not compare to offering monasteries to the Sangha of the four directions. The merit obtained surpasses the foregoing."
 
-The Buddha said: "Householder, though Velāma gave in this manner, offering monasteries to the Saṅgha of the four directions does not compare to wholeheartedly taking refuge in the Buddha, Dharma, and Saṅgha for the rest of one's life. The merit obtained surpasses the foregoing."
+The Buddha said: "Householder, though Velāma gave in this manner, offering monasteries to the Sangha of the four directions does not compare to wholeheartedly taking refuge in the Buddha, Dharma, and Sangha for the rest of one's life. The merit obtained surpasses the foregoing."
 
-The Buddha said: "Householder, though Velāma gave in this manner, wholeheartedly taking refuge in the Buddha, Dharma, and Saṅgha for the rest of one's life does not compare to upholding for the rest of one's life the precepts of not killing, not stealing, not engaging in sexual misconduct, not speaking falsely, and not drinking intoxicants. The merit obtained surpasses the foregoing."
+The Buddha said: "Householder, though Velāma gave in this manner, wholeheartedly taking refuge in the Buddha, Dharma, and Sangha for the rest of one's life does not compare to upholding for the rest of one's life the precepts of not killing, not stealing, not engaging in sexual misconduct, not speaking falsely, and not drinking intoxicants. The merit obtained surpasses the foregoing."
 
 The Buddha said: "Householder, though Velāma gave in this manner, upholding these five precepts for the rest of one's life does not compare to a person who, throughout the ten directions and in all places, practices great loving-kindness to benefit all beings, free from all discrimination, with a mind without characteristics. The merit obtained surpasses the foregoing."
 

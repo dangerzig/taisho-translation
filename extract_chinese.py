@@ -157,8 +157,8 @@ def extract_readable(elem, char_map: dict[str, str], context: str = 'body') -> l
 
     # Paragraph
     if tag == f'{TEI}p':
-        p_text = _get_all_text(elem, char_map).strip()
         is_dharani = elem.get(f'{CB}type') == 'dharani'
+        p_text = _get_all_text(elem, char_map, dharani=is_dharani).strip()
         if p_text:
             results.append({
                 'type': 'dharani' if is_dharani else 'para',
@@ -174,9 +174,35 @@ def extract_readable(elem, char_map: dict[str, str], context: str = 'body') -> l
     return results
 
 
-def _get_all_text(elem, char_map: dict[str, str]) -> str:
-    """Get all text content from an element, resolving special chars."""
+# Phonetic annotations to preserve in dhāraṇī passages
+_DHARANI_ANNOTATIONS = frozenset(['引', '二合', '三合', '去', '入', '上', '平',
+                                   '去聲', '上聲', '平聲', '入聲'])
+
+
+def _get_all_text(elem, char_map: dict[str, str], dharani: bool = False) -> str:
+    """Get all text content from an element, resolving special chars.
+
+    Args:
+        dharani: If True, preserve phonetic annotations (引, 二合, etc.)
+                 from inline notes as {annotation} markers.
+    """
     parts = []
+
+    # In dharani mode, preserve phonetic inline notes
+    if elem.tag == f'{TEI}note' and dharani:
+        place = elem.get('place', '')
+        if place == 'inline':
+            note_text = (elem.text or '').strip()
+            # Check if this is a phonetic annotation (not a number/counter)
+            # Handle combined annotations like "二合、引"
+            annotations = [a.strip() for a in note_text.replace('、', ',').split(',')]
+            kept = [a for a in annotations if a in _DHARANI_ANNOTATIONS]
+            if kept:
+                for a in kept:
+                    parts.append('{' + a + '}')
+                return ''.join(parts)
+        # Non-phonetic notes (numbers, editorial) still skipped
+        return ''
 
     if elem.tag in SKIP_TAGS:
         return ''
@@ -195,7 +221,7 @@ def _get_all_text(elem, char_map: dict[str, str]) -> str:
     if elem.tag == f'{TEI}app':
         for child in elem:
             if child.tag == f'{TEI}lem':
-                parts.append(_get_all_text(child, char_map))
+                parts.append(_get_all_text(child, char_map, dharani))
                 if child.tail:
                     parts.append(child.tail)
         return ''.join(parts)
@@ -208,17 +234,27 @@ def _get_all_text(elem, char_map: dict[str, str]) -> str:
         parts.append(elem.text)
 
     for child in elem:
-        parts.append(_get_all_text(child, char_map))
+        parts.append(_get_all_text(child, char_map, dharani))
         if child.tail:
             parts.append(child.tail)
 
     return ''.join(parts)
 
 
-def clean_text(text: str) -> str:
-    """Clean extracted text: normalize whitespace, keep CJK + punctuation."""
+def clean_text(text: str, keep_annotations: bool = False) -> str:
+    """Clean extracted text: normalize whitespace, keep CJK + punctuation.
+
+    Args:
+        keep_annotations: If True, also preserve {annotation} markers
+                         used for dhāraṇī phonetic annotations.
+    """
     # Remove line breaks and collapse whitespace
     text = re.sub(r'\s+', '', text)
+    if keep_annotations:
+        # Keep CJK + punctuation + {annotation} markers
+        matches = re.findall(
+            r'\{[^}]+\}|' + PRESERVE_RE.pattern, text)
+        return ''.join(matches)
     # Keep only CJK characters and Chinese punctuation
     matches = PRESERVE_RE.findall(text)
     return ''.join(matches)
@@ -246,7 +282,7 @@ def blocks_to_text(blocks: list[dict]) -> str:
     lines = []
     for block in blocks:
         btype = block['type']
-        text = clean_text(block['text'])
+        text = clean_text(block['text'], keep_annotations=(btype == 'dharani'))
 
         if not text:
             continue

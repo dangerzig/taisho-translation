@@ -425,4 +425,22 @@ Respectfully submitted on the fourteenth day of the seventh month of the fourtee
 
 ### General Catalog
 
-[Summary totals for the entire canon.]
+Grand total of all sūtras: 2,257 texts in 5,310 fascicles.
+
+**Division One: Mahayana Sūtra Collection** (大乘修多羅藏錄): 645 texts in 1,478 fascicles.
+
+**Division Two: Hinayana Sūtra Collection** (小乘修多羅藏錄): 779 texts in 1,183 fascicles.
+
+**Division Three: Mahayana Vinaya Collection** (大乘毘尼藏錄): 48 texts in 82 fascicles.
+
+**Division Four: Hinayana Vinaya Collection** (小乘毘尼藏錄): 64 texts in 382 fascicles.
+
+**Division Five: Mahayana Abhidharma Collection** (大乘阿毘曇藏錄): 68 texts in 282 fascicles.
+
+**Division Six: Hinayana Abhidharma Collection** (小乘阿毘曇藏錄): 116 texts in 489 fascicles.
+
+**Division Seven: Post-Parinirvāṇa Compilations** (佛滅度後撰集錄): 50 texts in 122 fascicles.
+
+**Division Eight: Post-Parinirvāṇa Biographies and Records** (佛涅槃後傳記錄): 68 texts in 186 fascicles.
+
+**Division Nine: Post-Parinirvāṇa Authored Works** (佛滅度後著述錄).

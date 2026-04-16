@@ -2431,11 +2431,11 @@
   },
   {
     "chinese": "世尊",
-    "english": "Blessed One",
+    "english": "World-Honored One",
     "sanskrit": "Bhagavān",
     "japanese": "",
     "category": "title",
-    "notes": "",
+    "notes": "BDK convention: World-Honored One (not Blessed One).",
     "sources": [
       "T0002",
       "T0003",

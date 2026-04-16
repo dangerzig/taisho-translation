@@ -1580,7 +1580,7 @@ Now the Nāga King Anavatapta was one who, in the time when the Buddha was in th
 > Flew up into the sky.
 > When I saw this, I told
 > My household servants:
-> 'The Blessed One has arrived.
+> 'The World-Honored One has arrived.
 > Thus should one leave home and study.'
 > When I heard what my servant said
 > About the pratyekabuddha flying,
@@ -2011,7 +2011,7 @@ Now the Nāga King Anavatapta was one who, in the time when the Buddha was in th
 > Who has crossed beyond all honored dharmas,
 > Who accomplishes great disciples:
 > The guide, whose virtue is supreme.
-> The Blessed One, highest of all,
+> The World-Honored One, highest of all,
 > The unsurpassed one who removes sorrow.
 > Of all he has liberated, the greatest:
 > The honored one of all excellent marks.

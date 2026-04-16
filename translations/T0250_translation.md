@@ -7,7 +7,7 @@ Translated from the Chinese. Later Qin, translated by Kumārajīva
 
 ---
 
-When Bodhisattva Avalokiteśvara was practicing the profound Prajñāpāramitā, he illuminated and saw that the five skandhas are empty, and thereby crossed beyond all suffering and distress.
+When Bodhisattva Avalokiteśvara was practicing the profound Prajñāpāramitā, he illuminated and saw that the five aggregates are empty, and thereby crossed beyond all suffering and distress.
 
 "Śāriputra! Because form is empty, there is no characteristic of affliction and decay; because sensation is empty, there is no characteristic of sensation; because perception is empty, there is no characteristic of knowing; because mental formations are empty, there is no characteristic of action; because consciousness is empty, there is no characteristic of awareness. Why is this so? Śāriputra! Form does not differ from emptiness; emptiness does not differ from form. Form is precisely emptiness; emptiness is precisely form. Sensation, perception, mental formations, and consciousness are also like this.
 

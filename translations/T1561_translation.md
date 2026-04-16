@@ -10,7 +10,7 @@ Composed by the Venerable Sthiramati (*Ānhuì*, 安惠).
 
 ---
 
-> Homage to the Blessed One, the mountain of manifold virtues;
+> Homage to the World-Honored One, the mountain of manifold virtues;
 > Homage to the Dharma, the great ocean of wisdom;
 > Homage to the Saṃgha, the harmonious assembly.
 > I salute the author of this treatise and my own teacher.

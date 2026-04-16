@@ -8,7 +8,7 @@ Composed by Bodhisattva Vasubandhu (*Shìqīn*, 世親). Translated by Xuanzang 
 
 *Note: This is Vasubandhu's concise Yogācāra analysis of the five aggregates (pañcaskandha), the twelve sense-bases (āyatana), and the eighteen elements (dhātu). It systematically defines each category of dharma in the Yogācāra framework: the four great elements and derived form, the three types of feeling, perception, the fifty-one mental factors (organized as five omnipresent, five object-determining, eleven wholesome, six root afflictions, twenty secondary afflictions, and four indeterminate), the fourteen dharmas not associated with mind, the consciousness aggregate (including the foundational ālayavijñāna and the afflicted manas), four types of unconditioned dharmas, and concluding questions about the purpose and characteristics of each classificatory scheme. This text is a key Abhidharma primer of the Yogācāra school and was widely studied in East Asian Buddhism.*
 
-As the Blessed One (*Bhagavān*) has briefly taught, there are five aggregates (*skandha*): (1) the form aggregate (*rūpaskandha*), (2) the feeling aggregate (*vedanāskandha*), (3) the perception aggregate (*saṃjñāskandha*), (4) the formations aggregate (*saṃskāraskandha*), and (5) the consciousness aggregate (*vijñānaskandha*).
+As the World-Honored One (*Bhagavān*) has briefly taught, there are five aggregates (*skandha*): (1) the form aggregate (*rūpaskandha*), (2) the feeling aggregate (*vedanāskandha*), (3) the perception aggregate (*saṃjñāskandha*), (4) the formations aggregate (*saṃskāraskandha*), and (5) the consciousness aggregate (*vijñānaskandha*).
 
 ---
 

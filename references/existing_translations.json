@@ -1,0 +1,1640 @@
+[
+  {
+    "t_number": "T0001",
+    "title_en": "The Canonical Book of the Buddha's Lengthy Discourses (Dīrghāgama)",
+    "translator": "Shohei Ichimura",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2015,
+    "complete": true,
+    "notes": "3 volumes (2015, 2016, 2018). Complete translation of the Dīrghāgama."
+  },
+  {
+    "t_number": "T0001",
+    "title_en": "The Long Discourses",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": true,
+    "notes": "Online translation at canon.dharmapearls.net. 30 sutras."
+  },
+  {
+    "t_number": "T0026",
+    "title_en": "The Madhyama Āgama (Middle-Length Discourses)",
+    "translator": "Bhikkhu Anālayo; Marcus Bingenheimer; Roderick S. Bucknell",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2013,
+    "complete": true,
+    "notes": "4 volumes (2013, 2020, 2022, 2023). Complete translation of all 222 sutras."
+  },
+  {
+    "t_number": "T0026",
+    "title_en": "The Medium Discourses",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": false,
+    "notes": "Online translation at canon.dharmapearls.net. ~23% complete (72 of 222 sutras)."
+  },
+  {
+    "t_number": "T0099",
+    "title_en": "Saṃyuktāgama: On the Five Aggregates (and other sections)",
+    "translator": "Bhikkhu Anālayo",
+    "publisher": "Dharma Drum Journal of Buddhist Studies",
+    "year": 2012,
+    "complete": false,
+    "notes": "Partial: multiple sections published 2012-2014 (sutras 1-32, 33-58, 59-87, 103-110, etc.)."
+  },
+  {
+    "t_number": "T0099",
+    "title_en": "The Related Discourses",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": false,
+    "notes": "Online at canon.dharmapearls.net. ~16% complete (507 of 13,412 sutras)."
+  },
+  {
+    "t_number": "T0100",
+    "title_en": "Studies in Āgama Literature",
+    "translator": "Marcus Bingenheimer",
+    "publisher": "Xinwenfeng",
+    "year": 2011,
+    "complete": false,
+    "notes": "Partial: Sutras 1-52, 214-223 of the shorter Saṃyuktāgama."
+  },
+  {
+    "t_number": "T0109",
+    "title_en": "The Turning the Dharma Wheel Sūtra",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": true,
+    "notes": "Online at canon.dharmapearls.net."
+  },
+  {
+    "t_number": "T0110",
+    "title_en": "The Three Turnings of the Dharma Wheel Sūtra",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": true,
+    "notes": "Online at canon.dharmapearls.net."
+  },
+  {
+    "t_number": "T0112",
+    "title_en": "The Eightfold Right Path Sūtra",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": true,
+    "notes": "Online at canon.dharmapearls.net."
+  },
+  {
+    "t_number": "T0120",
+    "title_en": "Sūtra of Aṅgulimālika",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2016,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T0124",
+    "title_en": "The Scripture Explaining the First Arising of Mutually Dependent Conditions",
+    "translator": "Peter Lunde Johnson",
+    "publisher": "An Lạc Publications",
+    "year": 2020,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T0125",
+    "title_en": "Ekottarāgama",
+    "translator": "Thích Huyên-Vi et al.",
+    "publisher": "Buddhist Studies Review (serialized)",
+    "year": 1983,
+    "complete": false,
+    "notes": "Serialized 1983-2004, partial translation."
+  },
+  {
+    "t_number": "T0125",
+    "title_en": "The Numerical Discourses",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": false,
+    "notes": "Online at canon.dharmapearls.net. ~18% complete (128 of 474 sutras)."
+  },
+  {
+    "t_number": "T0142",
+    "title_en": "Recovering a Buddhist Voice on Daughters-In-Law",
+    "translator": "Yuet Keung Lo",
+    "publisher": "History of Religions",
+    "year": 2005,
+    "complete": true,
+    "notes": "Academic article with translation."
+  },
+  {
+    "t_number": "T0154",
+    "title_en": "Jātaka tales (partial from Liudu ji jing)",
+    "translator": "Édouard Chavannes",
+    "publisher": "Adrien-Maisonneuve",
+    "year": 1962,
+    "complete": false,
+    "notes": "French translation: Cinq cents contes et apologues."
+  },
+  {
+    "t_number": "T0159",
+    "title_en": "The Mahayana Sutra of Previous Lives",
+    "translator": "Rolf Giebel",
+    "publisher": "BDK America",
+    "year": 2021,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T0169",
+    "title_en": "The Discourse to Prince Candraprabha",
+    "translator": "Unknown (BDK)",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2024,
+    "complete": true,
+    "notes": "Recent BDK publication."
+  },
+  {
+    "t_number": "T0184",
+    "title_en": "The Life of the Buddha",
+    "translator": "Patricia Eichenbaum Karetzy",
+    "publisher": "University Press of America",
+    "year": 1992,
+    "complete": true,
+    "notes": "Translation of Lalitavistara (Chinese version)."
+  },
+  {
+    "t_number": "T0190",
+    "title_en": "The Romantic Legend of Śākya Buddha",
+    "translator": "Samuel Beal",
+    "publisher": "Turner and Co.",
+    "year": 1875,
+    "complete": true,
+    "notes": "Early translation of the Abhinishkramana Sutra."
+  },
+  {
+    "t_number": "T0192",
+    "title_en": "Buddhacarita: In Praise of Buddha's Acts",
+    "translator": "Charles Willemen",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2009,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Revised edition of Aśvaghoṣa's Buddhacarita."
+  },
+  {
+    "t_number": "T0192",
+    "title_en": "The Fo-sho-hing-tsan-king",
+    "translator": "Samuel Beal",
+    "publisher": "Oxford University Press (Sacred Books of the East)",
+    "year": 1883,
+    "complete": true,
+    "notes": "Early English translation of Aśvaghoṣa's Buddhacarita."
+  },
+  {
+    "t_number": "T0203",
+    "title_en": "The Storehouse of Sundry Valuables",
+    "translator": "Charles Willemen",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1994,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T0209",
+    "title_en": "Sakyamuni's One Hundred Fables",
+    "translator": "Tetching Liao",
+    "publisher": "Self-published",
+    "year": 1981,
+    "complete": true,
+    "notes": "Baiyu jing (Hundred Parable Sutra)."
+  },
+  {
+    "t_number": "T0209",
+    "title_en": "A Garland for the Fool",
+    "translator": "Li Rongxi",
+    "publisher": "Fokuang Cultural Enterprise",
+    "year": 1997,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T0209",
+    "title_en": "A Flock of Fools",
+    "translator": "Kazuaki Tanahashi; Peter Levitt",
+    "publisher": "Grove Press",
+    "year": 2004,
+    "complete": true,
+    "notes": "Ancient Buddhist tales of wisdom and laughter."
+  },
+  {
+    "t_number": "T0209",
+    "title_en": "The Sutra of One Hundred Parables",
+    "translator": "Mary M. Y. Fung",
+    "publisher": "Chinese University of Hong Kong",
+    "year": 2019,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T0211",
+    "title_en": "The Scriptural Text: Verses of the Doctrine (Dharmapada)",
+    "translator": "Charles Willemen",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2000,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T0213",
+    "title_en": "The Chinese Udānavarga",
+    "translator": "Charles Willemen",
+    "publisher": "Institut Belge des hautes études chinoises",
+    "year": 1978,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T0219",
+    "title_en": "Two Sūtras on Healing and Healers",
+    "translator": "Marcus Bingenheimer",
+    "publisher": "Columbia University Press",
+    "year": 2017,
+    "complete": true,
+    "notes": "T0219 included with another text."
+  },
+  {
+    "t_number": "T0220",
+    "title_en": "The Large Sutra on Perfect Wisdom (Mahāprajñāpāramitā Sūtra)",
+    "translator": "Edward Conze",
+    "publisher": "University of California Press",
+    "year": 1975,
+    "complete": false,
+    "notes": "Selected chapters only. Conze translated from Sanskrit with reference to Chinese."
+  },
+  {
+    "t_number": "T0232",
+    "title_en": "Sūtra of Mahā-Prajñā-Pāramitā Pronounced by Mañjuśrī",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2011,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T0235",
+    "title_en": "The Diamond Sutra",
+    "translator": "Red Pine (Bill Porter)",
+    "publisher": "Counterpoint",
+    "year": 2001,
+    "complete": true,
+    "notes": "With commentary. Based on Kumārajīva's Chinese translation."
+  },
+  {
+    "t_number": "T0235",
+    "title_en": "Vajracchedikā Prajñāpāramitā",
+    "translator": "Paul Harrison",
+    "publisher": "Hermes Academic Publishing",
+    "year": 2006,
+    "complete": true,
+    "notes": "Scholarly translation."
+  },
+  {
+    "t_number": "T0235",
+    "title_en": "The Diamond Sutra",
+    "translator": "A. F. Price; Wong Mou-lam",
+    "publisher": "Shambhala",
+    "year": 1971,
+    "complete": true,
+    "notes": "Classic popular translation."
+  },
+  {
+    "t_number": "T0235",
+    "title_en": "The Diamond Sutra",
+    "translator": "A. Charles Muller",
+    "publisher": "Online (acmuller.net)",
+    "year": 2003,
+    "complete": true,
+    "notes": "Free online translation."
+  },
+  {
+    "t_number": "T0243",
+    "title_en": "The Rishukyō (Adhyardhaśatikā Prajñāpāramitā)",
+    "translator": "Ian Astley-Kristensen",
+    "publisher": "Institute of Buddhist Studies",
+    "year": 1991,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T0245",
+    "title_en": "The Transcendent Wisdom Scripture (Renwang jing)",
+    "translator": "Charles Orzech",
+    "publisher": "Pennsylvania State University Press",
+    "year": 1998,
+    "complete": true,
+    "notes": "Humane King Prajñāpāramitā Sutra."
+  },
+  {
+    "t_number": "T0251",
+    "title_en": "The Heart Sutra",
+    "translator": "Various (many translations exist)",
+    "publisher": "Various",
+    "year": 1865,
+    "complete": true,
+    "notes": "Dozens of English translations exist. Earliest by Samuel Beal (1865). Red Pine (2004, Counterpoint) is notable."
+  },
+  {
+    "t_number": "T0262",
+    "title_en": "The Lotus Sutra",
+    "translator": "Burton Watson",
+    "publisher": "Columbia University Press",
+    "year": 1993,
+    "complete": true,
+    "notes": "Widely used modern translation. Revised as 'The Lotus Sutra and Its Opening and Closing Sutras' (Soka Gakkai, 2009)."
+  },
+  {
+    "t_number": "T0262",
+    "title_en": "Scripture of the Lotus Blossom of the Fine Dharma",
+    "translator": "Leon Hurvitz",
+    "publisher": "Columbia University Press",
+    "year": 1976,
+    "complete": true,
+    "notes": "Scholarly translation preferred by academics. Reissued 2009."
+  },
+  {
+    "t_number": "T0262",
+    "title_en": "The Lotus Sutra",
+    "translator": "Tsugunari Kubo; Akira Yūyama",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1993,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Revised 2nd edition 2007."
+  },
+  {
+    "t_number": "T0262",
+    "title_en": "The Lotus Sutra",
+    "translator": "Gene Reeves",
+    "publisher": "Wisdom Publications",
+    "year": 2008,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T0262",
+    "title_en": "The Lotus of the Wonderful Law",
+    "translator": "W. E. Soothill",
+    "publisher": "Clarendon Press",
+    "year": 1930,
+    "complete": true,
+    "notes": "Early English translation."
+  },
+  {
+    "t_number": "T0262",
+    "title_en": "Myōhō-Renge-Kyō: The Sutra of the Lotus Flower of the Wonderful Law",
+    "translator": "Bunnō Katō; Yoshirō Tamura; Kōjirō Miyasaka",
+    "publisher": "Kosei Publishing",
+    "year": 1971,
+    "complete": true,
+    "notes": "Revised by W. E. Soothill, Wilhelm Schiffer, and Pier P. Del Campana."
+  },
+  {
+    "t_number": "T0262",
+    "title_en": "The Lotus Sutra",
+    "translator": "Senchū Murano",
+    "publisher": "Nichiren-shū Shūmuin",
+    "year": 1964,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T0270",
+    "title_en": "Sūtra of the Perfection of Wisdom in Eight Thousand Lines",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T0275",
+    "title_en": "Sūtra related to the Prajñāpāramitā",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T0276",
+    "title_en": "The Infinite Meanings Sutra",
+    "translator": "David W. Chappell; Terry Yamada",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2013,
+    "complete": true,
+    "notes": "Published in Tiantai Lotus Texts volume."
+  },
+  {
+    "t_number": "T0277",
+    "title_en": "The Sutra of Contemplation of the Bodhisattva All-Embracing Goodness",
+    "translator": "David W. Chappell; Joseph M. Longan",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2013,
+    "complete": true,
+    "notes": "Published in Tiantai Lotus Texts volume."
+  },
+  {
+    "t_number": "T0279",
+    "title_en": "The Flower Ornament Scripture (Avataṃsaka Sūtra)",
+    "translator": "Thomas Cleary",
+    "publisher": "Shambhala Publications",
+    "year": 1993,
+    "complete": true,
+    "notes": "3 volumes (1984-1987), one-volume edition 1993. Based on Śikṣānanda's 80-fascicle version."
+  },
+  {
+    "t_number": "T0279",
+    "title_en": "Avataṃsaka Sūtra chapters 26-38",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2013,
+    "complete": false,
+    "notes": "Partial: chapters 26-38 including the Ten Grounds."
+  },
+  {
+    "t_number": "T0293",
+    "title_en": "Sūtra from the Avataṃsaka collection",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T0301",
+    "title_en": "Sūtra from the Avataṃsaka collection",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T0310",
+    "title_en": "A Treasury of Mahāyāna Sūtras: Selections from the Mahāratnakūṭa Sūtra",
+    "translator": "Garma C. C. Chang (editor)",
+    "publisher": "Pennsylvania State University Press",
+    "year": 1983,
+    "complete": false,
+    "notes": "22 of 49 sūtras translated, many for the first time in English."
+  },
+  {
+    "t_number": "T0347",
+    "title_en": "Sūtra from the Ratnakūṭa collection",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T0353",
+    "title_en": "The Sutra of Queen Śrīmālā of the Lion's Roar",
+    "translator": "Diana Paul",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2004,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published with the Vimalakīrti Sutra (T0475)."
+  },
+  {
+    "t_number": "T0360",
+    "title_en": "The Larger Sutra on Amitāyus",
+    "translator": "Hisao Inagaki",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1995,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Part of The Three Pure Land Sutras. Revised 2003."
+  },
+  {
+    "t_number": "T0365",
+    "title_en": "The Sutra on Contemplation of Amitāyus",
+    "translator": "Hisao Inagaki",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1995,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Part of The Three Pure Land Sutras."
+  },
+  {
+    "t_number": "T0366",
+    "title_en": "The Smaller Sutra on Amitāyus",
+    "translator": "Hisao Inagaki",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1995,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Part of The Three Pure Land Sutras."
+  },
+  {
+    "t_number": "T0371",
+    "title_en": "Pure Land Sūtra",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2011,
+    "complete": true,
+    "notes": "Included in 'Thinking of Amitābha Buddha'."
+  },
+  {
+    "t_number": "T0374",
+    "title_en": "The Nirvana Sutra",
+    "translator": "Mark L. Blum",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2013,
+    "complete": false,
+    "notes": "Volume 1 published 2013. Mahāparinirvāṇa Sūtra (Dharmakṣema's translation)."
+  },
+  {
+    "t_number": "T0374",
+    "title_en": "The Nirvana Sutra (Mahāyāna Mahāparinirvāṇa Sūtra)",
+    "translator": "Kosho Yamamoto",
+    "publisher": "Karinbunko",
+    "year": 1973,
+    "complete": true,
+    "notes": "Early complete English translation, revised by Tony Page (2007)."
+  },
+  {
+    "t_number": "T0389",
+    "title_en": "The Bequeathed Teaching Sutra",
+    "translator": "J. C. Cleary",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2005,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Apocryphal Scriptures volume."
+  },
+  {
+    "t_number": "T0396",
+    "title_en": "Sūtra related to esoteric teachings",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T0397",
+    "title_en": "The Sutra on the Merits of the Fundamental Vows of the Master of Healing (Bhaiṣajyaguru Sūtra)",
+    "translator": "Various",
+    "publisher": "Various",
+    "year": 2000,
+    "complete": true,
+    "notes": "Multiple translations exist."
+  },
+  {
+    "t_number": "T0417",
+    "title_en": "Pratyutpanna related sūtra",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T0418",
+    "title_en": "The Pratyutpanna Samādhi Sutra",
+    "translator": "Paul Harrison",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1998,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published with the Śūraṅgama Samādhi Sutra."
+  },
+  {
+    "t_number": "T0468",
+    "title_en": "The Questions of Mañjuśrī",
+    "translator": "John R. McRae",
+    "publisher": "BDK America",
+    "year": 2004,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T0474",
+    "title_en": "The Vimalakīrti Sutra",
+    "translator": "John R. McRae",
+    "publisher": "BDK America",
+    "year": 2004,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T0475",
+    "title_en": "The Vimalakīrti Sutra",
+    "translator": "Burton Watson",
+    "publisher": "Columbia University Press",
+    "year": 1997,
+    "complete": true,
+    "notes": "Based on Kumārajīva's translation."
+  },
+  {
+    "t_number": "T0475",
+    "title_en": "The Holy Teaching of Vimalakīrti",
+    "translator": "Robert A. F. Thurman",
+    "publisher": "Pennsylvania State University Press",
+    "year": 1976,
+    "complete": true,
+    "notes": "Translated from Tibetan, not Chinese. Included here for reference as it is often cited alongside T0475."
+  },
+  {
+    "t_number": "T0475",
+    "title_en": "The Vimalakīrti Sutra",
+    "translator": "Diana Paul (contributor); John R. McRae",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2004,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published with Śrīmālā Sutra."
+  },
+  {
+    "t_number": "T0585",
+    "title_en": "The Sutra on Upāsaka Precepts",
+    "translator": "Shohei Ichimura",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1994,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T0600",
+    "title_en": "Esoteric sūtra",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T0614",
+    "title_en": "The Sutra on the Concentration of Sitting Meditation",
+    "translator": "Fumihiko Sueki; Nobuyoshi Yamabe",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2009,
+    "complete": true,
+    "notes": "Meditation manual compiled by Kumārajīva."
+  },
+  {
+    "t_number": "T0642",
+    "title_en": "The Śūraṅgama Samādhi Sutra",
+    "translator": "John R. McRae",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1998,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published with the Pratyutpanna Samādhi Sutra."
+  },
+  {
+    "t_number": "T0665",
+    "title_en": "The Sutra on the Buddha of Eternal Life (Sukhāvatīvyūha)",
+    "translator": "Various",
+    "publisher": "Various",
+    "year": 2000,
+    "complete": true,
+    "notes": "Multiple translations of Pure Land texts exist."
+  },
+  {
+    "t_number": "T0668",
+    "title_en": "Esoteric/dhāraṇī sūtra",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T0685",
+    "title_en": "The Ullambana Sutra",
+    "translator": "J. C. Cleary",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2005,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Apocryphal Scriptures volume."
+  },
+  {
+    "t_number": "T0757",
+    "title_en": "Hair-Raising Joy",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": true,
+    "notes": "Online at canon.dharmapearls.net."
+  },
+  {
+    "t_number": "T0780",
+    "title_en": "The Ten Powers",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": true,
+    "notes": "Online at canon.dharmapearls.net."
+  },
+  {
+    "t_number": "T0781",
+    "title_en": "The Ten Powers",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": true,
+    "notes": "Online at canon.dharmapearls.net."
+  },
+  {
+    "t_number": "T0784",
+    "title_en": "The Sutra of Forty-two Sections",
+    "translator": "Shōjun Bandō; Keiyo Arai",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2005,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Apocryphal Scriptures volume."
+  },
+  {
+    "t_number": "T0802",
+    "title_en": "Confidence in the Knowledge Powers",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": true,
+    "notes": "Online at canon.dharmapearls.net."
+  },
+  {
+    "t_number": "T0830",
+    "title_en": "Dhāraṇī sūtra",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T0839",
+    "title_en": "Dhāraṇī sūtra",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T0842",
+    "title_en": "The Sutra of Perfect Enlightenment",
+    "translator": "A. Charles Muller",
+    "publisher": "SUNY Press",
+    "year": 1999,
+    "complete": true,
+    "notes": "With commentary by the Sŏn monk Kihwa."
+  },
+  {
+    "t_number": "T0842",
+    "title_en": "The Sutra of Perfect Enlightenment",
+    "translator": "Shih Heng-ching",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2005,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Apocryphal Scriptures volume."
+  },
+  {
+    "t_number": "T0848",
+    "title_en": "The Vairocanābhisaṃbodhi Sutra",
+    "translator": "Rolf Giebel",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2005,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T0865",
+    "title_en": "The Adamantine Pinnacle Sutra (Vajraśekhara Sūtra)",
+    "translator": "Rolf W. Giebel",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2001,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Two Esoteric Sutras."
+  },
+  {
+    "t_number": "T0887",
+    "title_en": "The Sutra of the Vow of Fulfilling the Great Perpetual Enjoyment",
+    "translator": "Rolf W. Giebel",
+    "publisher": "BDK America",
+    "year": 2015,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Esoteric Texts volume."
+  },
+  {
+    "t_number": "T0893",
+    "title_en": "The Susiddhikara Sutra",
+    "translator": "Rolf W. Giebel",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2001,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Two Esoteric Sutras."
+  },
+  {
+    "t_number": "T0937",
+    "title_en": "Esoteric/dhāraṇī sūtra",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T0945",
+    "title_en": "The Śūraṅgama Sūtra",
+    "translator": "Buddhist Text Translation Society",
+    "publisher": "Buddhist Text Translation Society",
+    "year": 2009,
+    "complete": true,
+    "notes": "New translation with excerpts from Hsuan Hua's commentary."
+  },
+  {
+    "t_number": "T0945",
+    "title_en": "The Śūraṅgama Sūtra (Leng Yen Ching)",
+    "translator": "Charles Luk (Lu K'uan Yü)",
+    "publisher": "Rider & Co.",
+    "year": 1966,
+    "complete": true,
+    "notes": "Classic translation."
+  },
+  {
+    "t_number": "T1022",
+    "title_en": "Esoteric text",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "T1022B included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T1077",
+    "title_en": "Saptakoṭibuddhamātṛ Cuṇḍī Dhāraṇī Sūtra",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T1300",
+    "title_en": "The Mātaṅga Sūtra",
+    "translator": "Rolf W. Giebel",
+    "publisher": "BDK America",
+    "year": 2015,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Esoteric Texts volume."
+  },
+  {
+    "t_number": "T1484",
+    "title_en": "Bodhisattva Precepts text",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in 'Bodhisattva Precepts'."
+  },
+  {
+    "t_number": "T1485",
+    "title_en": "Sūtra of the Garland of a Bodhisattva's Primary Karmas",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T1486",
+    "title_en": "Bodhisattva Precepts text",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in 'Bodhisattva Precepts'."
+  },
+  {
+    "t_number": "T1492",
+    "title_en": "Bodhisattva Precepts text",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in 'Bodhisattva Precepts'."
+  },
+  {
+    "t_number": "T1500",
+    "title_en": "Bodhisattva Precepts text",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2012,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T1509",
+    "title_en": "Nāgārjuna's Treatise on the Great Perfection of Wisdom (Dazhidu lun)",
+    "translator": "Étienne Lamotte",
+    "publisher": "Institut Orientaliste, Louvain",
+    "year": 1944,
+    "complete": false,
+    "notes": "French translation: Le Traité de la grande vertu de sagesse. Partial English translation by Gelongma Karma Migme Chödrön available online."
+  },
+  {
+    "t_number": "T1519",
+    "title_en": "The Commentary on the Lotus Sutra",
+    "translator": "David W. Chappell",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2013,
+    "complete": true,
+    "notes": "Published in Tiantai Lotus Texts volume."
+  },
+  {
+    "t_number": "T1530",
+    "title_en": "The Interpretation of the Buddha Land",
+    "translator": "John Keenan",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2002,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T1564",
+    "title_en": "Madhyamaka treatise (Zhonglun)",
+    "translator": "Various partial",
+    "publisher": "Various",
+    "year": 2000,
+    "complete": false,
+    "notes": "Nāgārjuna's Mūlamadhyamakakārikā has many English translations from Sanskrit/Tibetan. Chinese version T1564 less commonly translated directly."
+  },
+  {
+    "t_number": "T1585",
+    "title_en": "Demonstration of Consciousness Only (Cheng weishi lun)",
+    "translator": "Francis H. Cook",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1999,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Three Texts on Consciousness Only."
+  },
+  {
+    "t_number": "T1586",
+    "title_en": "Thirty Verses on Consciousness Only (Triṃśikā)",
+    "translator": "Francis H. Cook",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1999,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Three Texts on Consciousness Only."
+  },
+  {
+    "t_number": "T1590",
+    "title_en": "The Treatise in Twenty Verses on Consciousness Only",
+    "translator": "Francis H. Cook",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1999,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Three Texts on Consciousness Only."
+  },
+  {
+    "t_number": "T1600",
+    "title_en": "Analysis of the Middle and Extremes (Madhyāntavibhāga-bhāṣya)",
+    "translator": "Jeffrey Kotyk",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2022,
+    "complete": true,
+    "notes": "First English translation from the Chinese."
+  },
+  {
+    "t_number": "T1665",
+    "title_en": "The Bodhicitta Śāstra",
+    "translator": "Minoru Kiyota",
+    "publisher": "BDK America",
+    "year": 2015,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Esoteric Texts volume."
+  },
+  {
+    "t_number": "T1670",
+    "title_en": "The Scripture on the Monk Nāgasena",
+    "translator": "Bhikkhu Anālayo",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2022,
+    "complete": true,
+    "notes": "T1670B. Chinese counterpart to the Pāli Milindapañha."
+  },
+  {
+    "t_number": "T1911",
+    "title_en": "Clear Serenity, Quiet Insight: Mo-ho chih-kuan",
+    "translator": "Paul L. Swanson",
+    "publisher": "University of Hawai'i Press (Nanzan Library)",
+    "year": 2018,
+    "complete": true,
+    "notes": "3-volume set. First complete translation of Zhiyi's Mohe Zhiguan. Over 1500 pages."
+  },
+  {
+    "t_number": "T1911",
+    "title_en": "Great Cessation-and-Contemplation (Volume I-II)",
+    "translator": "Paul L. Swanson",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2017,
+    "complete": false,
+    "notes": "BDK edition, published in 2 volumes (2017, 2023)."
+  },
+  {
+    "t_number": "T1931",
+    "title_en": "Guide to the Tiantai Fourfold Teachings",
+    "translator": "Tsugunari Kubo",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2013,
+    "complete": true,
+    "notes": "Published in Tiantai Lotus Texts volume."
+  },
+  {
+    "t_number": "T2003",
+    "title_en": "The Blue Cliff Record (Biyanlu)",
+    "translator": "Thomas Cleary; J. C. Cleary",
+    "publisher": "Shambhala Publications",
+    "year": 1977,
+    "complete": true,
+    "notes": "Classic koan collection. Reprinted many times."
+  },
+  {
+    "t_number": "T2003",
+    "title_en": "The Blue Cliff Record",
+    "translator": "Thomas Cleary",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1998,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Separate translation from the Shambhala edition."
+  },
+  {
+    "t_number": "T2003",
+    "title_en": "The Hundred Records of the Temple of National Purity",
+    "translator": "Matthew McMullen; Paul L. Swanson",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2023,
+    "complete": true,
+    "notes": "New BDK translation of the Biyanlu."
+  },
+  {
+    "t_number": "T2004",
+    "title_en": "Book of Serenity: One Hundred Zen Dialogues (Congrong lu)",
+    "translator": "Thomas Cleary",
+    "publisher": "Shambhala Publications",
+    "year": 1990,
+    "complete": true,
+    "notes": "Companion to the Blue Cliff Record."
+  },
+  {
+    "t_number": "T2005",
+    "title_en": "Wumen guan (Gateless Gate / Gateless Barrier)",
+    "translator": "Various",
+    "publisher": "Various",
+    "year": 1934,
+    "complete": true,
+    "notes": "Many translations: Senzaki/Reps (1934), Sekida (1977), Aitken (1990), Cleary (Unlocking the Zen Koan). 48 koans."
+  },
+  {
+    "t_number": "T2008",
+    "title_en": "The Platform Sutra of the Sixth Patriarch",
+    "translator": "John R. McRae",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2000,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T2008",
+    "title_en": "The Platform Sutra of the Sixth Patriarch",
+    "translator": "Philip B. Yampolsky",
+    "publisher": "Columbia University Press",
+    "year": 1967,
+    "complete": true,
+    "notes": "Scholarly edition with critical study."
+  },
+  {
+    "t_number": "T2012",
+    "title_en": "Essentials of the Transmission of Mind (Chuanxin fayao)",
+    "translator": "John R. McRae",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2005,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Zen Texts volume. Huangbo Xiyun's teachings."
+  },
+  {
+    "t_number": "T2025",
+    "title_en": "The Baizhang Zen Monastic Regulations",
+    "translator": "Shohei Ichimura",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2006,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T2053",
+    "title_en": "A Biography of the Tripiṭaka Master of the Great Ci'en Monastery",
+    "translator": "Li Rongxi",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1995,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Biography of Xuanzang."
+  },
+  {
+    "t_number": "T2076",
+    "title_en": "Lives of Great Monks and Nuns",
+    "translator": "Li Rongxi et al.",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2002,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T2087",
+    "title_en": "The Great Tang Dynasty Record of the Western Regions",
+    "translator": "Li Rongxi",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1996,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Xuanzang's account of his travels."
+  },
+  {
+    "t_number": "T2102",
+    "title_en": "A Comprehensive Commentary on the Heart Sutra",
+    "translator": "Heng-ching Shih; Dan Lusthaus",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2001,
+    "complete": true,
+    "notes": "Kuiji's commentary on the Heart Sutra."
+  },
+  {
+    "t_number": "T2122",
+    "title_en": "A Forest of Pearls from the Dharma Garden (Fayuan zhulin)",
+    "translator": "Various (BDK team)",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2019,
+    "complete": false,
+    "notes": "6 volumes published (2019-2023). Massive encyclopedic compilation by Daoshi."
+  },
+  {
+    "t_number": "T2145",
+    "title_en": "The Treatise on the Elucidation of the Knowable (Abhidharmadīpa)",
+    "translator": "Charles Willemen",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2006,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T2185",
+    "title_en": "Prince Shōtoku's Commentary on the Śrīmālā Sutra",
+    "translator": "Mark W. Dennis",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2011,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T2186",
+    "title_en": "Expository Commentary on the Vimalakīrti Sutra",
+    "translator": "Various (BDK team)",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2016,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T2187",
+    "title_en": "Commentary on the Lotus Sutra",
+    "translator": "John R. McRae; Jan Nattier",
+    "publisher": "BDK America",
+    "year": 2010,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T2543",
+    "title_en": "A Treatise on Letting Zen Flourish to Protect the State (Kōzen gokokuron)",
+    "translator": "Gishin Tokiwa",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2005,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Zen Texts volume. By Eisai."
+  },
+  {
+    "t_number": "T2580",
+    "title_en": "A Universal Recommendation for True Zazen (Fukan zazengi)",
+    "translator": "Osamu Yoshida",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2005,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Zen Texts volume. By Dōgen."
+  },
+  {
+    "t_number": "T2582",
+    "title_en": "Shōbōgenzō: The True Dharma-Eye Treasury",
+    "translator": "Gudo Wafu Nishijima; Chodo Cross",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2007,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. 4 volumes (2007-2008). Dōgen's masterwork."
+  },
+  {
+    "t_number": "T2582",
+    "title_en": "Treasury of the True Dharma Eye: Zen Master Dōgen's Shōbōgenzō",
+    "translator": "Kazuaki Tanahashi (editor); various translators",
+    "publisher": "Shambhala Publications",
+    "year": 2010,
+    "complete": true,
+    "notes": "Complete translation by team of scholars and practitioners."
+  },
+  {
+    "t_number": "T2586",
+    "title_en": "Advice on the Practice of Zazen (Zazen yōjinki)",
+    "translator": "Steven Heine",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2005,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Zen Texts volume. By Keizan."
+  },
+  {
+    "t_number": "T2589",
+    "title_en": "Keizan's Regulations for the Zen Monastery (Keizan Shingi)",
+    "translator": "Shohei Ichimura",
+    "publisher": "Shasta Abbey Press",
+    "year": 1994,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T2661",
+    "title_en": "Tannishō: Passages Deploring Deviations of Faith",
+    "translator": "Various",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1996,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published with Rennyo Shōnin Ofumi. Multiple other translations exist."
+  },
+  {
+    "t_number": "T2668",
+    "title_en": "Rennyo Shōnin Ofumi: The Letters of Rennyo",
+    "translator": "Various",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1996,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published with Tannishō."
+  },
+  {
+    "t_number": "T2887",
+    "title_en": "The Sutra on the Profundity of Filial Love",
+    "translator": "Peter N. Gregory",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2005,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Published in Apocryphal Scriptures volume."
+  },
+  {
+    "t_number": "T1548",
+    "title_en": "The Śāriputra Abhidharma",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": false,
+    "notes": "Online at canon.dharmapearls.net. Excerpts only."
+  },
+  {
+    "t_number": "T0102",
+    "title_en": "The Five Aggregates Are Empty Sūtra",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": true,
+    "notes": "Online at canon.dharmapearls.net."
+  },
+  {
+    "t_number": "T0101",
+    "title_en": "The Related Discourses (shorter version)",
+    "translator": "Charles Patton",
+    "publisher": "Dharma Pearls (online)",
+    "year": 2020,
+    "complete": false,
+    "notes": "Online at canon.dharmapearls.net. 1 of 27 sutras."
+  },
+  {
+    "t_number": "T0222",
+    "title_en": "In Praise of Light (Guang zan jing)",
+    "translator": "Stefano Zacchetti",
+    "publisher": "IRIAB",
+    "year": 2005,
+    "complete": false,
+    "notes": "Chapters 1-3 only. Early Prajñāpāramitā translation."
+  },
+  {
+    "t_number": "T0172",
+    "title_en": "The Sūtra Illustrating the Origins of the Stūpa",
+    "translator": "Junko Matsumura",
+    "publisher": "Journal of Ñāṇasaṃvara Centre",
+    "year": 2018,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T0080",
+    "title_en": "Sūtra on the Differences in the Karmic Recompense of Action",
+    "translator": "Committee for Authorized Translations",
+    "publisher": "Wonkwang Publishing",
+    "year": 2016,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T0243",
+    "title_en": "The Way of Great Enjoyment (Rishukyō)",
+    "translator": "Taisen Miyata",
+    "publisher": "Northern California Koyasan Temple",
+    "year": 1989,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T0246",
+    "title_en": "The Transcendent Wisdom Scripture (Renwang jing version)",
+    "translator": "Charles Orzech",
+    "publisher": "Pennsylvania State University Press",
+    "year": 1998,
+    "complete": true,
+    "notes": "Amoghavajra's version of the Humane King Sūtra."
+  },
+  {
+    "t_number": "T0287",
+    "title_en": "Sūtra of the Ten Grounds (Daśabhūmika)",
+    "translator": "Rulu",
+    "publisher": "AuthorHouse",
+    "year": 2013,
+    "complete": true,
+    "notes": "Included in Rulu's collected translations."
+  },
+  {
+    "t_number": "T0336",
+    "title_en": "Sumatidārikā Paripṛcchā Sūtra",
+    "translator": "Unknown",
+    "publisher": "Lapis Lazuli Texts (online)",
+    "year": 2020,
+    "complete": true,
+    "notes": "Online at lapislazulitexts.com."
+  },
+  {
+    "t_number": "T0198",
+    "title_en": "Pre-institutional Buddhist Traditions in the Arthapada",
+    "translator": "Seongryong Lee",
+    "publisher": "UCLA",
+    "year": 2024,
+    "complete": true,
+    "notes": "Dissertation translation."
+  },
+  {
+    "t_number": "T2014",
+    "title_en": "Yongjia's Song of Actualizing the Way / Observing the Mind Awakening from a Dream",
+    "translator": "Various (BDK team)",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2023,
+    "complete": true,
+    "notes": "Recent BDK publication."
+  },
+  {
+    "t_number": "T1521",
+    "title_en": "Nāgārjuna's Treatise on the Ten Grounds (Daśabhūmika-vibhāṣā)",
+    "translator": "Bhikshu Dharmamitra",
+    "publisher": "BDK America (BDK English Tripiṭaka Series)",
+    "year": 2022,
+    "complete": true,
+    "notes": "2 volumes. Also published separately by Kalavinka Press."
+  },
+  {
+    "t_number": "T2085",
+    "title_en": "Buddhist Monastic Traditions of Southern Asia (Nanhai jigui neifa zhuan)",
+    "translator": "Li Rongxi",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2000,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Yijing's record of monastic practices."
+  },
+  {
+    "t_number": "T1462",
+    "title_en": "The Essentials of the Vinaya Tradition",
+    "translator": "Various",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1995,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T0310",
+    "title_en": "Mahāratnakūṭa Sūtra sections (various chapters)",
+    "translator": "Various (Lapis Lazuli Texts)",
+    "publisher": "Lapis Lazuli Texts (online)",
+    "year": 2020,
+    "complete": false,
+    "notes": "Multiple individual sections translated online at lapislazulitexts.com."
+  },
+  {
+    "t_number": "T0663",
+    "title_en": "The Sutra on the Original Vows of the Medicine Master Tathāgata (Bhaiṣajyaguru Sūtra)",
+    "translator": "Various (multiple translations exist)",
+    "publisher": "Various",
+    "year": 2000,
+    "complete": true,
+    "notes": "Multiple translations including online versions."
+  },
+  {
+    "t_number": "T0670",
+    "title_en": "The Kṣitigarbha Sūtra (Earth Store Bodhisattva Sutra)",
+    "translator": "Buddhist Text Translation Society",
+    "publisher": "Buddhist Text Translation Society",
+    "year": 1974,
+    "complete": true,
+    "notes": "Multiple translations exist. Also translated by Red Pine (2012)."
+  },
+  {
+    "t_number": "T1666",
+    "title_en": "The Awakening of Faith in the Mahāyāna (Dasheng qixin lun)",
+    "translator": "Yoshito S. Hakeda",
+    "publisher": "Columbia University Press",
+    "year": 1967,
+    "complete": true,
+    "notes": "Classic translation. Also translated by D.T. Suzuki (1900) and BDK."
+  },
+  {
+    "t_number": "T1666",
+    "title_en": "The Awakening of Faith",
+    "translator": "Various (BDK team)",
+    "publisher": "BDK America (Numata Center)",
+    "year": 2005,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series."
+  },
+  {
+    "t_number": "T0475",
+    "title_en": "The Vimalakīrti Sutra",
+    "translator": "Charles Luk (Lu K'uan Yü)",
+    "publisher": "Shambhala Publications",
+    "year": 1972,
+    "complete": true,
+    "notes": "Early popular translation."
+  },
+  {
+    "t_number": "T0235",
+    "title_en": "The Diamond Sutra",
+    "translator": "Samuel Beal",
+    "publisher": "Journal of the Royal Asiatic Society",
+    "year": 1864,
+    "complete": true,
+    "notes": "First English translation of the Diamond Sutra."
+  },
+  {
+    "t_number": "T0235",
+    "title_en": "The Diamond Sutra",
+    "translator": "William Gemmel",
+    "publisher": "Kegan Paul",
+    "year": 1912,
+    "complete": true,
+    "notes": ""
+  },
+  {
+    "t_number": "T0784",
+    "title_en": "The Sutra in Forty-Two Sections",
+    "translator": "John Blofeld",
+    "publisher": "Various",
+    "year": 1947,
+    "complete": true,
+    "notes": "Multiple independent translations of this popular text exist."
+  },
+  {
+    "t_number": "T0262",
+    "title_en": "The Wonderful Dharma Lotus Flower Sutra",
+    "translator": "Buddhist Text Translation Society",
+    "publisher": "DRBA/BTTS",
+    "year": 1976,
+    "complete": true,
+    "notes": "With commentary by Hsuan Hua. Multi-volume (1976-1982, revised 2020-2021)."
+  },
+  {
+    "t_number": "T0279",
+    "title_en": "The Flower Adornment Sutra",
+    "translator": "Buddhist Text Translation Society",
+    "publisher": "Kalavinka Press",
+    "year": 2023,
+    "complete": false,
+    "notes": "Ongoing translation project by Bhikshu Dharmamitra. Multiple volumes published."
+  },
+  {
+    "t_number": "T0374",
+    "title_en": "The Nirvana Sutra (online version)",
+    "translator": "Mark L. Blum (partial); Tony Page (revision of Yamamoto)",
+    "publisher": "Online (nirvanasutra.net)",
+    "year": 2007,
+    "complete": true,
+    "notes": "Tony Page's revision of Yamamoto's 1973 translation freely available online."
+  },
+  {
+    "t_number": "T0156",
+    "title_en": "The Sutra of the Wise and the Foolish (partial)",
+    "translator": "Various",
+    "publisher": "Various",
+    "year": 2000,
+    "complete": false,
+    "notes": "Some stories translated in various anthologies."
+  },
+  {
+    "t_number": "T0665",
+    "title_en": "The Sutra on the Concentration of the Buddha of Immeasurable Life",
+    "translator": "Hisao Inagaki",
+    "publisher": "Various",
+    "year": 1994,
+    "complete": true,
+    "notes": "Inagaki translated multiple Pure Land sutras."
+  },
+  {
+    "t_number": "T0945",
+    "title_en": "The Śūraṅgama Sūtra with Commentary",
+    "translator": "Buddhist Text Translation Society; Hsuan Hua (commentary)",
+    "publisher": "Sino-American Buddhist Association",
+    "year": 1977,
+    "complete": true,
+    "notes": "7 volumes (1977-1981). Earliest complete English version with extensive commentary."
+  },
+  {
+    "t_number": "T0251",
+    "title_en": "The Heart Sutra",
+    "translator": "Red Pine (Bill Porter)",
+    "publisher": "Counterpoint",
+    "year": 2004,
+    "complete": true,
+    "notes": "With commentary. Popular modern translation."
+  },
+  {
+    "t_number": "T0235",
+    "title_en": "The Diamond Sutra: Text and Commentaries",
+    "translator": "Various (Pine, Harrison, Muller, etc.)",
+    "publisher": "Various",
+    "year": 2001,
+    "complete": true,
+    "notes": "Among the most frequently translated sutras. At least 15 English translations exist."
+  },
+  {
+    "t_number": "T1718",
+    "title_en": "The Essentials of the Eight Traditions",
+    "translator": "Leo Pruden",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1994,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Gyōnen's survey of Japanese Buddhist schools."
+  },
+  {
+    "t_number": "T2016",
+    "title_en": "Collected Works of Shinran",
+    "translator": "Dennis Hirota et al.",
+    "publisher": "Jodo Shinshu Hongwanji-ha",
+    "year": 1997,
+    "complete": true,
+    "notes": "Complete translation of Shinran's collected works."
+  },
+  {
+    "t_number": "T1969",
+    "title_en": "The Essentials of the Vinaya Tradition / The Collected Teachings of the Tendai Lotus School",
+    "translator": "Various",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1995,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Combined volume."
+  },
+  {
+    "t_number": "T0665",
+    "title_en": "The Pratyutpanna Samādhi Sūtra (Banzhou sanmei jing)",
+    "translator": "Paul Harrison",
+    "publisher": "Various academic",
+    "year": 1990,
+    "complete": true,
+    "notes": "Harrison's 1990 Studia Philologica Buddhica monograph from T0416/T0418."
+  },
+  {
+    "t_number": "T0416",
+    "title_en": "The Pratyutpanna Samādhi Sūtra",
+    "translator": "Paul Harrison",
+    "publisher": "BDK America (Numata Center)",
+    "year": 1998,
+    "complete": true,
+    "notes": "BDK English Tripiṭaka Series. Related to T0418."
+  },
+  {
+    "t_number": "T1521",
+    "title_en": "Nāgārjuna's Treatise on the Ten Bodhisattva Grounds (Daśabhūmika-vibhāṣā)",
+    "translator": "Bhikshu Dharmamitra",
+    "publisher": "Kalavinka Press",
+    "year": 2019,
+    "complete": true,
+    "notes": "Separate Kalavinka edition. BDK version published 2022-2024."
+  }
+]

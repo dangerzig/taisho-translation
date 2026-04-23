@@ -1,5 +1,5 @@
 # 瑩山清規
-## The Pure Rules of Keizan
+## The Keizan Zen Monastic Regulations
 
 Taishō Tripiṭaka No. 2589
 
@@ -7,9 +7,9 @@ Composed by Keizan Jōkin (瑩山紹瑾), 1324.
 
 ---
 
-## Fascicle One: Preface and Daily Affairs
+## Fascicle One
 
-### Preface to the Pure Rules of Reverend Keizan
+### Preface to the Monastic Regulations of Reverend Keizan
 
 An ancient saying goes: "The human mind is like iron; the laws of governance are like a furnace." Well spoken indeed! When iron passes through a red-hot furnace, it can be made into all manner of implements, and its uses are inexhaustible. If it does not undergo this process, it remains stubbornly dull, no different from broken tiles and pebbles. The human mind is just the same. When it is rectified by the laws of governance, there is no partiality or selfishness. Otherwise, one mostly falls into one-sided crookedness. A person of crooked bias and a piece of stubborn, dull iron are equally useless.
 
@@ -31,13 +31,13 @@ Now I compose this preface, and I am the first to rejoice accordingly. In chanti
 
 Written on an auspicious day of the twelfth month of the year *tsuchinoe-uma*, the sixth year of Enpō [1678], composed by Wanan of Hakumanji.
 
-## Fascicle Two: Monthly Affairs
+## Fascicle Two
 
-**Sequential Order of Affairs**
+#### Sequential Order of Affairs
 
-### Daily Affairs, Part One
+### Daily Affairs
 
-**Hour of the Dragon (7–9 AM): Morning Gruel**
+#### Hour of the Dragon (7–9 AM): Morning Gruel
 
 The method of eating gruel: After the opening bell, the great assembly dons kāṣāyas and waits for the fish drum. At this mountain, the cloud-board before the storehouse is struck thirty-six times on the platform. Facing the Sangha hall, the cook burns incense and makes nine prostrations. Afterward, the attendants reverently send out the pure gruel. The fish drum sounds three rounds. At the beginning of the third round, the postulants and others stand in rows outside the threshold of the hall's front door, face the Holy Monk, make a deep bow of greeting, and stand with hands folded. The head of the procession calls out: "How are you?" The assembly of postulants call out in unison: "How are you?" drawing out the voice. They then bow again and disperse.
 
@@ -53,7 +53,7 @@ If after gruel there is sūtra chanting at the main hall or various halls, after
 
 After gruel, the great assembly may go freely to the various halls to burn incense.
 
-**Hour of the Serpent (9–11 AM): Morning Meditation**
+#### Hour of the Serpent (9–11 AM): Morning Meditation
 
 After gruel, there is a brief interval. The rector hangs the meditation board at the front of the hall. At the beginning of the serpent hour, the hall administrators, kitchen administrators, and postulants first inform the head seat. The assembly of the quarters all enters the hall, faces the wall, and sits in meditation. After three strikes, the head seat is also informed, and the board before the head seat's quarters is struck three times. The head seat enters the hall, burns incense, and makes one circuit of the hall, inspecting whether all have entered the hall.
 
@@ -65,7 +65,7 @@ When the serpent-hour incense is about to finish, the Holy Monk's attendant bows
 
 When the fire board sounds, [the attendant] proceeds from below the storehouse, passes before the various quarters, circles the monastery, and rings the fire bell.
 
-**Hour of the Horse (11 AM–1 PM): Meal Time**
+#### Hour of the Horse (11 AM–1 PM): Meal Time
 
 After the fire bell has circled the monastery, the drum before the storehouse is struck three times, announcing the meal time. Next, the great bell is struck eighteen times; this is called the "meal bell." During this interval, at the main hall, the Uṣṇīṣa-vijaya-dhāraṇī is recited seven times. This is called "midday."
 
@@ -77,15 +77,15 @@ After the fish drum, the cloud-board is struck in one extended round. The great 
 
 Generally, after gruel and after the meal, the assembly in the quarters returns to the quarters, bows, and drinks tea.
 
-**Hour of the Goat (1–3 PM)**
+#### Hour of the Goat (1–3 PM)
 
 If the board before the abbot's quarters sounds three rounds, it is known that there will be Dharma benefit. People may come for informal instruction as they wish, or the whole assembly may come for instruction. Whether wearing informal robes or formal robes is at each person's discretion. The informal greeting "How are you?" is offered. With empty mind, one listens to the Dharma; the various sūtras and records. When the assembly gathers as occasions require, each person bows. When dispersing, all bow together. If there is no urgent matter, one should not casually leave one's seat. Idle chatter is not permitted.
 
-**Hour of the Monkey (3–5 PM): Afternoon**
+#### Hour of the Monkey (3–5 PM): Afternoon
 
 From half of the monkey-hour incense to half of the rooster-hour incense, the boards before the various quarters are struck three times. The great assembly puts on informal robes and socks, enters the hall, faces the wall, and sits in meditation. At this time, the sitting cushions are set out and will remain until after the meal the next day when they are put away. This is the standing procedure.
 
-**Hour of the Rooster (5–7 PM)**
+#### Hour of the Rooster (5–7 PM)
 
 When the time for release from attendance arrives, the Holy Monk's attendant bows and reports to the head seat. The head seat comes out of his quarters. Either before the head seat's quarters or before the assembly's quarters, the board is struck three times. The assembly outside the hall and those sitting in meditation put on their socks, don their kāṣāyas, come out, fold their bedding, and sit on the edge of their platforms.
 
@@ -99,7 +99,7 @@ Next, sūtra chanting at the main hall. The bell is struck one round or three ro
 
 Afterward, one returns to the quarters and bows. Before and after the release from attendance, when visiting the various quarters, one must always don the kāṣāya. This is the standing procedure. Whether for requesting leave, paying a visit, consulting about meditation, or reporting on matters, when going to the abbot's quarters or the quarters of the head seat and others, regardless of the time, one must don the kāṣāya.
 
-**Hour of the Dog (7–9 PM)**
+#### Hour of the Dog (7–9 PM)
 
 When the ant's waist [of the evening sky] is still visible, the board before the assembly's quarters is struck three times. The assembly dons kāṣāyas, enters the hall, goes to their respective bedding positions, faces the wall, and sits in meditation; as in the morning.
 
@@ -121,11 +121,11 @@ One lies down at approximately the middle of the boar hour and rises at the midd
 
 The procedure for sleeping: The entire assembly must lie on the right side. Do not lie on the left side, face up, or face down. Either make an external fist with both hands and place them under the chin with both legs slightly bent to sleep; or slightly bend the right hand and place it under the chin, straighten the left hand and place it on the left thigh; or place the left foot's big toe on the right inner ankle to sleep. Both right and left sleeves should be straight and extended while sleeping.
 
-**Hours of the Rat and Ox (11 PM–3 AM): Sleeping Time**
+#### Hours of the Rat and Ox (11 PM–3 AM): Sleeping Time
 
 The master may make a midnight circuit of the hall, inspecting the presence or absence of the assembly.
 
-**Hour of the Tiger (3–5 AM), Half-Hour**
+#### Hour of the Tiger (3–5 AM), Half-Hour
 
 The drum before the storehouse strikes the fourth watch, three points. At this time, the fire bell is rung, circling the monastery. The boards before the various quarters are struck; fourth watch, with three points on the clappers. The board before the head seat's quarters sounds. The great assembly rises simultaneously and first sits. After the head seat has made his circuit of the hall, each person gets up and goes to the latrine, chews willow twigs, and washes their face.
 
@@ -135,7 +135,7 @@ The great assembly sits and waits for the master to make his circuit of the hall
 
 After the late-night bell is finished, after the fifth watch, four points before the storehouse, the board before the storehouse sounds three rounds. This is called the "small awakening." The attendants all rise at once.
 
-**End of the Hare Hour (5–7 AM)**
+#### End of the Hare Hour (5–7 AM)
 
 After the fifth watch, five points, the drum and board are struck with extended beating, three rounds. This is called the "great enlightenment." The great assembly folds their quilts, folds their bedding, wraps their quilts, places their cloths on the quilts, covers the quilts, puts on socks, and reverently places the kāṣāya on their heads. With palms joined, they recite the verse:
 
@@ -152,9 +152,9 @@ The conduct during the twelve hours is as detailed in the Rules for Pursuing the
 
 ---
 
-### Monthly Affairs, Part Two
+### Monthly Affairs
 
-**First Day of the First Month**
+#### First Day of the Month
 
 At gruel time, the rector strikes the mallet and says: "Homage to the Bhagavān, the perfect Sūtras, and the great holy Bodhisattva Sangha; their merit is beyond thought." He also says: "This morning, [we pray for] boundless [blessings]. Relying reverently on the honored assembly, we recite the Ten Buddha Names as usual."
 
@@ -210,7 +210,7 @@ Hot water is served as after a Dharma-seat ascent. If there is no hot water, aft
 
 **Fourth Day**
 
-Head-shaving and bathing. The meditation board is not hung. From the fourth day onward, regular gruel is served. The Ten Buddha Names are used without a praising verse. One simply says: "We humbly hope the Three Treasures will all grant their witness and knowledge. Relying reverently on the honored assembly, we recite..."
+Head-shaving and bathing. The meditation board is not hung. From the fourth day onward, regular gruel is served. The Ten Buddha Names are used without a praising verse. One simply says: "We humbly hope the Three Treasures will all grant their witness and knowledge. Relying reverently on the honored assembly, we recite. . ."
 
 **Fifth Day**
 
@@ -218,13 +218,13 @@ Dharma hall ascent. If abbreviated, sūtra chanting at the patriarchs' hall.
 
 **Sixth Day**
 
-No special observances. If there is a request for instruction...
+No special observances. If there is a request for instruction. . .
 
 **Seventh Day**
 
-Entering the room is held. If abbreviated...
+Entering the room is held. If abbreviated. . .
 
-**Eighth Day**
+#### Eighth Day
 
 Recitation. Sūtra chanting for the fire deity. Either at the earth deity hall or at the main hall.
 
@@ -234,7 +234,7 @@ Head-shaving and bathing.
 
 **Tenth Day**
 
-Dharma hall ascent. If abbreviated...
+Dharma hall ascent. If abbreviated. . .
 
 **Eleventh Day**
 
@@ -266,7 +266,7 @@ Recitation.
 
 Anniversary of the former teacher Tetsūtsū Gikai. During my lifetime, whether residing at the temple or not, sūtra chanting must be performed at the memorial pagoda in one session. If the master does not attend, the attendant substitutes in burning incense and prostrating. Head-shaving and bathing as usual.
 
-**Fifteenth Day**
+#### Fifteenth Day
 
 Praising verse at gruel time. After gruel, paying respects. Imperial blessing sūtra chanting. Dharma hall ascent. Hall circuit. The first and fifteenth are identical. Poṣadha. Arhat offering. The ritual is on a separate sheet. On the fifteenth day of the ninth month of the first year of Gen'ō [1319], the arhat offering was first performed. On every fifteenth day, it is offered. This was the wish of the Venerable One.
 
@@ -326,13 +326,13 @@ The methods for recitation, entering the room, dedications for the various sūtr
 
 "The original ground's scenery, the assembly presently gathered, harmoniously together, we chant the Great Compassion Dhāraṇī of Perfect Fulfillment Without Obstruction and the Dhāraṇī for Eliminating Disasters and [Invoking] Wondrous Auspiciousness. The vast merit thus gathered is dedicated to the earth deity of this mountain, the Dharma-protecting dragons and devas, the true sovereign of this entire hall, the myriad spirits of the three realms, this year's presiding officers of yin and yang, the monastery-protecting deities, Zhaobao Qilang, Great Authority Xiūlì Bodhisattva, may their divine radiance shine afar, their merit be boundless, protecting the Dharma and bringing peace to people. May all conditions be auspicious."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 "The above chanting of the Great Compassion Dhāraṇī of Perfect Fulfillment Without Obstruction and the Dhāraṇī for Eliminating Disasters and [Invoking] Wondrous Auspiciousness; the extraordinary merit thus gathered is dedicated in prayer to the Honored Deva Skanda, the kitchen superintendent and the messenger who oversees meals, the deities presiding over fire and water. We pray that the mountain gate be tranquil, that within and without all be at peace, that fire and theft be both eliminated, that donors and faithful supporters return in devotion, and that all conditions be auspicious."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
-"The above chanting of the Great Compassion Dhāraṇī of Perfect Fulfillment Without Obstruction and the Dhāraṇī for Eliminating Disasters and [Invoking] Wondrous Auspiciousness, the merit thus gathered is dedicated to this temple's donors, all benefactors, [for] their natal stars and present-year ruling stars, may their awesome radiance increase. We pray that their merit and longevity be without..."
+"The above chanting of the Great Compassion Dhāraṇī of Perfect Fulfillment Without Obstruction and the Dhāraṇī for Eliminating Disasters and [Invoking] Wondrous Auspiciousness, the merit thus gathered is dedicated to this temple's donors, all benefactors, [for] their natal stars and present-year ruling stars, may their awesome radiance increase. We pray that their merit and longevity be without. . ."
 
 **[Dedication for Recitation:]**
 
@@ -342,11 +342,11 @@ The methods for recitation, entering the room, dedications for the various sūtr
 
 "Each time this mountain gate encounters this occasion, we respectfully assemble the bhikṣu assembly and chant the Great Compassion Dhāraṇī of Perfect Fulfillment Without Obstruction. The merit thus gathered is offered to Great Master Bodhidharma, Chan Master Bǎizhàng, and the successive generations of patriarchal masters; may their ranks be enhanced."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 "The above chanting of the Great Compassion Dhāraṇī of Perfect Fulfillment Without Obstruction, the Disaster-Eliminating [Dhāraṇī of] Wondrous Auspiciousness; increasing awesome radiance, the ocean of immeasurable virtue. We pray that the mountain gate be tranquil, that within and without all be at peace."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 "Announcement to the great assembly: The great teacher, the Tathāgata, entered parinirvāṇa. To the present, the Japanese year of Gen'ō 4, the year of *jiǎzǐ* [1324], it has already been 2,271 years. The day is already past; life diminishes accordingly, like fish in dwindling water; what joy is there in this? The assembly should diligently practice with vigor, as if extinguishing a fire on their heads. Simply contemplate impermanence; carefully do not be heedless. May the monastery deities and earth spirits protect the Dharma and bring peace to people. May the ten-direction benefactors increase in merit and wisdom. For these conditions above, we recite the Ten Buddha Names."
 
@@ -354,25 +354,25 @@ The methods for recitation, entering the room, dedications for the various sūtr
 
 "The above chanting of the present King Sūtra; the merit thus gathered is dedicated to the True Dharma Radiant King, the Lord of Perfect Penetration in the City of the Thousand-Radiance King, the Bestower of Fearlessness, the One who universally manifests through all gates to benefit all beings. May all who serve [this bodhisattva] have their vows fulfilled, may they practice the unconditioned, and may all conditions be auspicious."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 "Wondrous spirit, thus-thus, perfectly penetrating vast emptiness; creating and transforming the myriad things, unobstructed in any direction. We humbly hope for true compassion, and bow in supplication for illuminating witness."
 
 "Each time this mountain gate encounters this occasion, we respectfully gather the pure assembly of the entire mountain and chant in unison the Great Buddha-Crown, Myriad-Practice, Śūraṅgama Divine Dhāraṇī. The extraordinary merit thus gathered is dedicated to the assembly of Chan Master Pǔ'ān Jìgǎn Miàojì Zhēnjué Zhāokuàng Dàdé Huìqìng, and the million fire-head vajra-holders and countless eight classes of dragons and devas, holy assembly, and spirit-generals of directional taboos in construction. We pray that the mountain gate be tranquil, that within and without all be at peace, that this great place of practice be forever free from demonic disturbances, that fire and candles cause no concern, that donors and faithful supporters return in devotion, and that all conditions be auspicious."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 **[Dedication for Ordinary Daily Sūtra Chanting After Gruel:]**
 
 "The above chanting of divine dhāraṇī; the merit is dedicated to the true suchness of ultimate reality, the unsurpassed Buddha-fruit of bodhi. It is offered in prayer to the Dharma-protecting dragons and devas, the Dharma-protecting holy ones, the myriad spirits of the three realms, the supreme holy ones of the ten directions, the great and small deities within the nation of Japan, the earth deity of this mountain, the dragon king of this mountain, the monastery-protecting deities, the eighteen benevolent deities, Zhaobao Qilang, Great Authority Xiūlì Bodhisattva, the deities of Hakusan and Hachiman, the messenger who oversees meals, Tamon [Vaiśravaṇa], Mahākāla, the Inari deities and others, the true sovereign of this entire hall, this year's presiding officers of yin and yang who balance creation, the Southern Fire-Virtue Star Lord and the fire-section holy assembly. The extraordinary merit thus gathered is offered in prayer to this temple's donors, the ten-direction benefactors, the pure assembly of this entire mountain, [for] their natal stars and present-year ruling stars, the guardian deities of their Way and their dwellings, and all holy beings. We pray that the mountain gate be tranquil, that construction proceed without difficulty, that the ten-direction benefactors be adorned with merit and longevity, and that all beings in the Dharma-realm equally perfect the seed-wisdom."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 **[Midday Dedication:]**
 
 "The above chanting of the Buddha-Crown Uṣṇīṣa-vijaya-dhāraṇī; the merit is dedicated to the true suchness of ultimate reality, the Three Treasures of the ten directions, the myriad spirits of the three realms, all Dharma-protecting deities of the Japanese realm, the dragons and devas of this entire mountain, the ten-direction donors, the natal stars, yearly stars, guardian deities of their Ways and dwellings of the pure assembly of this entire hall. We pray that the mountain gate be tranquil, that the pursuit of the Way be peaceful, that all transcend and realize the Buddha-fruit, and benefit sentient beings. May all conditions be auspicious."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 **[After Release-from-Attendance Dedication:]**
 
@@ -404,42 +404,42 @@ Merit. On the memorial. [Three Treasures seal] [Three Treasures seal] [Three Tre
 
 > Purity ultimate, light penetrating,
 > Silent illumination containing empty space.
-> Returning to observe the world...
+> Returning to observe the world. . .
 > It is just like events within a dream.
 
 "The above pure assembly presently gathered chants the Great Buddha-Crown, Myriad Spirits; adorning the reward-ground. We pray: In the stream of birth and death, may the black pearl shine alone upon the vast ocean. Seated on the shore of nirvāṇa, may the cassia moon shine solitary in the azure sky. Universally guiding the world, may all together ascend the path of awakening."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 "On this occasion, we respectfully gather the pure assembly of the entire mountain and chant the Great Buddha-Crown, Myriad-Practice, Śūraṅgama Divine Dhāraṇī. The merit thus gathered is offered to the honored spirit; adorning the reward-ground. We pray: In the stream of birth and death, may the black pearl shine alone upon the vast ocean. Seated on the shore of nirvāṇa, may the cassia moon shine solitary in the azure sky. May the shade cover future descendants, and may the reward of merit be inexhaustible."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
-"The above pure assembly presently gathered chants the Great Buddha-Crown, Myriad-Practice, Śūraṅgama Divine Dhāraṇī..."
+"The above pure assembly presently gathered chants the Great Buddha-Crown, Myriad-Practice, Śūraṅgama Divine Dhāraṇī. . ."
 
 **[Dedication for Summer Prayer Service:]**
 
 "We humbly hope the Three Treasures will all grant their witness."
 
-"The above chanting of the Mahā-prajñā-pāramitā-hṛdaya-sūtra, the Avalokiteśvara's Universal... to the true suchness of ultimate reality, the unsurpassed Buddha-fruit of bodhi. Offered in prayer to the Dharma-protecting devas, the Great Authority True Sovereign, the myriad spirits of the three realms, the supreme holy ones of the ten directions, this year's presiding officers of yin and yang... and the holy assembly. The abbot's natal star and birth constellation. The great and small deities within the nation of Japan. The earth deity of this mountain. The monastery-protecting deities. The true sovereign of this entire hall. To the utmost of this prayer gathering, boundless spiritual blessings. Relying on this wondrous virtue, universally applied in solemn dedication. We specially pray that the abbot's body on the Way be at peace, that merit and longevity increase, that calamities and obstacles not arise... that all public and private conditions be auspicious."
+"The above chanting of the Mahā-prajñā-pāramitā-hṛdaya-sūtra, the Avalokiteśvara's Universal. . . to the true suchness of ultimate reality, the unsurpassed Buddha-fruit of bodhi. Offered in prayer to the Dharma-protecting devas, the Great Authority True Sovereign, the myriad spirits of the three realms, the supreme holy ones of the ten directions, this year's presiding officers of yin and yang. . . and the holy assembly. The abbot's natal star and birth constellation. The great and small deities within the nation of Japan. The earth deity of this mountain. The monastery-protecting deities. The true sovereign of this entire hall. To the utmost of this prayer gathering, boundless spiritual blessings. Relying on this wondrous virtue, universally applied in solemn dedication. We specially pray that the abbot's body on the Way be at peace, that merit and longevity increase, that calamities and obstacles not arise. . . that all public and private conditions be auspicious."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 **[Dedication for the Thousand-Fascicle Sūtra Reading Prayer:]**
 
 "The Lord of Perfect Penetration, the Pure Holy One of Universal Gate, surpassing the worldly, the Brahmā-voice ocean-tide, we chant one thousand fascicles of the present King Sūtra. The merit is immeasurable. It is dedicated to the Bestower of Fearlessness, the Honored One Avalokiteśvara, the True Dharma Radiant King, the City of the Thousand-Radiance King, the thirty-three manifestations, and the responses throughout the lands of the ten directions. The myriad spirits of the three realms, all deities, the extraordinary merit thus gathered is offered in prayer to the Great Sun Goddess Amaterasu of the Great Nation of Japan, the deities of more than sixty provinces and more than three thousand shrines, the dragons, devas, ghosts, spirits, and others. All the great and small meritorious [deities]. Today's prayer patron's natal star and present-year ruling star, clan deity and local guardian of birth-soil and dwelling. We pray that all conditions be auspicious."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 **[General Dedication for Sūtra Reading:]**
 
 "The above sūtra reading and dhāraṇī recitation merit is dedicated to the Three Treasures, the successive patriarchs, all Dharma-protecting and Way-guarding benevolent deities, the deities of Japan, the myriad spirits of the three realms, the monastery and local guardians, the true sovereign of this entire hall; may their awesome radiance increase. We pray that the Buddha and patriarchs long abide, benefiting and saving humans and devas, bestowing their protection and mindful care, assisting the arousal of the mind for the Way, eliminating karmic obstructions, maturing the Way-practice, broadly saving sentient beings, and repaying the four debts of gratitude and the three realms of existence."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 > "Dhāraṇī are like wondrous medicine,
 > Able to cure the illness of all delusions.
-> They are also like the heavenly nectar...
+> They are also like the heavenly nectar. . .
 > Those who partake are always at peace and joy."
 
 "Southern Jambudvīpa, Great Nation of Japan, such-and-such province, such-and-such district, such-and-such estate, such-and-such mountain, such-and-such temple, abbot so-and-so and others, making a special prayer in the realm of the Three Treasures, exclusively cultivating the white virtues of the three karmas, providing for the Chan assembly of such-and-such temple, faithfully reading six hundred fascicles of true scripture, awakening the faith of the bodhisattva Sadāprarudita, relying on the vast merit-power of the Prajñā[pāramitā]. The vast merit thus gathered is dedicated to the Three Treasures of all sixteen assemblies of the Prajñā[pāramitā], the Three Treasures of the ten directions such as the Land of Ultimate Bliss, the honored one Avalokiteśvara of the principal maṇḍala, the twenty-eight divisions of followers, as well as the faithful donors' benevolent deities, the Dharma-protecting dragons and devas, the myriad spirits of the three realms, the heavenly deities and earthly spirits, the deities of more than sixty provinces and more than three thousand shrines, the guardians of the region before and after, the general and branch shrines of the great Dharma assembly, the retinues and attendants, and even the guardian deities of dwellings and roads; may each increase in awesome radiance, benefit and save sentient beings, and cause them to enter the Way."
@@ -454,9 +454,9 @@ To all the Three Treasures of the Prajñā Assembly. [Yellow paper, Three Treasu
 
 "We humbly hope the Three Treasures will all grant their seal and witness."
 
-"...the holy ones who protect and sustain cannot preserve themselves. Each day, entrusting our lives [to them]. The merit gathered from the Sangha's daily chanting of sūtras and dhāraṇī is dedicated to the true suchness of ultimate reality, the unsurpassed Buddha-fruit of bodhi. Offered in prayer to the Dharma-protecting Great Authority Xiūlì, the true sovereign of this entire hall, the Great Sun Goddess Amaterasu of the Great Nation of Japan, the great bright deity of this locality's guardian shrine, the branch and general shrines, the deities of more than sixty provinces and more than three thousand shrines, the dragons, devas, ghosts, and others. All the great and small merit; may it be fulfilled. At this prayer gathering, boundless spiritual blessings. We pray that all conditions be auspicious."
+". . .the holy ones who protect and sustain cannot preserve themselves. Each day, entrusting our lives [to them]. The merit gathered from the Sangha's daily chanting of sūtras and dhāraṇī is dedicated to the true suchness of ultimate reality, the unsurpassed Buddha-fruit of bodhi. Offered in prayer to the Dharma-protecting Great Authority Xiūlì, the true sovereign of this entire hall, the Great Sun Goddess Amaterasu of the Great Nation of Japan, the great bright deity of this locality's guardian shrine, the branch and general shrines, the deities of more than sixty provinces and more than three thousand shrines, the dragons, devas, ghosts, and others. All the great and small merit; may it be fulfilled. At this prayer gathering, boundless spiritual blessings. We pray that all conditions be auspicious."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 ---
 
@@ -466,7 +466,7 @@ To all the Three Treasures of the Prajñā Assembly. [Yellow paper, Three Treasu
 
 "Respectfully, the Eastern Hall Master: the infant moon of perfect wisdom has suddenly gathered in the light of myriad waters. The vast vehicle of great compassion has now responded to the feelings of the ten directions. Looking up, there is no ground [worthy of such gaze]; unfolding our resolve, we find a place of refuge. Now the true assembly is gathered to praise and extol the holy names."
 
-"Relying reverently on the great assembly, we recite: 'Homage to the Pure Dharma-body Vairocana Buddha...'" [and so on]
+"Relying reverently on the great assembly, we recite: 'Homage to the Pure Dharma-body Vairocana Buddha. . .'" [and so on]
 
 "The above praise and extolling of the holy names, the merit is boundless. Respectfully applied in dedication to the newly entered parinirvāṇa Eastern Hall Master, birthless, shaking the world, wondrously adorning awakening."
 
@@ -478,36 +478,36 @@ To all the Three Treasures of the Prajñā Assembly. [Yellow paper, Three Treasu
 
 "Respectfully addressing the great assembly: We solemnly proceed to the coffin curtain, reciting and upholding the vast names of myriad virtues, offered to enhance the path of awakening."
 
-"Relying reverently on the great assembly, we recite: 'Homage to the Pure Dharma-body...'" [and so on]
+"Relying reverently on the great assembly, we recite: 'Homage to the Pure Dharma-body. . .'" [and so on]
 
 "The above recitation merit is offered to the newly entered parinirvāṇa Eastern Hall Master, assisting the honored spirit and enhancing the Dharma-rank. We pray: May you not forget your vow-power, may you again manifest the uḍumbara flower, steer the boat of compassion upon the ocean of birth and death, and receive the confused multitudes upon the shore of bodhi."
 
 "We trouble the honored assembly once more to recite."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 Next, the Great Compassion Dhāraṇī.
 
 **Raising the coffin; Recitation:**
 
 > "Recollecting past ease; today and then, no longer the same.
-> The golden coffin once raised, we circle Kuśinagara's..."
+> The golden coffin once raised, we circle Kuśinagara's. . ."
 
 "Relying reverently on the great assembly, we praise and extol the vast names to express our clinging sorrow and to enhance the path of awakening above."
 
-"We recite: 'Homage to the Pure Dharma-body...'" [and so on]
+"We recite: 'Homage to the Pure Dharma-body. . .'" [and so on]
 
 "The above recitation merit is offered to the newly entered parinirvāṇa Eastern Hall Master, assisting the honored spirit and enhancing the Dharma-rank. We pray: May you not forget your vow-power, may you again manifest the uḍumbara flower, steer the boat of compassion upon the ocean of birth and death, and receive the confused multitudes upon the shore of bodhi."
 
 "We trouble the honored assembly once more to recite."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 "On this very day, the Eastern Hall Master's karmic conditions of transformation are completed, and he returns to the eternal truth. The spirit-coffin has circled the cryptomeria trees; the samādhi-fire suddenly merges with the elemental fire."
 
 "Relying reverently on the great assembly, we assist the honored spirit."
 
-"'Homage to the Pure Dharma-body...'" [and so on]
+"'Homage to the Pure Dharma-body. . .'" [and so on]
 
 "The above praise and extolling of the holy names, reverently lauding the transformation ceremony: Embodying the ultimate of the original tradition, the steep mechanism admits neither Buddhas nor patriarchs. Opening the way for later students, the compassionate mind reaches out to humans and devas. The hundred limbs of magical transformation enter the samādhi of fire-radiance. Pour the three libations of tea; heat the single burner of incense. We reverently uphold this and bow in peace to the holy assembly."
 
@@ -515,7 +515,7 @@ Next, the Great Compassion Dhāraṇī. Dedication:
 
 "The above recitation and sūtra-chanting merit is offered to the Eastern Hall Master, at this occasion of cremation, to enhance his rank."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 Next, the guest prefect chants sūtras before the altar. The junior disciples offer condolence chanting.
 
@@ -523,19 +523,19 @@ Next, the guest prefect chants sūtras before the altar. The junior disciples of
 
 "Leaving behind robes to express trust, this is the transmitted rule of the successive patriarchs. Using the Dharma to break miserliness, this follows the transmitted standard of the ancient sages. Now we perform the auction, to express impermanence."
 
-"Relying reverently on the great assembly, we recite: 'Homage to the Pure Dharma-body...'" [and so on]
+"Relying reverently on the great assembly, we recite: 'Homage to the Pure Dharma-body. . .'" [and so on]
 
 Dedication after the clothing auction:
 
 "The above clothing-auction recitation merit is offered to the newly departed Eastern Hall Master, to enhance his rank."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 **Order of Buddhist Services:**
 
 Enshrinement in the coffin. Moving the coffin. Sealing the coffin. Hanging the portrait in the Dharma hall. Crying ceremony and tea-and-water offering. Informal instruction before the spirit. Tea-and-water offering. Raising the coffin. Hanging the portrait at the portrait pavilion at the mountain gate. Tea-and-water offering. Touching the torch. Placing the bones. Lifting the robe and raising the bones. Entering the pagoda. Entering the patriarchs' hall. Entering the pagoda with the whole body. Scattering earth.
 
-Note: The above altar recitation stating "The spirit-coffin has circled the cryptomeria trees; the samādhi-fire suddenly merges with the elemental fire"; this text was composed at the time of the passing of the former teacher Tetsūtsū Gikai. At that time it was written: "The spirit-coffin has circled Kuśinagara; the elemental fire self-immolates on this day..." and so on.
+Note: The above altar recitation stating "The spirit-coffin has circled the cryptomeria trees; the samādhi-fire suddenly merges with the elemental fire"; this text was composed at the time of the passing of the former teacher Tetsūtsū Gikai. At that time it was written: "The spirit-coffin has circled Kuśinagara; the elemental fire self-immolates on this day. . ." and so on.
 
 ---
 
@@ -545,19 +545,19 @@ Note: The above altar recitation stating "The spirit-coffin has circled the cryp
 
 "We solemnly request the great assembly presently gathered to reverently recite the vast names of all the holy ones. The vast merit thus gathered is dedicated to the reward-ground."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 Next, the Great Compassion Dhāraṇī. Dedication:
 
-"The above chanting of the Great Compassion Dhāraṇī of Perfect Fulfillment Without Obstruction; the merit is dedicated to the newly..."
+"The above chanting of the Great Compassion Dhāraṇī of Perfect Fulfillment Without Obstruction; the merit is dedicated to the newly. . ."
 
 Next, the Śūraṅgama Dhāraṇī. The guest prefect or the attendant begins it.
 
 **Raising the coffin; Recitation:**
 
-"We wish to raise the spirit-coffin and proceed to the grand ceremony of cremation. Relying reverently on the honored assembly, we recite the holy ones'..."
+"We wish to raise the spirit-coffin and proceed to the grand ceremony of cremation. Relying reverently on the honored assembly, we recite the holy ones'. . ."
 
-**At the mountain summit; Recitation:** "...and the cremation."
+**At the mountain summit; Recitation:** ". . .and the cremation."
 
 "Burning the body of one hundred years of spreading the Way, entering the one path to nirvāṇa."
 
@@ -575,25 +575,25 @@ Next, the Śūraṅgama Dhāraṇī. The guest prefect or the attendant begins i
 
 "We humbly beseech the great assembly presently gathered to reverently recite the vast names of all the holy ones; opening the awakening-flower upon the fruit-tree, extending the merit to the Dharma-realm."
 
-"Relying reverently on the honored assembly..."
+"Relying reverently on the honored assembly. . ."
 
-Dedication: "...to the reward-ground."
+Dedication: ". . .to the reward-ground."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 Next, the Great Compassion Dhāraṇī. Dedication as before.
 
 "Floating clouds scatter, and their shadow does not linger. The remaining candle is spent, and its light naturally extinguishes."
 
-"Now we proceed with the auction..."
+"Now we proceed with the auction. . ."
 
 After the recitation of the ten names is complete, the hand-bell is struck once, and it is announced: "The method of clothing auction follows the constant rule. New and old, short and long; each should look carefully. Do not mix new items together. After the sound of the hand-bell ceases, no reversals are permitted. Respectfully announced."
 
 After the clothing auction, the Great Compassion Dhāraṇī. Dedication:
 
-"The above great assembly recitation and clothing-auction merit is all dedicated to the newly... We recite."
+"The above great assembly recitation and clothing-auction merit is all dedicated to the newly. . . We recite."
 
-"In the ten directions, three times..." [as above]
+"In the ten directions, three times. . ." [as above]
 
 ---
 
@@ -610,7 +610,7 @@ Officiant assignments for the mountain gate ceremony:
 - So-and-so Senior Seat: hand towel
 - So-and-so Senior Seat
 
-"...all properly composed in deportment. Upon hearing the bell, assemble."
+". . .all properly composed in deportment. Upon hearing the bell, assemble."
 
 On the last day of the month, change "bright half" to "dark half." All else is the same as above. If a separate precept master and chanting master are invited, a duty board may also be posted.
 
@@ -626,10 +626,10 @@ The master bows facing the front, burns incense, makes three full prostrations. 
 
 > "Subdue the power of Māra's armies,
 > Remove the fetters without remainder.
-> In the open ground, strike the gandhārī...
+> In the open ground, strike the gandhārī. . .
 > Bhikṣus, hearing it, should assemble.
 > All who wish to hear the Dharma,
-> To cross the ocean of birth and death...
+> To cross the ocean of birth and death. . .
 > Hearing this wondrous resonance,
 > All should gather like clouds."
 
@@ -637,7 +637,7 @@ When the verse is finished, the rector strikes the hand-bell and leads the assem
 
 > "Keeping precepts pure as the full moon,
 > Body and speech luminous, without foul stain.
-> The great assembly harmonious, without dispute...
+> The great assembly harmonious, without dispute. . .
 > Only then may we practice the Poṣadha together."
 
 When the verse is finished, the sitting cloths are collected and all rise. First the master takes his seat. Then the head seat and great assembly exchange salutations, bow, and sit in full lotus posture.
@@ -648,14 +648,14 @@ The rector leads the four persons for purifying water and so forth. They advance
 
 > "Water of eight meritorious qualities purifies all dust.
 > Pouring over the palms removes defilement; the mind is unstained.
-> Upholding the prohibitive precepts without deficiency...
+> Upholding the prohibitive precepts without deficiency. . .
 > May all sentient beings likewise be so."
 
 When the verse is finished, the right hand takes the purifying-water vessel. The left palm receives the pure water. Both hands wash each other. Then the right hand takes the hand towel and wipes dry. The right hand presses the table to stand, and he bows. At this time, the purifying-water person bows together. As before, advancing before the purifying water [person], the rector slowly steps sideways, advances before the fragrant-water [person]. The two bow together and kneel. The rector first chants the fragrant-water verse:
 
 > "Fragrant water bathes and washes away all defilements.
 > The Dharma-body is fully endowed with the five-part [incense].
-> Prajñā's perfect illumination, liberation fulfilled...
+> Prajñā's perfect illumination, liberation fulfilled. . .
 > May the assembly of beings together realize the Dharma-realm's form."
 
 When the verse is finished, the purifying-water person chants the purifying-water verse. The rector's left hand takes the fragrant-water vessel. The right palm receives the fragrant water. Both hands wash each other. Then the left hand takes the hand towel and wipes dry. He waits for the purifying-water person to finish washing. The left hand presses the table, and both stand together and bow.
@@ -665,8 +665,8 @@ The fragrant water and two hand-towel persons advance to the front. The verse is
 The five persons all bow together, then slowly advance together near the table. Three persons kneel; the two hand-towel persons stand facing each other left and right. The rector joins palms and chants the bathing-tally verse. The officiating monks and the great assembly recite in unison:
 
 > "All Buddhas, holy Sangha assembly,
-> Bodhisattva assembly, harmonious...
-> Fragrant-water bath, pure tallies...
+> Bodhisattva assembly, harmonious. . .
+> Fragrant-water bath, pure tallies. . .
 > Poṣadha saves sentient beings."
 
 The rector takes the tallies, goes to the place for purifying the tallies, and purifies them; that is, bathes the upper part in fragrant water and the lower part in purifying water. When the verse is finished, the two hand-towel persons take their hand towels from left and right. The five persons stand side by side and step back to the edge of the mat to bow.
@@ -679,30 +679,30 @@ The rector stands by the mallet, bows, removes the cover, places the tallies on 
 
 "For this reason, I now practice Poṣadha with the assembly and recite the precepts of all Buddhas. With this merit, we benefit the eight classes of dragons and devas, the earth and monastery deities, dedicate it to the myriad spirits of the three realms, the true sovereigns of the ten directions. May His Majesty the Emperor's sagely transformation be without limit. May princes, officials, civil and military, and all people together accomplish the path of peach and plum, and all maintain the integrity of the sunflower and bean-leaf. May the monastery be tranquil, the assembly at peace. May the Buddha-sun increase in radiance, may the Dharma wheel turn constantly. May donors and faithful supporters increase in merit and wisdom. May preceptor-masters and parents perfect the seed-wisdom. May those who see, hear, and rejoice, the empty-space Dharma-realm, the three paths and eight difficulties, those with nature and without feeling, all abide in the proper Dharma-body."
 
-"We vow together with all sentient beings, from this Jambudvīpa straight to the original..."
+"We vow together with all sentient beings, from this Jambudvīpa straight to the original. . ."
 
 "Children of the Buddha, listen well. This treasury of bodhisattva precepts is recited together by all Buddhas and bodhisattvas of the three times. Among you, those who have not yet aroused the bodhi-mind and not yet received the bodhisattva precepts; please leave."
 
-"Children of the Buddha, listen well. Among you, those who have not aroused and not received have already left. You, from this present body until attaining the Buddha-body; can you abandon the wrong, return to the right, arouse the bodhi-mind, and sever..."
+"Children of the Buddha, listen well. Among you, those who have not aroused and not received have already left. You, from this present body until attaining the Buddha-body; can you abandon the wrong, return to the right, arouse the bodhi-mind, and sever. . ."
 
-"Children of the Buddha, listen well. Outside, there are pure great bodhisattva-mahāsattvas entering..."
+"Children of the Buddha, listen well. Outside, there are pure great bodhisattva-mahāsattvas entering. . ."
 
 "Children of the Buddha, listen well. Among you, the assistants have already secured the area. Outside, the pure great bodhisattvas have already entered. Inside and outside is quiet; there are no difficulties. It is fitting to distribute the tallies."
 
-"The assembly should single-mindedly contemplate the Poṣadha. May the upper, middle, and lower seats, each in proper order..."
+"The assembly should single-mindedly contemplate the Poṣadha. May the upper, middle, and lower seats, each in proper order. . ."
 
 After the mallet is struck, [the rector] holds the tallies horizontally with both hands, bows, passes along the west side of the table to the front face, bows near the table, distributes tallies to the Holy Monk, bows again before the table, turns right, and recites the verse:
 
-> "The vajra, unobstructed, liberation tally...
+> "The vajra, unobstructed, liberation tally. . .
 > Difficult to obtain, difficult to encounter, like a golden fruit.
-> I now receive it atop my head with joy...
+> I now receive it atop my head with joy. . .
 > May all sentient beings likewise be so."
 
 Distributing tallies while reciting the verse as before. After distributing the lay tallies, when the count is complete, the rector takes the tallies and returns to the west-north of the mallet area. The assistant follows. The rector faces east; the assistant faces west. They kneel facing each other. The rector raises one tally in his upturned right hand and recites the verse. When finished, the assistant takes the tally. Then [the rector] receives his own tally and, holding it in his right hand, recites the verse. When finished, both rise together. The rector gives the total tallies to the assistant. The assistant holds the tallies horizontally, advances before the master, and reports: "Ordained bodhisattvas: such-and-such number. Lay bodhisattvas: such-and-such number. Ordained and lay bodhisattvas in total: such-and-such number." He passes the tallies to the master. The master joins palms and takes the tallies.
 
 As the assistant announces, [the tallies] are passed to the rector. The rector strikes the mallet once and says:
 
-"Children of the Buddha, listen well. In this one dwelling-place, in this one Poṣadha, ordained and lay bodhisattvas in total: such-and-such number. Each, within the Buddha-Dharma, maintains purity, harmoniously practicing the Poṣadha together. Above, in accord with the Buddha's teaching; in the middle, repaying the four debts of gratitude; below, for the sake of all sentient beings. Each should..."
+"Children of the Buddha, listen well. In this one dwelling-place, in this one Poṣadha, ordained and lay bodhisattvas in total: such-and-such number. Each, within the Buddha-Dharma, maintains purity, harmoniously practicing the Poṣadha together. Above, in accord with the Buddha's teaching; in the middle, repaying the four debts of gratitude; below, for the sake of all sentient beings. Each should. . ."
 
 The rector advances before the master, makes three prostrations, collects his sitting cloth. Then he bows.
 
@@ -714,12 +714,12 @@ At this time, the abbot burns incense, prostrates, and ascends the seat. Next, t
 
 > "Scattered flowers adorn the ten directions;
 > Scattered precious flowers form a canopy.
-> Scattered precious flowers pervade the ten directions...
+> Scattered precious flowers pervade the ten directions. . .
 > An offering to all Tathāgatas."
 
 When the verse is finished, the mallet is struck once. The sacred-chant person intones:
 
-> "The Tathāgata, wondrous form, body..."
+> "The Tathāgata, wondrous form, body. . ."
 
 Near the end of the sacred chant, the flower-scatterer, sacred-chant person, and staff-bearer, three persons, take the robe-bowl and staff from the table, stand in position at the front face before the Buddha. First the flower-scatterer raises the verse; the two persons chant in harmony. The sacred-chant person and staff-bearer each raise their verses; the two persons alternate in harmony as before.
 
@@ -733,7 +733,7 @@ The sacred-chant person chants the verse:
 
 The staff-bearer chants the verse:
 
-> "Hand grasping the staff; may sentient beings establish the great giving assembly and reveal the true path. Offering to the Three Treasures. Establishing the great giving assembly and revealing the true path. Offering to the Three Treasures. With a pure mind, offering to the Three Treasures. Arousing a pure mind, offering to the Three Treasures. With a vow of purity, offering to the Three Treasures. The Buddhas of the three times grasp and hold the staff, offering to the Three Treasures. Therefore I bow my head, grasp and hold the staff, offering to the Three Treasures. Therefore I bow my head..."
+> "Hand grasping the staff; may sentient beings establish the great giving assembly and reveal the true path. Offering to the Three Treasures. Establishing the great giving assembly and revealing the true path. Offering to the Three Treasures. With a pure mind, offering to the Three Treasures. Arousing a pure mind, offering to the Three Treasures. With a vow of purity, offering to the Three Treasures. The Buddhas of the three times grasp and hold the staff, offering to the Three Treasures. Therefore I bow my head, grasp and hold the staff, offering to the Three Treasures. Therefore I bow my head. . ."
 
 "Namo, with reverence we make offering. To the sixteen great arhats and others; may they have compassion, receive us, and protect the great assembly."
 
@@ -759,12 +759,12 @@ The staff-bearer chants the verse:
 
 "Therefore, the great assembly, relying on the communion, should recite the verse-hymn:"
 
-> "Homage to the great arhats...
+> "Homage to the great arhats. . .
 > The Dharma-nature, the cool moon.
 > When sentient beings' mind-water is pure,
 > The arhats' reflection appears within."
 
-"**Second, Clarifying the Benefit of Prospering [the Dharma]:** When the Buddha, in the city of Kuśinagara, in the Śāla grove, was about to enter final nirvāṇa, he summoned Piṇḍola and the other sixteen arhats, touched their heads, and said: 'I entrust my unsurpassed true Dharma to you. After my extinction and before Maitreya, do not enter nirvāṇa. You should prosper my Dharma and benefit sentient beings. My conditions for transformation are exhausted; remaining in the world would be of no benefit.' Thereupon, the sixteen honored ones, hearing the golden-mouthed final entrustment, wept like small children, unwittingly dropped their single bowl, fainted, and fell to the ground. The Buddha consoled them again, and they revived as if from a swoon, restrained their tears, and received [the charge] atop their heads, not violating the Buddha's command... and so forth."
+"**Second, Clarifying the Benefit of Prospering [the Dharma]:** When the Buddha, in the city of Kuśinagara, in the Śāla grove, was about to enter final nirvāṇa, he summoned Piṇḍola and the other sixteen arhats, touched their heads, and said: 'I entrust my unsurpassed true Dharma to you. After my extinction and before Maitreya, do not enter nirvāṇa. You should prosper my Dharma and benefit sentient beings. My conditions for transformation are exhausted; remaining in the world would be of no benefit.' Thereupon, the sixteen honored ones, hearing the golden-mouthed final entrustment, wept like small children, unwittingly dropped their single bowl, fainted, and fell to the ground. The Buddha consoled them again, and they revived as if from a swoon, restrained their tears, and received [the charge] atop their heads, not violating the Buddha's command. . . and so forth."
 
 "Then, ever since Kāśyapa's form was concealed at Kukkuṭapāda Mountain and Ānanda's body was divided at the Ganges River, the four reliance-bodhisattvas have exerted their sūtra-protecting power, yet it does not compare to these arhats who, through supernatural power, extend their lives, awaiting from afar Maitreya's descent and birth; the final command faithfully maintained, able to protect the Buddha-Dharma of the final age."
 
@@ -774,16 +774,16 @@ The staff-bearer chants the verse:
 
 "Therefore, the great assembly, with joy and praise, should repay the grace of prospering [the Dharma]. The verse-hymn says:"
 
-> "The Buddha's true Dharma has two aspects...
+> "The Buddha's true Dharma has two aspects. . .
 > Called the teaching and the realization, as its essence.
-> When there are those who uphold and practice...
+> When there are those who uphold and practice. . .
 > Then it abides in the world."
 
-"**Third, Clarifying the Benefit of the Field of Merit:** All arhats are the great field of merit for sentient beings. The retribution of harm and benefit does not wait for future lives. The proof of reward and punishment is before one's eyes. Troubling them brings calamity, earth rains down, burying the capital. Making offerings brings merit, jewels rain down, filling the king's palace. Those who see their images are forever free from poverty. Those who call their names are early granted protection. The *Record of the Duration of the Dharma* states: 'Kings, great ministers, elders, householders, men and women; when they establish a great feast and wish to give to the Sangha, the sixteen arhats and their retinues of great arhats conceal their holy demeanor, manifest various forms, and secretly receive the offerings, causing the donors to attain the supreme fruit of retribution'... and so forth."
+"**Third, Clarifying the Benefit of the Field of Merit:** All arhats are the great field of merit for sentient beings. The retribution of harm and benefit does not wait for future lives. The proof of reward and punishment is before one's eyes. Troubling them brings calamity, earth rains down, burying the capital. Making offerings brings merit, jewels rain down, filling the king's palace. Those who see their images are forever free from poverty. Those who call their names are early granted protection. The *Record of the Duration of the Dharma* states: 'Kings, great ministers, elders, householders, men and women; when they establish a great feast and wish to give to the Sangha, the sixteen arhats and their retinues of great arhats conceal their holy demeanor, manifest various forms, and secretly receive the offerings, causing the donors to attain the supreme fruit of retribution'. . . and so forth."
 
 "Accordingly, the people of Khotan established a great feast, invited the arhats, and sought water from the high plain. The sixteen arhats manifested as beggars, ascended the feast-mat, and spoke to each other: 'Mindful of the Buddha's command, we have come to answer your invitation. Do not refuse us.' Immediately, with their staff, they struck the ground, and following the staff, a sweet spring gushed forth."
 
-"Also, in the city of brāhmaṇas, there was a poor woman who wept in shame at her karmic retribution. She had obtained only a small portion of rice and wished to offer it to the sixteen honored ones. The arhats, pitying her poverty, manifested as beggars and went to receive her meager offering. The poor woman's form was suddenly transformed; an emperor welcomed her as his consort... and so forth."
+"Also, in the city of brāhmaṇas, there was a poor woman who wept in shame at her karmic retribution. She had obtained only a small portion of rice and wished to offer it to the sixteen honored ones. The arhats, pitying her poverty, manifested as beggars and went to receive her meager offering. The poor woman's form was suddenly transformed; an emperor welcomed her as his consort. . . and so forth."
 
 "Also, a householder of Hú province made offerings to the images of the sixteen honored ones, and his household's wealth nearly equaled that of Sudatta. In Yáng province, under a tree, there were sixteen shadow-images that on feast days emitted light. Those who made offerings were like a marketplace. Prayers were never empty."
 
@@ -791,18 +791,18 @@ The staff-bearer chants the verse:
 
 "Therefore, the great assembly should take refuge in the sixteen arhats and pray for the benefit of the field of merit. The verse-hymn says:"
 
-> "The sixteen great arhats...
+> "The sixteen great arhats. . .
 > The unsurpassed, supreme field of merit.
-> Those who reverently make offerings...
+> Those who reverently make offerings. . .
 > Naturally obtain great benefit."
 
 "Namo, with reverence and homage. To the sixteen arhats who benefit sentient beings."
 
-"**Fourth, Clarifying the Benefit of Eliminating Disasters:** According to the intent of the *Consecration Sūtra*: If in future ages the four groups of disciples take refuge in the arhats and make the prostration of 'Namo,' a myriad koṭis of Ganges-sands of benevolent deities will invisibly guard this person in succession... and so forth."
+"**Fourth, Clarifying the Benefit of Eliminating Disasters:** According to the intent of the *Consecration Sūtra*: If in future ages the four groups of disciples take refuge in the arhats and make the prostration of 'Namo,' a myriad koṭis of Ganges-sands of benevolent deities will invisibly guard this person in succession. . . and so forth."
 
 "The Buddha praised the virtue of the sixteen great disciples, saying: 'When various difficulties are about to arise, one should call their names. Each will manifest awesome virtue, eliminating worry for people, removing all calamities. A hundred matters will be auspicious.' How much more so the sixteen honored ones, who specially received the Buddha's command, would their protection be scant? As with the honored one Rāhula, he is indeed such a person."
 
-"Also, the *Sūtra of the Benevolent King's Prajñā* explains the secret method of protecting the nation, saying: 'One should invite images of five hundred arhats'... and so forth."
+"Also, the *Sūtra of the Benevolent King's Prajñā* explains the secret method of protecting the nation, saying: 'One should invite images of five hundred arhats'. . . and so forth."
 
 "Furthermore, when the asuras stormed the heavens and battled with Śakra, the Four Kings drew their shields and Śakra's banners flagged. At that time, Śakra donned the arhat's robe, and the asuras naturally retreated and scattered. From this we know: The elimination of calamities for humans and devas depends solely on the supernatural power of the arhats."
 
@@ -810,9 +810,9 @@ The staff-bearer chants the verse:
 
 "Therefore, the great assembly, for the sake of eliminating disasters and bestowing joy, and making the Dharma long abide, should perform prostrations. The verse-hymn says:"
 
-> "The two-times-eight great arhats...
+> "The two-times-eight great arhats. . .
 > Are like the nation-protecting jewel.
-> One recitation, one prostration...
+> One recitation, one prostration. . .
 > Can eliminate all calamities."
 
 "Namo, with reverence and homage. To the sixteen arhats who benefit sentient beings."
@@ -827,7 +827,7 @@ The staff-bearer chants the verse:
 
 > "We only pray that the holy and heavenly assembly
 > Definitively witness and know us.
-> Each arriving at their respective places of abiding...
+> Each arriving at their respective places of abiding. . .
 > Again and again, descend in compassion to attend."
 
 "Namo, with reverence and homage. To the relics of the [Buddha's] remains that benefit sentient beings."
@@ -847,9 +847,11 @@ Then follows the offering sūtra chanting. Dedication as usual. After the sūtra
 
 *End of Monthly Affairs*
 
-## Fascicle Three: Annual Observances
+## Fascicle Three
 
-**First Day of the First Month.** At gruel time, five-flavored gruel must [be served]. The verse of praise is as usual. Tea is served at gruel time; this is under the management of the attendant. Greetings at the four places are as usual.
+#### First Day of the First Month
+
+At gruel time, five-flavored gruel must [be served]. The verse of praise is as usual. Tea is served at gruel time; this is under the management of the attendant. Greetings at the four places are as usual.
 
 Next, the head seat goes to the Sangha hall annex and performs three prostrations of touching [foreheads to the ground] with the great assembly. This is the beginning of the formal courtesies. Next come the courtesies of the attendant and junior disciples. Next, those with aspiration to study offer courtesies. Next, the junior disciples of the abbot's chamber offer courtesies. Next, śrāmaṇeras and postulants offer courtesies.
 
@@ -907,7 +909,9 @@ At both the opening and the final dispersal, both ranks must burn incense. After
 
 Next, on the first day, after the three strikes [signaling the meal's end], the abbot and great assembly enter the hall and ascend to their seats. Round mirrors, confections, and such have been arranged in advance at the hall front. After the entire assembly is seated, the senior administrative officer enters the hall, burns incense, and greets the four places. After the round mirrors, confections, and such have been distributed, refreshments are served. If, as in this mountain forest, refreshments are abbreviated, there is no objection. After the three days, the signal board is struck for seated meditation. Recitations during the three days must not be neglected.
 
-**Fifteenth Day of the Second Month: Nirvāṇa Assembly.** Offerings are prepared according to one's means. In advance, all persons in the assembly, great and small, and all persons in the mountain each contribute seven coins for making offerings to the Nirvāṇa Buddha. This is noted on a tally. The storehouse encourages this and prepares the offerings. This is the old custom of Eihei-ji.
+#### Fifteenth Day of the Second Month: Nirvāṇa Assembly
+
+Offerings are prepared according to one's means. In advance, all persons in the assembly, great and small, and all persons in the mountain each contribute seven coins for making offerings to the Nirvāṇa Buddha. This is noted on a tally. The storehouse encourages this and prepares the offerings. This is the old custom of Eihei-ji.
 
 After the offerings are prepared, the Dharma hall ascent proceeds as usual. However, the incense dedication reads:
 
@@ -935,7 +939,7 @@ Reverently. Memorial on yellow paper: "In Jambudvīpa, the Great Land of Japan, 
 
 After reading the memorial, the chant leader initiates the chanting of sūtras as usual. The abbot folds his sitting cloth, rises, and begins the circumambulation. When the sūtra chanting is finished, he burns incense and performs three prostrations.
 
-The rector's dedication reads: "The merit of chanting the secret divine dhāraṇī of the Śūraṅgama just now is offered in homage to the original teacher, the Tathāgata Śākyamuni, the great preceptor, who today entered parinirvāṇa, to repay the kindness of the Dharma-milk. The Buddhas of the ten directions and three times..." and so forth.
+The rector's dedication reads: "The merit of chanting the secret divine dhāraṇī of the Śūraṅgama just now is offered in homage to the original teacher, the Tathāgata Śākyamuni, the great preceptor, who today entered parinirvāṇa, to repay the kindness of the Dharma-milk. The Buddhas of the ten directions and three times. . ." and so forth.
 
 The three seasonal [observances] all use this dedication.
 
@@ -959,7 +963,7 @@ The guest prefect, having received this slip, prepares the letters of reference 
 
 Even if they are not former abbots, former incumbents, or senior veterans, if they are elders, senior monks, or persons of established virtue, they should be assigned quarters according to their standing and provided for as appropriate. This is the responsibility of the abbot, administrative officers, and rector.
 
-Hanging-bag registration is limited to before the first day of the fourth month. This is the protocol of the Pure Rules.
+Hanging-bag registration is limited to before the first day of the fourth month. This is the protocol of the Monastic Regulations.
 
 **First Day of the Fourth Month:** The gate is closed in the morning and guest monks are not received. However, in recent practice, before the Buddha's Birthday Assembly, those of appropriate standing are admitted. This is abbreviated hanging-bag registration.
 
@@ -1003,7 +1007,9 @@ All those newly returned to the hall since the previous winter solstice are invi
 
 From the end of summer until winter, for monks who registered during winter, in the days around the winter seasonal observance, three to five days, another round of gratitude tea for hanging-bag registration is performed.
 
-**First Day of the Fourth Month.** After the Dharma hall ascent, during the hall circuit, the abbot and the head seat and great assembly perform three prostrations of touching foreheads. The beginning of each season is the same.
+#### First Day of the Fourth Month
+
+After the Dharma hall ascent, during the hall circuit, the abbot and the head seat and great assembly perform three prostrations of touching foreheads. The beginning of each season is the same.
 
 **Third Day of the Fourth Month.** A draft of the summer assembly's ordination-seniority board must be prepared. This is called the "draft roster." It is to determine the correct order of ordination seniority. The format reads:
 
@@ -1034,7 +1040,9 @@ On the day before, the rector posts the Bathing the Buddha verse at the Buddha h
 > We now with meritorious water
 > Bathe the pure Dharma body of the Tathāgata.
 
-**Eighth Day.** At gruel time, the Dharma hall ascent placard is hung. There is no rest period. The incense dedication for the Dharma hall ascent reads:
+#### Eighth Day of the Fourth Month: Buddha's Birthday Assembly
+
+At gruel time, the Dharma hall ascent placard is hung. There is no rest period. The incense dedication for the Dharma hall ascent reads:
 
 "In Jambudvīpa, the Great Land of Japan, Northern Route, Noto Province, Tōkoku Mountain, Yōkō Monastery, founded by the fifty-fourth generation Dharma grandson of the transmission of the lamp, so-and-so. This single stick of incense is burned in offering to the original teacher, the Tathāgata Śākyamuni, the great preceptor, who was born on this day, to repay the kindness of the Dharma-milk."
 
@@ -1060,7 +1068,7 @@ Reverently. Memorial above. "Nativity Tathāgata."
 
 After reading the memorial, the senior administrative officer and the hall keeper step forward, burn incense, and greet. The administrative officer takes the ladle and passes it to the hall keeper. The administrative officer returns to his position. The hall keeper faces forward and bathes the Buddha. The rector chants the verse. The great assembly joins in unison three times. The verse is as above. After the verse, the Śūraṅgama Dhāraṇī is chanted during circumambulation. After the chanting, the dedication is recited and the assembly disperses. Next, the monastics and all who come may bathe the Buddha as they wish.
 
-The dedication reads: "The merit of chanting the secret divine dhāraṇī of the Śūraṅgama just now is transferred to the original teacher, the Tathāgata Śākyamuni, the great preceptor, who was born on this day, to repay the kindness of the Dharma-milk. The Buddhas of the ten directions and three times..." and so forth.
+The dedication reads: "The merit of chanting the secret divine dhāraṇī of the Śūraṅgama just now is transferred to the original teacher, the Tathāgata Śākyamuni, the great preceptor, who was born on this day, to repay the kindness of the Dharma-milk. The Buddhas of the ten directions and three times. . ." and so forth.
 
 **Thirteenth Day of the Fourth Month.** After the gruel meal, on the south side of the Sangha hall's front door wall board, a small notice is posted. The notice reads:
 
@@ -1135,7 +1143,7 @@ The dedication reads:
 
 This year's presiding spirits governing the balance of yin and yang, creation. The abbot's natal stars and fortunate or inauspicious constellations. The great and small blessings within the land of Japan. The local earth spirit of this mountain, the dragon king of this mountain, the monastery-protecting spirits. Shōhō Shichirō. The Great Bodhisattva Hachiman. The Great Divine Spirit Inari. The Great Avatar of Wondrous Principle of Hakusan. The White-Robed Prince, the Blue-Faced Messenger. Vaiśravaṇa. The Kāla Deva. Hārītī. The entire assembly of the hall's true sovereigns. The entire assembly of the mountain and the deities guarding the Way; may their majestic light increase.
 
-We pray: May the mountain gate flourish. May the jewel of the Sangha increase and prosper. May all donors enjoy longevity, happiness, and ease. May all conditions be perfected and fulfilled. May all together perfect the omniscient wisdom. The Buddhas of the ten directions and three times..." and so forth.
+We pray: May the mountain gate flourish. May the jewel of the Sangha increase and prosper. May all donors enjoy longevity, happiness, and ease. May all conditions be perfected and fulfilled. May all together perfect the omniscient wisdom. The Buddhas of the ten directions and three times. . ." and so forth.
 
 After the dedication, the abbot departs. The quarter master escorts him with greetings, moves to the host's position, and sees off both ranks and the great assembly. The four seasonal [observances] are all the same. This is performed the day before, as is the common practice of monasteries.
 
@@ -1177,7 +1185,7 @@ Great Compassion Avalokiteśvara Bodhisattva.
 All honored bodhisattva-mahāsattvas.
 Mahā-prajñāpāramitā.
 
-The merit of the recitation just performed is entirely transferred to the Dharma-protecting earth spirit and dragon deity. We pray: May divine light assist and support, bringing forth the merit of benefit. May Brahma-music flourish, eternally bestowing the impartial fragrance. Again relying on the honored assembly's recitation. The Buddhas of the ten directions and three times..." and so forth.
+The merit of the recitation just performed is entirely transferred to the Dharma-protecting earth spirit and dragon deity. We pray: May divine light assist and support, bringing forth the merit of benefit. May Brahma-music flourish, eternally bestowing the impartial fragrance. Again relying on the honored assembly's recitation. The Buddhas of the ten directions and three times. . ." and so forth.
 
 At the recitation of the Ten Buddha Names, for each Buddha the bell is rung once. At the end, two rings. The recitation materials and silver coins are burned at the hall front; this is the attendant's duty. The abbot burns incense. The earth spirit's tea is poured out and burned. The Great Compassion Dhāraṇī is chanted once through. No dedication.
 
@@ -1191,7 +1199,9 @@ The attendant straightens the great assembly's footwear. Three strikes of the be
 
 For the informal talk: after the fixed bell, the attendant has the server announce the informal talk. The drum is struck one round, a long beating, one round. The western drum of the Dharma hall is struck. The abbot, both ranks, and the great assembly all gather at once. It may be at the abbot's chair, or the illumination hall, or the sleeping hall, wherever is suitable. The attendant burns incense and both ranks greet. Zen inquiries and responses proceed as in a Dharma hall ascent. However, the essential instructions and detailed admonitions of the school tradition are delivered. At descending, he must say: "The night is deep and you have stood long. Take care of yourselves."
 
-**Fifteenth Day.** At dawn, around the second or third watch of the fifth watch, during the dawn bell, the attendant, junior disciples, administrative officers, senior officers, and the great assembly go up to the abbot's quarters for congratulatory courtesies. If a notice exempting personal courtesies has been posted, one does not go up. In this mountain forest, since the paths are inconvenient, after the gruel meal, the attendant and junior disciples offer congratulatory courtesies. There are no public congratulatory courtesies from administrative officers and senior officers. Only after the Dharma hall ascent are the public congratulatory courtesies performed.
+#### Fifteenth Day of the Fourth Month: Opening of the Summer Retreat
+
+At dawn, around the second or third watch of the fifth watch, during the dawn bell, the attendant, junior disciples, administrative officers, senior officers, and the great assembly go up to the abbot's quarters for congratulatory courtesies. If a notice exempting personal courtesies has been posted, one does not go up. In this mountain forest, since the paths are inconvenient, after the gruel meal, the attendant and junior disciples offer congratulatory courtesies. There are no public congratulatory courtesies from administrative officers and senior officers. Only after the Dharma hall ascent are the public congratulatory courtesies performed.
 
 Next, for the Dharma hall ascent incense dedication: after being seated, the attendant burns incense. Leading the fellow officers, they greet from below the steps. Next the senior officers greet toward the edge of the mat. The great assembly greets universally together. Next the administrative officers greet toward the edge of the mat. If there is a west hall [resident], he turns slightly and greets. If the west hall position is held by the abbot's entering-the-room disciple, he greets toward the edge of the mat. If a currently-serving abbot of another temple is in the west hall position, he stands at the upper shoulder of the senior officers, slightly behind. If it is a retired abbot of the home temple, he is called "east hall" and stands at the upper shoulder of the administrative officers, slightly behind. If there is an abbot from another temple who comes for the Dharma hall ascent, the current abbot stands above the east hall. If there are two east halls, they stand according to position order. If it is a retired abbot from another temple, he is called "west hall." If two or more, they are arranged either by the order of their Dharma hall opening or by the order of succession. If currently serving, they stand above the west hall. For east hall and west hall residents, entering the hall first is acceptable. Even if entering at the same time as the great assembly, each stands at the upper shoulder of the administrative officers or senior officers in their proper line.
 
@@ -1215,7 +1225,9 @@ Next come individual personal courtesies, at each person's discretion.
 
 Next, the tour of quarters: from the storehouse, through the east and west corridors and the assembly quarters, all quarters are toured once. The great assembly all joins the tour. At the Dharma hall, they greet the abbot. A deep greeting of farewell. The abbot is in the Dharma hall, waiting for the great assembly; this is the old custom of Tendō. Or the great assembly goes to the abbot's quarters. The abbot receives them. At each quarter, he burns incense before the holy images. When exiting the quarter, the quarter master sees him off. Then they join in following and walking in procession. All go up to the abbot's quarters for greetings and disperse. The four seasonal [observances] are all the same.
 
-**Next, the Śūraṅgama Assembly.** After the hall is adorned, first at the front of the Great Hall, the Śūraṅgama Assembly diagram is posted. Then the attendant informs the Sangha hall officer and offering officer, reports to the abbot, both ranks, and the corridors about the Śūraṅgama Assembly schedule. The boards before all quarters are struck three times; from the eastern corridor quarters, the mountain gate, the western corridor, the assembly quarters, the head seat's quarters, the abbot's quarters, and the storehouse, each board is struck. At the hall front, the small bell is struck three rounds. The assembly gathers. First they check the diagram and stand in line.
+#### The Śūraṅgama Assembly
+
+After the hall is adorned, first at the front of the Great Hall, the Śūraṅgama Assembly diagram is posted. Then the attendant informs the Sangha hall officer and offering officer, reports to the abbot, both ranks, and the corridors about the Śūraṅgama Assembly schedule. The boards before all quarters are struck three times; from the eastern corridor quarters, the mountain gate, the western corridor, the assembly quarters, the head seat's quarters, the abbot's quarters, and the storehouse, each board is struck. At the hall front, the small bell is struck three rounds. The assembly gathers. First they check the diagram and stand in line.
 
 Diagram of the Śūraṅgama Assembly:
 
@@ -1244,7 +1256,7 @@ After reading the memorial, the Śūraṅgama leader initiates the chanting, and
 
 "At that time, the World-Honored One, from his flesh-crown, emitted hundred-jeweled radiance. Within the radiance appeared a thousand-petaled jeweled lotus. Within it sat a transformation Tathāgata, who from the crown emitted ten paths of hundred-jeweled radiance. In each radiance was universally manifested Ganges-sand numbers of vajra-holders, fearsome, mountain-wielding, brandishing pestles throughout all of space. The great assembly looked up with awe and love combined, seeking the Buddha's compassionate protection, single-mindedly listening as the Buddha, from the invisible crown mark, radiated light, and the Tathāgata proclaimed the divine dhāraṇī."
 
-*Namas samanta-buddhānāṃ sugatāya oṃ samara samara...* [The Śūraṅgama Dhāraṇī follows.]
+*Namas samanta-buddhānāṃ sugatāya oṃ samara samara. . .* [The Śūraṅgama Dhāraṇī follows.]
 
 The Śūraṅgama leader chants "Mahā-prajñāpāramitā." The rector burns incense at each section of the dhāraṇī. After the dhāraṇī, the rector recites the dedication:
 
@@ -1254,7 +1266,7 @@ Ise Grand Shrine. The Great Bodhisattva Hachiman. The front and rear [shrines of
 
 This year's presiding spirits governing the balance of yin and yang, creation. The entire assembly of the mountain, their natal stars. The donors of this temple, the patrons of all halls, donors connected by karmic affinity, their natal luminaries and constellations, this year's governing stars.
 
-May epidemics be fanned away. May the sun of the Buddha increase in radiance. May the land be at peace. May the wheel of the Dharma constantly turn. May the entire assembly be safe and secure. May peaceful dwelling be accomplished. May the mountain gate flourish. May donors and believers return in devotion. May all donors and patrons enjoy increased longevity and blessings. May all beings in the Dharma-realm together perfect the omniscient wisdom. The Buddhas of the ten directions and three times..." and so forth.
+May epidemics be fanned away. May the sun of the Buddha increase in radiance. May the land be at peace. May the wheel of the Dharma constantly turn. May the entire assembly be safe and secure. May peaceful dwelling be accomplished. May the mountain gate flourish. May donors and believers return in devotion. May all donors and patrons enjoy increased longevity and blessings. May all beings in the Dharma-realm together perfect the omniscient wisdom. The Buddhas of the ten directions and three times. . ." and so forth.
 
 From the following day, the entire assembly chants in unison with the regular dedication. This is the common practice of monasteries. This dedication may be written on a placard, or written each year and posted in the hall. If the abbot does not attend, the senior administrative officer must perform the opening and closing prostrations in the abbot's place, which must not be omitted. During the summer, attendance at the Śūraṅgama Assembly must not be neglected. The abbot and rector should constantly supervise.
 
@@ -1326,7 +1338,9 @@ At mid-summer, donors may be received. During the sixth month, there is a genera
 
 From the first of the sixth month, because of perspiration, bathing is every other day. Or during six bathings, one bathing in between. Additionally, there are donor-sponsored bathing days. Also from the first of the sixth month, fans are used in the hall during meals. The method: a fan-stopping placard is hung on the left pillar beside the Holy Monk. After the general signal, the fanning begins. Two or four attendants enter the hall with fans, greet before the Holy Monk, and fan the upper and lower sections separately. After the water bucket is removed, the head attendant strikes the fan-stopping placard once with the fan handle. All attendants, hearing this, stop fanning. They greet as before at the center and exit the hall.
 
-**First Day of the Seventh Month.** Beginning of the season. During the Sangha hall circuit, the abbot performs touching foreheads with the great assembly. From the first of the seventh month, the notice for the feeding of hungry ghosts, merit-connection sūtra reading, is posted in a convenient place. The notice reads:
+#### First Day of the Seventh Month: Ullambana Preparations
+
+Beginning of the season. During the Sangha hall circuit, the abbot performs touching foreheads with the great assembly. From the first of the seventh month, the notice for the feeding of hungry ghosts, merit-connection sūtra reading, is posted in a convenient place. The notice reads:
 
 "At the time of the Dharma King's lifting of the retreat and the monks' self-examination day, the practice has come full circle and the merit is accomplished. At this time, the Buddha expounded the Dharma at Trāyastriṃśa Heaven to repay his mother's kindness. Maudgalyāyana offered food in vessels to save his mother from suffering.
 
@@ -1342,7 +1356,9 @@ Such-and-such sūtra, such-and-such dhāraṇī
 
 Fourth year of Genkō, seventh month. Sangha hall officer bhikṣu so-and-so, respectfully encourages."
 
-**Thirteenth Day of the Seventh Month.** Assembly quarters sūtra chanting, as at the start of summer:
+#### Thirteenth Day of the Seventh Month: Feeding of Hungry Ghosts
+
+Assembly quarters sūtra chanting, as at the start of summer:
 
 "We humbly state: The golden wind fans across the fields; the White Emperor presides over this quarter. This is the time when the Awakened Emperor lifts the retreat, the day when the Dharma-year has come full circle. Ninety days without difficulty. The entire assembly at peace. We chant the myriad virtues' great names and transfer the merit to the entire assembly of the hall's true sovereigns. We humbly rely on the great assembly's recitation."
 
@@ -1356,7 +1372,7 @@ The rector chants the text. With a large fist, pressing the left hip, the right 
 
 The method of feeding hungry ghosts: First greet and offer to the Buddha. Then join palms and recite: "Namo to our original teacher, Śākyamuni Buddha. Namo to the greatly compassionate Avalokiteśvara."
 
-"The divine dhāraṇī consecrates pure food and drink, universally bestowed upon Ganges-sand numbers of ghosts and spirits. May all be fully satisfied and abandon the mind of miserliness. May all be freed from the dark realms and born in the wholesome paths. May they take refuge in the Three Treasures and generate the bodhi-mind. May they ultimately attain supreme enlightenment. Merit without bounds, extending to the end of the future. All beings together..."
+"The divine dhāraṇī consecrates pure food and drink, universally bestowed upon Ganges-sand numbers of ghosts and spirits. May all be fully satisfied and abandon the mind of miserliness. May all be freed from the dark realms and born in the wholesome paths. May they take refuge in the Three Treasures and generate the bodhi-mind. May they ultimately attain supreme enlightenment. Merit without bounds, extending to the end of the future. All beings together. . ."
 
 *Namas sarvathā tathāgatāvalokite oṃ samara samara*
 
@@ -1366,7 +1382,7 @@ The method of feeding hungry ghosts: First greet and offer to the Buddha. Then j
 
 Next, the dedication:
 
-"You assemblies of ghosts and spirits, I now bestow upon you this offering of food. May it pervade all ghosts and spirits in the ten directions. By this merit, may it universally extend to all. May we and all beings together accomplish the Buddha-way. The Buddhas of the ten directions and three times..." and so forth.
+"You assemblies of ghosts and spirits, I now bestow upon you this offering of food. May it pervade all ghosts and spirits in the ten directions. By this merit, may it universally extend to all. May we and all beings together accomplish the Buddha-way. The Buddhas of the ten directions and three times. . ." and so forth.
 
 "In Jambudvīpa, the Great Land of Japan, Northern Route, Noto Province, Sakai Estate, Tōkoku Mountain, Yōkō Monastery, founded by so-and-so and others. On the fourteenth of this month, reverently encountering the time when the monks' self-examination and Dharma-year have come full circle, we respectfully lead the assembly present to the precious presence of the Awakened Emperor, to prepare a modest offering and universally bestow the merit of Ganges-sand [good deeds], adding Dharma-giving to rescue the various classes of beings.
 
@@ -1381,7 +1397,7 @@ If so, then the present modest offering satisfies the starving classes of Ganges
 Sūtra of the Lotus of the Wondrous Dharma of the Great Vehicle.
 Such-and-such sūtra.
 
-The merit of chanting the sūtras and dhāraṇī just now is transferred to the infinite Dharma-realm and all classes of beings, to ghosts and spirits starving for material and Dharma sustenance, to demonic hosts, to beings of mistaken cultivation. May they be satisfied by the Dharma-taste. May all generate right wisdom. May all heavy and light karmas be liberated. May the seen and unseen both benefit. May all together perfect the omniscient wisdom. The Buddhas of the ten directions and three times..." and so forth.
+The merit of chanting the sūtras and dhāraṇī just now is transferred to the infinite Dharma-realm and all classes of beings, to ghosts and spirits starving for material and Dharma sustenance, to demonic hosts, to beings of mistaken cultivation. May they be satisfied by the Dharma-taste. May all generate right wisdom. May all heavy and light karmas be liberated. May the seen and unseen both benefit. May all together perfect the omniscient wisdom. The Buddhas of the ten directions and three times. . ." and so forth.
 
 Compassion. Memorial on black paper: "In Jambudvīpa, the Great Land of Japan, Noto Province, Sakai Estate, Tōkoku Mountain, Yōkō Monastery, founded by so-and-so and others. Respectfully sealed. The Twenty-Five Classes."
 
@@ -1391,7 +1407,9 @@ The memorial, silver coins, and banners are all burned. Next the Śūraṅgama D
 
 Next, the merit-connection sūtra chanting is at the discretion of the various assembly members. Next, the informal talk, as at the start of summer.
 
-**Fifteenth Day.** The courtesies are exactly as at the start of summer.
+#### Fifteenth Day of the Seventh Month: Closing of the Summer Retreat
+
+The courtesies are exactly as at the start of summer.
 
 **Śūraṅgama Assembly Final Dispersal.** The memorial reads:
 
@@ -1420,7 +1438,7 @@ In Jambudvīpa, the Great Land of Japan, Noto Province, Sakai Estate, Tōkoku Mo
 
 After the Śūraṅgama Dhāraṇī, the "Buddha Mother" [passage reads]:
 
-"Ānanda, this is the radiant assembly from the Buddha's crown, the *Sitātapatrā* secret gāthā, wondrous verse. It gives birth to all Buddhas of the ten directions. All Tathāgatas of the ten directions, through this dhāraṇī-heart, attain the supreme, completely-knowing awakening. All Tathāgatas of the ten directions, holding this dhāraṇī-heart, subdue all māras and control all non-Buddhist paths. All Tathāgatas of the ten directions, riding this dhāraṇī-heart, sit upon jeweled lotuses and respond to lands as numerous as dust-motes... up to: All Tathāgatas of the ten directions transmit this dhāraṇī-heart. After their extinction, they entrust the Buddha-Dharma affairs to the ultimate sustaining of solemn purity. Precepts and discipline are completely purified."
+"Ānanda, this is the radiant assembly from the Buddha's crown, the *Sitātapatrā* secret gāthā, wondrous verse. It gives birth to all Buddhas of the ten directions. All Tathāgatas of the ten directions, through this dhāraṇī-heart, attain the supreme, completely-knowing awakening. All Tathāgatas of the ten directions, holding this dhāraṇī-heart, subdue all māras and control all non-Buddhist paths. All Tathāgatas of the ten directions, riding this dhāraṇī-heart, sit upon jeweled lotuses and respond to lands as numerous as dust-motes. . . up to: All Tathāgatas of the ten directions transmit this dhāraṇī-heart. After their extinction, they entrust the Buddha-Dharma affairs to the ultimate sustaining of solemn purity. Precepts and discipline are completely purified."
 
 **Sixteenth Day.** Invite the administrative officers. First invite former incumbents and senior veterans to the abbot's quarters for tea. After tea, the abbot clasps his hands and says: "The former comptroller, the former rector, the former cook are retiring from their duties. These positions must not go unfilled. I do not know whom to invite. May I invite so-and-so to serve as guest prefect. For the rector, may I invite so-and-so, senior seat. For the cook, may I invite so-and-so, library master. For the secretary, may I invite so-and-so. For the guest prefect, [so-and-so]."
 
@@ -1452,7 +1470,9 @@ When registering at various mountains, one carries the summer-completion certifi
 
 **Twenty-Fourth Day of the Eighth Month.** Anniversary of the second abbot of Eihei-ji. Sūtra chanting at the memorial tower. Tea, hot water, and small offerings are provided.
 
-**Twenty-Eighth Day of the Eighth Month.** Anniversary of Eihei-ji [founder]. Offerings are prepared at the Patriarch's Hall, as for the Bodhidharma anniversary. The offerings are transmitted, incense is burned, and prostrations are made. The abbot kneels at the censer. The rector reads the memorial:
+#### Twenty-Eighth Day of the Eighth Month: Anniversary of the Eihei-ji Founder
+
+Anniversary of Eihei-ji [founder]. Offerings are prepared at the Patriarch's Hall, as for the Bodhidharma anniversary. The offerings are transmitted, incense is burned, and prostrations are made. The abbot kneels at the censer. The rector reads the memorial:
 
 "In Jambudvīpa, the Great Land of Japan, Noto Province, Kashima District, Sakai Estate, Tōkoku Mountain, Yōkō Monastery, founded by the newly-precept bhikṣu so-and-so and others. On the twenty-eighth of this month, we reverently commemorate the distant anniversary of Eihei-ji's Founding Master. We have respectfully prepared incense, flowers, coarse tea, and modest offerings, and chant the Buddha-Crown Śūraṅgama Divine Dhāraṇī. The vast virtue collected is transferred and offered to the Great Preceptor of Eihei-ji, to repay the kindness of the Dharma-milk.
 
@@ -1468,7 +1488,9 @@ Respectfully submitted. Fourth year of Genkō, twenty-eighth day of the eighth m
 
 With reverence. Addressed with respect. Memorial on yellow paper: "In Jambudvīpa, the Great Land of Japan, Noto Province, Sakai Estate, Tōkoku Mountain, Yōkō Monastery, founded by so-and-so and others. Respectfully sealed. The Progenitor, the Master of Eihei-ji."
 
-**Fourteenth Day of the Ninth Month.** Anniversary of the late master Tetsūtsū. On the evening of the thirteenth, the Dharma hall is adorned properly. When the dusk bell sounds, sūtra chanting is performed; called the "great night sūtra chanting." Tea is served before the sleeping quarters. Sūtra chanting should also be performed at the memorial tower.
+#### Fourteenth Day of the Ninth Month: Anniversary of Master Tetsūtsū
+
+Anniversary of the late master Tetsūtsū. On the evening of the thirteenth, the Dharma hall is adorned properly. When the dusk bell sounds, sūtra chanting is performed; called the "great night sūtra chanting." Tea is served before the sleeping quarters. Sūtra chanting should also be performed at the memorial tower.
 
 **Fourteenth Day.** The junior disciples are permitted. The offerings are transmitted, incense is burned, and prostrations are made. The abbot kneels at the censer. The rector reads the memorial:
 
@@ -1484,9 +1506,13 @@ Respectfully submitted. Fourth year of Genkō, fourteenth day of the ninth month
 
 With reverence. Addressed with respect. Memorial on yellow paper: "In Jambudvīpa, the Great Land of Japan, Noto Province, Sakai Estate, Tōkoku Mountain, Yōkō Monastery, founded by so-and-so and others. Respectfully sealed. Our Late Master, Master Tetsūtsū."
 
-**First Day of the Tenth Month.** The evening before opening the braziers. The Sangha hall and all halls open their braziers. The entire assembly may be permitted head coverings, with hands in sleeves. During the hall circuit, the abbot performs the seasonal touching foreheads.
+#### First Day of the Tenth Month: Opening the Braziers
 
-**Fifth Day of the Tenth Month.** Bodhidharma Anniversary. Public offerings are prepared according to one's means. The offerings are transmitted, incense is burned, and prostrations are made. The abbot kneels at the censer. The rector reads the memorial:
+The evening before opening the braziers. The Sangha hall and all halls open their braziers. The entire assembly may be permitted head coverings, with hands in sleeves. During the hall circuit, the abbot performs the seasonal touching foreheads.
+
+#### Fifth Day of the Tenth Month: Bodhidharma Anniversary
+
+Bodhidharma Anniversary. Public offerings are prepared according to one's means. The offerings are transmitted, incense is burned, and prostrations are made. The abbot kneels at the censer. The rector reads the memorial:
 
 "The pure Dharma-realm body is originally without arising or passing. Through the power of great compassion and vows, it manifests coming and going. We look upward and pray for illumination; we humbly request true compassion.
 
@@ -1516,7 +1542,9 @@ Reverently. Memorial above: "In Jambudvīpa, the Great Land of Japan, Noto Provi
 
 Next, the Śūraṅgama Dhāraṇī dedication: "The merit of chanting the Śūraṅgama secret divine dhāraṇī just now is offered to the Great Master Bodhidharma, who passed on this day, to repay the kindness of the Dharma-milk."
 
-**In the Eleventh Month, Before the Winter Solstice.** Every other day, sūtra chanting in the assembly quarters. The four seasonal [observances] are all the same.
+#### Winter Solstice Observances
+
+Every other day, sūtra chanting in the assembly quarters. The four seasonal [observances] are all the same.
 
 Earth Spirit Hall recitation:
 
@@ -1524,7 +1552,9 @@ Earth Spirit Hall recitation:
 
 In the winter solstice, four or five days before, the gratitude tea for hanging-bag registration is performed for those who registered after the fourth month. The procedure is as in the pre-summer [ceremony].
 
-**Eighth Day of the Twelfth Month.** Called the Attainment of the Way Assembly. Public offerings are prepared according to one's means. The four seasonal ceremonies are all the same. The abbot kneels at the censer. The rector reads the memorial:
+#### Eighth Day of the Twelfth Month: Attainment of the Way Assembly
+
+Called the Attainment of the Way Assembly. Public offerings are prepared according to one's means. The four seasonal ceremonies are all the same. The abbot kneels at the censer. The rector reads the memorial:
 
 "The Great, Perfect, complete enlightenment manifested traces in the Western Land. The mind encompassed the great void; the capacity encompassed the sand-worlds. We look up and pray for illumination; we humbly request true compassion.
 
@@ -1558,7 +1588,9 @@ Sūtra of perfect enlightenment
 
 Fourth year of Genkō, twelfth month. Sangha hall officer bhikṣu so-and-so, respectfully encourages."
 
-**New Year's Eve.** After the feeding of hungry ghosts is complete, the rector reads the memorial:
+#### New Year's Eve
+
+After the feeding of hungry ghosts is complete, the rector reads the memorial:
 
 "In Jambudvīpa, the Great Land of Japan, Noto Province, Sakai Estate, Tōkoku Mountain, Yōkō Monastery, founded by so-and-so and others. On the last day of this month, the New Year's Eve when the year ends, we shall save the wandering souls of beings connected to us. In the days prior, we encouraged the entire mountain's ordained and lay community to chant various sūtras and divine dhāraṇī. On this New Year's Eve, we lead the entire assembly present to chant together the Śūraṅgama Divine Dhāraṇī. The extraordinary merit collected is for the salvation of all beings.
 
@@ -1571,7 +1603,7 @@ If so, then the slaves, servants, cattle, horses, and all beings born in the wat
 Sūtra of the Lotus of the Wondrous Dharma
 Brahmajāla Bodhisattva Precepts Sūtra
 
-The merit of chanting the sūtras and dhāraṇī just now is transferred to all sentient beings within the mountain, all classes of beings connected to us. May their Buddha-seed ripen in karmic connection. May they be freed from suffering and attain happiness. May all beings in the Dharma-realm together perfect the omniscient wisdom. The Buddhas of the ten directions and three times..." and so forth.
+The merit of chanting the sūtras and dhāraṇī just now is transferred to all sentient beings within the mountain, all classes of beings connected to us. May their Buddha-seed ripen in karmic connection. May they be freed from suffering and attain happiness. May all beings in the Dharma-realm together perfect the omniscient wisdom. The Buddhas of the ten directions and three times. . ." and so forth.
 
 Silver coins are added and burned. The format should be like the Ullambana Assembly.
 
@@ -1592,7 +1624,7 @@ Brahmajāla Bodhisattva Precepts Sūtra
 
 The merit of chanting the sūtras and dhāraṇī just now, a vast cause, is transferred to the Dharma-protecting nāgas, devas, Brahmā, Śakra, the Four Kings, heaven and earth, yin and yang, the ten directions' true sovereigns. The great and small divine spirits within the land of Japan. The guardian [deities] of this mountain. The various deities of the nation. The shrines and altars of this estate. The entire assembly of the hall's holy beings. All donors of the mountain who guard the monastery and the Way. This year's presiding spirits of yin and yang.
 
-May the gate be tranquil and still. May the Sangha jewel flourish. May the patrons of this temple enjoy auspicious conditions in all matters, and their wishes be fulfilled. The four kindnesses and three realms. May all together perfect the omniscient wisdom. The Buddhas of the ten directions and three times..." and so forth.
+May the gate be tranquil and still. May the Sangha jewel flourish. May the patrons of this temple enjoy auspicious conditions in all matters, and their wishes be fulfilled. The four kindnesses and three realms. May all together perfect the omniscient wisdom. The Buddhas of the ten directions and three times. . ." and so forth.
 
 Reverently. Memorial on yellow paper: "In Jambudvīpa, the Great Land of Japan, such-and-such province, such-and-such district, such-and-such village, such-and-such temple, the abbot so-and-so and others. Respectfully sealed. Heaven and Earth, Seen and Unseen, Nāgas, Devas, and Benevolent Spirits."
 
@@ -1626,7 +1658,7 @@ The year-end dedication is thus concluded.
 
 **End of Annual Observances.**
 
-**End of Fascicle Three of the Pure Rules of Master Keizan.**
+**End of Fascicle Three of the Monastic Regulations of Master Keizan.**
 
 ---
 
@@ -1704,7 +1736,7 @@ Seating diagram for the Buddha Praise Assembly:
 
 **Colophon**
 
-The Pure Rules of Keizan are not merely the petty details of propriety. They are directly the embodiment of the body-and-mind of the Buddhas and Patriarchs. The lingering fragrance of the raising of the flower, this is called "Buddha conduct." The solitary wind of the facing of the wall, this is called "Patriarchal protocol." Through Buddha conduct and Patriarchal protocol, the monastery is established.
+The Monastic Regulations of Keizan are not merely the petty details of propriety. They are directly the embodiment of the body-and-mind of the Buddhas and Patriarchs. The lingering fragrance of the raising of the flower, this is called "Buddha conduct." The solitary wind of the facing of the wall, this is called "Patriarchal protocol." Through Buddha conduct and Patriarchal protocol, the monastery is established.
 
 Today we are fortunate to encounter the publication of this text. It is indeed the seal of the special transmission outside the teachings, and the stamp of seeing the nature and attaining the marrow.
 

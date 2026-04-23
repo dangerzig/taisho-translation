@@ -1,0 +1,260 @@
+# Index Terms for T2058 付法藏因緣傳
+# Format: TERM | CHINESE
+
+# === THE 23 PATRIARCHS ===
+Mahākāśyapa | 摩訶迦葉
+Ānanda | 阿難
+Śāṇavāsa | 商那和修
+Upagupta | 憂波毱多
+Dhītika | 提多迦
+Micchaka | 彌遮迦
+Buddhanandin | 佛陀難提
+Buddhamitra | 佛陀蜜多
+Pārśva | 脇比丘
+Puṇyayaśas | 富那奢
+Aśvaghoṣa | 馬鳴
+Vīra | 比羅
+Nāgārjuna | 龍樹
+Āryadeva | 迦那提婆
+Rāhula | 羅睺羅
+Saṅghanandi | 僧伽難提
+Saṅghayaśas | 僧伽耶舍
+Kumāralāta | 鳩摩羅馱
+Jāyata | 闍夜多
+Vasubandhu | 婆修槃陀
+Manorhita | 摩奴羅
+Haklenayaśas | 鶴勒那
+Siṃha | 師子
+
+# === HISTORICAL FIGURES: ROYALTY ===
+Ajātaśatru | 阿闍世
+Aśoka | 阿恕伽
+Bimbisāra | 瓶沙王
+Kaniṣka | 罽昵吒
+Kuṇāla | 拘那羅
+Kuṇāla | 駒那羅
+Tiṣyarakṣā | 帝失羅叉
+Mihirakula | 彌羅掘
+Śuddhodana | 白淨
+Māyā | 摩耶
+Siṃhamati (Aśoka's grandson) | 式摩提
+Kaniṣka, King of Kuṣāṇa | 罽昵吒王
+Wentuo (Cakravartin king) | 文陀竭
+King of Parthia | 安息王
+
+# === HISTORICAL FIGURES: MONKS AND DISCIPLES ===
+Aniruddha | 阿那律
+Upāli | 優波離
+Gavāṃpati | 憍梵波提
+Kauṇḍinya | 憍陳如
+Maudgalyāyana | 目揵連
+Śāriputra | 舍利弗
+Madhyāntika | 摩田提
+Piṇḍola Bhāradvāja | 賓頭盧
+Bakkula | 薄拘羅
+Yaśas (elder) | 耶舍
+Dharmamitra | 達摩蜜多
+Mañjuśrī | 文殊師利
+Bhājrāputra | 婆闍弗
+Lṛbhika | 梨婆提
+Aśvajit | 阿失波毱多
+Nandagupta | 難陀毱多
+
+# === HISTORICAL FIGURES: LAYPERSONS AND MINISTERS ===
+Rādhagupta | 羅提毱
+Yushe (minister) | 雨舍
+Nyagrodha | 尼俱律陀
+Māṭharī | 摩啅羅
+Caraka (physician) | 遮勒
+Yaśa (minister) | 夜奢
+Jintian (benefactor) | 天護
+Zhenjinman (Kuṇāla's wife) | 真金鬘
+Gīrikā (executioner) | 耆梨
+Fāzēng (Aśoka's son) | 法增
+Tiānfǎ (minister) | 天法
+Jiā-luó-hé (father of a girl) | 迦羅和
+Vāsudattā (courtesan) | 婆須達
+
+# === BUDDHAS AND BODHISATTVAS ===
+Buddha Śākyamuni | 佛
+Maitreya | 彌勒
+Vipaśyin Buddha | 毘婆尸佛
+Kāśyapa Buddha | 迦葉佛
+Krakucchanda Buddha | 迦羅鳩孫佛
+Dīpaṃkara Buddha | 定光如來
+Tathāgata | 如來
+Bhagavat | 婆伽婆
+World-Honored One | 世尊
+
+# === SUPERNATURAL BEINGS ===
+Māra (Pāpīyas) | 魔王波旬
+Brahmā | 梵王
+Brahmā | 梵天
+Indra (Śakra) | 帝釋
+Indra (Śakra) | 釋提桓因
+Nāga King | 龍王
+Nanda (nāga) | 難陀龍王
+Upananda (nāga) | 跋難陀
+Maṇibhadra (yakṣa) | 摩尼跋陀
+Maheśvara | 大自在天
+Four Heavenly Kings | 四天王
+Asita (seer) | 阿私陀
+
+# === PLACES ===
+Rājagṛha | 王舍城
+Pāṭaliputra | 華氏城
+Kuśinagara | 拘尸那城
+Mathurā | 摩突羅
+Vārāṇasī | 波羅㮈
+Kaśmīr | 罽賓
+Magadha | 摩竭國
+Vaiśālī | 毘舍離
+Gṛdhrakūṭa (Vulture Peak) | 耆闍崛山
+Kukkuṭapāda Mountain | 雞足山
+Pippala Cave | 賓鉢羅窟
+Kukkuṭārāma Monastery | 雞頭末寺
+Deer Park (Mṛgadāva) | 鹿野苑
+Lumbinī | 林微尼園
+Urumūṇḍa Mountain | 優留茶山
+Taxila | 得叉尸羅
+Gandhāra | 乾陀越國
+Jambudvīpa | 閻浮提
+Himālaya (Snow Mountain) | 雪山
+Kapilavastu | 迦毘羅
+Bamboo Grove | 竹園
+Bamboo Grove | 竹林
+Śīriṣa Palace | 尸利沙宮
+Kalandaka Grove | 迦蘭陀林
+Jetavana (Anāthapiṇḍada's Park) | 給孤獨園
+Śrāvastī | 舍衛國
+Hiranyavatī River | 阿利跋提河
+Hiraṇyavatī River | 熙連河
+Ganges River | 恒河
+Twin Śāla Trees | 雙樹
+Mount Sumeru | 須彌山
+Trāyastriṃśa Heaven | 忉利天
+Tuṣita Heaven | 兜率天
+South India | 南天竺
+North India | 北天竺
+East India | 東方國
+Bhṛgu city | 婆翅城
+
+# === DOCTRINAL TERMS ===
+Dharma treasury | 法藏
+Dharma eye | 法眼
+arhat | 阿羅漢
+bodhisattva | 菩薩
+nirvāṇa | 涅槃
+parinirvāṇa | 般涅槃
+enlightenment | 正覺
+bodhi | 菩提
+impermanence | 無常
+no-self | 無我
+emptiness | 空
+suffering | 苦
+Four Noble Truths | 四聖諦
+Eightfold Path | 八正道
+five aggregates | 五陰
+three poisons | 三毒
+Three Treasures | 三寶
+twelve links of dependent origination | 十二因緣
+karma | 業
+saṃsāra (cycle of birth and death) | 生死
+stream-enterer | 須陀洹
+once-returner | 斯陀含
+non-returner | 阿那含
+arhat (fruit) | 阿羅漢果
+Vinaya | 毘尼
+Abhidharma | 阿毘曇
+sūtra | 修多羅
+Tripiṭaka | 三藏
+skillful means | 方便
+six supernormal powers | 六通
+three knowledges | 三明
+eight liberations | 八解脫
+eighteen transformations | 十八變
+samādhi | 三昧
+dhāraṇī | 陀羅尼
+turning the wheel of the Dharma | 轉法輪
+Mahāyāna | 摩訶衍
+Mahāyāna | 大乘
+Hīnayāna | 小乘
+pratyekabuddha | 辟支佛
+defilements (kleśa) | 煩惱
+merit (puṇya) | 功德
+roots of merit | 善根
+thirty-two marks | 三十二相
+eighty minor marks | 八十種好
+precepts (śīla) | 戒
+mindfulness | 繫念
+four meditations (dhyāna) | 四禪
+worldly meditation | 世俗定
+compassion | 大悲
+loving-kindness (maitrī) | 慈
+giving (dāna) | 施
+morality discourse | 戒論
+discourse on heavenly rebirth | 生天之論
+renunciation | 出要
+impurity of desire | 欲為不淨
+kalpa | 劫
+asaṃkhyeya kalpa | 阿僧祇劫
+nayuta | 那由他
+ten unwholesome deeds | 十不善
+three evil destinies | 三惡道
+five desires | 五欲
+first truth: suffering | 苦聖諦
+noble truth of cessation | 滅諦
+two truths | 二諦
+conventional truth | 世諦
+ultimate truth | 第一義諦
+
+# === OBJECTS AND PRACTICES ===
+relics | 舍利
+stūpa | 塔
+cremation | 闍毘
+cremation | 耶旬
+begging bowl | 鉢
+patchwork robe | 糞掃衣
+saṅghāṭī robe | 僧伽梨
+śāṇa cloth | 商那衣
+wish-fulfilling jewel | 如意珠
+golden plow | 金犁
+skull | 髑髏
+
+# === EVENTS ===
+First Council | 集法藏
+defeat of Māra | 破魔
+first turning of the Dharma wheel | 初轉法輪
+nativity of the Buddha | 降神母胎
+Buddha's descent from Tuṣita | 從兜率天
+seven steps at birth | 四方各行滿足七步
+Indra receives the newborn | 帝釋奉接
+Asita's prophecy | 阿私陀仙抱持占相
+six years of austerities | 六年苦行
+washing in the Nairañjanā | 河中洗浴
+offering of milk-rice | 煮用作糜
+Aśoka's eighty-four thousand stūpas | 八萬四千寶塔
+Aśoka's pilgrimage to sacred sites | 佛所遊方
+great pañcavārṣika assembly | 般遮于瑟
+Mahākāśyapa awaiting Maitreya | 待於彌勒
+Ānanda's division of relics | 分身為四
+Upagupta subdues Māra | 降伏魔
+Māra manifests the Buddha's form | 變形如佛
+Aśvaghoṣa's musical composition | 賴吒啝羅
+Nāgārjuna visits the Nāga palace | 接入大海
+Āryadeva removes the eye from the idol | 鑿出其目
+Āryadeva's assassination | 執刀窮之
+Siṃha's martyrdom | 用斬師子
+
+# === TEXT TITLES ===
+Accounts of the Transmission of the Dharma Treasury | 付法藏因緣傳
+five hundred jātaka tales | 五百本生緣
+Madhyamaka-śāstra (Middle Treatise) | 中論
+Fearless Treatise | 無畏論
+Upadeśa (Commentary) | 優波提舍
+Śataśāstra (Hundred Verses Treatise) | 百論
+Nirātman-śāstra (No-Self Treatise) | 無我論
+Verses on Dharma | 法句偈
+four Vedas | 四韋陀
+Vīra's No-Self Treatise | 毘羅無我之論
+Ghost Name Book | 鬼名書

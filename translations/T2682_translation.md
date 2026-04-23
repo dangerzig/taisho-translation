@@ -62,7 +62,7 @@ Outside the four gates of this hell, there are furthermore sixteen subsidiary pl
 
 **Sixth, the Place of No Joy.** Great conflagrations blaze day and night. Birds with scorching beaks, dogs, foxes, and jackals, uttering the most hideous cries, extremely terrifying, constantly come to feed upon the sinners. Bones and flesh lie scattered everywhere. Diamond worms burrow through the bones and devour the marrow. Those who in former lives blew conches and beat drums to make terrifying sounds for the purpose of killing birds and beasts fall into this place.
 
-**Seventh, the Place of Extreme Suffering.** Beneath sheer cliffs, sinners are perpetually burned by iron fire. Those who in former lives set fires upon mountains...
+**Seventh, the Place of Extreme Suffering.** Beneath sheer cliffs, sinners are perpetually burned by iron fire. Those who in former lives set fires upon mountains. . .
 
 #### (2) The Hell of Black Ropes (*Kālasūtra*)
 
@@ -225,7 +225,7 @@ Then Yama's agents answer with wrathful hearts:
 > Foolish one, having already done evil,
 > What use is remorse now?
 > Neither gods, nor asuras,
-> Nor gandharvas, nor nāgas, nor ghosts ...
+> Nor gandharvas, nor nāgas, nor ghosts . . .
 > Bound by the fetters of karma,
 > No one can rescue you.
 > As from the great ocean
@@ -540,7 +540,7 @@ A verse from the *Ratnakūṭa Sūtra* says:
 > Who can share in the suffering you must bear?
 >
 > Father, mother, brother, wife, and child,
-> Friends, servants, and precious possessions ...
+> Friends, servants, and precious possessions . . .
 > Death always tells the sinner:
 > "Not the slightest sin did I impose upon you.
 > You yourself committed the sins, and now you come.
@@ -555,7 +555,7 @@ And a verse from the *Mahāsaṃnipāta Sūtra* says:
 
 > Wife, children, jewels, and royal throne:
 > At the moment of death, none of these will follow.
-> Only morality, generosity, and heedfulness ...
+> Only morality, generosity, and heedfulness . . .
 > These alone, in this life and the next, are one's companions.
 
 Thus, in this endless cycle of doing evil and enduring suffering, one is born in vain and dies in vain; the wheel of transmigration turns without limit. As a sūtra verse says:
@@ -1411,7 +1411,7 @@ Therefore that sūtra speaks of the Dragon-Flower Assembly; it does not say Tu�
 
 Now I consider: from the passing of Śākyamuni to the appearance of Maitreya, 5,670,000,000 years will elapse. One evening one is reborn on a lotus pedestal, yet one would choose to linger through the long wandering of birth and death until the Dragon-Flower Assembly? How much more so if one attains birth in the Land of Utmost Bliss, where day and night at will one may go and come to Maitreya's palace in Tuṣita and, at the Dragon-Flower Assembly, take one's place in the front rank of the audience. It would be like a person of wealth and honor returning to their native village. Who would not delight in this?
 
-If one has a particular karmic affinity, then other realms are also fine. In general, one should follow one's own inclination; do not give rise to sectarian attachments. Therefore Master Huáigǎn says: "Those who aspire to Tuṣita should not disparage practitioners of the Western Land; those who aspire to the Western Land should not disparage the practice of Tuṣita. Each should follow their own disposition and cultivate as they wish. Do not quarrel over this, for such quarreling will not only fail to secure birth in the superior place, but will also..." [The quotation breaks off here in the source text.]
+If one has a particular karmic affinity, then other realms are also fine. In general, one should follow one's own inclination; do not give rise to sectarian attachments. Therefore Master Huáigǎn says: "Those who aspire to Tuṣita should not disparage practitioners of the Western Land; those who aspire to the Western Land should not disparage the practice of Tuṣita. Each should follow their own disposition and cultivate as they wish. Do not quarrel over this, for such quarreling will not only fail to secure birth in the superior place, but will also. . ." [The quotation breaks off here in the source text.]
 
 ---
 
@@ -1613,7 +1613,7 @@ The *Dharmapada Sūtra* says:
 >
 > All dharmas from the beginning
 > are neither right nor wrong.
-> Right and wrong are [the nature of...
+> Right and wrong are [the nature of. . .
 
 **Question:** If bodhi and affliction are one in essence, should one simply follow one's inclinations and give rise to deluded karma?
 
@@ -1965,10 +1965,10 @@ Therefore the practitioner must arouse this vow.
 > [One who] can cause all sentient beings
 > in all the worlds
 > to give rise to a mind of reverence
-> toward the assembly of bodhisattvas...
+> toward the assembly of bodhisattvas. . .
 >
 > If there is a person who can practice
-> such [conduct as described above]...
+> such [conduct as described above]. . .
 
 ---
 
@@ -2301,7 +2301,7 @@ One should then contemplate the wondrous and extraordinary merits of the Buddha.
 
 **One: Contemplating the Forty-eight Original Vows.** The *Wuliang qingjing jue jing* (無量清淨平等覺經, *Sūtra of Immeasurable Purity and Equal Awakening*) says:
 
-> Amitābha Buddha, together with Avalokiteśvara and Mahāsthāmaprāpta, rides the great ship of his vows across the ocean of birth and death, coming to this sahā world. He calls out to sentient beings, bidding them board the great ship of his vows and conveying them to the western land. If sentient beings are willing to board the great ship of his vows...
+> Amitābha Buddha, together with Avalokiteśvara and Mahāsthāmaprāpta, rides the great ship of his vows across the ocean of birth and death, coming to this sahā world. He calls out to sentient beings, bidding them board the great ship of his vows and conveying them to the western land. If sentient beings are willing to board the great ship of his vows. . .
 
 A verse says:
 
@@ -3192,9 +3192,9 @@ It also says:
 
 It also says:
 
-> "One who can eliminate the sins of birth and death accumulated over eighty trillion kalpas, how much more so one who with a wholesome and reverential mind..."
+> "One who can eliminate the sins of birth and death accumulated over eighty trillion kalpas, how much more so one who with a wholesome and reverential mind. . ."
 
-> "...those who slander the Vaipulya sūtras, commit the five heinous crimes, violate the four grave precepts, steal from the sangha's communal property, defile bhikṣunīs, violate the eight precepts of abstinence, and commit every form of evil, holding all manner of wrong views: if such persons are able, with a sincere mind, for one day and one night to fix their minds and contemplate even a single mark of the Tathāgata's features, all their grave karmic obstructions will be utterly eradicated."
+> ". . .those who slander the Vaipulya sūtras, commit the five heinous crimes, violate the four grave precepts, steal from the sangha's communal property, defile bhikṣunīs, violate the eight precepts of abstinence, and commit every form of evil, holding all manner of wrong views: if such persons are able, with a sincere mind, for one day and one night to fix their minds and contemplate even a single mark of the Tathāgata's features, all their grave karmic obstructions will be utterly eradicated."
 
 It also says:
 
@@ -3210,7 +3210,7 @@ The *Yirimoni jing* (*Sūtra of the Cintāmaṇi of the Sun*) says:
 
 > "Though a bodhisattva may have been immersed in desire for thousands of billions of myriads of kalpas, covered over by wrongdoing, if that one hears a buddha-sūtra and turns the mind to goodness even once, the wrongdoing is immediately eradicated."
 
-> "...including stream-enterers, once-returners, non-returners, and arhats. If a good man or good woman were, for one kalpa or less than a kalpa, to make offerings with every kind of pleasing and delightful object, with reverence, respect, humility, and honor, and if another person were to make a single añjali gesture or recite the name once before the buddhas, the merit of the latter, compared to the former, would not amount to one hundredth, one hundred-billionth, nor even one kalā-fraction. Why? Because the buddhas, the tathāgatas, are fields of merit [beyond measure]."
+> ". . .including stream-enterers, once-returners, non-returners, and arhats. If a good man or good woman were, for one kalpa or less than a kalpa, to make offerings with every kind of pleasing and delightful object, with reverence, respect, humility, and honor, and if another person were to make a single añjali gesture or recite the name once before the buddhas, the merit of the latter, compared to the former, would not amount to one hundredth, one hundred-billionth, nor even one kalā-fraction. Why? Because the buddhas, the tathāgatas, are fields of merit [beyond measure]."
 
 > "If one were to make offerings of food, drink, clothing, bedding, pounded incense, mixed incense, and fine flowers for billions of kalpas to a single tathāgata, and if another person were, with single-pointed concentration and palms joined with ten fingers, to take refuge with sincere mind in a single tathāgata, and with one's own mouth say 'Namo Buddha,' the merit of this is supreme."
 
@@ -3360,9 +3360,9 @@ A verse from the same sūtra says:
 
 > If one wishes to perfect all the wondrous marks,
 > To be adorned with the most excellent adornments,
-> And if one seeks to turn [the Dharma-wheel]...
+> And if one seeks to turn [the Dharma-wheel]. . .
 
-> ...if one plants even a small portion of roots of merit in the Buddha's field of merit, one first attains the excellent reward of the good destinies, and afterward will certainly reach nirvāṇa.
+> . . .if one plants even a small portion of roots of merit in the Buddha's field of merit, one first attains the excellent reward of the good destinies, and afterward will certainly reach nirvāṇa.
 
 The *Mahāprajnāpāramitā Sūtra* (*Dabanruo jing*) says:
 
@@ -3396,9 +3396,9 @@ The *Mahākaruṇā Sūtra* (*Dabeijing* (大悲經, *Mahākaruṇā Sūtra*)), 
 A verse of Dharmadhvaja Bodhisattva from the *Avataṃsaka Sūtra* says:
 
 > If any sentient beings
-> Have not yet aroused the mind of bodhi...
+> Have not yet aroused the mind of bodhi. . .
 
-> ...hearing the name and its excellent rewards is already like this. How much more so for briefly contemplating and recollecting the marks, features, and merits, or for offering even a single flower or stick of incense. How much more so for a lifetime of diligent practice: that merit will never be in vain. One should therefore know that encountering the Buddha-Dharma and hearing the Buddha's name is no small affinity.
+> . . .hearing the name and its excellent rewards is already like this. How much more so for briefly contemplating and recollecting the marks, features, and merits, or for offering even a single flower or stick of incense. How much more so for a lifetime of diligent practice: that merit will never be in vain. One should therefore know that encountering the Buddha-Dharma and hearing the Buddha's name is no small affinity.
 
 Thus a verse of Bhūtatathatā Bodhisattva from the *Avataṃsaka Sūtra* says:
 
@@ -3417,7 +3417,7 @@ The commentary of Zhiguang on the *Treatise on Birth in the Pure Land* (*Wangshe
 
 > "You should know that when sentient beings think of the Buddha, the Buddha's bodily marks all appear within the mind of the sentient being. It is like clear water in which reflections appear: the water and the image are neither one nor different. Therefore, the Buddha's marks and excellent body are precisely the mind's imagination."
 
-> "'This mind creates the Buddha' means the mind is able to create the Buddha. 'This mind is the Buddha' means there is no Buddha outside the mind. It is like fire produced from wood: it cannot be separated from the wood, yet precisely because it is not separate from the wood, it is able to burn the wood. When the wood is burned by fire..."
+> "'This mind creates the Buddha' means the mind is able to create the Buddha. 'This mind is the Buddha' means there is no Buddha outside the mind. It is like fire produced from wood: it cannot be separated from the wood, yet precisely because it is not separate from the wood, it is able to burn the wood. When the wood is burned by fire. . ."
 
 The *Mahāsaṃnipāta Sūtra*, in the chapter on the Storehouse of the Sun, says:
 
@@ -3563,9 +3563,9 @@ The *Piyu jing* (*Sūtra of Parables*), fascicle two:
 
 > "The king then joined his palms and single-mindedly recited 'Namo Buddha' day and night without slacking. After seven days, his life ended. His spirit approached the gate of hell, reciting 'Namo Buddha.' All the beings in that hell, hearing the sound of the Buddha's name, all recited 'Namo Buddha' in unison. The hell immediately turned cold. The bhikṣu then taught the Dharma. The bhikṣu's mother, the king, and all the beings in the hell were all liberated."
 
-> "Later, Great Diligence was reborn in a household of wrong views. Tangled in the net of delusion, caught up in a sense of 'self,' at that time his name was Guangli (Broad Benefit). His wife..."
+> "Later, Great Diligence was reborn in a household of wrong views. Tangled in the net of delusion, caught up in a sense of 'self,' at that time his name was Guangli (Broad Benefit). His wife. . ."
 
-> "...devoted herself to diligent effort and liberated immeasurable beings, guiding them through the ten wholesome practices. At that time, I was given to hunting and killing, craving alcohol and meat, lazy and slothful, unable to be diligent. My wife told me to stop hunting and killing, to abstain from alcohol and meat, and to exert myself diligently, so as to be freed from the suffering and affliction of the hells and to ascend to the heavenly palace."
+> ". . .devoted herself to diligent effort and liberated immeasurable beings, guiding them through the ten wholesome practices. At that time, I was given to hunting and killing, craving alcohol and meat, lazy and slothful, unable to be diligent. My wife told me to stop hunting and killing, to abstain from alcohol and meat, and to exert myself diligently, so as to be freed from the suffering and affliction of the hells and to ascend to the heavenly palace."
 
 > "At that time, my heart for killing would not stop. I could not give up the fine flavors of alcohol and meat. My mind for diligence was lazy and would not advance. Thoughts of the heavenly palace ceased; my share was the hells."
 
@@ -3595,7 +3595,7 @@ The *Mahākaruṇā Sūtra* (*Dabeijing*), fascicle two, says:
 
 > "At that time, the merchant leader and all the merchants were safe and freed from the peril of the great fish. The makara, having heard the sound of the Buddha's name, gave rise to joy in its heart and henceforth refrained from devouring other sentient beings. Because of this, when its life ended, it was born in the human realm. In the presence of the Buddha, it heard the Dharma, left home, drew near to good teachers, and attained arhatship."
 
-> "Ānanda, behold: that fish, born in the animal realm, merely heard the Buddha's name and subsequently attained nirvāṇa. How much more so for those who..."
+> "Ānanda, behold: that fish, born in the animal realm, merely heard the Buddha's name and subsequently attained nirvāṇa. How much more so for those who. . ."
 
 The *Baqizhai pin* (八關齋戒品, *Chapter on the Eight Precepts of Abstinence*) says:
 
@@ -3787,11 +3787,11 @@ A verse in the *Candragarbha* chapter of the *Mahāsaṃnipāta Sūtra* says:
 
 And the *Buddha Treasury Sūtra* records the prediction of Kāśyapa Buddha:
 
-> In the time of Śākyamuni Buddha...
+> In the time of Śākyamuni Buddha. . .
 
 How much more for ordinary people. A great elephant passes through a window, and yet in the end it is caught by its tail. A renunciant leaves home, and yet in the end is bound by fame and profit. Thus we know: for one who seeks liberation, the final enemy is none greater than fame and profit.
 
-Yet the great layman Vimalakīrti was in the household life while his mind had left it. The bodhisattva Medicine King in his original story fled the dust of the world and dwelt among the clouds and mountains. Practitioners of today should do likewise. Assess your own faculties and advance or withdraw accordingly. If you cannot control your mind, you should at least avoid such places. A hemp plant among the reeds grows straight without a support; an apprentice among butchers...
+Yet the great layman Vimalakīrti was in the household life while his mind had left it. The bodhisattva Medicine King in his original story fled the dust of the world and dwelt among the clouds and mountains. Practitioners of today should do likewise. Assess your own faculties and advance or withdraw accordingly. If you cannot control your mind, you should at least avoid such places. A hemp plant among the reeds grows straight without a support; an apprentice among butchers. . .
 
 ---
 
@@ -4031,7 +4031,7 @@ If one does not engage in mixed practice but practices exclusively, such a perso
 
 How could such a person lack this benefit? Consider: when a person who has committed evil all his life encounters a good friend at the time of death and with just ten recollections of the Buddha attains birth, such cases are mostly people who in past lives aspired to the Pure Land and recollected that buddha. Their roots of merit, ripened within, are now brought forth. Therefore the *Ten Doubts Treatise* says:
 
-> Those who, at the time of death, encounter a good teacher and accomplish ten recollections...
+> Those who, at the time of death, encounter a good teacher and accomplish ten recollections. . .
 
 The meaning is the same. Therefore it is not in vain.
 
@@ -4100,7 +4100,7 @@ And it says that one who teaches in this way is called a false teacher and an ev
 
 These and similar passages in the Mahāyāna sūtras, which sometimes criticize attachment to existence and sometimes criticize attachment to emptiness, which sometimes praise the Great Vehicle and sometimes praise the Lesser, are all adapted to the capacities of different beings. There is also a sūtra passage that says:
 
-> Now, Amitābha Tathāgata, Worthy of Offerings, Perfectly Enlightened, possesses thirty-two major marks and eighty subsidiary marks. His body's radiance is like a mass of molten gold...
+> Now, Amitābha Tathāgata, Worthy of Offerings, Perfectly Enlightened, possesses thirty-two major marks and eighty subsidiary marks. His body's radiance is like a mass of molten gold. . .
 
 And continuing through to: "not recollecting that Tathāgata, and also not apprehending that Tathāgata, one thus successively attains the emptiness *samādhi*."
 
@@ -4238,7 +4238,7 @@ Moreover, among the five inconceivables, the Buddha-Dharma is the most inconceiv
 1. When a single sandalwood tree reaches maturity, it can transform the foul-smelling *eranda* forest for forty *yojanas* around, making it all fragrant.
 2. When a lion's sinew is used as a lute string and a single note is played, all other strings snap.
 3. A single *jin* of mercury can transform a thousand *jin* of copper into gold.
-4. *Vajra*, though the hardest substance, when struck with an antelope horn, crumbles like... melted butter.
+4. *Vajra*, though the hardest substance, when struck with an antelope horn, crumbles like. . . melted butter.
 5. The *shāhē* medicine: merely seeing it grants immeasurable lifespan, and merely thinking of it grants knowledge of past lives.
 6. When a peacock hears the sound of thunder, it immediately conceives.
 7. The *śirīṣa* fruit, previously without form, upon seeing the Pleiades, produces fruit five inches long.
@@ -4353,7 +4353,7 @@ That sūtra offers a parable:
 
 **Answer:** Even if one wanders through birth-and-death for a very long time, the good roots will not perish and one will inevitably attain nirvāṇa. That sūtra says:
 
-> The Buddha told Ānanda: "It is like a fisherman who, wanting to catch fish, places a hook with bait in a great pond. Once a fish swallows it..."
+> The Buddha told Ānanda: "It is like a fisherman who, wanting to catch fish, places a hook with bait in a great pond. Once a fish swallows it. . ."
 
 So too, sentient beings who come to have faith and reverence toward all buddhas, who plant good roots and practice generosity, and who, even for a single moment, give rise to faith: though they may afterward be pulled by evil and unwholesome karma, the World-Honored One, with his buddha-eye, sees these beings, and because the power of their initial aspiration is supreme, draws them out of hell and places them on the shore of nirvāṇa.
 
@@ -4769,7 +4769,7 @@ On the nineteenth day of the sixth month of the third year of Nin'an (1168), the
 
 Carving completed on the eighth day of the fourth month of the fourth year of Shōgen (1210). The patron, the Great Dharma Master Jitsugen. He exerted his modest strength from his own heart and cast his treasure toward the realm of the Buddha. The work was completed in one hundred printing blocks. However, these blocks are from an earlier time when a holy person had encouraged carving from contributions gathered in the ten directions. Unexpectedly, a fire destroyed them. Therefore he had them recarved by his own effort, entirely for the attainment of buddhahood and the liberation of the four benefactors, the seven generations, and all beings throughout the dharma-realm with whom we share no particular karmic bond.
 
-This *Collection on the Essentials*: its source is at Yokawa on Mount Hiei, and it has spread to the four seas. But with additions and deletions to the text, which version is correct and which in error? Where both text and meaning are excellent, there is no basis for choosing one over the other. After broadly consulting various texts and comparing with old editions: there are two recensions, the one sent to China and the one retained in Japan. The present text is the version sent to China. The version at the Gion Monastery... therefore we know: the version sent to China is the revised recension. Now, using the version sent to China, the blocks are carved and printed. By this merit, may both self and others be benefited. May I and all sentient beings together gather in the Land of Bliss.
+This *Collection on the Essentials*: its source is at Yokawa on Mount Hiei, and it has spread to the four seas. But with additions and deletions to the text, which version is correct and which in error? Where both text and meaning are excellent, there is no basis for choosing one over the other. After broadly consulting various texts and comparing with old editions: there are two recensions, the one sent to China and the one retained in Japan. The present text is the version sent to China. The version at the Gion Monastery. . . therefore we know: the version sent to China is the revised recension. Now, using the version sent to China, the blocks are carved and printed. By this merit, may both self and others be benefited. May I and all sentient beings together gather in the Land of Bliss.
 
 Carving commenced in the fourth month of the fifth year of Kenchō (1253), the year *mizunoto-ushi*. Completed in the ninth month. Patron: Dōmyō.
 

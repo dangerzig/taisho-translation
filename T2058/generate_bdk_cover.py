@@ -44,11 +44,15 @@ def generate_bdk_cover(pages, paper, title, back_text, output,
     spine, total_w, total_h, margin, panel_w, panel_h, hinge = \
         calculate_dimensions(pages, paper, "paperback")
 
+    # IngramSpark spine safety zone
+    safety = 0.0625 if spine > 0.35 else 0.03125
+    usable_spine = spine - 2 * safety
+    spine_wheel_size = usable_spine * 0.9  # 90% of usable width
+
     back_center = margin + panel_w / 2
     spine_left = margin + panel_w + hinge
     spine_center = spine_left + spine / 2
     front_center = spine_left + spine + hinge + panel_w / 2
-    spine_wheel_size = min(spine * 0.85, 0.35)
 
     # Split title into lines (expects \n separators)
     title_lines = title.split("\n") if "\n" in title else [title]
@@ -135,10 +139,10 @@ def generate_bdk_cover(pages, paper, title, back_text, output,
 %% "Numata Center" horizontal at bottom, two separate lines
 \node[anchor=center, text=spinecream]
     at ({spine_center:.4f}, {margin + 0.62:.4f})
-    {{\fontsize{{11}}{{13}}\selectfont Numata}};
+    {{\fontsize{{6}}{{7.5}}\selectfont Numata}};
 \node[anchor=center, text=spinecream]
-    at ({spine_center:.4f}, {margin + 0.42:.4f})
-    {{\fontsize{{11}}{{13}}\selectfont Center}};
+    at ({spine_center:.4f}, {margin + 0.45:.4f})
+    {{\fontsize{{6}}{{7.5}}\selectfont Center}};
 
 %% ==================== BACK COVER ====================
 

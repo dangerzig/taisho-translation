@@ -1827,7 +1827,7 @@ Once, Manorhita traveled to North India. The venerable Yaśas said to him: "In t
 
 Manorhita then followed his counsel and went to those two kingdoms. He widely proclaimed the treatise of Vīra on no-self and vanquished all the wrong views of heterodox paths. When his work was complete, he relinquished his body and passed away.
 
-### Haklenayaśas and Siṃha Bhikṣu
+### Haklenayaśas, Yaśas, and Siṃha Bhikṣu
 
 After that, in succession, the venerable Haklenayaśas and Yaśas appeared in the world. They received the entrusted Dharma and broadly proclaimed and disseminated it. Their merit was deep and far-reaching, and their talent was brilliant and profoundly learned. They transformed the deluded of the world and guided them onto the true path. When all that they needed to accomplish was done, they afterward relinquished their bodies.
 

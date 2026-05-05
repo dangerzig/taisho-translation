@@ -1815,9 +1815,9 @@ Manorhita's wisdom was transcendent. He was of few desires and content with litt
 
 At that time there was a venerable one called Yaśas, whose eloquent wisdom was keen and perspicacious, profoundly deep and broadly learned. His merit was equal to that of Manorhita, and he too could comprehend the meaning of the Tripiṭaka. His fame spread everywhere, and all people revered him.
 
-Once, Manorhita traveled to North India. The venerable Yaśas said to him: "South of the Ganges, in the two Indian kingdoms south of the Ganges, the people harbor many wrong views, yet they are clever, eloquent, and sharp-witted. Since you, Elder, are well versed in phonetics and grammar, you may travel in those lands to teach and transform them. I shall remain here to benefit sentient beings."
+Once, Manorhita traveled to North India. The venerable Yaśas said to him: "In the two Indian kingdoms south of the Ganges, the people harbor many wrong views, yet they are clever, eloquent, and sharp-witted. Since you, Elder, are well versed in phonetics and grammar, you may travel in those lands to teach and transform them. I shall remain here to benefit sentient beings."
 
-Manorhita then followed his counsel and went to the two kingdoms of India. He widely proclaimed the treatise of Vīra on no-self and vanquished all the wrong views of heterodox paths. When his work was complete, he relinquished his body and passed away.
+Manorhita then followed his counsel and went to those two kingdoms. He widely proclaimed the treatise of Vīra on no-self and vanquished all the wrong views of heterodox paths. When his work was complete, he relinquished his body and passed away.
 
 ### Haklenayaśas and Siṃha Bhikṣu
 

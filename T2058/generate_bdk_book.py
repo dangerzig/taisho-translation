@@ -93,8 +93,19 @@ def parse_bdk_glossary(path):
     return entries
 
 
+def sort_key_for_glossary(entry):
+    """Generate a case-insensitive sort key ignoring diacritics."""
+    term = entry["term"]
+    # Normalize unicode and strip combining characters (diacritics)
+    nfkd = unicodedata.normalize("NFKD", term)
+    ascii_approx = "".join(c for c in nfkd if not unicodedata.combining(c))
+    return ascii_approx.lower()
+
+
 def format_bdk_glossary_latex(entries):
     """Render BDK-style glossary entries as LaTeX with hanging indent."""
+    # Sort entries alphabetically, ignoring case and diacritics
+    entries = sorted(entries, key=sort_key_for_glossary)
     lines = []
     lines.append(r"\clearpage")
     lines.append(r"\phantomsection")
@@ -232,15 +243,18 @@ def introduction_to_latex(path):
             title = smart_quotes(title)
             title = latex_quotes(title)
             if level == 2:
+                lines.append(r"\needspace{4\baselineskip}")
                 lines.append(r"\vspace{0.8\baselineskip}")
                 lines.append(r"\begin{center}")
                 lines.append(r"{\large\bfseries " + title + "}")
                 lines.append(r"\end{center}")
                 lines.append(r"\addcontentsline{toc}{section}{" + title + "}")
             elif level == 3:
+                lines.append(r"\needspace{3\baselineskip}")
                 lines.append(r"\vspace{0.6\baselineskip}")
                 lines.append(r"\noindent{\bfseries " + title + "}")
             else:
+                lines.append(r"\needspace{3\baselineskip}")
                 lines.append(r"\vspace{0.4\baselineskip}")
                 lines.append(r"\noindent{\bfseries\itshape " + title + "}")
             lines.append(r"\nopagebreak")
@@ -305,8 +319,7 @@ def build_bdk_fascicle_body(fascicle_label, paragraphs, title,
         lines.append(r"\cleardoublepage")
         lines.append(r"\thispagestyle{plain}")
         lines.append(r"\phantomsection")
-        # Fascicle entries in TOC as group headers without page numbers
-        lines.append(r"\addtocontents{toc}{\protect\vspace{4pt}\protect\noindent " + safe_label + r"\protect\par}")
+        lines.append(r"\addcontentsline{toc}{chapter}{" + safe_label + r"}")
         lines.append(r"\fancyhead[RO]{\small\textit{" + safe_label + r"}}")
         lines.append(r"\vspace*{4\baselineskip}")
         lines.append(r"\begin{center}")
@@ -331,6 +344,7 @@ def build_bdk_fascicle_body(fascicle_label, paragraphs, title,
             if level <= 3:
                 heading_text = content
                 toc_text = heading_text
+                lines.append(r"\needspace{4\baselineskip}")
                 lines.append(r"\vspace{0.8\baselineskip}")
                 lines.append(r"\begin{center}")
                 lines.append(r"{\large\bfseries " + heading_text + "}")
@@ -343,6 +357,7 @@ def build_bdk_fascicle_body(fascicle_label, paragraphs, title,
                              + heading_text + r"}}")
                 lines.append(r"\nopagebreak")
             else:
+                lines.append(r"\needspace{3\baselineskip}")
                 lines.append(r"\vspace{0.6\baselineskip}")
                 lines.append(r"\noindent{\bfseries\itshape " + content + "}")
                 if level == 4:
@@ -443,6 +458,7 @@ def build_bdk_document(title, taisho_vol, taisho_num, translator, year,
 \usepackage{marginnote}
 \usepackage{tocloft}
 \usepackage{multicol}
+\usepackage{needspace}
 \usepackage{imakeidx}
 \makeindex[columns=2]
 

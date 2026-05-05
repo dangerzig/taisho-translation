@@ -16,7 +16,7 @@ The text was co-translated by two monks at the Northern Wei court in Pingcheng (
 
 **Jikiyaye** (吉迦夜), whose Sanskrit name is reconstructed as Kiṃkara, was a monk from the "Western Regions" (Central Asia). Very little is known about him beyond his collaboration with Tanyao on these two translations. The Taishō edition describes him as a "Tripiṭaka Master from the Western Regions" (西域三藏), suggesting that he brought the Indian source text or texts to China and provided the oral rendering that Tanyao then put into literary Chinese.
 
-## Contents
+## Contents of the Text
 
 The text is organized into six fascicles covering the lives and transmissions of twenty-three patriarchs.
 

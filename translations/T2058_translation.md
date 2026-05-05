@@ -1457,7 +1457,7 @@ Because of that king, in that monastery the tradition was established and handed
 
 Thus Aśvaghoṣa, through his great practice and vows, proclaimed the flavor of sweet dew and brought immense benefit to King Kaniṣka. Those he liberated numbered hundreds of millions. When his work was accomplished, he relinquished his life and departed. His relics were gathered and a stūpa was erected, with offerings made to it.
 
-### Kapimala
+### Vīra
 
 When the Bodhisattva Aśvaghoṣa was about to relinquish his life, he addressed a bhikṣu named Vīra: "Elder, you should know that the Buddhadharma is pure and able to cleanse the defilements of affliction. You should hereafter disseminate and make offerings to it."
 
@@ -1829,7 +1829,7 @@ Manorhita then followed his counsel and went to those two kingdoms. He widely pr
 
 ### Haklenayaśas and Siṃha Bhikṣu
 
-After that, in succession, the venerable Haklenayaśas and Yaśas appeared in the world. They received the entrusted Dharma and broadly proclaimed and disseminated it. Their merit was deep and far-reaching, and their talent was brilliant and profoundly learned. They transformed the deluded of the world and guided them onto the true path. When all that they needed to accomplish was done, they afterward relinquished their bodies.
+After that, in succession, the venerable Haklenayaśas appeared in the world. He received the entrusted Dharma and broadly proclaimed and disseminated it. His merit was deep and far-reaching, and his talent was brilliant and profoundly learned. He transformed the deluded of the world and guided them onto the true path. When all that he needed to accomplish was done, he afterward relinquished his body.
 
 There was also a bhikṣu named Siṃha, who in the kingdom of Kaśmīr performed great works for the Buddha's cause. At that time the king of that country was named Mihirakula. His wrong views blazed fiercely, and his heart was devoid of reverence and faith. In the kingdom of Kaśmīr he destroyed stūpas and monasteries and slaughtered the monks. With a sharp sword he beheaded Siṃha. From his neck flowed no blood, only milk.
 

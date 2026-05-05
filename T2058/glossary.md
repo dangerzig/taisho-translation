@@ -34,7 +34,7 @@
 
 **cremation** (闍毘/耶旬; Skt. *jhāpita*): The ritual burning of the body after death. The text describes the cremation of the Buddha and of numerous patriarchs, typically accompanied by the collection of relics and construction of stūpas. *See also* relics; stūpa.
 
-**Dārṣṭāntika** (提多迦; Skt. *Dhītika*): Fifth patriarch of the Indian lineage. He received the Dharma treasury from Upagupta. At his ordination, he progressed through all four stages of the path during the three announcements of the ordination ceremony. *See also* Upagupta; Micchaka.
+**Dhṛtaka** (提多迦; Skt. *Dhṛtaka*): Fifth patriarch of the Indian lineage. He received the Dharma treasury from Upagupta. At his ordination, he progressed through all four stages of the path during the three announcements of the ordination ceremony. *See also* Upagupta; Micchaka.
 
 **Dharma eye** (法眼; Skt. *dharmacakṣus*): The eye of the Dharma; the true teaching of the Buddha that enables beings to see reality clearly. The patriarchs transmit the "Dharma eye" from one to the next. *See also* Dharma treasury.
 
@@ -104,7 +104,7 @@
 
 **Mathurā** (摩突羅; Skt. *Mathurā*): A city in northern India where the Buddha prophesied that Śāṇavāsa would build a monastery and Upagupta would teach. Several patriarchs were active there. *See also* Śāṇavāsa; Upagupta.
 
-**Micchaka** (彌遮迦; Skt. *Micchaka*): Sixth patriarch of the Indian lineage. He received the Dharma treasury from Dhītika and transmitted it to Buddhanandin. *See also* Dhītika; Buddhanandin.
+**Micchaka** (彌遮迦; Skt. *Micchaka*): Sixth patriarch of the Indian lineage. He received the Dharma treasury from Dhītika and transmitted it to Buddhanandin. *See also* Dhṛtaka; Buddhanandin.
 
 **Manorhita** (摩奴羅; Skt. *Manorhita*): Twenty-first patriarch of the Indian lineage. He excelled in understanding the three divisions of the canon and spread the Dharma in southern India. He shared responsibilities with the elder Yaśas for teaching in different regions. *See also* Yaśas (patriarch); Haklena.
 
@@ -132,7 +132,7 @@
 
 **Rājagṛha** (王舍城; Skt. *Rājagṛha*): The capital of Magadha, where the First Council was held at the Pippala Cave. Mahākāśyapa and Ānanda both dwelt and taught there. *See also* Magadha; First Council; Pippala Cave.
 
-**Rāhula** (羅睺羅; Skt. *Rāhula*): Fifteenth patriarch of the Indian lineage, not to be confused with the historical Rāhula (the Buddha's son). He received the Dharma from Āryadeva and was renowned for his ability to memorize teachings after hearing them only three times. *See also* Āryadeva; Saṅghanandi.
+**Rāhulata** (羅睺羅; Skt. *Rāhulata*): Fifteenth patriarch of the Indian lineage, not to be confused with the historical Rāhula (the Buddha's son). He received the Dharma from Āryadeva and was renowned for his ability to memorize teachings after hearing them only three times. *See also* Āryadeva; Saṅghanandi.
 
 **Rāṣṭrapāla** (賴吒啝羅; Skt. *Rāṣṭrapāla*): A musical composition by Aśvaghoṣa that conveyed the Buddhist teachings of suffering, emptiness, and no-self through elegant melody. Five hundred princes who heard it renounced worldly life. *See also* Aśvaghoṣa.
 
@@ -142,13 +142,13 @@
 
 **Śāṇavāsa** (商那和修; Skt. *Śāṇavāsa*): Third patriarch of the Indian lineage. Born wearing a garment of śāṇa (hemp cloth) that grew with his body and remained with him throughout his life. He built a monastery at Mathurā on Mount Urumūṇḍa as the Buddha had prophesied, and transmitted the Dharma to Upagupta. *See also* Ānanda; Upagupta; Mathurā.
 
-**Saṅghanandi** (僧伽難提; Skt. *Saṅghanandi*): Sixteenth patriarch of the Indian lineage. He practiced the bodhisattva path with firm vows, surpassing the realms of śrāvakas and pratyekabuddhas. After his passing, his body could not be moved even by great elephants until it was cremated in place, while the tree above remained unharmed. *See also* Rāhula; Saṅghayaśas.
+**Saṅghanandi** (僧伽難提; Skt. *Saṅghanandi*): Sixteenth patriarch of the Indian lineage. He practiced the bodhisattva path with firm vows, surpassing the realms of śrāvakas and pratyekabuddhas. After his passing, his body could not be moved even by great elephants until it was cremated in place, while the tree above remained unharmed. *See also* Rāhulata; Saṅghayaśas.
 
 **Saṅghayaśas** (僧伽耶舍; Skt. *Saṅghayaśas*): Seventeenth patriarch of the Indian lineage. Before attaining arhatship, he traveled by the ocean and witnessed the sufferings of hungry ghosts and hell beings, which inspired him to intensify his practice. *See also* Saṅghanandi; Kumāralāta.
 
 **saṅgha** (僧/眾僧; Skt. *saṅgha*): The community of Buddhist monks and nuns. One of the Three Treasures. The text describes the saṅgha's role in preserving and transmitting the Dharma. *See also* Three Treasures.
 
-**Āryadeva** (迦那提婆; Skt. *Āryadeva*): Fourteenth patriarch of the Indian lineage. Born into a South Indian Brahmin family, he was also known as Kāṇadeva ("one-eyed Deva") because he offered his eye to the deity Maheśvara. A brilliant debater who composed the *Śataśāstra* (Hundred Verses Treatise), he was assassinated by a resentful student of a defeated non-Buddhist teacher. *See also* Nāgārjuna; Rāhula.
+**Āryadeva** (迦那提婆; Skt. *Āryadeva*): Fourteenth patriarch of the Indian lineage. Born into a South Indian Brahmin family, he was also known as Kāṇadeva ("one-eyed Deva") because he offered his eye to the deity Maheśvara. A brilliant debater who composed the *Śataśāstra* (Hundred Verses Treatise), he was assassinated by a resentful student of a defeated non-Buddhist teacher. *See also* Nāgārjuna; Rāhulata.
 
 **Siṃha** (師子; Skt. *Siṃha*): Twenty-third and final patriarch of the Indian lineage. He was martyred by King Mihirakula (Mirakula) in Kaśmīr. When beheaded, no blood but only milk flowed from his neck, marking the end of the patriarchal transmission. *See also* Mihirakula; Kaśmīr.
 
@@ -200,7 +200,7 @@
 
 **Vipaśyin** (毘婆尸佛; Skt. *Vipaśyin*): A past Buddha, the first of the seven Buddhas of antiquity. In the time of Vipaśyin, Mahākāśyapa and his wife made a vow together after repairing the golden image on a stūpa, resulting in ninety-one kalpas of golden bodies and heavenly rebirth. *See also* Mahākāśyapa.
 
-**Vṛji** (毘舍離; Skt. *Vaiśālī*): An ancient city north of the Ganges. One quarter of Ānanda's relics was given to the people of Vaiśālī. *See also* Ānanda.
+**Vaiśālī** (毘舍離; Skt. *Vaiśālī*): An ancient city north of the Ganges. One quarter of Ānanda's relics was given to the people of Vaiśālī. *See also* Ānanda.
 
 **World-Honored One** (世尊; Skt. *Bhagavat*): The most common honorific for the Buddha Śākyamuni in Chinese Buddhist texts. *See also* Buddha; Tathāgata.
 

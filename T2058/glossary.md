@@ -206,7 +206,7 @@
 
 **Yaśas** (耶舍; Skt. *Yaśas*): The elder who presided at the Kukkuṭārāma monastery during Aśoka's time. He informed Aśoka about Upagupta and about the Buddha's prophecy regarding the distribution of relics. *See also* Aśoka; Kukkuṭārāma; Upagupta.
 
-**Haklena** (鶴勒那; Skt. *Haklenayaśas*): The patriarch who, together with Yaśas (the patriarch), appeared in the world after Manorhita. He received the transmission and spread the Dharma, then passed it on to Siṃha. *See also* Manorhita; Siṃha.
+**Haklenayaśas** (鶴勒那夜奢; Skt. *Haklenayaśas*): Twenty-second patriarch of the Indian lineage. He appeared in the world after Manorhita, received the entrusted Dharma, and broadly disseminated it before passing the transmission to Siṃha. The Chinese text writes his name in two parts (鶴勒那 and 夜奢), which some scholars have read as two separate figures. *See also* Manorhita; Siṃha.
 
 **Mihirakula** (彌羅掘; Skt. *Mihirakula*): A king of Kaśmīr of wrong views who destroyed monasteries, killed monks, and beheaded the final patriarch, Siṃha. His persecution marked the end of the patriarchal lineage. *See also* Siṃha; Kaśmīr.
 

@@ -347,6 +347,8 @@ When Mahākāśyapa was about to enter nirvāṇa, he entrusted the most supreme
 
 Ānanda replied, "Yes, I respectfully accept your teaching."
 
+### Ānanda
+
 Thereupon Ānanda expounded the wondrous Dharma and transformed sentient beings. In his past lives he had accumulated great merit. His wisdom was deep and vast, his learning broad and penetrating. The Buddha praised him as foremost in comprehensive retention. He was able to receive and hold the entire Dharma treasury of the Buddhas, like a great ocean receiving all rivers that flow into it. His renown was lofty and far-reaching, known to all. Such merit as his is inexhaustible. I shall now relate the causes and conditions in proper order.
 
 Long ago, in a past age of incalculable kalpas, in the time of Dīpaṃkara Buddha, there was a śramaṇa who kept a novice. He constantly had the novice recite scriptures, admonishing him day and night without rest. If the novice fell even slightly short in his recitation, the master would scold him harshly. At that time, the novice would go to beg food for his master, and if he was even slightly delayed and could not fulfill his quota of recitation, his master would revile and humiliate him terribly. The novice became deeply distressed. While begging food for his master, he would recite as he walked. A certain householder, finding this strange, asked him about it.
@@ -519,6 +521,8 @@ Therefore, when Ānanda was about to pass away, he told Śāṇakavāsa, "The Bu
 
 Śāṇakavāsa answered, "I accept your teaching. I will protect and uphold this wondrous Dharma, serving as a great bright torch for all beings."
 
+### Śāṇakavāsa
+
 Thereupon Śāṇakavāsa proclaimed in turn the unsurpassed Dharma medicine, healing the sickness of afflictions and delivering sentient beings across to liberation. His virtue was lofty and far-reaching; he had long cultivated his vows and practices. His learning was vast, his retention comprehensive, and his eloquence inexhaustible. I shall now set forth that accumulation of merit.
 
 Long ago in a past age of incalculable kalpas, Śāṇakavāsa was a merchant leader who, together with five hundred traders, wished to enter the great ocean to gather precious treasures. Along the road ahead they saw a pratyekabuddha who was gravely ill, his life force feeble and waning. The merchant and the traders immediately stopped, sought out medicine, and treated him. They attended to him wholeheartedly, providing everything he needed. His illness was cured, and his strength was restored.
@@ -631,6 +635,8 @@ The Venerable Ānanda entrusted the Dharma to Śāṇakavāsa, telling him: "Lon
 When Śāṇakavāsa was on the verge of entering nirvāṇa, he told Gupta: "The Buddha entrusted the true Dharma to Mahākāśyapa. Kāśyapa in turn entrusted it to my teacher Ānanda. Ānanda entrusted the Dharma to me. Now, as I am about to pass away, I entrust it to you. You must be diligent and devoted in safeguarding the eye of the world."
 
 Upagupta replied: "Yes, I accept your instruction."
+
+### Upagupta
 
 Thereupon he expounded and spread the supreme, wondrous Dharma, broadly proclaimed the true teaching, and brought salvation to all sentient beings. His virtue was deep and vast, immeasurable and boundless. In past lives, over long ages, he had cultivated the supreme, excellent practice. Even when reborn among birds and beasts, he constantly converted sentient beings, vanquished non-Buddhist teachers, and erected the great banner of the Dharma. With clouds of compassion he universally sheltered all. These merits and virtues shall now be briefly recounted.
 
@@ -1187,6 +1193,8 @@ He announced to the great assembly: "Seven days from now, I shall enter nirvā�
 ## Fascicle Five
 
 When Śāṇakavāsa was approaching nirvāṇa, he entrusted the Dharma to Upagupta, speaking these words: "Long ago, the Bhagavat entrusted the supreme Dharma to the Venerable Mahākāśyapa, desiring that sentient beings might grasp the great torch of illumination, forever leave behind all suffering, and attain the bliss of nirvāṇa. Kāśyapa in turn entrusted it to my master Ānanda. Ānanda then entrusted it to me. Now, as I am about to enter final extinction, I commit it to you. When you yourself later approach nirvāṇa, there will be a good man in the country of Mathurā who will appear in the world. His name will be Dhṛtaka. He has long cultivated vows and practice, and his eloquence is inexhaustible. You should later ordain him as a renunciant and entrust to him the complete Dharma eye." Upagupta replied, "I respectfully receive your instruction."
+
+### Dhṛtaka
 
 When the time came that the Venerable Upagupta's conditions for teaching were nearly exhausted and he wished to enter nirvāṇa, he contemplated whether Dhṛtaka had yet appeared in the world. Reflecting upon this, he knew that he had not yet been born. At that time, the Venerable Upagupta, leading an assembly of bhikṣus, went to the household of that family. Gradually the assembly diminished, fewer and fewer, until at last Upagupta went alone. The boy's father, the elder, asked, "Great Sage, do you have no attendants? Why do you travel alone?" Upagupta answered, "Elder, I am a renunciant and have no one to attend me. If there were someone available, I would gratefully accept such kindness." The elder replied, "I am content with household life and am unable to pursue the Way. But if a son is born to me hereafter, I will certainly offer him to serve you." Upagupta said, "Excellent! That is a fine intention. Hold to this resolve and do not let it change or be regretted."
 

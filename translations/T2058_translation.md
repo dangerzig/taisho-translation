@@ -377,7 +377,7 @@ The bhikṣus said, "Ānanda, you should know that the World-Honored One's mind 
 
 The bhikṣus went to the World-Honored One, prostrated, and fully reported these matters. The Tathāgata praised him, saying, "Excellent, Ānanda! He possesses great wisdom and knows well what is timely and appropriate. Not only today, but also in the distant past it was so. Listen well, all of you, and I shall explain."
 
-"Long ago in the past, in an incalculable kalpa, there was a king who ruled the world, dwelling in the city of Bhojā. In that city there was a Brahmin named Kugroda, brilliant and broadly learned, with heavenly talents surpassing the world. The people and householders of the country all revered him. He possessed abundant wealth, numbering hundreds of thousands of millions, but had no son to carry on his line and was constantly troubled by this. He prayed to the gods for twelve years, and his chief wife then conceived. When the months were fulfilled, she gave birth to a boy whose body was the color of purple gold, with handsome and upright features. The physiognomists examined him and declared, 'This child has great merit.' They gave him the name Mahādāna, 'Great Giver.'"
+"Long ago in the past, in an incalculable kalpa, there was a king who ruled the world, dwelling in the city of Bhojā. In that city there was a Brahmin named Kugroda, brilliant and broadly learned, with extraordinary talents surpassing those of the world. The people and householders of the country all revered him. He possessed abundant wealth, numbering hundreds of thousands of millions, but had no son to carry on his line and was constantly troubled by this. He prayed to the gods for twelve years, and his chief wife then conceived. When the months were fulfilled, she gave birth to a boy whose body was the color of purple gold, with handsome and upright features. The physiognomists examined him and declared, 'This child has great merit.' They gave him the name Mahādāna, 'Great Giver.'"
 
 "As he grew older, he asked his father for permission to go out on an excursion. His father ordered the roads to be prepared, incense burned, flowers scattered, and various music performed. Mahādāna then went out to see the sights. Along the road ahead he saw a beggar wearing tattered and ruined clothing, who humbly pleaded for help."
 
@@ -720,7 +720,7 @@ Through contemplating the nature of all phenomena as suffering, empty, and imper
 
 Because Upagupta was by nature skilled in commerce, Gupta was reluctant and again refused.
 
-The venerable one said: "The Buddha prophesied that this person, one hundred years hence, would greatly serve the Buddha's work and benefit sentient beings. You should open your heart and give me this son."
+The venerable one said: "The Buddha prophesied that this person, a hundred years from now, would greatly serve the Buddha's work and benefit sentient beings. You should open your heart and give me this son."
 
 Hearing this, Gupta consented to his leaving home. Śāṇakavāsa brought him to the monastery, ordained him, and conferred the full precepts upon him. When the ordination ceremony was complete, Upagupta attained the path of the arhat, with the three clear knowledges, six supernormal powers, and the eight liberations fully accomplished. He was skillful in speech, and his expositions were inexhaustible.
 
@@ -904,7 +904,7 @@ Thereupon the venerable one placed his hand on the king's head and answered with
 > The Three Treasures are rare, yet you have met them now;
 > You should always make offerings, never ceasing.
 
-King Aśoka then invited the venerable one into the palace, personally assisted him onto a jeweled seat.
+King Aśoka then invited the venerable one into the palace, personally escorted him to a jeweled seat.
 
 He said: "Great Saint, wherever the Buddha traveled, wherever he walked or stood, I wish to erect stūpas to increase the faith of the multitudes."
 
@@ -1032,7 +1032,7 @@ But the king's rage was fierce, and he would not accept these words. He heaped u
 
 At that time, the assembly raised their doubts and questioned Upagupta: "For what reason was this prince born into a noble family yet had his eyes gouged out?" The venerable one replied: "Listen well, and I shall explain. Long ago, in Vārāṇasī, there was a hunter who went to the snowy mountains. There happened to be a hailstorm, and five hundred deer took shelter together in a single cave. The hunter wished to kill them all, but then thought: 'If I kill them all at once, they will all rot and decay. Better to gouge out their eyes and eat them gradually.' He thereupon gouged out the eyes of all five hundred deer. Because of this deed, he receives retribution to this day.
 
-"Furthermore, in the distant past, after the parinirvāṇa of Krakucchanda Buddha, there was a king in that country named Duanyan, "Dignified Appearance." He collected the Buddha's relics and built a stūpa of the seven treasures. Later, another king arose who had no reverent faith. He destroyed the stūpa and took the treasures, leaving only the earth and wood. The people of the entire country all wept in sorrow. A certain elder's son came and asked why they wept. The people answered: 'The jeweled stūpa of Krakucchanda Buddha has been destroyed. Because of this, we weep.' When the elder's son heard this, he immediately restored and repaired it, adorning it as splendidly as before. He crafted an image of that Buddha with marks of exceptional beauty. He then made a vow: 'May I, in a future life, attain the supreme liberation like that World-Honored One.' Because of this wholesome karma, he was born into a noble family and attained a pure and excellent fruit."
+"Furthermore, in the distant past, after the parinirvāṇa of Krakucchanda Buddha, there was a king in that country named Duanyan (Dignified Appearance). He collected the Buddha's relics and built a stūpa of the seven treasures. Later, another king arose who had no reverent faith. He destroyed the stūpa and took the treasures, leaving only the earth and wood. The people of the entire country all wept in sorrow. A certain elder's son came and asked why they wept. The people answered: 'The jeweled stūpa of Krakucchanda Buddha has been destroyed. Because of this, we weep.' When the elder's son heard this, he immediately restored and repaired it, adorning it as splendidly as before. He crafted an image of that Buddha with marks of exceptional beauty. He then made a vow: 'May I, in a future life, attain the supreme liberation like that World-Honored One.' Because of this wholesome karma, he was born into a noble family and attained a pure and excellent fruit."
 
 The members of King Aśoka's household were all like this: each relinquished the heavy burden and departed from birth and death. The king's faith was profound and far-reaching, difficult to fathom. Whenever he saw śramaṇas, whether elder or young, he would always go forward to greet them, inquire after them, and bow to them with respect.
 
@@ -1166,7 +1166,7 @@ When they reached the age of eight, the venerable one came again to ask. The Bra
 
 He then told them to go and pick campaka flowers. They replied: "Great teacher, this tree is tall and lofty; we cannot reach it." The venerable one said: "You are heavenly beings; do you not possess supernatural powers?" The two novices then rose into the air, picked the flowers, and presented them as offerings. The venerable one stood with his other disciples and, witnessing their supernatural abilities, praised them as having never been seen before. Upagupta said: "These two novices were formerly the starving tiger cubs. You formerly criticized me for giving food to those tigers. Today you should behold their supernatural transformations." The disciples, hearing this, were filled with a sense of wonder.
 
-In the country of southern India, there was a man who had committed adultery with another man's wife. His mother sternly rebuked him: "You should know that the dharma of sexual desire is fraught with many transgressions. Moreover, because of this, there is no evil one will not commit. In the future you will certainly be born in a place of extreme suffering." The son, enraged, killed his mother. He went to the other family seeking the woman but could not find her. His heart was filled with regret. He left home and entered the Buddhadharma to practice the path. Before long he memorized and mastered the Tripiṭaka, became eloquent in speech, and gathered many followers. Together with his assembly, he went to the venerable one's dwelling.
+In the country of southern India, there was a man who had committed adultery with another man's wife. His mother sternly rebuked him: "You should know that the nature of sexual desire is fraught with many transgressions. Moreover, because of this, there is no evil one will not commit. In the future you will certainly be born in a place of extreme suffering." The son, enraged, killed his mother. He went to the other family seeking the woman but could not find her. His heart was filled with regret. He left home and entered the Buddhadharma to practice the path. Before long he memorized and mastered the Tripiṭaka, became eloquent in speech, and gathered many followers. Together with his assembly, he went to the venerable one's dwelling.
 
 Upagupta observed this person and saw that he had personally committed the heinous crime of matricide and had no share in the fruit of the path. He simply remained silent and would not speak with him. The Tripiṭaka-bhikṣu, knowing the gravity of his offense, and seeing that the venerable one would not engage him, returned to his own dwelling.
 
@@ -1633,7 +1633,7 @@ Debaters from the eight quarters all assembled like clouds. Each likewise declar
 
 Having established this condition, they proceeded to debate. Among the non-Buddhist teachers, those of shallow intellect were refuted at the very first statement and immediately fell silent. Those of superior wisdom held out as long as two days before their arguments and reasoning were both exhausted. All had their hair shaved and were ordained as monks.
 
-At that time there was one disciple of a non-Buddhist teacher who was fierce, obstinate, and without wisdom. He was ashamed that his master had been defeated. Though he outwardly followed the assembly, in his heart he harbored resentful anger. The poison he harbored raged intensely, and he bit upon a knife and swore an oath: "His mouth has defeated my master; my knife shall subdue him."
+At that time there was one disciple of a non-Buddhist teacher who was fierce, obstinate, and without wisdom. He was ashamed that his master had been defeated. Though he outwardly followed the assembly, in his heart he harbored resentful anger. His pent-up malice burned fiercely, and he bit upon a knife and swore an oath: "His mouth has defeated my master; my knife shall subdue him."
 
 Having spoken thus, he kept a sharp knife concealed on his person, and day and night he watched for an opportunity.
 
@@ -1643,7 +1643,7 @@ Though his life had not yet ended, Āryadeva pitied the man's mad foolishness an
 
 When some of his disciples arrived first and saw their teacher, they cried out in grief. Then all the disciples gathered together, startled and horrified, wailing and throwing themselves to the ground. Some among them ran about wildly. Together they organized search parties and set up blockades on the roads.
 
-At that time Āryadeva addressed the assembly: "All dharmas are fundamentally empty. There is no self and nothing belonging to a self. There is no one who harms and no one who is harmed. Who is friend? Who is foe? Who causes affliction? You are now shrouded by ignorance, generating false views where none exist, planting roots of demerit. What that man has harmed is the karmic retribution of my past deeds. He has not killed me."
+At that time Āryadeva addressed the assembly: "All dharmas are fundamentally empty. There is no self and nothing belonging to a self. There is no one who harms and no one who is harmed. Who is friend? Who is foe? Who causes affliction? You are now shrouded by ignorance, generating false views where none exist, planting unwholesome roots. What that man has harmed is the karmic retribution of my past deeds. He has not killed me."
 
 Thereupon he released his body, shed it like a cicada casting off its shell, and departed.
 
@@ -1791,7 +1791,7 @@ Jayata then told the assembly: "When I first reached the city, at the gate below
 
 "I did not disobey their command and so took a wife. After the marriage, I again wished to leave the household life. My parents said: 'We arranged this marriage precisely so that you would produce an heir. If you have one son, we will release you.'
 
-"I accepted their instruction and consummated the marriage. A son was born. When the boy reached the age of six, my parents instructed the child: 'If your father goes out intending to become a śramaṇa, you must embrace his feet and say to him: Father, if you abandon me, who will care for me and keep me alive? Kill me first, and then you may go.'
+"I accepted their instruction and completed the marriage. A son was born. When the boy reached the age of six, my parents instructed the child: 'If your father goes out intending to become a śramaṇa, you must embrace his feet and say to him: Father, if you abandon me, who will care for me and keep me alive? Kill me first, and then you may go.'
 
 "The child did as his parents taught him, weeping and clinging to me with the deepest grief and longing. At that time, my heart was stained with love and attachment, and I said to the child: 'For your sake I shall remain and will not leave the household life.'
 
@@ -1815,7 +1815,7 @@ Manorhita's wisdom was transcendent. He was of few desires and content with litt
 
 At that time there was a venerable one called Yaśas, whose eloquent wisdom was keen and perspicacious, profoundly deep and broadly learned. His merit was equal to that of Manorhita, and he too could comprehend the meaning of the Tripiṭaka. His fame spread everywhere, and all people revered him.
 
-Once, Manorhita traveled to North India. The venerable Yaśas said to him: "South of the Ganges, in the two kingdoms of India, the people harbor many wrong views, yet they are clever, eloquent, and sharp-witted. Since you, Elder, are well versed in the science of sound and language, you may travel in those lands to teach and transform them. I shall remain here to benefit sentient beings."
+Once, Manorhita traveled to North India. The venerable Yaśas said to him: "South of the Ganges, in the two Indian kingdoms south of the Ganges, the people harbor many wrong views, yet they are clever, eloquent, and sharp-witted. Since you, Elder, are well versed in phonetics and grammar, you may travel in those lands to teach and transform them. I shall remain here to benefit sentient beings."
 
 Manorhita then followed his counsel and went to the two kingdoms of India. He widely proclaimed the treatise of Vīra on no-self and vanquished all the wrong views of heterodox paths. When his work was complete, he relinquished his body and passed away.
 
@@ -1859,7 +1859,7 @@ Furthermore, this Dharma is the complete cause and condition for attaining the b
 
 In the past, Ānanda addressed the Buddha, saying: "World-Honored One, a good spiritual friend constitutes half the cause and condition for attaining the benefit of the Way."
 
-The Buddha replied: "It is not so. A good spiritual friend constitutes the complete cause and condition for attaining the Way. Ānanda, you should know that in this Jambudvīpa, apart from Mahākāśyapa, Śāriputra, and the others, if the remaining sentient beings had not encountered me, they would have continued to wander endlessly, with no time of liberation. Therefore I say that a good spiritual friend brings the greatest benefit."
+The Buddha replied: "It is not so. A good spiritual friend constitutes the complete cause and condition for attaining the Way. Ānanda, you should know that in this Jambudvīpa, apart from Mahākāśyapa, Śāriputra, and the others, if the remaining sentient beings had not encountered me, they would have continued to wander endlessly, with no opportunity for liberation. Therefore I say that a good spiritual friend brings the greatest benefit."
 
 For these reasons, one should know that the Buddha-Dharma is the most honored and the most wondrous, unsurpassed, accomplished through immeasurable merit.
 
